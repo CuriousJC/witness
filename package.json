@@ -1,0 +1,11 @@
+{
+  "name": "witness",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node tools/witness.mjs build",
+    "test": "node --test",
+    "check": "node tools/witness.mjs check"
+  }
+}

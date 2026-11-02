@@ -9,6 +9,7 @@ Video: 51:05 · Reading: ~17 minutes · Basis: captions + 10 inspected snapshots
 
 Topics: Game design · New IP
 Generated: November 2026
+Processing tokens: Not recorded — Exact per-video model token usage was not recorded during original processing.
 
 ## Overview
 

@@ -11,6 +11,11 @@ the renderer escapes it. Paragraphs are separate strings. No HTML or Markdown ma
   "basis": "captions",
   "topics": ["Game marketing", "Trailers"],
   "generatedMonth": "2026-11",
+  "processedAt": "2026-11-02T10:00:00-05:00",
+  "processingUsage": {
+    "totalTokens": null,
+    "note": "Exact per-video model token usage was not available during processing."
+  },
   "dek": "One sentence explaining the subject and the value of reading it.",
   "overview": ["A short orientation paragraph."],
   "takeaways": [
@@ -48,6 +53,24 @@ New readings include exactly two distinct, concise `topics` and a `generatedMont
 The month records first generation in the user's timezone, independently of video publication;
 preserve it when revising an article or rebuilding output. Legacy records may omit these
 fields until their generation month is known; do not invent a historical month.
+
+`processedAt` records first generation as an ISO date/time with timezone, preserved on
+revisions and rebuilds. It determines descending order in both index lists, including order
+within a day. Display dates use America/New_York. Older records without a timestamp fall back
+to their known generation month, without inventing a day. When backfilling, use recorded
+processing history or original article-file creation times if trustworthy; do not use rebuild times.
+
+`processingUsage.totalTokens` is a positive integer, or `null` when no defensible count is
+available. Set `estimated: true` for a rough estimate; omit it or use `false` for reported
+usage. HTML and Markdown visibly distinguish estimates. The required `note` explains the
+measurement or estimation method, scope, and exclusions. A visible-work estimate can count
+guidance, evidence, authored text/code, and tool text at roughly four characters per token;
+round coarsely and disclose that image tokens, context replay, and hidden reasoning are
+excluded. This is a workload proxy, not complete billed usage. Do not label transcript or
+article size alone as total processing. Shared batch overhead needs explicit attribution.
+Existing records may retain unavailable counts. Preserve counts on rebuild and distinguish
+later revision work from original processing.
+
 The build also writes `docs/videos/<reading-title-slug>.md` from the same JSON record. Prefer
 that file when reading an edition for context. Markdown preserves prose, timestamp links,
 figures, and limitations; raw caption and observation records are linked rather than repeated.

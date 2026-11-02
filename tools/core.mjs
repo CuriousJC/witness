@@ -153,6 +153,14 @@ export function validateArticle(a, s, frames = []) {
   assert(nonempty(a.title) && nonempty(a.dek), 'Article needs a title and dek.');
   assert(a.topics === undefined || (strings(a.topics) && a.topics.length === 2 && new Set(a.topics.map(t => t.trim().toLowerCase())).size === 2), 'Topics must be two distinct nonempty labels.');
   assert(a.generatedMonth === undefined || (typeof a.generatedMonth === 'string' && /^\d{4}-(0[1-9]|1[0-2])$/.test(a.generatedMonth)), 'Generation month must be YYYY-MM.');
+  assert(a.processedAt === undefined || (typeof a.processedAt === 'string' && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(a.processedAt) && Number.isFinite(Date.parse(a.processedAt))), 'Processing timestamp must be an ISO date and time with timezone.');
+  if (a.processingUsage !== undefined) {
+    assert(a.processingUsage !== null && typeof a.processingUsage === 'object' && !Array.isArray(a.processingUsage), 'Processing usage must be a record.');
+    assert(a.processingUsage.totalTokens === null || (Number.isSafeInteger(a.processingUsage.totalTokens) && a.processingUsage.totalTokens > 0), 'Processing tokens must be a positive integer or null when unavailable.');
+    assert(nonempty(a.processingUsage.note), 'Processing usage needs a note explaining measurement scope or missing counts.');
+    assert(a.processingUsage.estimated === undefined || typeof a.processingUsage.estimated === 'boolean', 'Processing usage estimated flag must be boolean.');
+    assert(!a.processingUsage.estimated || a.processingUsage.totalTokens !== null, 'Estimated usage needs a token count.');
+  }
   assert(strings(a.overview), 'Article needs overview paragraphs.');
   assert(Array.isArray(a.takeaways) && a.takeaways.length && a.takeaways.every(t => nonempty(t.title) && nonempty(t.text)), 'Article needs takeaways with titles and explanations.');
   assert(strings(a.limitations), 'Article must disclose source limitations.');
@@ -185,7 +193,9 @@ const list = values => `<ul>${values.map(v => `<li>${html(v)}</li>`).join('')}</
 // become unintended links, emphasis, headings, or embedded HTML in an export.
 const markdownText = value => String(value).replace(/\s+/g, ' ').trim().replace(/[\\`*_\[\]<>#]/g, '\\$&');
 const monthLabel = month => new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${month}-01T00:00:00Z`));
+const processedLabel = a => a.processedAt ? new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'America/New_York' }).format(new Date(a.processedAt)) : (a.generatedMonth ? monthLabel(a.generatedMonth) : 'Date not recorded');
 const tags = a => `<div class="tags" aria-label="Reading tags">${(a.topics || []).map(t => `<span class="tag">${html(t)}</span>`).join('')}${a.generatedMonth ? `<span class="tag tag-month">Generated ${monthLabel(a.generatedMonth)}</span>` : ''}</div>`;
+const tokenLabel = a => a.processingUsage?.totalTokens == null ? 'Not recorded' : `${a.processingUsage.estimated ? '~' : ''}${new Intl.NumberFormat('en-US').format(a.processingUsage.totalTokens)}${a.processingUsage.estimated ? ' (estimated)' : ''}`;
 
 export function renderMarkdown(a, s, { frames = [], editions = [] } = {}) {
   validateArticle(a, s, frames);
@@ -200,6 +210,7 @@ export function renderMarkdown(a, s, { frames = [], editions = [] } = {}) {
   const others = editions.filter(e => e.slug !== a.slug);
   if (a.topics) lines.push('', `Topics: ${a.topics.map(text).join(' · ')}`);
   if (a.generatedMonth) lines.push(`Generated: ${monthLabel(a.generatedMonth)}`);
+  if (a.processingUsage) lines.push(`Processing tokens: ${tokenLabel(a)} — ${text(a.processingUsage.note)}`);
   if (others.length) lines.push('', `Compare: ${others.map(e => `[${text(e.title)}](${e.slug}.md)`).join(' · ')}`);
   lines.push('', '## Overview', '', ...a.overview.flatMap(p => [text(p), '']));
   if (a.visualSummary) lines.push('### What the snapshots add', '', ...a.visualSummary.map(p => `- ${text(p)}`), '');
@@ -236,6 +247,7 @@ export function renderArticle(a, s, { frames = [], editions = [] } = {}) {
 <div class="article-heading"><p class="eyebrow">${a.basis === 'captions-and-frames' ? 'Captions + selected frames' : 'Captions only'}${s.captions.kind === 'automatic' ? ' · Auto-caption source' : ''}</p>
 <h1>${html(a.title)}</h1><p class="dek">${html(a.dek)}</p>
 <div class="metadata"><span>${html(s.channel)}</span>${s.published ? `<span>Published ${html(s.published)}</span>` : ''}<span>${stamp(s.duration)} video</span><span>~${readingMinutes(a)} min read</span></div>
+${a.processingUsage ? `<p class="processing-usage">Processing tokens: ${tokenLabel(a)}. ${html(a.processingUsage.note)}</p>` : ''}
 <a class="source-link" href="${html(s.url)}">Original video ↗</a> · <a class="source-link" href="${a.slug}.md">Markdown edition</a>
 ${editions.length > 1 ? `<nav class="edition-switch" aria-label="Compare reading editions"><span>Compare editions</span>${editions.map(e => e.slug === a.slug ? `<strong aria-current="page">${e.basis === 'captions' ? 'Captions only' : 'With slide analysis'}</strong>` : `<a href="${e.slug}.html">${e.basis === 'captions' ? 'Captions only' : 'With slide analysis'}</a>`).join('')}</nav>` : ''}</div>
 <div class="reading-layout"><aside class="contents">${tags(a)}<details open><summary>On this page</summary><nav aria-label="Contents"><ol>${toc}</ol></nav></details></aside>
@@ -246,20 +258,24 @@ ${a.sections.map((c, i) => `<section id="${c.id}" class="chapter"><div class="ch
 <section id="source" class="source-notes"><h2>Source &amp; limitations</h2><p>This is an editorial synthesis of <a href="${html(s.url)}">${html(s.title)}</a>, published by ${html(s.channel)}. Timestamp links open YouTube at the corresponding section.</p>${list(a.limitations)}
 ${a.basis === 'captions-and-frames' ? `<details class="visual-evidence"><summary>Inspected snapshots (${a.visualEvidence.length})</summary><p>Selected stills, not continuous video review. Observations below describe the inspected frames.</p>${a.visualEvidence.map(time => { const f = frames.find(f => f.time === time); return `<div><h3>${jump(time)}</h3>${list(f.observations)}</div>`; }).join('')}</details>` : ''}
 <details class="transcript"><summary>Read the timestamped source captions</summary><p class="caption-note">${html(s.captions.language)} · ${html(s.captions.kind)} captions. Caption errors and non-speech labels are retained in this source view.</p>${s.segments.map(c => `<p>${jump(c.start)} <span>${html(c.text)}</span></p>`).join('\n')}</details></section>
-</article></div></main>`);
+</article></div></main>${a.sections.some(section => section.figures?.length) ? '\n<script src="../assets/images.js" defer></script>' : ''}`);
 }
 
 export function renderIndex(entries) {
+  entries = [...entries].sort((a, b) =>
+    (Date.parse(b.article.processedAt || `${b.article.generatedMonth}-01T00:00:00Z`) || 0) -
+    (Date.parse(a.article.processedAt || `${a.article.generatedMonth}-01T00:00:00Z`) || 0) || a.article.title.localeCompare(b.article.title));
   const topics = [...new Set(entries.flatMap(e => e.article.topics || []))].sort((a, b) => a.localeCompare(b));
   const months = [...new Set(entries.map(e => e.article.generatedMonth).filter(Boolean))].sort().reverse();
   const choices = (values, name, label) => values.map(value => `<label class="filter-choice"><input type="checkbox" name="${name}" value="${html(value)}"> ${html(label(value))}</label>`).join('');
   return shell('Reading library', '', `
 <header class="site-header"><a class="wordmark" href="index.html">witness<span class="mark">.</span></a><span class="header-note">A personal reading library</span></header>
-<main id="main" class="library"><p class="eyebrow">Video, in words</p><h1>Less watching.<br>More understanding.</h1>
+<main id="main" class="library"><details class="quick-readings" open><summary>All readings · newest first</summary><ul>${entries.map(({ article: a }) => `<li><a href="videos/${a.slug}.html">${html(a.title)}</a><span>${html(processedLabel(a))}</span></li>`).join('')}</ul>${entries.length ? '' : '<p>No readings yet.</p>'}</details>
+<p class="eyebrow">Video, in words</p><h1>Less watching.<br>More understanding.</h1>
 <p class="dek">The substance of a video, shaped for reading. Start with the essentials, stay for the explanation, jump back when you need to.</p>
 <div class="library-label"><h2>Your reading</h2><span id="edition-count" role="status" aria-live="polite">${entries.length} ${entries.length === 1 ? 'edition' : 'editions'}</span></div>
 <div class="library-layout"><aside class="library-filters" hidden><form id="library-filters"><h3>Filter your reading</h3><fieldset><legend>Topic</legend>${choices(topics, 'topic', value => value)}</fieldset><fieldset><legend>Generated</legend>${choices(months, 'month', monthLabel)}</fieldset><button type="reset">Clear filters</button></form></aside>
-<div class="editions">${entries.map(({ article: a, source: s }, i) => `<article class="edition" data-topics="${html(JSON.stringify(a.topics || []))}" data-month="${html(a.generatedMonth || '')}"><span class="edition-number">${String(i + 1).padStart(2, '0')}</span><div><p class="eyebrow">${html(s.channel)} · ${a.basis === 'captions-and-frames' ? 'With slide analysis' : 'Captions only'} · ${stamp(s.duration)} video · ~${readingMinutes(a)} min read</p><h3><a href="videos/${a.slug}.html">${html(a.title)}</a></h3>${tags(a)}<p>${html(a.dek)}</p><a class="read-link" href="videos/${a.slug}.html">Read the edition →</a></div></article>`).join('\n') || '<p>Process a YouTube link with the process-video skill to add your first reading.</p>'}<p id="no-results" hidden>No readings match these filters. Try another topic or clear the filters.</p></div></div>
+<div class="editions">${entries.map(({ article: a, source: s }, i) => `<article class="edition" data-topics="${html(JSON.stringify(a.topics || []))}" data-month="${html(a.generatedMonth || '')}"><span class="edition-number">${String(i + 1).padStart(2, '0')}</span><div><p class="eyebrow">Processed ${html(processedLabel(a))} · ${html(s.channel)} · ${a.basis === 'captions-and-frames' ? 'With slide analysis' : 'Captions only'} · ${stamp(s.duration)} video · ~${readingMinutes(a)} min read</p><h3><a href="videos/${a.slug}.html">${html(a.title)}</a></h3>${tags(a)}<p>${html(a.dek)}</p><a class="read-link" href="videos/${a.slug}.html">Read the edition →</a></div></article>`).join('\n') || '<p>Process a YouTube link with the process-video skill to add your first reading.</p>'}<p id="no-results" hidden>No readings match these filters. Try another topic or clear the filters.</p></div></div>
 <script src="assets/library.js" defer></script>
 <p class="library-note">Each edition includes an overview, a detailed article, and links to the source. Everything on these pages can be read without playing a video.</p></main>`);
 }

@@ -202,5 +202,10 @@
     "Game marketing",
     "Strategy"
   ],
-  "generatedMonth": "2026-11"
+  "generatedMonth": "2026-11",
+  "processingUsage": {
+    "totalTokens": null,
+    "note": "Exact per-video model token usage was not recorded during original processing."
+  },
+  "processedAt": "2026-11-02T01:24:58.580Z"
 }

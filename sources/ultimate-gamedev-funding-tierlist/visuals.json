@@ -1,0 +1,101 @@
+{
+  "videoId": "qjyPRnzlx8A",
+  "frames": [
+    {
+      "time": 260,
+      "file": "frames/frame-00-04-20.jpg",
+      "observations": [
+        "Both presenters are seated at a table. A small tier board is visible with S through F rows and category icons still below the board; no completed ranking is established at this instant."
+      ],
+      "alt": "Both presenters are seated at a table. A small tier board is visible with S through F rows and category icons still below the board; no completed ranking is established at this instant."
+    },
+    {
+      "time": 620,
+      "file": "frames/frame-00-10-20.jpg",
+      "observations": [
+        "The small tier board shows the Kickstarter icon in C; the publisher icon remains below the board at this instant."
+      ],
+      "alt": "The small tier board shows the Kickstarter icon in C; the publisher icon remains below the board at this instant."
+    },
+    {
+      "time": 850,
+      "file": "frames/frame-00-14-10.jpg",
+      "observations": [
+        "Both presenters are talking at the table; no ranking board or substantive slide is visible."
+      ],
+      "alt": "Both presenters are talking at the table; no ranking board or substantive slide is visible."
+    },
+    {
+      "time": 1210,
+      "file": "frames/frame-00-20-10.jpg",
+      "observations": [
+        "Both presenters are talking at the table; no grant rules, figures, or ranking board are visible."
+      ],
+      "alt": "Both presenters are talking at the table; no grant rules, figures, or ranking board are visible."
+    },
+    {
+      "time": 1300,
+      "file": "frames/frame-00-21-40.jpg",
+      "observations": [
+        "The small board shows the EU-style public-grants icon in A, the publisher icon in B, Kickstarter in C, and the incubator icon crossing the B/C boundary. Venture-capital placement is not yet shown."
+      ],
+      "alt": "The small board shows the EU-style public-grants icon in A, the publisher icon in B, Kickstarter in C, and the incubator icon crossing the B/C boundary. Venture-capital placement is not yet shown."
+    },
+    {
+      "time": 1430,
+      "file": "frames/frame-00-23-50.jpg",
+      "observations": [
+        "The small board includes the vest icon for venture capital in F; the Steam icon remains below the board before its final placement."
+      ],
+      "alt": "The small board includes the vest icon for venture capital in F; the Steam icon remains below the board before its final placement."
+    },
+    {
+      "time": 1560,
+      "file": "frames/frame-00-26-00.jpg",
+      "observations": [
+        "The board now shows Steam beside the public-grants icon in A. The savings pig icon has not yet been placed."
+      ],
+      "alt": "The board now shows Steam beside the public-grants icon in A. The savings pig icon has not yet been placed."
+    },
+    {
+      "time": 1630,
+      "file": "frames/frame-00-27-10.jpg",
+      "observations": [
+        "Both presenters are talking at the table; the bank-loan decision is not displayed in this frame."
+      ],
+      "alt": "Both presenters are talking at the table; the bank-loan decision is not displayed in this frame."
+    },
+    {
+      "time": 1775,
+      "file": "frames/frame-00-29-35.jpg",
+      "observations": [
+        "Both presenters are talking at the table; no detailed grant conditions or ranking board are visible."
+      ],
+      "alt": "Both presenters are talking at the table; no detailed grant conditions or ranking board are visible."
+    },
+    {
+      "time": 2025,
+      "file": "frames/frame-00-33-45.jpg",
+      "observations": [
+        "Both presenters are talking at the table; no completed community-funding placement is visible."
+      ],
+      "alt": "Both presenters are talking at the table; no completed community-funding placement is visible."
+    },
+    {
+      "time": 2220,
+      "file": "frames/frame-00-37-00.jpg",
+      "observations": [
+        "Both presenters are talking at the table; the freelance decision is not displayed in this frame."
+      ],
+      "alt": "Both presenters are talking at the table; the freelance decision is not displayed in this frame."
+    },
+    {
+      "time": 2248,
+      "file": "frames/frame-00-37-28.jpg",
+      "observations": [
+        "Final board: A contains public grants, Steam residuals, and Epic-style other grants; B contains publishers and Patreon-style community funding; incubator and savings icons cross the B/C boundary; C contains Kickstarter; D contains freelance work; F contains venture capital and bank loans. S and E are empty."
+      ],
+      "alt": "Final funding tier board, with grants and game residuals in A, publishers and community funding in B, crowdfunding in C, freelancing in D, and venture capital and bank loans in F. Incubators and savings sit between B and C."
+    }
+  ]
+}

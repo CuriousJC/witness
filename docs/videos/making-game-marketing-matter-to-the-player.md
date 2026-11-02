@@ -9,6 +9,7 @@ Video: 47:42 · Reading: ~13 minutes · Basis: captions + 12 inspected snapshots
 
 Topics: Game marketing · Player research
 Generated: November 2026
+Processing tokens: Not recorded — Exact per-video model token usage was not recorded during original processing.
 
 ## Overview
 

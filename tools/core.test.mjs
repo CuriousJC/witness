@@ -34,6 +34,46 @@ test('YouTube links normalize without accepting lookalike hosts or arbitrary IDs
   for (const url of [`https://youtube.com.evil.test/watch?v=${id}`, `https://example.com/?v=${id}`, `https://youtu.be/short`, 'file:///watch?v=eA4VxgsWDoc', '../outside']) assert.throws(() => videoId(url));
 });
 
+test('both index lists sort by first processing time, including same-day order, without changing input', () => {
+  const make = (title, processedAt, generatedMonth = '2026-11') => ({ article: { ...article(), title, slug: slugify(title), processedAt, generatedMonth }, source: source() });
+  const entries = [make('Oldest', undefined, '2026-10'), make('Earlier today', '2026-11-02T09:00:00-05:00'), make('Newest', '2026-11-02T10:00:00-05:00')];
+  const result = renderIndex(entries);
+  const quick = result.slice(result.indexOf('<details class="quick-readings"'), result.indexOf('</details>'));
+  const cards = result.slice(result.indexOf('<div class="editions">'));
+  for (const part of [quick, cards]) {
+    assert.ok(part.indexOf('newest.html') < part.indexOf('earlier-today.html'));
+    assert.ok(part.indexOf('earlier-today.html') < part.indexOf('oldest.html'));
+  }
+  assert.ok(quick.includes('Nov 2, 2026'));
+  assert.ok(quick.includes('October 2026'));
+  assert.equal(entries[0].article.title, 'Oldest');
+  assert.throws(() => validateArticle({ ...article(), processedAt: 'not a date' }, source()), /timestamp/);
+  assert.throws(() => validateArticle({ ...article(), processedAt: '2026-11-02' }, source()), /timestamp/);
+});
+
+test('processing usage separates missing telemetry from measured tokens and preserves scope in both exports', () => {
+  const a = article(), s = source();
+  for (const totalTokens of [0, -1, 1.5, '1200', Number.MAX_SAFE_INTEGER + 1]) {
+    assert.throws(() => validateArticle({ ...a, processingUsage: { totalTokens, note: 'Measured.' } }, s), /tokens/);
+  }
+  for (const processingUsage of [null, [], { totalTokens: 1200 }, { totalTokens: null, note: '' }]) {
+    assert.throws(() => validateArticle({ ...a, processingUsage }, s), /usage/i);
+  }
+  a.processingUsage = { totalTokens: null, note: 'Per-video telemetry was unavailable.' };
+  assert.ok(renderArticle(a, s).includes('Processing tokens: Not recorded.'));
+  assert.ok(renderMarkdown(a, s).includes('Processing tokens: Not recorded'));
+  a.processingUsage = { totalTokens: 12345, note: 'Reported input + output for this video. <script>unsafe</script>' };
+  assert.ok(renderArticle(a, s).includes('Processing tokens: 12,345.'));
+  assert.ok(renderMarkdown(a, s).includes('Processing tokens: 12,345'));
+  assert.ok(!renderArticle(a, s).includes('<script>unsafe</script>'));
+  assert.ok(renderMarkdown(a, s).includes('Reported input + output for this video.'));
+  a.processingUsage = { totalTokens: 25000, estimated: true, note: 'Visible text only; excludes images, context replay, and hidden reasoning.' };
+  assert.ok(renderArticle(a, s).includes('~25,000 (estimated)'));
+  assert.ok(renderMarkdown(a, s).includes('~25,000 (estimated)'));
+  assert.throws(() => validateArticle({ ...a, processingUsage: { ...a.processingUsage, totalTokens: null } }, s), /Estimated/);
+  assert.throws(() => validateArticle({ ...a, processingUsage: { ...a.processingUsage, estimated: 'yes' } }, s), /flag/);
+});
+
 test('title filenames normalize accents and punctuation and reject unsafe or empty titles', () => {
   assert.equal(slugify('  Café: A Better Trailer — Part 2! '), 'cafe-a-better-trailer-part-2');
   assert.equal(slugify('../../A Useful Talk'), 'a-useful-talk');
@@ -169,6 +209,7 @@ test('CLI imports a local caption export and builds/checks an offline library in
     for (const file of ['core.mjs', 'witness.mjs']) fs.copyFileSync(fileURLToPath(new URL(file, import.meta.url)), path.join(temporary, 'tools', file));
     fs.writeFileSync(path.join(temporary, 'web', 'reading.css'), 'body { color: black; }');
     fs.copyFileSync(fileURLToPath(new URL('../web/library.js', import.meta.url)), path.join(temporary, 'web', 'library.js'));
+    fs.copyFileSync(fileURLToPath(new URL('../web/images.js', import.meta.url)), path.join(temporary, 'web', 'images.js'));
     fs.writeFileSync(path.join(temporary, 'input.vtt'), 'WEBVTT\n\n00:00:00.000 --> 00:01:00.000\nThe evidence.\n');
     fs.writeFileSync(path.join(temporary, 'info.json'), JSON.stringify({ id, title: 'Title', channel: 'Channel', duration: 60 }));
     fs.writeFileSync(path.join(temporary, 'articles', 'reading-edition.json'), JSON.stringify(article()));

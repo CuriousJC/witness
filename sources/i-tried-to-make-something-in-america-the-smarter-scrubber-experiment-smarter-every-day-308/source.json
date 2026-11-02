@@ -1,0 +1,5104 @@
+{
+  "videoId": "3ZTGwcHQfLY",
+  "slug": "i-tried-to-make-something-in-america-the-smarter-scrubber-experiment-smarter-every-day-308",
+  "url": "https://www.youtube.com/watch?v=3ZTGwcHQfLY",
+  "title": "I Tried To Make Something In America (The Smarter Scrubber Experiment) - Smarter Every Day 308",
+  "channel": "SmarterEveryDay",
+  "published": "2025-06-08",
+  "duration": 2933,
+  "description": "Get a Smarter Scrubber Here: http://smarterscrubber.com\nInterested in Wholesale, or helping us tell the story? Here's a link:\nhttps://forms.gle/XFrLTa5b8kxSvPnu8\n\nI would like to thank the Patrons of Smarter Every Day. They knew about this project early and helped make it happen.\nhttp://www.patreon.com/smartereveryday\n\nJohn is a great Dad and a good dude. Check out JJGeorge here:\nhttps://www.jjgeorgestore.com/\n\nOur goal is to make these things 100% in America. We're going to have to build some machines in order to do this.\nYour support is appreciated.\n\nMantle's 3D Printing for injection molds is a technology I'm very excited to explore. \nA huge thanks to Ted for participating!\nHere's a video on what they do: https://www.youtube.com/watch?v=uywWr6-nHF4\n\nA HUGE thanks to our Injection Molder Chris Robson, with tons of work from Jeremy:\nhttp://www.robsonco.com/\n\nT&C Metal Stamping (Ask to speak to Weston and tell him Destin sent you!)\nhttps://www.tandcstamping.com/\n\nSearch Engine Podcast: \nEpisode \"The Puzzle of the All-American BBQ Scrubber\"\nhttps://www.searchengine.show/the-puzzle-of-the-all-american-bbq-scrubber/\n\nCheck out Jeremy Fielding's Channel\nhttps://www.youtube.com/@Jeremy_Fielding\n\nCheck out Tim Cook's comments on China at the Fortune Global Forum:\nhttps://www.youtube.com/watch?v=_ng8xQ-SNGc\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGET SMARTER SECTION\n\nI recommend learning about the Bretton Woods Accords\nhttps://www.federalreservehistory.org/essays/bretton-woods-created\n\nRead about the Bretton Woods system\nhttps://en.wikipedia.org/wiki/Bretton_Woods_system\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n\nSmarter Every Day on Patreon\nhttp://www.patreon.com/smartereveryday\n\nAmbiance, audio and musicy things by: Gordon McGladdery \nhttps://www.ashellinthepit.com/\nhttp://ashellinthepit.bandcamp.com/\n\nWarm Regards,\n\nDestin",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 68,
+      "title": "The manufacturing experiment"
+    },
+    {
+      "start": 68,
+      "end": 158,
+      "title": "Why manufacture locally"
+    },
+    {
+      "start": 158,
+      "end": 314,
+      "title": "The global economy complexity"
+    },
+    {
+      "start": 314,
+      "end": 445,
+      "title": "Pandemic-driven manufacturing"
+    },
+    {
+      "start": 445,
+      "end": 621,
+      "title": "Small business challenges"
+    },
+    {
+      "start": 621,
+      "end": 858,
+      "title": "Prototype design process"
+    },
+    {
+      "start": 858,
+      "end": 995,
+      "title": "Sourcing chain mail"
+    },
+    {
+      "start": 995,
+      "end": 1085,
+      "title": "Sourcing critical components"
+    },
+    {
+      "start": 1085,
+      "end": 1178,
+      "title": "The tool and die crisis"
+    },
+    {
+      "start": 1178,
+      "end": 1386,
+      "title": "Global manufacturing skills"
+    },
+    {
+      "start": 1386,
+      "end": 1494,
+      "title": "Tool and die mentorship"
+    },
+    {
+      "start": 1494,
+      "end": 1580,
+      "title": "CNC machining parts"
+    },
+    {
+      "start": 1580,
+      "end": 1638,
+      "title": "Material challenges"
+    },
+    {
+      "start": 1638,
+      "end": 1756,
+      "title": "Sheet metal handles"
+    },
+    {
+      "start": 1756,
+      "end": 1920,
+      "title": "Progressive die manufacturing"
+    },
+    {
+      "start": 1920,
+      "end": 2181,
+      "title": "Metal 3D printing"
+    },
+    {
+      "start": 2181,
+      "end": 2356,
+      "title": "Supply chain realities"
+    },
+    {
+      "start": 2356,
+      "end": 2933,
+      "title": "The product pitch"
+    }
+  ],
+  "captions": {
+    "language": "en",
+    "kind": "manual",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.8,
+      "text": "Is it possible to make something in America and be competitive"
+    },
+    {
+      "start": 4.872,
+      "end": 6.106,
+      "text": "in the marketplace?"
+    },
+    {
+      "start": 6.173,
+      "end": 10.11,
+      "text": "This video documents an experiment that lasted over four years."
+    },
+    {
+      "start": 10.577,
+      "end": 14.36,
+      "text": "The goal was simple, to manufacture a product here in America."
+    },
+    {
+      "start": 14.915,
+      "end": 19.094,
+      "text": "The challenge is that almost every single market force pushes manufacturing"
+    },
+    {
+      "start": 19.16,
+      "end": 20.64,
+      "text": "to make things overseas."
+    },
+    {
+      "start": 20.92,
+      "end": 25.054,
+      "text": "What happens if you ignore those pressures and you just make something here anyways?"
+    },
+    {
+      "start": 25.12,
+      "end": 27.76,
+      "text": "This channel is supported by the patrons of Smarter Every Day."
+    },
+    {
+      "start": 27.826,
+      "end": 31.04,
+      "text": "Their financial contributions are what allowed to do this experiment,"
+    },
+    {
+      "start": 31.36,
+      "end": 33.033,
+      "text": "and I think it's very important."
+    },
+    {
+      "start": 33.433,
+      "end": 37.237,
+      "text": "The global economic forces that have shaped the world since World War II are"
+    },
+    {
+      "start": 37.6,
+      "end": 40.814,
+      "text": "changing, and I believe people in your community who understand how"
+    },
+    {
+      "start": 40.88,
+      "end": 44.978,
+      "text": "to manufacture things are going to be even more critical in the coming years."
+    },
+    {
+      "start": 45.379,
+      "end": 48.374,
+      "text": "My home is here in America, but this video's lessons"
+    },
+    {
+      "start": 48.44,
+      "end": 50.2,
+      "text": "doesn't just apply to America."
+    },
+    {
+      "start": 50.36,
+      "end": 51.72,
+      "text": "It's wherever you live."
+    },
+    {
+      "start": 52.28,
+      "end": 56.72,
+      "text": "If you can manufacture things locally, then that ensures your self-reliance,"
+    },
+    {
+      "start": 57.24,
+      "end": 60.28,
+      "text": "your stability, and ultimately, your freedom."
+    },
+    {
+      "start": 60.96,
+      "end": 64.364,
+      "text": "Let's explore this topic and go get Smarter Every Day."
+    },
+    {
+      "start": 66.72,
+      "end": 71.334,
+      "text": "I started this process with the goal of"
+    },
+    {
+      "start": 71.4,
+      "end": 74.04,
+      "text": "making everything you see here in America."
+    },
+    {
+      "start": 74.36,
+      "end": 77.344,
+      "text": "All of these components go together to make one thing,"
+    },
+    {
+      "start": 77.744,
+      "end": 79.72,
+      "text": "and that thing is a grill scrubber."
+    },
+    {
+      "start": 80,
+      "end": 83.494,
+      "text": "This is called the Smarter Scrubber, and we'll talk more about that later."
+    },
+    {
+      "start": 83.56,
+      "end": 87.094,
+      "text": "But for now, I want to tell you how we're going to lay this video out."
+    },
+    {
+      "start": 87.16,
+      "end": 89,
+      "text": "There's three parts to this video."
+    },
+    {
+      "start": 89.36,
+      "end": 92.374,
+      "text": "The first part is why I wanted to do it."
+    },
+    {
+      "start": 92.44,
+      "end": 94.13,
+      "text": "Why did I want to perform this experiment?"
+    },
+    {
+      "start": 94.2,
+      "end": 95.6,
+      "text": "Secondly, how it happened."
+    },
+    {
+      "start": 95.896,
+      "end": 97.654,
+      "text": "Every component there has a story."
+    },
+    {
+      "start": 97.72,
+      "end": 100.56,
+      "text": "I want to tell you the story of each of those components."
+    },
+    {
+      "start": 100.868,
+      "end": 103.8,
+      "text": "And finally, I want to pitch you on buying that product."
+    },
+    {
+      "start": 103.96,
+      "end": 107.654,
+      "text": "I want you to buy it, not because you're watching some YouTube video, but is"
+    },
+    {
+      "start": 107.72,
+      "end": 109.32,
+      "text": "it actually competitive in the market?"
+    },
+    {
+      "start": 109.386,
+      "end": 113,
+      "text": "Is this a thing that can exist on its own in the marketplace?"
+    },
+    {
+      "start": 113.2,
+      "end": 114.93,
+      "text": "I'm going to give you that pitch and we'll see."
+    },
+    {
+      "start": 115,
+      "end": 116.04,
+      "text": "Part one, why?"
+    },
+    {
+      "start": 116.32,
+      "end": 119.453,
+      "text": "Both my mom and my dad were union auto workers."
+    },
+    {
+      "start": 119.72,
+      "end": 122.734,
+      "text": "United United Auto Workers, 2195, here locally in North Alabama."
+    },
+    {
+      "start": 122.8,
+      "end": 124.88,
+      "text": "They made steering components for vehicles."
+    },
+    {
+      "start": 125.52,
+      "end": 127.08,
+      "text": "My mom worked on the assembly line."
+    },
+    {
+      "start": 127.146,
+      "end": 128.48,
+      "text": "My dad was in tool and gage."
+    },
+    {
+      "start": 128.729,
+      "end": 131.48,
+      "text": "When they would come home, they would smell like cutting fluid,"
+    },
+    {
+      "start": 131.865,
+      "end": 134.04,
+      "text": "and that smelled like work to me."
+    },
+    {
+      "start": 134.12,
+      "end": 135.24,
+      "text": "It smelled like productivity."
+    },
+    {
+      "start": 135.306,
+      "end": 136.48,
+      "text": "They made things."
+    },
+    {
+      "start": 136.88,
+      "end": 139.64,
+      "text": "And everybody that I knew, their parents made things."
+    },
+    {
+      "start": 139.88,
+      "end": 141.275,
+      "text": "Middle class America."
+    },
+    {
+      "start": 141.341,
+      "end": 143.24,
+      "text": "The American dream was alive and well."
+    },
+    {
+      "start": 143.56,
+      "end": 145.12,
+      "text": "And then things changed."
+    },
+    {
+      "start": 145.52,
+      "end": 148.494,
+      "text": "With NAFTA and CAFTA, it wasn't one political party."
+    },
+    {
+      "start": 148.56,
+      "end": 150.054,
+      "text": "It was everybody."
+    },
+    {
+      "start": 150.12,
+      "end": 154.588,
+      "text": "Globally, things were changing so that it made more sense economically to move"
+    },
+    {
+      "start": 154.88,
+      "end": 157.4,
+      "text": "manufacturing facilities out of the United States."
+    },
+    {
+      "start": 157.72,
+      "end": 159.09,
+      "text": "And that's exactly what happened."
+    },
+    {
+      "start": 159.226,
+      "end": 163.12,
+      "text": "This is more than Destin is upset because NAFTA took mommy and daddy's job."
+    },
+    {
+      "start": 163.44,
+      "end": 166.374,
+      "text": "I don't even know that NAFTA did take mommy and daddy's job."
+    },
+    {
+      "start": 166.44,
+      "end": 168.4,
+      "text": "I think things were changing before that."
+    },
+    {
+      "start": 168.68,
+      "end": 172.174,
+      "text": "So the global economy is so complicated."
+    },
+    {
+      "start": 172.24,
+      "end": 175.16,
+      "text": "I could make a whole channel on it, but what I want to do is just take 60"
+    },
+    {
+      "start": 175.226,
+      "end": 179.28,
+      "text": "seconds to demonstrate that I understand this is a complex topic,"
+    },
+    {
+      "start": 179.56,
+      "end": 182.654,
+      "text": "and I just want to throw some ideas out there and let you think about it,"
+    },
+    {
+      "start": 182.72,
+      "end": 184.49,
+      "text": "and then we're going to move on with this video."
+    },
+    {
+      "start": 184.56,
+      "end": 187.334,
+      "text": "But it's just a really interesting thing to think about."
+    },
+    {
+      "start": 187.4,
+      "end": 190.56,
+      "text": "Okay, so a long time ago, things were better, right?"
+    },
+    {
+      "start": 190.64,
+      "end": 192.01,
+      "text": "That's called golden age thinking."
+    },
+    {
+      "start": 192.08,
+      "end": 193.494,
+      "text": "Every civilization has done that."
+    },
+    {
+      "start": 193.56,
+      "end": 196.4,
+      "text": "The idea that if we could just to return to the way the things were,"
+    },
+    {
+      "start": 196.72,
+      "end": 197.774,
+      "text": "things would be better."
+    },
+    {
+      "start": 197.84,
+      "end": 201.32,
+      "text": "That's a powerful, nostalgic thing, but it's not really accurate."
+    },
+    {
+      "start": 201.4,
+      "end": 204.68,
+      "text": "Because if you think about it, we went from this type of shipping"
+    },
+    {
+      "start": 204.838,
+      "end": 206.807,
+      "text": "to this type of shipping in 150 years."
+    },
+    {
+      "start": 207.28,
+      "end": 211.144,
+      "text": "And that is analogous to the complexities of global trade, because wars were fought"
+    },
+    {
+      "start": 211.211,
+      "end": 212.76,
+      "text": "when we were using wooden boats."
+    },
+    {
+      "start": 213.12,
+      "end": 217.734,
+      "text": "Imagine how complex the economics are when you go to boats like this"
+    },
+    {
+      "start": 217.8,
+      "end": 219.04,
+      "text": "with containerized shipping."
+    },
+    {
+      "start": 219.56,
+      "end": 223.414,
+      "text": "In World War II, the Bretton Woods Accords in New Hampshire,"
+    },
+    {
+      "start": 223.48,
+      "end": 226.44,
+      "text": "America decided they were going to guarantee the shipping lanes would be"
+    },
+    {
+      "start": 226.506,
+      "end": 229.28,
+      "text": "open so global trade and global prosperity could happen."
+    },
+    {
+      "start": 229.56,
+      "end": 230.68,
+      "text": "We started doing that."
+    },
+    {
+      "start": 230.92,
+      "end": 232.6,
+      "text": "Everybody started doing good things."
+    },
+    {
+      "start": 232.666,
+      "end": 236.734,
+      "text": "And then people started exploiting cheap labor in developing nations,"
+    },
+    {
+      "start": 236.8,
+      "end": 238.534,
+      "text": "and then profit became king."
+    },
+    {
+      "start": 238.6,
+      "end": 241.25,
+      "text": "And so now we have billionaires, and we have a wage gap,"
+    },
+    {
+      "start": 241.32,
+      "end": 242.734,
+      "text": "and it's very complicated."
+    },
+    {
+      "start": 242.8,
+      "end": 245.88,
+      "text": "And so people are pushing factories overseas,"
+    },
+    {
+      "start": 246.64,
+      "end": 250.734,
+      "text": "and it's good for local communities overseas, but sometimes it's not."
+    },
+    {
+      "start": 250.8,
+      "end": 251.76,
+      "text": "Okay, so that was impossible."
+    },
+    {
+      "start": 251.826,
+      "end": 254.6,
+      "text": "I didn't even mention unions, collective bargaining agreements, all that stuff."
+    },
+    {
+      "start": 254.666,
+      "end": 257.334,
+      "text": "It's a very complicated issue."
+    },
+    {
+      "start": 257.4,
+      "end": 260.414,
+      "text": "And I'm not like, America is dominant and must be."
+    },
+    {
+      "start": 260.48,
+      "end": 263.24,
+      "text": "No, that's not what I care about. I care about people."
+    },
+    {
+      "start": 263.4,
+      "end": 264.24,
+      "text": "I love people."
+    },
+    {
+      "start": 264.64,
+      "end": 268.854,
+      "text": "And I think these issues are more than something that can be distilled down"
+    },
+    {
+      "start": 268.92,
+      "end": 272.654,
+      "text": "to a one-line that you can use to dunk on people who differ"
+    },
+    {
+      "start": 272.72,
+      "end": 274.44,
+      "text": "with your views politically."
+    },
+    {
+      "start": 274.72,
+      "end": 275.814,
+      "text": "This is complicated."
+    },
+    {
+      "start": 275.88,
+      "end": 279.814,
+      "text": "And we, as people have to solve it because we're not agrarian anymore."
+    },
+    {
+      "start": 279.88,
+      "end": 285.32,
+      "text": "We have industrialization that can make food, so we must produce things as people,"
+    },
+    {
+      "start": 285.4,
+      "end": 287.094,
+      "text": "not just in America, everywhere."
+    },
+    {
+      "start": 287.16,
+      "end": 289.6,
+      "text": "I just don't want people to be exploited in the process."
+    },
+    {
+      "start": 289.666,
+      "end": 292.88,
+      "text": "My answer to all of this is Jesus, the golden rule, do unto others as"
+    },
+    {
+      "start": 292.96,
+      "end": 294.29,
+      "text": "you would have them do unto you."
+    },
+    {
+      "start": 294.36,
+      "end": 297.24,
+      "text": "But we have to figure this out. Let's move on with the video."
+    },
+    {
+      "start": 297.598,
+      "end": 302,
+      "text": "I remember this period of time not understanding how important these global"
+    },
+    {
+      "start": 302.08,
+      "end": 305.239,
+      "text": "shifts, literally, were changing the town around me."
+    },
+    {
+      "start": 305.6,
+      "end": 306.52,
+      "text": "I become an engineer."
+    },
+    {
+      "start": 306.586,
+      "end": 309.28,
+      "text": "I learned how to draft and draw parts that hopefully would be"
+    },
+    {
+      "start": 309.346,
+      "end": 310.894,
+      "text": "manufactured sometime in America."
+    },
+    {
+      "start": 310.96,
+      "end": 314.28,
+      "text": "But then when I got out of school, there were not many plants to go work at."
+    },
+    {
+      "start": 314.548,
+      "end": 318.485,
+      "text": "Fast forward a lot of stuff, and then you'll get to the 2020 global pandemic."
+    },
+    {
+      "start": 318.88,
+      "end": 321.56,
+      "text": "The 2020 pandemic made a lot of people mad for a lot of reasons."
+    },
+    {
+      "start": 321.68,
+      "end": 322.723,
+      "text": "It made me mad."
+    },
+    {
+      "start": 322.789,
+      "end": 325.734,
+      "text": "I don't get mad very often, but it did make me mad because"
+    },
+    {
+      "start": 325.8,
+      "end": 327.84,
+      "text": "of manufacturing capacity in America."
+    },
+    {
+      "start": 328.2,
+      "end": 331.854,
+      "text": "So when everything went down, Everybody wanted N95 masks and face"
+    },
+    {
+      "start": 331.92,
+      "end": 333.53,
+      "text": "shields, and they couldn't get it."
+    },
+    {
+      "start": 333.6,
+      "end": 336.814,
+      "text": "When the President starts talking about airplane shipments from China,"
+    },
+    {
+      "start": 336.88,
+      "end": 339.36,
+      "text": "because that's the only place we can get these N95 masks,"
+    },
+    {
+      "start": 339.8,
+      "end": 341.808,
+      "text": "I realized this is a big deal."
+    },
+    {
+      "start": 342.08,
+      "end": 343.64,
+      "text": "We can't make the things we need."
+    },
+    {
+      "start": 343.706,
+      "end": 345.66,
+      "text": "And I'm not talking about the mask debate."
+    },
+    {
+      "start": 345.8,
+      "end": 349.32,
+      "text": "Imagine, if we're talking about individual airplanes coming from China,"
+    },
+    {
+      "start": 349.52,
+      "end": 352.454,
+      "text": "do you think Alabama is on the priority list of where those"
+    },
+    {
+      "start": 352.52,
+      "end": 353.56,
+      "text": "things get distributed?"
+    },
+    {
+      "start": 353.76,
+      "end": 354.8,
+      "text": "No, we weren't."
+    },
+    {
+      "start": 355.08,
+      "end": 358.48,
+      "text": "And so as a local community, we decided we're going to 3D print masks"
+    },
+    {
+      "start": 359.193,
+      "end": 362.663,
+      "text": "for our medical workers the N95 masks, the face shields, and stuff like that."
+    },
+    {
+      "start": 362.729,
+      "end": 366.094,
+      "text": "A guy in California had developed this system to do this safely, so we did."
+    },
+    {
+      "start": 366.16,
+      "end": 368.16,
+      "text": "We came together. It was a really good community moment."
+    },
+    {
+      "start": 368.226,
+      "end": 371.16,
+      "text": "We 3D printed these things, but we realized very quickly"
+    },
+    {
+      "start": 371.32,
+      "end": 373.014,
+      "text": "this is slow and very difficult."
+    },
+    {
+      "start": 373.08,
+      "end": 374.84,
+      "text": "We need to be able to manufacture things."
+    },
+    {
+      "start": 375.16,
+      "end": 378.04,
+      "text": "And so I started trying to find where I could manufacture these things."
+    },
+    {
+      "start": 378.178,
+      "end": 382.494,
+      "text": "And this revealed to me how anemic our manufacturing capacity in America has"
+    },
+    {
+      "start": 382.56,
+      "end": 386.24,
+      "text": "become, because I was waiting on some billionaire to come save us,"
+    },
+    {
+      "start": 386.48,
+      "end": 388.48,
+      "text": "and it didn't happen. You know what happened?"
+    },
+    {
+      "start": 388.76,
+      "end": 391.654,
+      "text": "I went and found a guy guy here locally in Alabama."
+    },
+    {
+      "start": 391.72,
+      "end": 392.88,
+      "text": "His name is Chris Robeson."
+    },
+    {
+      "start": 393.16,
+      "end": 396.16,
+      "text": "He knew how to make an injection mold, and he did."
+    },
+    {
+      "start": 396.56,
+      "end": 400.167,
+      "text": "We worked together and we created an injection mold here in Alabama."
+    },
+    {
+      "start": 400.634,
+      "end": 405,
+      "text": "This is the model number Huntsville 02 made in Alabama face shield."
+    },
+    {
+      "start": 405.105,
+      "end": 408.614,
+      "text": "This is what was distributed here in Alabama to our medical workers."
+    },
+    {
+      "start": 408.68,
+      "end": 413.014,
+      "text": "You put a little piece of plastic over there, and we used this in hospitals all"
+    },
+    {
+      "start": 413.08,
+      "end": 414.92,
+      "text": "over the state and even in adjacent states."
+    },
+    {
+      "start": 415.56,
+      "end": 421.294,
+      "text": "So this whole pandemic made me realize that our our manufacturing"
+    },
+    {
+      "start": 421.36,
+      "end": 423.657,
+      "text": "capacity in America has been gutted."
+    },
+    {
+      "start": 423.96,
+      "end": 427.094,
+      "text": "If Chris had decided to retire before I needed that mold made,"
+    },
+    {
+      "start": 427.16,
+      "end": 430.6,
+      "text": "we would not have been able to make an injection mold in my area."
+    },
+    {
+      "start": 430.8,
+      "end": 432.04,
+      "text": "And this made me mad."
+    },
+    {
+      "start": 432.52,
+      "end": 437.654,
+      "text": "I realized the knowledge chain almost broke, so I made this tweet asking about"
+    },
+    {
+      "start": 437.72,
+      "end": 441.52,
+      "text": "how I would find local manufacturers in order to make things in America."
+    },
+    {
+      "start": 441.6,
+      "end": 445.08,
+      "text": "That's what I realized had to happen, and so I started on the journey."
+    },
+    {
+      "start": 445.2,
+      "end": 447.53,
+      "text": "All right, I'm going to pause here and introduce you to the last,"
+    },
+    {
+      "start": 447.6,
+      "end": 450.04,
+      "text": "probably most important person of the story that you need to know"
+    },
+    {
+      "start": 450.106,
+      "end": 451.92,
+      "text": "before we get going, John Youngblood."
+    },
+    {
+      "start": 452.052,
+      "end": 455.56,
+      "text": "John owns a small business named JJ George that sells grill products."
+    },
+    {
+      "start": 455.92,
+      "end": 458.614,
+      "text": "There's a ton of problems with grill brushes on the market."
+    },
+    {
+      "start": 458.68,
+      "end": 459.88,
+      "text": "We'll get into those later."
+    },
+    {
+      "start": 460.08,
+      "end": 464.4,
+      "text": "But John had a very clever idea to solve these problems with chain mail."
+    },
+    {
+      "start": 464.8,
+      "end": 467.854,
+      "text": "Now, I got excited about his idea, and I wanted to get involved as"
+    },
+    {
+      "start": 467.92,
+      "end": 471.238,
+      "text": "an engineer and just help him in general, so we decided to work together."
+    },
+    {
+      "start": 471.305,
+      "end": 474.254,
+      "text": "I tagged along as John presented his idea at a roundtable discussion"
+    },
+    {
+      "start": 474.32,
+      "end": 475.48,
+      "text": "of local business owners."
+    },
+    {
+      "start": 475.76,
+      "end": 479.04,
+      "text": "The problem is that every product out there that's a grill scraper"
+    },
+    {
+      "start": 479.2,
+      "end": 481.214,
+      "text": "is mediocre at best."
+    },
+    {
+      "start": 481.28,
+      "end": 486.253,
+      "text": "I know I'm buying a disposable product, maybe one a season."
+    },
+    {
+      "start": 486.32,
+      "end": 489.494,
+      "text": "John got to start by making wooden grill tables right here in the USA,"
+    },
+    {
+      "start": 489.56,
+      "end": 492.84,
+      "text": "but he's also worked with people overseas to make other grill accessories."
+    },
+    {
+      "start": 493.36,
+      "end": 495.654,
+      "text": "John was experiencing pain because of that."
+    },
+    {
+      "start": 495.72,
+      "end": 498.36,
+      "text": "I don't know if you realize this, but as a small business,"
+    },
+    {
+      "start": 498.426,
+      "end": 501.48,
+      "text": "if you have an idea and you get it made overseas, that's cool,"
+    },
+    {
+      "start": 501.76,
+      "end": 505.48,
+      "text": "but they have all the tooling to make the thing that you wanted made."
+    },
+    {
+      "start": 505.96,
+      "end": 510.48,
+      "text": "So at night, they can literally just crank up the machine, make more of them less"
+    },
+    {
+      "start": 510.64,
+      "end": 513.894,
+      "text": "high-quality products, and they can just counter-sell against"
+    },
+    {
+      "start": 513.96,
+      "end": 516.36,
+      "text": "you on Amazon, and you have no recourse."
+    },
+    {
+      "start": 516.64,
+      "end": 517.72,
+      "text": "There's nothing you could do."
+    },
+    {
+      "start": 517.786,
+      "end": 520.2,
+      "text": "This is one of John's best-selling products on Amazon,"
+    },
+    {
+      "start": 520.4,
+      "end": 523.524,
+      "text": "at least it used to be, because look at all of these knock-offs."
+    },
+    {
+      "start": 523.72,
+      "end": 524.57,
+      "text": "They're everywhere."
+    },
+    {
+      "start": 524.64,
+      "end": 527.16,
+      "text": "The interesting thing about this is John has a patent,"
+    },
+    {
+      "start": 527.64,
+      "end": 530.56,
+      "text": "and he's tried to get these other things taken down off of Amazon,"
+    },
+    {
+      "start": 530.96,
+      "end": 535.135,
+      "text": "but he's found it almost impossible to get Amazon to respond in a timely manner."
+    },
+    {
+      "start": 535.202,
+      "end": 536.334,
+      "text": "It's like playing Whac-a-Mole."
+    },
+    {
+      "start": 536.4,
+      "end": 538.64,
+      "text": "Look at all these letters he had to get lawers to write."
+    },
+    {
+      "start": 538.76,
+      "end": 539.773,
+      "text": "That's a lot of money."
+    },
+    {
+      "start": 539.84,
+      "end": 543.374,
+      "text": "The interesting thing is, Amazon almost tells these manufacturers"
+    },
+    {
+      "start": 543.44,
+      "end": 544.84,
+      "text": "overseas what to knock off."
+    },
+    {
+      "start": 545.012,
+      "end": 548.916,
+      "text": "If you go to the product page, you can see how many were sold in the last"
+    },
+    {
+      "start": 549.12,
+      "end": 552.64,
+      "text": "month, and all they have to do is say, Oh, look, that one sells 3,000 units a month."
+    },
+    {
+      "start": 552.92,
+      "end": 554.334,
+      "text": "That's clearly what I want to pirate."
+    },
+    {
+      "start": 554.4,
+      "end": 557.8,
+      "text": "So these product pirates go and they'll take a really good product like his grill"
+    },
+    {
+      "start": 557.866,
+      "end": 559.88,
+      "text": "torch, and they'll just knock it off."
+    },
+    {
+      "start": 560.28,
+      "end": 562.094,
+      "text": "And parts of it are exactly the same."
+    },
+    {
+      "start": 562.16,
+      "end": 564.65,
+      "text": "Other parts of it are a little different because they want to make it cheaper."
+    },
+    {
+      "start": 564.72,
+      "end": 568.414,
+      "text": "Like, for example, on John's unit, there is a removable screw that allows you"
+    },
+    {
+      "start": 568.48,
+      "end": 572,
+      "text": "to take the tube off in the event that a dirt dover gets in there or something."
+    },
+    {
+      "start": 572.16,
+      "end": 574.094,
+      "text": "Not on the other unit, there's nothing like that."
+    },
+    {
+      "start": 574.16,
+      "end": 575.16,
+      "text": "It's glued in position."
+    },
+    {
+      "start": 575.226,
+      "end": 576.68,
+      "text": "You just have to throw it away."
+    },
+    {
+      "start": 576.746,
+      "end": 579.48,
+      "text": "It's weird because they're selling this for half the price,"
+    },
+    {
+      "start": 579.96,
+      "end": 582.2,
+      "text": "but at the same time, they're taking all the business"
+    },
+    {
+      "start": 582.28,
+      "end": 583.814,
+      "text": "and they're making lower-quality products."
+    },
+    {
+      "start": 583.88,
+      "end": 587.24,
+      "text": "Not only does this mean counterfeit goods for buyers, look at what sellers are"
+    },
+    {
+      "start": 587.306,
+      "end": 589.28,
+      "text": "saying in Amazon's own seller forum."
+    },
+    {
+      "start": 589.4,
+      "end": 594.174,
+      "text": "Amazon's inability to police this, or at worst, unwillingness to prioritize"
+    },
+    {
+      "start": 594.24,
+      "end": 598.134,
+      "text": "it, that's destroying small businesses and manufacturers in America who depend"
+    },
+    {
+      "start": 598.2,
+      "end": 601.56,
+      "text": "on the very idea of intellectual property to protect them from fraud."
+    },
+    {
+      "start": 601.802,
+      "end": 604.374,
+      "text": "So this is one of the main reasons why John wanted to work with me."
+    },
+    {
+      "start": 604.44,
+      "end": 606.134,
+      "text": "I wanted to work with him because I wanted to make something,"
+    },
+    {
+      "start": 606.2,
+      "end": 609.36,
+      "text": "and he knows the business side, but he wanted to work with me so we could"
+    },
+    {
+      "start": 609.426,
+      "end": 612.854,
+      "text": "use the YouTube channel to tell people about the product and not"
+    },
+    {
+      "start": 612.92,
+      "end": 614.48,
+      "text": "have to sell it on Amazon."
+    },
+    {
+      "start": 614.56,
+      "end": 617.64,
+      "text": "So again, Amazon, do on to others as you would have them do on to you."
+    },
+    {
+      "start": 617.8,
+      "end": 619.8,
+      "text": "Let's get to part two of the video."
+    },
+    {
+      "start": 619.88,
+      "end": 621.28,
+      "text": "How did we build this thing?"
+    },
+    {
+      "start": 621.36,
+      "end": 624.014,
+      "text": "To understand why we have all these parts, let's think about the problem"
+    },
+    {
+      "start": 624.08,
+      "end": 624.84,
+      "text": "we're trying to solve."
+    },
+    {
+      "start": 624.906,
+      "end": 628.8,
+      "text": "We have grill grates, and we're trying to scrub it with chain mail, right?"
+    },
+    {
+      "start": 629.28,
+      "end": 633.454,
+      "text": "So in order to do that, we need the chain mail to be compliant around those bars."
+    },
+    {
+      "start": 633.52,
+      "end": 635.36,
+      "text": "So we want to apply downward pressure."
+    },
+    {
+      "start": 636.08,
+      "end": 640.414,
+      "text": "To do that, we need something squishy behind the chain mail that when we push it"
+    },
+    {
+      "start": 640.48,
+      "end": 644.12,
+      "text": "down, it wraps those chain mail links around those grates."
+    },
+    {
+      "start": 644.76,
+      "end": 648.88,
+      "text": "So I figured out that in order to attach the chain mail and the rubber part"
+    },
+    {
+      "start": 649.24,
+      "end": 652,
+      "text": "to a handle, we were going to have a problem because"
+    },
+    {
+      "start": 652.16,
+      "end": 653.52,
+      "text": "the Squishy part would break."
+    },
+    {
+      "start": 654.2,
+      "end": 658.574,
+      "text": "So what we need is some type of adapter that could go between the Squishy"
+    },
+    {
+      "start": 658.64,
+      "end": 662.734,
+      "text": "and the handle, and then that way you could move the whole thing"
+    },
+    {
+      "start": 662.8,
+      "end": 664.16,
+      "text": "and it would all work as one."
+    },
+    {
+      "start": 664.8,
+      "end": 666.054,
+      "text": "So that's how we did all this."
+    },
+    {
+      "start": 666.12,
+      "end": 668.8,
+      "text": "And I learned from the pandemic that the key to making things"
+    },
+    {
+      "start": 668.866,
+      "end": 670.337,
+      "text": "fast is injection molding."
+    },
+    {
+      "start": 670.737,
+      "end": 673.894,
+      "text": "I covered injection molding in the MVP Disk Golf disk video."
+    },
+    {
+      "start": 673.96,
+      "end": 677.414,
+      "text": "You have two parts of a metal mold, and you clamp them together so that they"
+    },
+    {
+      "start": 677.48,
+      "end": 680.28,
+      "text": "have a cavity in the center, the shape of the part you want."
+    },
+    {
+      "start": 680.44,
+      "end": 684.934,
+      "text": "You then inject molten plastic into that void and let it solidify,"
+    },
+    {
+      "start": 685,
+      "end": 687.92,
+      "text": "and then you open the mold and you kick out the part."
+    },
+    {
+      "start": 688.04,
+      "end": 689.389,
+      "text": "That's injection molding."
+    },
+    {
+      "start": 689.456,
+      "end": 691.44,
+      "text": "So I started the design process."
+    },
+    {
+      "start": 691.56,
+      "end": 695.462,
+      "text": "And for an engineer, you just start in CAD and you start drawing stuff."
+    },
+    {
+      "start": 695.863,
+      "end": 699.76,
+      "text": "I started making things and started figuring out how to get a rubbery backing,"
+    },
+    {
+      "start": 700.1,
+      "end": 704.48,
+      "text": "and I ended up with a really nice history of all the designs right here."
+    },
+    {
+      "start": 704.56,
+      "end": 706.006,
+      "text": "It's kinda fun to look at."
+    },
+    {
+      "start": 706.406,
+      "end": 709.734,
+      "text": "I knew that I had to design it so that it could be molded and made"
+    },
+    {
+      "start": 709.8,
+      "end": 711.612,
+      "text": "and then ultimately assembled."
+    },
+    {
+      "start": 711.678,
+      "end": 714.56,
+      "text": "I'm a little embarrassed showing you all this stuff."
+    },
+    {
+      "start": 714.64,
+      "end": 719.054,
+      "text": "In some of the earlier designs, I had these little posts because I had"
+    },
+    {
+      "start": 719.12,
+      "end": 721.17,
+      "text": "to hold the chain the chain mail around the rubber."
+    },
+    {
+      "start": 721.24,
+      "end": 723.814,
+      "text": "My thought was to hold the chain mail with these posts,"
+    },
+    {
+      "start": 723.88,
+      "end": 726.094,
+      "text": "but the posts started breaking off."
+    },
+    {
+      "start": 726.16,
+      "end": 729.334,
+      "text": "So I was making more problems than I was solving in the early days."
+    },
+    {
+      "start": 729.4,
+      "end": 732.64,
+      "text": "But pretty quickly, I figured out that I was going to need multiple components."
+    },
+    {
+      "start": 732.706,
+      "end": 736.96,
+      "text": "I needed something on bottom that I would adapt a squishy to."
+    },
+    {
+      "start": 737.64,
+      "end": 742.48,
+      "text": "I also needed a top cover, and I needed to be able to assemble those."
+    },
+    {
+      "start": 742.56,
+      "end": 747.48,
+      "text": "Now, mechanical engineers know from reading books by Toyota folks"
+    },
+    {
+      "start": 747.92,
+      "end": 751.414,
+      "text": "that it's better to click things together, then bolt them together."
+    },
+    {
+      "start": 751.48,
+      "end": 753.72,
+      "text": "If you can. It makes the manufacturing process fast."
+    },
+    {
+      "start": 754.44,
+      "end": 758.134,
+      "text": "So this is the early days of how I started trying to figure that out."
+    },
+    {
+      "start": 758.2,
+      "end": 762.814,
+      "text": "I said, well, maybe if I had these two parts and I have a slot and I could put"
+    },
+    {
+      "start": 762.88,
+      "end": 765.92,
+      "text": "them together like this and I could push them and they just click together,"
+    },
+    {
+      "start": 766.24,
+      "end": 768.12,
+      "text": "then that would be my assembly process."
+    },
+    {
+      "start": 768.68,
+      "end": 771.64,
+      "text": "And so these posts ultimately were foolish."
+    },
+    {
+      "start": 772.04,
+      "end": 776.44,
+      "text": "And so I ended up with something that looked like this."
+    },
+    {
+      "start": 776.72,
+      "end": 781.081,
+      "text": "So I had a rubber component that I molded with a 3D printed mold that I made."
+    },
+    {
+      "start": 781.481,
+      "end": 785.094,
+      "text": "I really enjoyed that process, but ultimately it's too complicated"
+    },
+    {
+      "start": 785.16,
+      "end": 787.28,
+      "text": "for making the squishy component of this."
+    },
+    {
+      "start": 787.44,
+      "end": 789.28,
+      "text": "I did finalize the rigid components."
+    },
+    {
+      "start": 789.48,
+      "end": 792.24,
+      "text": "I had the cover, I had the adapter, and they clicked together."
+    },
+    {
+      "start": 792.68,
+      "end": 797.28,
+      "text": "After I finished the design, I decided I wanted to be able to take this"
+    },
+    {
+      "start": 797.92,
+      "end": 800.2,
+      "text": "scrubber head off and hold it with my hand."
+    },
+    {
+      "start": 800.84,
+      "end": 805.774,
+      "text": "I measured my fingers and I put these little grooves on there so I could hold it"
+    },
+    {
+      "start": 805.84,
+      "end": 809.142,
+      "text": "and really get in and scrub really hard."
+    },
+    {
+      "start": 809.36,
+      "end": 811.68,
+      "text": "At this point, I got serious about the squishy part."
+    },
+    {
+      "start": 811.746,
+      "end": 816.694,
+      "text": "I knew that over molding took too long, so I moved away from that geometry so"
+    },
+    {
+      "start": 816.76,
+      "end": 820.08,
+      "text": "things could pour through there, and I went to a pad design."
+    },
+    {
+      "start": 820.24,
+      "end": 824.414,
+      "text": "So if this was my adapter, I said, what if I had a little pad that goes"
+    },
+    {
+      "start": 824.48,
+      "end": 827.32,
+      "text": "underneath that was just compliant, and the chain mail itself"
+    },
+    {
+      "start": 827.4,
+      "end": 828.56,
+      "text": "would keep it in place."
+    },
+    {
+      "start": 829.12,
+      "end": 833.8,
+      "text": "So I started designing these little rigid pads, and then my 3D printer,"
+    },
+    {
+      "start": 834.268,
+      "end": 837.494,
+      "text": "which is a Formlabs Form 3, I had different materials."
+    },
+    {
+      "start": 837.56,
+      "end": 838.805,
+      "text": "One was called Elastic."
+    },
+    {
+      "start": 839.273,
+      "end": 844.414,
+      "text": "So I started printing Squishy geometries in an attempt to try to figure out"
+    },
+    {
+      "start": 844.48,
+      "end": 846.094,
+      "text": "what would work best on the grill."
+    },
+    {
+      "start": 846.16,
+      "end": 847.88,
+      "text": "So I even tried some linear designs."
+    },
+    {
+      "start": 848.12,
+      "end": 852.04,
+      "text": "I tried some hex patterns, and I ended up with something roughly like this."
+    },
+    {
+      "start": 852.2,
+      "end": 855.2,
+      "text": "I had all the components, and John took it all to the hardware store"
+    },
+    {
+      "start": 855.266,
+      "end": 858.84,
+      "text": "and put it together with a wire, and this was our very first prototype."
+    },
+    {
+      "start": 858.959,
+      "end": 863.83,
+      "text": "And at this point, we could only get chain mail out of China, so John started testing"
+    },
+    {
+      "start": 864,
+      "end": 867.52,
+      "text": "the different types, and he came up with some very interesting information."
+    },
+    {
+      "start": 867.768,
+      "end": 871.44,
+      "text": "When you go against the grain, It'll catch."
+    },
+    {
+      "start": 871.56,
+      "end": 875.48,
+      "text": "It puts a lot of tension on the individual rings, and they're coming apart,"
+    },
+    {
+      "start": 875.56,
+      "end": 876.44,
+      "text": "and we're losing some."
+    },
+    {
+      "start": 877.16,
+      "end": 878.934,
+      "text": "But that's a good thing."
+    },
+    {
+      "start": 879,
+      "end": 885.854,
+      "text": "This is a good thing because we haven't ordered thousands of these pieces"
+    },
+    {
+      "start": 885.92,
+      "end": 889.174,
+      "text": "of chain mail yet, and we can get a welded version."
+    },
+    {
+      "start": 889.24,
+      "end": 893.854,
+      "text": "It's going to cost us a little more money, but we can get a welded version that is"
+    },
+    {
+      "start": 893.92,
+      "end": 897.2,
+      "text": "going to be stronger, and it's going to make our product better."
+    },
+    {
+      "start": 897.397,
+      "end": 900.614,
+      "text": "The supply chain for chain is a big deal to me right now."
+    },
+    {
+      "start": 900.68,
+      "end": 905.774,
+      "text": "So John's test revealed that we could not use the most common thing that's"
+    },
+    {
+      "start": 905.84,
+      "end": 909.054,
+      "text": "on the market, which is this type of chain mail with a radial pattern"
+    },
+    {
+      "start": 909.12,
+      "end": 910.45,
+      "text": "with a central ring in the middle."
+    },
+    {
+      "start": 910.52,
+      "end": 912.734,
+      "text": "We found that that doesn't adapt well to the grate."
+    },
+    {
+      "start": 912.8,
+      "end": 915.96,
+      "text": "So we want this rectangular pattern, and And John did a lot of testing,"
+    },
+    {
+      "start": 916.026,
+      "end": 920.494,
+      "text": "and he arrived at not a square like this, but if we got an octagonal pattern"
+    },
+    {
+      "start": 920.56,
+      "end": 923.374,
+      "text": "of the rectangular grid, this will do what we need."
+    },
+    {
+      "start": 923.44,
+      "end": 925.25,
+      "text": "It's really fun to play with, by the way."
+    },
+    {
+      "start": 925.32,
+      "end": 928.64,
+      "text": "So this is what we need, and we could only find it in China."
+    },
+    {
+      "start": 929.24,
+      "end": 932.214,
+      "text": "That goes against the thesis statement for what we're trying to do."
+    },
+    {
+      "start": 932.28,
+      "end": 934.68,
+      "text": "So we worked and worked, and we eventually found a supplier"
+    },
+    {
+      "start": 934.746,
+      "end": 936.12,
+      "text": "in the US that can make it."
+    },
+    {
+      "start": 936.48,
+      "end": 942.48,
+      "text": "However, they can't make the quantities that we need for a price that makes sense."
+    },
+    {
+      "start": 942.92,
+      "end": 948.494,
+      "text": "So what we did is we created a contract where we could buy all that we"
+    },
+    {
+      "start": 948.56,
+      "end": 950.76,
+      "text": "could afford at the rate they have."
+    },
+    {
+      "start": 951.04,
+      "end": 955.44,
+      "text": "And we're getting about 2,000 units a month of this stuff right here."
+    },
+    {
+      "start": 956.24,
+      "end": 957.734,
+      "text": "And it's incredibly expensive."
+    },
+    {
+      "start": 957.8,
+      "end": 959.12,
+      "text": "It is so expensive."
+    },
+    {
+      "start": 959.4,
+      "end": 962.52,
+      "text": "That is by far the most expensive part of the whole thing."
+    },
+    {
+      "start": 963,
+      "end": 966.4,
+      "text": "But we realized these quantities that we're able to get aren't enough."
+    },
+    {
+      "start": 967,
+      "end": 971.8,
+      "text": "And so we have supplemented that with an Indian supplier."
+    },
+    {
+      "start": 971.88,
+      "end": 974.214,
+      "text": "We said, hey, we don't want to do this in China, but we contacted"
+    },
+    {
+      "start": 974.28,
+      "end": 975.08,
+      "text": "our Indian supplier."
+    },
+    {
+      "start": 975.146,
+      "end": 979.614,
+      "text": "We said, we need a stash of chain mail that is the quantities we need"
+    },
+    {
+      "start": 979.68,
+      "end": 982.84,
+      "text": "in the event that we sell any kind of numbers of the scrubbers."
+    },
+    {
+      "start": 983.2,
+      "end": 988.494,
+      "text": "So we ended up buying some Indian chain mail that would augment the quantities"
+    },
+    {
+      "start": 988.56,
+      "end": 990.68,
+      "text": "that we could get from the American supplier because that's"
+    },
+    {
+      "start": 990.746,
+      "end": 992.06,
+      "text": "all they could produce."
+    },
+    {
+      "start": 992.16,
+      "end": 993.494,
+      "text": "And that's where we're at."
+    },
+    {
+      "start": 993.56,
+      "end": 995.774,
+      "text": "So, yeah, that's where we're at on chain mail."
+    },
+    {
+      "start": 995.84,
+      "end": 998.32,
+      "text": "One inch long stainless steel, 1/4-20 bolt."
+    },
+    {
+      "start": 998.76,
+      "end": 1000.52,
+      "text": "This was so difficult."
+    },
+    {
+      "start": 1000.88,
+      "end": 1003.96,
+      "text": "I know it sounds like an industrial commodity, seems like a simple thing."
+    },
+    {
+      "start": 1004.16,
+      "end": 1007.28,
+      "text": "But if you want to buy this made in the USA, and you stipulate that,"
+    },
+    {
+      "start": 1007.52,
+      "end": 1008.6,
+      "text": "that changes everything."
+    },
+    {
+      "start": 1009.12,
+      "end": 1011.32,
+      "text": "Foreign bolt like this, nine cents a piece."
+    },
+    {
+      "start": 1011.578,
+      "end": 1014.44,
+      "text": "In the US, average, 38 cents a piece."
+    },
+    {
+      "start": 1014.815,
+      "end": 1016.04,
+      "text": "Here's a quote right here."
+    },
+    {
+      "start": 1016.106,
+      "end": 1019.494,
+      "text": "If I buy 10,000 of these, 42 cents a piece, that's pretty standard."
+    },
+    {
+      "start": 1019.56,
+      "end": 1022.254,
+      "text": "Most machine shops I talk to directly, they said, Yeah,"
+    },
+    {
+      "start": 1022.32,
+      "end": 1025.974,
+      "text": "we can't even get the material for the price of the finished bolts that"
+    },
+    {
+      "start": 1026.04,
+      "end": 1027.21,
+      "text": "you're getting from a foreign supplier."
+    },
+    {
+      "start": 1027.28,
+      "end": 1029.44,
+      "text": "Finding people to get quotes for you, very difficult."
+    },
+    {
+      "start": 1029.563,
+      "end": 1030.931,
+      "text": "I emailed a lot of people."
+    },
+    {
+      "start": 1031.331,
+      "end": 1032.52,
+      "text": "I sent out this tweet."
+    },
+    {
+      "start": 1032.64,
+      "end": 1035.4,
+      "text": "It helped, and it's a very fascinating thing."
+    },
+    {
+      "start": 1035.48,
+      "end": 1038.974,
+      "text": "Eventually, after literally months of emailing people back and forth, John"
+    },
+    {
+      "start": 1039.04,
+      "end": 1040.76,
+      "text": "picked a supplier that got him for 35."
+    },
+    {
+      "start": 1040.826,
+      "end": 1044.2,
+      "text": "5 cents a piece, which we then verified were made in Massachusetts."
+    },
+    {
+      "start": 1044.411,
+      "end": 1047.294,
+      "text": "So instead of a dime to get our bolts from a foreign supplier,"
+    },
+    {
+      "start": 1047.36,
+      "end": 1050.851,
+      "text": "we're doing roughly this because we think it's important to have"
+    },
+    {
+      "start": 1051.251,
+      "end": 1054.8,
+      "text": "manufacturing capacity for stainless steel bolts in Massachusetts,"
+    },
+    {
+      "start": 1055.28,
+      "end": 1057.934,
+      "text": "which is weird because my uncle used to work down the road"
+    },
+    {
+      "start": 1058,
+      "end": 1060.52,
+      "text": "at a bolt factory that closed."
+    },
+    {
+      "start": 1061.04,
+      "end": 1064.8,
+      "text": "But now I'm going to Massachusetts to get this bolt, which is interesting, right?"
+    },
+    {
+      "start": 1065.16,
+      "end": 1066.17,
+      "text": "Very interesting."
+    },
+    {
+      "start": 1066.24,
+      "end": 1069.414,
+      "text": "After we bought our bolts, quote came in for 19 cents a piece."
+    },
+    {
+      "start": 1069.48,
+      "end": 1071.8,
+      "text": "Other salesmen told me, There's no way that's American."
+    },
+    {
+      "start": 1071.866,
+      "end": 1073.334,
+      "text": "I couldn't verify. It got sketchy."
+    },
+    {
+      "start": 1073.4,
+      "end": 1075.4,
+      "text": "I don't know. I have no idea what to do with that."
+    },
+    {
+      "start": 1075.48,
+      "end": 1076.52,
+      "text": "I thought it would be simpler."
+    },
+    {
+      "start": 1076.586,
+      "end": 1078.32,
+      "text": "They're on the shelf, they're made in the USA."
+    },
+    {
+      "start": 1078.386,
+      "end": 1080.814,
+      "text": "Buy them, they're this price. Very difficult."
+    },
+    {
+      "start": 1080.881,
+      "end": 1083.614,
+      "text": "The next part of this story is very interesting."
+    },
+    {
+      "start": 1083.68,
+      "end": 1085.814,
+      "text": "I had my parts and it was time to injection mold,"
+    },
+    {
+      "start": 1085.88,
+      "end": 1088.84,
+      "text": "and I went to a facility that does injection molding, and I said,"
+    },
+    {
+      "start": 1088.92,
+      "end": 1090.01,
+      "text": "Can you make these parts?"
+    },
+    {
+      "start": 1090.08,
+      "end": 1093.04,
+      "text": "And they said, Yes, we can make the parts. And I said, That's great."
+    },
+    {
+      "start": 1093.48,
+      "end": 1097.01,
+      "text": "I would also like to make the molds here because I want to learn more about molds."
+    },
+    {
+      "start": 1097.08,
+      "end": 1099.42,
+      "text": "And they said, Oh, no, we don't make molds here."
+    },
+    {
+      "start": 1099.76,
+      "end": 1102.24,
+      "text": "And I said, Why not? They said, We don't do that."
+    },
+    {
+      "start": 1102.48,
+      "end": 1106.974,
+      "text": "We ship the part, the CAD file to China, and they make the mold, and they send"
+    },
+    {
+      "start": 1107.04,
+      "end": 1108.174,
+      "text": "it back, and then we injection mold."
+    },
+    {
+      "start": 1108.24,
+      "end": 1109.494,
+      "text": "I said, no, that's not what I want to do."
+    },
+    {
+      "start": 1109.56,
+      "end": 1112.6,
+      "text": "I don't want intellectual property in China, I want to make it here."
+    },
+    {
+      "start": 1113,
+      "end": 1114.48,
+      "text": "And they said, Good luck."
+    },
+    {
+      "start": 1115.56,
+      "end": 1120.053,
+      "text": "And this is the moment where this whole experiment came into focus for me."
+    },
+    {
+      "start": 1120.454,
+      "end": 1123.28,
+      "text": "I realized at that moment we're screwed."
+    },
+    {
+      "start": 1123.36,
+      "end": 1128.4,
+      "text": "I think we're screwed as a nation if we can't do the intelligent work"
+    },
+    {
+      "start": 1128.6,
+      "end": 1132.4,
+      "text": "of tool and die, making the tools that make the things."
+    },
+    {
+      "start": 1133.36,
+      "end": 1136.32,
+      "text": "It used to be that America did the smart thing,"
+    },
+    {
+      "start": 1137.04,
+      "end": 1140.654,
+      "text": "and then we would send the machine that we made to another country,"
+    },
+    {
+      "start": 1140.72,
+      "end": 1143.4,
+      "text": "and the country would operate the machine in the developing world."
+    },
+    {
+      "start": 1144.68,
+      "end": 1145.48,
+      "text": "We have flipped it."
+    },
+    {
+      "start": 1146.32,
+      "end": 1150.76,
+      "text": "We are now to the point where the smart stuff is done somewhere else,"
+    },
+    {
+      "start": 1151.4,
+      "end": 1154.8,
+      "text": "and they send us the machines, and we push the buttons"
+    },
+    {
+      "start": 1155.4,
+      "end": 1156.44,
+      "text": "to operate the machines."
+    },
+    {
+      "start": 1157.08,
+      "end": 1161.054,
+      "text": "I need you to understand this because I realize we have lost something very,"
+    },
+    {
+      "start": 1161.12,
+      "end": 1163.56,
+      "text": "very important, and we did it"
+    },
+    {
+      "start": 1164,
+      "end": 1167.694,
+      "text": "by lulling ourselves to sleep, by pushing money around and doing"
+    },
+    {
+      "start": 1167.76,
+      "end": 1171.28,
+      "text": "the intellectual property work, but not doing the manufacturing work."
+    },
+    {
+      "start": 1171.8,
+      "end": 1176.174,
+      "text": "I think it was best put simply by the CEO of Apple, Tim Cook, while sitting in China"
+    },
+    {
+      "start": 1176.24,
+      "end": 1179.279,
+      "text": "when he was asked a question about tooling."
+    },
+    {
+      "start": 1179.68,
+      "end": 1182.04,
+      "text": "There's a confusion about China."
+    },
+    {
+      "start": 1182.52,
+      "end": 1186.086,
+      "text": "Let me at least give you my opinion."
+    },
+    {
+      "start": 1186.8,
+      "end": 1193.72,
+      "text": "The popular conception is that companies come to China because of low labor cost."
+    },
+    {
+      "start": 1194.68,
+      "end": 1198.334,
+      "text": "I'm not sure what part of China they go to,"
+    },
+    {
+      "start": 1198.4,
+      "end": 1201.44,
+      "text": "but the truth is China stopped being the low labor cost"
+    },
+    {
+      "start": 1201.68,
+      "end": 1203.56,
+      "text": "country many years ago."
+    },
+    {
+      "start": 1204.16,
+      "end": 1210.054,
+      "text": "That is not the reason to come to China from a supply point of view."
+    },
+    {
+      "start": 1210.12,
+      "end": 1213.88,
+      "text": "The reason is because of the skill and the type of skill it is."
+    },
+    {
+      "start": 1214.28,
+      "end": 1220,
+      "text": "The products we do require really advanced tooling,"
+    },
+    {
+      "start": 1220.92,
+      "end": 1225.454,
+      "text": "and the precision that you have to have in tooling and working with the materials"
+    },
+    {
+      "start": 1225.52,
+      "end": 1227.56,
+      "text": "that we do are state of the art."
+    },
+    {
+      "start": 1228.12,
+      "end": 1231.96,
+      "text": "The tooling skill is very deep here."
+    },
+    {
+      "start": 1232.68,
+      "end": 1236.68,
+      "text": "In the US, you could have a meeting of tooling engineers, and I'm"
+    },
+    {
+      "start": 1236.96,
+      "end": 1238.36,
+      "text": "not sure we could fill the room."
+    },
+    {
+      "start": 1240.2,
+      "end": 1242.809,
+      "text": "In China, you could fill multiple football fields."
+    },
+    {
+      "start": 1243.21,
+      "end": 1246.334,
+      "text": "So Tim Cook said that in 2017 at the Fortune Global Forum."
+    },
+    {
+      "start": 1246.4,
+      "end": 1247.84,
+      "text": "Now, there's two ways of looking at this."
+    },
+    {
+      "start": 1247.906,
+      "end": 1250.654,
+      "text": "One way is, well, Tim Cook is, of course, going to say that."
+    },
+    {
+      "start": 1250.72,
+      "end": 1253.68,
+      "text": "He's incentivized because his business is tied up in China."
+    },
+    {
+      "start": 1253.88,
+      "end": 1256.174,
+      "text": "He's not going to cross the Communist Party because he"
+    },
+    {
+      "start": 1256.24,
+      "end": 1257.72,
+      "text": "needs his stuff to be made there."
+    },
+    {
+      "start": 1258.2,
+      "end": 1260.72,
+      "text": "The other way to look at it is, well, Well, maybe that's right."
+    },
+    {
+      "start": 1260.786,
+      "end": 1264.414,
+      "text": "Maybe the tooling and advancement is somewhere way beyond"
+    },
+    {
+      "start": 1264.48,
+      "end": 1267.24,
+      "text": "what Americans can do. So here's what I want to do."
+    },
+    {
+      "start": 1267.32,
+      "end": 1271.338,
+      "text": "I know a man that is specifically unique in the world that can"
+    },
+    {
+      "start": 1271.56,
+      "end": 1272.52,
+      "text": "answer this question."
+    },
+    {
+      "start": 1273.08,
+      "end": 1275.214,
+      "text": "He's a friend of mine named Jeremy Fielding."
+    },
+    {
+      "start": 1275.28,
+      "end": 1277.44,
+      "text": "He has a YouTube channel. He's an engineer."
+    },
+    {
+      "start": 1277.644,
+      "end": 1279.28,
+      "text": "He speaks Chinese."
+    },
+    {
+      "start": 1279.4,
+      "end": 1282.174,
+      "text": "He spent a significant amount of time exploring these topics in China,"
+    },
+    {
+      "start": 1282.24,
+      "end": 1284.6,
+      "text": "and he's right there beside you. Let's just ask him."
+    },
+    {
+      "start": 1285.48,
+      "end": 1286.42,
+      "text": "All right, Jeremy."
+    },
+    {
+      "start": 1287.32,
+      "end": 1290.814,
+      "text": "What do you think about what Tim Cook said about labor and about"
+    },
+    {
+      "start": 1290.88,
+      "end": 1293.574,
+      "text": "the tooling industry in China?"
+    },
+    {
+      "start": 1293.64,
+      "end": 1296.814,
+      "text": "[J] Well, it'd be hard for me to comment on tooling"
+    },
+    {
+      "start": 1296.88,
+      "end": 1300.534,
+      "text": "specifically, but I do think that we do have a common"
+    },
+    {
+      "start": 1300.6,
+      "end": 1303.84,
+      "text": "misconception, including myself before I went, that in China,"
+    },
+    {
+      "start": 1304.16,
+      "end": 1305.52,
+      "text": "that their product is inferior."
+    },
+    {
+      "start": 1305.92,
+      "end": 1309.2,
+      "text": "I mean, the quality of manufacturing is surprisingly good."
+    },
+    {
+      "start": 1309.64,
+      "end": 1312.8,
+      "text": "When I started comparing that mentally to all the places I've visited,"
+    },
+    {
+      "start": 1312.866,
+      "end": 1317.254,
+      "text": "because I've been to many shops here and over there, if it wasn't for the fact"
+    },
+    {
+      "start": 1317.32,
+      "end": 1318.974,
+      "text": "that they were speaking a different language, I would feel like"
+    },
+    {
+      "start": 1319.04,
+      "end": 1321.2,
+      "text": "I was in the same place. I was really impressed."
+    },
+    {
+      "start": 1321.84,
+      "end": 1326.16,
+      "text": "I think I would say it's at least equivalent to what we can make here."
+    },
+    {
+      "start": 1326.4,
+      "end": 1330.8,
+      "text": "In some cases, things that used to be available in America"
+    },
+    {
+      "start": 1330.96,
+      "end": 1332.054,
+      "text": "aren't available anymore."
+    },
+    {
+      "start": 1332.12,
+      "end": 1334.44,
+      "text": "It's like you have to go to China to get it because we just don't"
+    },
+    {
+      "start": 1334.506,
+      "end": 1337.04,
+      "text": "do it here some more. [D] Oh, that's scary."
+    },
+    {
+      "start": 1337.64,
+      "end": 1341.375,
+      "text": "Okay, this is a tangent we could talk about for hours just on this topic."
+    },
+    {
+      "start": 1341.775,
+      "end": 1345.01,
+      "text": "I just want to encourage you to go watch Jeremy's channel because it's awesome."
+    },
+    {
+      "start": 1345.08,
+      "end": 1347.44,
+      "text": "You do engineering videos, and there's also content there"
+    },
+    {
+      "start": 1347.506,
+      "end": 1349.734,
+      "text": "about your time in China, right? [J] Yeah, absolutely."
+    },
+    {
+      "start": 1349.8,
+      "end": 1352.92,
+      "text": "[D] How do I say thank you in Chinese? How do I say thank you?"
+    },
+    {
+      "start": 1352.986,
+      "end": 1355.322,
+      "text": "[J] Xiè xie [D] Xiè xie"
+    },
+    {
+      "start": 1355.389,
+      "end": 1358.334,
+      "text": "So that gives you a peek into the world of Chinese manufacturing, but on the"
+    },
+    {
+      "start": 1358.4,
+      "end": 1360.44,
+      "text": "American side, it's very different."
+    },
+    {
+      "start": 1361,
+      "end": 1364.894,
+      "text": "We talked about this when I was a guest on a podcast called Search Engine."
+    },
+    {
+      "start": 1364.96,
+      "end": 1368.32,
+      "text": "Shruthi and PJ invited me on to talk about what it was like to try to find"
+    },
+    {
+      "start": 1368.386,
+      "end": 1370.24,
+      "text": "a mold maker to make this thing."
+    },
+    {
+      "start": 1370.36,
+      "end": 1372.98,
+      "text": "This was a light bulb moment for me in the conversation."
+    },
+    {
+      "start": 1373.44,
+      "end": 1376.694,
+      "text": "The problem is not just that we've forgotten a lot about how to make things"
+    },
+    {
+      "start": 1376.76,
+      "end": 1378.8,
+      "text": "in America, it's that we're also forgetting how"
+    },
+    {
+      "start": 1378.96,
+      "end": 1380.82,
+      "text": "to make the things that make the things."
+    },
+    {
+      "start": 1381.32,
+      "end": 1384.64,
+      "text": "We go deep into the topic of the tool and die trades in America."
+    },
+    {
+      "start": 1384.8,
+      "end": 1386.4,
+      "text": "It's fascinating. Check that out."
+    },
+    {
+      "start": 1386.52,
+      "end": 1388.72,
+      "text": "I called Chris Robeson, the guy that made the mold during"
+    },
+    {
+      "start": 1388.786,
+      "end": 1390.44,
+      "text": "the pandemic, and I asked for help."
+    },
+    {
+      "start": 1390.72,
+      "end": 1393.894,
+      "text": "And not only did he agree to help me, he decided to mentor me."
+    },
+    {
+      "start": 1394.36,
+      "end": 1398.814,
+      "text": "The first thing I did is send him my CAD files of the drawings, and he told me"
+    },
+    {
+      "start": 1398.88,
+      "end": 1400.494,
+      "text": "everything that was wrong about them."
+    },
+    {
+      "start": 1400.56,
+      "end": 1402.854,
+      "text": "I had to redesign things because there were things I didn't"
+    },
+    {
+      "start": 1402.92,
+      "end": 1404.45,
+      "text": "understand about injection molding."
+    },
+    {
+      "start": 1404.52,
+      "end": 1407.534,
+      "text": "For example, you don't want some areas to be too thick, you want"
+    },
+    {
+      "start": 1407.6,
+      "end": 1408.974,
+      "text": "draft angles, all these things."
+    },
+    {
+      "start": 1409.04,
+      "end": 1411.854,
+      "text": "Chris walked me through the process and taught me the proper way to design"
+    },
+    {
+      "start": 1411.92,
+      "end": 1413.44,
+      "text": "an object for injection molding."
+    },
+    {
+      "start": 1413.647,
+      "end": 1417.12,
+      "text": "There were three parts to my prototype, so Chris designed three molds,"
+    },
+    {
+      "start": 1417.4,
+      "end": 1419.6,
+      "text": "and we wanted to try a new technique."
+    },
+    {
+      "start": 1419.96,
+      "end": 1422.854,
+      "text": "So this isn't a thing that you can do for thousands of parts,"
+    },
+    {
+      "start": 1422.92,
+      "end": 1427.294,
+      "text": "but for a few dozen parts, you can 3D print the mold cavities"
+    },
+    {
+      "start": 1427.361,
+      "end": 1431.28,
+      "text": "with Formlabs' Rigid 10K solution. So that's what we did."
+    },
+    {
+      "start": 1431.56,
+      "end": 1434.034,
+      "text": "And these are those parts right here."
+    },
+    {
+      "start": 1434.101,
+      "end": 1438.294,
+      "text": "These are 3D printed inserts that we could run in Chris's injection molding machines"
+    },
+    {
+      "start": 1438.36,
+      "end": 1441.64,
+      "text": "to verify that the geometry is correct. It actually worked."
+    },
+    {
+      "start": 1441.84,
+      "end": 1445.52,
+      "text": "We got a few dozen working parts, and this let us see how the plastic would"
+    },
+    {
+      "start": 1445.68,
+      "end": 1448.6,
+      "text": "flow in the mold, and we made mold design changes."
+    },
+    {
+      "start": 1448.68,
+      "end": 1452.614,
+      "text": "So it's Chris's vast knowledge of tool making and injection molding that allowed"
+    },
+    {
+      "start": 1452.68,
+      "end": 1454.36,
+      "text": "us to create molds that would work."
+    },
+    {
+      "start": 1454.6,
+      "end": 1457.094,
+      "text": "It's now time to make the production tool out of metal."
+    },
+    {
+      "start": 1457.16,
+      "end": 1459.494,
+      "text": "You can send this off and get it done in a machine shop."
+    },
+    {
+      "start": 1459.56,
+      "end": 1461.84,
+      "text": "They're not going to have the knowledge of the tool and die making,"
+    },
+    {
+      "start": 1461.906,
+      "end": 1464.854,
+      "text": "but they can just make a metal part if you send them a CAD file."
+    },
+    {
+      "start": 1464.92,
+      "end": 1466.814,
+      "text": "I wanted to learn how to CNC machine."
+    },
+    {
+      "start": 1466.88,
+      "end": 1468.974,
+      "text": "I've always wanted to learn how to do that."
+    },
+    {
+      "start": 1469.04,
+      "end": 1472.974,
+      "text": "So me and the younger engineer named Trent, we started learning how to machine."
+    },
+    {
+      "start": 1473.04,
+      "end": 1476.454,
+      "text": "I was able to pick up two used CNC machines."
+    },
+    {
+      "start": 1476.52,
+      "end": 1477.52,
+      "text": "Thank you again, patrons."
+    },
+    {
+      "start": 1477.644,
+      "end": 1480.774,
+      "text": "It started out pretty rough."
+    },
+    {
+      "start": 1480.84,
+      "end": 1484.04,
+      "text": "Wow."
+    },
+    {
+      "start": 1484.16,
+      "end": 1486.32,
+      "text": "But then we figured it out."
+    },
+    {
+      "start": 1486.56,
+      "end": 1488.922,
+      "text": "This process was incredibly enjoyable."
+    },
+    {
+      "start": 1488.989,
+      "end": 1493.094,
+      "text": "I thought it would be intimidating, but I called friends like Shane from Stuff"
+    },
+    {
+      "start": 1493.16,
+      "end": 1495.454,
+      "text": "Made Here and local machinists and Chris himself."
+    },
+    {
+      "start": 1495.52,
+      "end": 1498.734,
+      "text": "They taught me what speeds and feeds I needed to use, and this"
+    },
+    {
+      "start": 1498.8,
+      "end": 1499.933,
+      "text": "process was awesome."
+    },
+    {
+      "start": 1500,
+      "end": 1503,
+      "text": "One night, I was machining in the garage, and my friend Daylan came over to hang"
+    },
+    {
+      "start": 1503.066,
+      "end": 1506.534,
+      "text": "out, and we started talking about the importance of making things in America"
+    },
+    {
+      "start": 1506.6,
+      "end": 1508.575,
+      "text": "and how it affects local communities."
+    },
+    {
+      "start": 1508.976,
+      "end": 1514.04,
+      "text": "[Daylan] All the opportunities to have education and so on went away."
+    },
+    {
+      "start": 1514.68,
+      "end": 1515.72,
+      "text": "What's happening?"
+    },
+    {
+      "start": 1516.28,
+      "end": 1518.694,
+      "text": "[D] I'm filming you. Talk about manufacturing in America."
+    },
+    {
+      "start": 1518.76,
+      "end": 1522.8,
+      "text": "[Daylan] When those jobs went away in those communities,"
+    },
+    {
+      "start": 1523.32,
+      "end": 1527.254,
+      "text": "all those economic prospects and ultimately educational prospects"
+    },
+    {
+      "start": 1527.32,
+      "end": 1529.6,
+      "text": "and quality of life prospects went away."
+    },
+    {
+      "start": 1529.96,
+      "end": 1532.72,
+      "text": "So manufacturing, coming back to America is really important to me"
+    },
+    {
+      "start": 1533.2,
+      "end": 1536.36,
+      "text": "because of what it's meant historically for communities"
+    },
+    {
+      "start": 1536.52,
+      "end": 1538.04,
+      "text": "in terms of opportunities for kids."
+    },
+    {
+      "start": 1538.84,
+      "end": 1541.374,
+      "text": "So figuring out a way to do that is something I spend a lot"
+    },
+    {
+      "start": 1541.44,
+      "end": 1542.29,
+      "text": "of time thinking about."
+    },
+    {
+      "start": 1542.36,
+      "end": 1544.76,
+      "text": "[D] We took all the metal parts to Chris and the guy that works with him named"
+    },
+    {
+      "start": 1544.826,
+      "end": 1548.2,
+      "text": "Jeremy, and they assemble the molds, and they explain that there's a couple"
+    },
+    {
+      "start": 1548.266,
+      "end": 1549.97,
+      "text": "of things that weren't quite right."
+    },
+    {
+      "start": 1550.04,
+      "end": 1553.24,
+      "text": "They then took the time to fix it, and then they put them all together."
+    },
+    {
+      "start": 1553.32,
+      "end": 1555.09,
+      "text": "And this is what was interesting to me."
+    },
+    {
+      "start": 1555.222,
+      "end": 1560.054,
+      "text": "I realized that a machinist is not enough to be an injection mold"
+    },
+    {
+      "start": 1560.12,
+      "end": 1562.33,
+      "text": "designer and maker. They're two different things."
+    },
+    {
+      "start": 1562.4,
+      "end": 1566.334,
+      "text": "You have one set of skills that feeds into the other, but ultimately that tool"
+    },
+    {
+      "start": 1566.4,
+      "end": 1569.814,
+      "text": "and dye creation is its own thing. But here we are."
+    },
+    {
+      "start": 1569.88,
+      "end": 1572.68,
+      "text": "We have these beautiful molds, and we're ready to make parts."
+    },
+    {
+      "start": 1573.173,
+      "end": 1577.014,
+      "text": "It felt so good to watch parts pop out of these injection molding machines,"
+    },
+    {
+      "start": 1577.08,
+      "end": 1579.4,
+      "text": "knowing how much work went into the molds,"
+    },
+    {
+      "start": 1579.88,
+      "end": 1580.614,
+      "text": "it was awesome."
+    },
+    {
+      "start": 1580.68,
+      "end": 1584.094,
+      "text": "Out of the three injection molded parts, it was the Squishy part that I"
+    },
+    {
+      "start": 1584.16,
+      "end": 1585.36,
+      "text": "was most concerned about."
+    },
+    {
+      "start": 1585.426,
+      "end": 1588.92,
+      "text": "Now, this is made out of a thermoplastic polyurethane called Santoprene,"
+    },
+    {
+      "start": 1589.12,
+      "end": 1592.64,
+      "text": "and it's only heat resistant up to a few hundred degrees Fahrenheit."
+    },
+    {
+      "start": 1592.92,
+      "end": 1595.16,
+      "text": "John did a test."
+    },
+    {
+      "start": 1599.72,
+      "end": 1601.56,
+      "text": "Yeah, it definitely got some melt in there."
+    },
+    {
+      "start": 1601.76,
+      "end": 1604.32,
+      "text": "So obviously, we were going to have to change that material,"
+    },
+    {
+      "start": 1604.386,
+      "end": 1606.32,
+      "text": "and silicone is the best option."
+    },
+    {
+      "start": 1606.76,
+      "end": 1611.211,
+      "text": "Now, the problem is we can't inject silicone with the same molds that we made."
+    },
+    {
+      "start": 1611.28,
+      "end": 1612.52,
+      "text": "It's a whole different process."
+    },
+    {
+      "start": 1613.12,
+      "end": 1615.72,
+      "text": "Unfortunately, I couldn't find anybody in my area."
+    },
+    {
+      "start": 1615.8,
+      "end": 1616.96,
+      "text": "They just weren't here."
+    },
+    {
+      "start": 1617.384,
+      "end": 1621.788,
+      "text": "So I had to reach out to a guy in Virginia called Commonwealth Manufacturing."
+    },
+    {
+      "start": 1621.855,
+      "end": 1622.99,
+      "text": "Kevin hooked us up."
+    },
+    {
+      "start": 1623.056,
+      "end": 1627.294,
+      "text": "He made a nine cavity mold so the silicone process could work."
+    },
+    {
+      "start": 1627.68,
+      "end": 1630.014,
+      "text": "So by switching from the santoprene to the food-grade silicone,"
+    },
+    {
+      "start": 1630.08,
+      "end": 1632.36,
+      "text": "we bought ourselves another couple of hundred degrees Fahrenheit."
+    },
+    {
+      "start": 1632.426,
+      "end": 1636.68,
+      "text": "However, it's not meant to be used on a fiery furnace, blazing hot grill."
+    },
+    {
+      "start": 1636.88,
+      "end": 1638.73,
+      "text": "It's meant to be used on a cold to warm grill."
+    },
+    {
+      "start": 1638.8,
+      "end": 1642.2,
+      "text": "The handle has its own story, and there was a ton that went into this."
+    },
+    {
+      "start": 1642.56,
+      "end": 1645.48,
+      "text": "The first thing I did is I found a metal tool that I liked,"
+    },
+    {
+      "start": 1645.8,
+      "end": 1649.774,
+      "text": "and I just went over to an Anvil and I just beat a little flat edge on the end"
+    },
+    {
+      "start": 1649.84,
+      "end": 1653.72,
+      "text": "of the thing, and then I cut out the end on a band saw and drilled a hole in it,"
+    },
+    {
+      "start": 1654.04,
+      "end": 1657.391,
+      "text": "and we put that on the prototype and gave it to John's mom to test."
+    },
+    {
+      "start": 1660.84,
+      "end": 1661.64,
+      "text": "This is great."
+    },
+    {
+      "start": 1661.995,
+      "end": 1665.494,
+      "text": "Since it passed that test, it was time to design it for manufacturability."
+    },
+    {
+      "start": 1665.56,
+      "end": 1669.014,
+      "text": "So I went back to CAD and realized if I was going to be bending up sheet metal,"
+    },
+    {
+      "start": 1669.08,
+      "end": 1671.88,
+      "text": "I might as well put a flat scraper on the front so that you could get"
+    },
+    {
+      "start": 1671.946,
+      "end": 1673.73,
+      "text": "into the corners and stuff like that."
+    },
+    {
+      "start": 1673.8,
+      "end": 1677,
+      "text": "I put a little bitty curve on the edge of the scraper so that you could get"
+    },
+    {
+      "start": 1677.066,
+      "end": 1679.44,
+      "text": "around the grill grates, and that was our design."
+    },
+    {
+      "start": 1679.64,
+      "end": 1682.32,
+      "text": "I made I'm making a video on Smarter Every Day about sheet metal"
+    },
+    {
+      "start": 1682.386,
+      "end": 1685.334,
+      "text": "stamping, and the reason is because I was doing research into how"
+    },
+    {
+      "start": 1685.4,
+      "end": 1686.8,
+      "text": "to manufacture this handle."
+    },
+    {
+      "start": 1687,
+      "end": 1690.991,
+      "text": "Sheet metal stamping is a process that involves using tooling to cut"
+    },
+    {
+      "start": 1691.058,
+      "end": 1694.72,
+      "text": "and bend metal into the shape you want."
+    },
+    {
+      "start": 1697.56,
+      "end": 1702.402,
+      "text": "When we made that video at TNC Stamping, I spoke to a tool and die expert named"
+    },
+    {
+      "start": 1702.64,
+      "end": 1705.52,
+      "text": "Roger, who taught me some critical concepts about tool and die."
+    },
+    {
+      "start": 1706.04,
+      "end": 1708.974,
+      "text": "It was pretty clear to me that Roger had forgotten more about tool and die"
+    },
+    {
+      "start": 1709.04,
+      "end": 1710.36,
+      "text": "than most people will ever know."
+    },
+    {
+      "start": 1710.52,
+      "end": 1713.56,
+      "text": "In the time between filming that video about metal stamping and filming"
+    },
+    {
+      "start": 1713.78,
+      "end": 1715.68,
+      "text": "this video, Roger passed on."
+    },
+    {
+      "start": 1716.2,
+      "end": 1718.934,
+      "text": "He's no longer with us, and that's a big deal."
+    },
+    {
+      "start": 1719,
+      "end": 1721.934,
+      "text": "Obviously, his family and friends and coworkers are going to miss him."
+    },
+    {
+      "start": 1722,
+      "end": 1723.4,
+      "text": "Roger seemed like a great guy."
+    },
+    {
+      "start": 1723.48,
+      "end": 1726.254,
+      "text": "Probably takes years just to learn the vocabulary of the trade, right?"
+    },
+    {
+      "start": 1726.32,
+      "end": 1726.88,
+      "text": "You hear that?"
+    },
+    {
+      "start": 1727.36,
+      "end": 1729.854,
+      "text": "It takes years to learn to speak like I speak."
+    },
+    {
+      "start": 1729.92,
+      "end": 1732.92,
+      "text": "But there's another loss here for the community that's not as obvious,"
+    },
+    {
+      "start": 1733.24,
+      "end": 1734.57,
+      "text": "but it's very important."
+    },
+    {
+      "start": 1734.64,
+      "end": 1738.334,
+      "text": "And that's all of the experience and tool and die wisdom that Roger has acquired"
+    },
+    {
+      "start": 1738.4,
+      "end": 1741.12,
+      "text": "over the years, he can no no longer pass that along."
+    },
+    {
+      "start": 1741.24,
+      "end": 1743.48,
+      "text": "We only have what he gave us while he was here."
+    },
+    {
+      "start": 1744.144,
+      "end": 1746.534,
+      "text": "Furthermore, all the experience of the person that"
+    },
+    {
+      "start": 1746.6,
+      "end": 1749.24,
+      "text": "taught Roger, all that has stopped now."
+    },
+    {
+      "start": 1749.32,
+      "end": 1752.04,
+      "text": "All we have is what he passed on before he left."
+    },
+    {
+      "start": 1752.76,
+      "end": 1757.44,
+      "text": "So that makes what you were about to see very, very important."
+    },
+    {
+      "start": 1757.92,
+      "end": 1762.763,
+      "text": "You're about to witness the birth of a tool and die worker in America."
+    },
+    {
+      "start": 1762.829,
+      "end": 1766.654,
+      "text": "When I first visited TNC Stamping, Weston explained that they had a tool"
+    },
+    {
+      "start": 1766.72,
+      "end": 1769.974,
+      "text": "and die shop, and they invest heavily in their tool and die apprenticeship"
+    },
+    {
+      "start": 1770.04,
+      "end": 1773.4,
+      "text": "program, which is becoming increasingly rare among American manufacturers."
+    },
+    {
+      "start": 1773.96,
+      "end": 1776.254,
+      "text": "They showed us the progressive stamping dies that they made,"
+    },
+    {
+      "start": 1776.32,
+      "end": 1779.374,
+      "text": "but John and I couldn't afford one of those, so Weston agreed to give us"
+    },
+    {
+      "start": 1779.44,
+      "end": 1781.32,
+      "text": "a price to make what's called station tooling."
+    },
+    {
+      "start": 1781.415,
+      "end": 1784.8,
+      "text": "A tooling engineer named Joey worked with a young man named Logan."
+    },
+    {
+      "start": 1785,
+      "end": 1788.32,
+      "text": "Logan used to be a press operator, but he's entered into the apprenticeship"
+    },
+    {
+      "start": 1788.386,
+      "end": 1789.756,
+      "text": "program for Tool & Die."
+    },
+    {
+      "start": 1790.157,
+      "end": 1794.16,
+      "text": "The tool that made our handle is the first tool that Logan ever made."
+    },
+    {
+      "start": 1794.52,
+      "end": 1796.25,
+      "text": "[D] Is this the first one you've made? [L] Yes, sir."
+    },
+    {
+      "start": 1796.32,
+      "end": 1798.44,
+      "text": "[D] And how long did it take you? [L] About six weeks."
+    },
+    {
+      "start": 1798.52,
+      "end": 1801.301,
+      "text": "[D] So are you been training him?"
+    },
+    {
+      "start": 1801.368,
+      "end": 1801.854,
+      "text": "I've helped."
+    },
+    {
+      "start": 1801.92,
+      "end": 1803.534,
+      "text": "[L] He's a lot of help."
+    },
+    {
+      "start": 1803.6,
+      "end": 1806.68,
+      "text": "[D] So do you feel like you know how to do the next one now?"
+    },
+    {
+      "start": 1807.36,
+      "end": 1810.094,
+      "text": "[L] As long as I got prints to go by, I could build it, yes, sir."
+    },
+    {
+      "start": 1810.16,
+      "end": 1810.52,
+      "text": "[D] Really?"
+    },
+    {
+      "start": 1810.64,
+      "end": 1811.88,
+      "text": "Did you ever think you would have this skill?"
+    },
+    {
+      "start": 1811.946,
+      "end": 1815.214,
+      "text": "[L] I never knew anything like this really existed."
+    },
+    {
+      "start": 1815.28,
+      "end": 1818.24,
+      "text": "During high school, with everything, I didn't know what I was going to do."
+    },
+    {
+      "start": 1818.306,
+      "end": 1822.094,
+      "text": "I started out up here as just a press operator, actually running these presses"
+    },
+    {
+      "start": 1822.16,
+      "end": 1826.214,
+      "text": "and got the opportunity to move over as an apprentice, and I've"
+    },
+    {
+      "start": 1826.28,
+      "end": 1827.32,
+      "text": "enjoyed it ever since."
+    },
+    {
+      "start": 1827.386,
+      "end": 1830.08,
+      "text": "All the hands-on stuff, learning stuff every day."
+    },
+    {
+      "start": 1830.28,
+      "end": 1832.56,
+      "text": "I've really enjoyed it ever since I've been over to it."
+    },
+    {
+      "start": 1832.72,
+      "end": 1835.335,
+      "text": "[D] It is really fun to watch the tool Logan made an action."
+    },
+    {
+      "start": 1835.48,
+      "end": 1838.894,
+      "text": "Flat blanks that have been cut out with a laser are loaded onto the tool,"
+    },
+    {
+      "start": 1838.96,
+      "end": 1843.143,
+      "text": "where as the press comes down, it gets bent into a specific shape along the way."
+    },
+    {
+      "start": 1843.21,
+      "end": 1847.134,
+      "text": "It's called station tooling because the part is then moved from one station"
+    },
+    {
+      "start": 1847.2,
+      "end": 1850.774,
+      "text": "to the other, and progressively, the different bends and shapes"
+    },
+    {
+      "start": 1850.84,
+      "end": 1851.96,
+      "text": "are put into the part."
+    },
+    {
+      "start": 1852.2,
+      "end": 1856.04,
+      "text": "I think the side action that bends the handle around into a tube is my favorite."
+    },
+    {
+      "start": 1856.24,
+      "end": 1859.17,
+      "text": "After that, we put them in a box and we take them back to Chris's place,"
+    },
+    {
+      "start": 1859.24,
+      "end": 1862.48,
+      "text": "where he lasers a logo on the handle, which is really cool."
+    },
+    {
+      "start": 1862.64,
+      "end": 1864.37,
+      "text": "This is currently the bottleneck in the process."
+    },
+    {
+      "start": 1864.44,
+      "end": 1865.16,
+      "text": "It's a little slow."
+    },
+    {
+      "start": 1865.226,
+      "end": 1868.16,
+      "text": "We're trying to automate this, but my favorite part, we get to put"
+    },
+    {
+      "start": 1868.226,
+      "end": 1870.604,
+      "text": "Made in the USA on the handle. How cool."
+    },
+    {
+      "start": 1870.96,
+      "end": 1874,
+      "text": "All of these parts down here go together to make the scrubber head,"
+    },
+    {
+      "start": 1874.28,
+      "end": 1877.84,
+      "text": "and the scrubber head is put together with a piece of stainless steel wire,"
+    },
+    {
+      "start": 1878.04,
+      "end": 1880.48,
+      "text": "which we have confirmed is made in Pennsylvania."
+    },
+    {
+      "start": 1881,
+      "end": 1884.2,
+      "text": "Now, the rope, however, is harder to confirm the manufacturer's location."
+    },
+    {
+      "start": 1884.4,
+      "end": 1888.16,
+      "text": "We haven't been able to verify it's made in the USA, which brings us to the knob."
+    },
+    {
+      "start": 1888.8,
+      "end": 1892.054,
+      "text": "This is an off-the-shelf item that we ordered, and when we ordered it,"
+    },
+    {
+      "start": 1892.12,
+      "end": 1893.68,
+      "text": "we were told it was made in America."
+    },
+    {
+      "start": 1893.961,
+      "end": 1896.28,
+      "text": "We have a problem, right? That's right."
+    },
+    {
+      "start": 1896.8,
+      "end": 1902.56,
+      "text": "We thought they were made in America, but when they got here, they're not."
+    },
+    {
+      "start": 1902.96,
+      "end": 1904.5,
+      "text": "They're made in Costa Rica."
+    },
+    {
+      "start": 1904.76,
+      "end": 1909.44,
+      "text": "So we've got to fix that. So that's what we get."
+    },
+    {
+      "start": 1909.8,
+      "end": 1914.214,
+      "text": "So the first 20,000 lucky customers are going to have their scrubbers"
+    },
+    {
+      "start": 1914.28,
+      "end": 1916.36,
+      "text": "with Costa Rican knobs. Yeah."
+    },
+    {
+      "start": 1916.76,
+      "end": 1919.134,
+      "text": "It's probably going to be more than that because it's going to take me a while"
+    },
+    {
+      "start": 1919.2,
+      "end": 1920.614,
+      "text": "to figure out how to make a mold for this."
+    },
+    {
+      "start": 1920.68,
+      "end": 1923.614,
+      "text": "Chris and I are already working on this mold, but we want to reach out to this new"
+    },
+    {
+      "start": 1923.68,
+      "end": 1926.534,
+      "text": "company that's got this new technology we think could be disruptive"
+    },
+    {
+      "start": 1926.6,
+      "end": 1927.84,
+      "text": "to the mold making industry."
+    },
+    {
+      "start": 1928.72,
+      "end": 1930.09,
+      "text": "Nice to meet you, Ted. How are you doing, man?"
+    },
+    {
+      "start": 1930.16,
+      "end": 1931.13,
+      "text": "[T] Good. How are you doing?"
+    },
+    {
+      "start": 1931.465,
+      "end": 1933.12,
+      "text": "[D] So you own Mantle. [T] That's correct."
+    },
+    {
+      "start": 1933.36,
+      "end": 1935.8,
+      "text": "[D] So I found your company because the injection molder that I know"
+    },
+    {
+      "start": 1935.866,
+      "end": 1939.506,
+      "text": "Chris Robeson, he's been wanting to work with your machines for years."
+    },
+    {
+      "start": 1939.573,
+      "end": 1944.36,
+      "text": "My understanding is that you are a 3D printing company that can print metal."
+    },
+    {
+      "start": 1944.68,
+      "end": 1945.934,
+      "text": "Is that right? [T] That's correct."
+    },
+    {
+      "start": 1946,
+      "end": 1946.48,
+      "text": "That's all we do."
+    },
+    {
+      "start": 1946.546,
+      "end": 1952.854,
+      "text": "We invented a new process to print metal, and we specifically use it to make"
+    },
+    {
+      "start": 1952.92,
+      "end": 1955.28,
+      "text": "injection molds and other type of hard tooling like that."
+    },
+    {
+      "start": 1955.722,
+      "end": 1959.84,
+      "text": "[D] What I've seen with some of the powder bed fusion laser sintering type methods"
+    },
+    {
+      "start": 1960.56,
+      "end": 1962.97,
+      "text": "is that it's very difficult to get a good surface finish."
+    },
+    {
+      "start": 1963.04,
+      "end": 1966.2,
+      "text": "How are you doing metal with a surface finish that's acceptable"
+    },
+    {
+      "start": 1966.6,
+      "end": 1967.768,
+      "text": "for injection molding?"
+    },
+    {
+      "start": 1968.235,
+      "end": 1972.88,
+      "text": "[T] Most of the other processes that do metal printing melt metal powders with a laser,"
+    },
+    {
+      "start": 1973.44,
+      "end": 1976.694,
+      "text": "and they end up with a surface finish that's like 80 grit sandpaper,"
+    },
+    {
+      "start": 1976.76,
+      "end": 1979.64,
+      "text": "and it's just not near smooth enough for injection mold tools."
+    },
+    {
+      "start": 1979.76,
+      "end": 1982.694,
+      "text": "Our Our process is actually a hybrid process, which means it uses"
+    },
+    {
+      "start": 1982.76,
+      "end": 1984.16,
+      "text": "additive plus subtractive."
+    },
+    {
+      "start": 1984.418,
+      "end": 1988.188,
+      "text": "So we actually put down this metal paste, we dry it so it firms up."
+    },
+    {
+      "start": 1988.36,
+      "end": 1991.84,
+      "text": "But then after a few layers of that, we come in and actually cut it with a CNC."
+    },
+    {
+      "start": 1992.025,
+      "end": 1995.495,
+      "text": "So we get a CNC-like finish out of this material."
+    },
+    {
+      "start": 1995.84,
+      "end": 1998.76,
+      "text": "And then as a secondary step, we put them in a furnace and densify"
+    },
+    {
+      "start": 1998.826,
+      "end": 2000.44,
+      "text": "the metal into a solid metal part."
+    },
+    {
+      "start": 2000.64,
+      "end": 2003.774,
+      "text": "But we can do things that you could never do traditionally."
+    },
+    {
+      "start": 2003.84,
+      "end": 2008.654,
+      "text": "This medical tool right here looks pretty simple, but these deep grooves you see"
+    },
+    {
+      "start": 2008.72,
+      "end": 2012.134,
+      "text": "here have to be done with electric discharge machining."
+    },
+    {
+      "start": 2012.2,
+      "end": 2015.52,
+      "text": "You can't CNC cut those because no one makes an end mill that's skinny enough"
+    },
+    {
+      "start": 2015.586,
+      "end": 2018.08,
+      "text": "and long enough that won't break when cutting steel."
+    },
+    {
+      "start": 2018.56,
+      "end": 2023.094,
+      "text": "Our technology allows us to shape, refine, or cut that material as"
+    },
+    {
+      "start": 2023.16,
+      "end": 2024.44,
+      "text": "we build up the part."
+    },
+    {
+      "start": 2024.84,
+      "end": 2027.654,
+      "text": "And so we get a part that can get any of those really unique"
+    },
+    {
+      "start": 2027.72,
+      "end": 2028.92,
+      "text": "geometries you need for tools."
+    },
+    {
+      "start": 2029.16,
+      "end": 2032.16,
+      "text": "[D] So your technology is aimed at improving the tool and die industry."
+    },
+    {
+      "start": 2032.28,
+      "end": 2034.96,
+      "text": "What are your thoughts on tool and die makers in general in the US?"
+    },
+    {
+      "start": 2035.302,
+      "end": 2036.454,
+      "text": "[T] I think we need more of them."
+    },
+    {
+      "start": 2036.52,
+      "end": 2039.48,
+      "text": "I think the incentives to go into tool and die have gone downhill."
+    },
+    {
+      "start": 2039.64,
+      "end": 2043.734,
+      "text": "So I saw a New York Times article that showed a graph that in the '80s,"
+    },
+    {
+      "start": 2043.8,
+      "end": 2047.694,
+      "text": "'90s, tool and die makers were above the average by about 20 % in terms"
+    },
+    {
+      "start": 2047.76,
+      "end": 2049,
+      "text": "of income in the United States."
+    },
+    {
+      "start": 2049.44,
+      "end": 2053.153,
+      "text": "That's dropped today to 15 % below the standard income level."
+    },
+    {
+      "start": 2053.22,
+      "end": 2056.156,
+      "text": "And so it's tough to justify going into tool and die."
+    },
+    {
+      "start": 2056.52,
+      "end": 2057.56,
+      "text": "[D] I think that's changing."
+    },
+    {
+      "start": 2058.36,
+      "end": 2061.562,
+      "text": "I've noticed that people really like making things in America."
+    },
+    {
+      "start": 2061.88,
+      "end": 2065.2,
+      "text": "I'm excited about it, and other people I talk to are excited about it."
+    },
+    {
+      "start": 2065.48,
+      "end": 2067.96,
+      "text": "And your technologies like yours are very interesting."
+    },
+    {
+      "start": 2068.16,
+      "end": 2069.87,
+      "text": "I think it's coming back."
+    },
+    {
+      "start": 2069.937,
+      "end": 2072.734,
+      "text": "[T] There's no question that there's a huge demand for this, right?"
+    },
+    {
+      "start": 2072.8,
+      "end": 2074.014,
+      "text": "So I talk to companies every day."
+    },
+    {
+      "start": 2074.08,
+      "end": 2077.16,
+      "text": "They're like, I've got tool and die makers, but they're about to retire."
+    },
+    {
+      "start": 2077.44,
+      "end": 2078.774,
+      "text": "They have open jobs today."
+    },
+    {
+      "start": 2078.84,
+      "end": 2081.28,
+      "text": "There are tons of positions available."
+    },
+    {
+      "start": 2081.448,
+      "end": 2085.014,
+      "text": "So I think that it's looking up for tool and die, especially"
+    },
+    {
+      "start": 2085.08,
+      "end": 2086.53,
+      "text": "when you combine it with new technology."
+    },
+    {
+      "start": 2086.6,
+      "end": 2089.854,
+      "text": "[D] I think the time to get into a thing is not when everybody else is doing it."
+    },
+    {
+      "start": 2089.92,
+      "end": 2091.28,
+      "text": "It's before the wave happens."
+    },
+    {
+      "start": 2091.44,
+      "end": 2094.294,
+      "text": "So if I was a young person, I would be looking into this right now."
+    },
+    {
+      "start": 2094.36,
+      "end": 2097.334,
+      "text": "[T] Let's just say that AI is taking software coding jobs left and right,"
+    },
+    {
+      "start": 2097.4,
+      "end": 2099.68,
+      "text": "but it's not taking tool and die jobs. [D] Interesting."
+    },
+    {
+      "start": 2099.8,
+      "end": 2100.76,
+      "text": "Yeah."
+    },
+    {
+      "start": 2101.16,
+      "end": 2103.78,
+      "text": "Mechanical, physical things are where it's at, isn't it?"
+    },
+    {
+      "start": 2104.16,
+      "end": 2105.6,
+      "text": "[T] We're not there yet."
+    },
+    {
+      "start": 2106.16,
+      "end": 2110.214,
+      "text": "Optimist robot can barely serve a drink at a party for Elon Musk."
+    },
+    {
+      "start": 2110.28,
+      "end": 2113.013,
+      "text": "It's not going to make a tool and die anytime soon."
+    },
+    {
+      "start": 2113.08,
+      "end": 2115.29,
+      "text": "[D] It's a great point, Ted. I hadn't thought about that?"
+    },
+    {
+      "start": 2115.36,
+      "end": 2118.92,
+      "text": "The reason I wanted to reach out to you is I'm trying to make this product"
+    },
+    {
+      "start": 2119,
+      "end": 2122.814,
+      "text": "in America, and we're doing everything we can to make everything in America."
+    },
+    {
+      "start": 2122.88,
+      "end": 2126.32,
+      "text": "And my understanding is we were told that this right here was made in America,"
+    },
+    {
+      "start": 2126.386,
+      "end": 2130.494,
+      "text": "but when we got it, the box said made in Costa Rica, and so"
+    },
+    {
+      "start": 2130.56,
+      "end": 2133.6,
+      "text": "obviously, I have to make it in America. And so I've learned the hard way."
+    },
+    {
+      "start": 2133.68,
+      "end": 2135.88,
+      "text": "I'm not saying the hard way, but I've learned the right way or"
+    },
+    {
+      "start": 2135.946,
+      "end": 2137.92,
+      "text": "the traditional way to make a mold insert."
+    },
+    {
+      "start": 2138.24,
+      "end": 2142.014,
+      "text": "And I was wondering if you'd be willing to work with me to make another mold"
+    },
+    {
+      "start": 2142.08,
+      "end": 2144.68,
+      "text": "using your technology for this knob. [T] That'd be great."
+    },
+    {
+      "start": 2144.84,
+      "end": 2146.52,
+      "text": "We print stuff like that all the time."
+    },
+    {
+      "start": 2146.586,
+      "end": 2149.134,
+      "text": "We can do all types of geometries."
+    },
+    {
+      "start": 2149.2,
+      "end": 2151.574,
+      "text": "That would be a shoe in for our technology, and we could do it a lot"
+    },
+    {
+      "start": 2151.64,
+      "end": 2153.4,
+      "text": "faster than you would normally as well."
+    },
+    {
+      "start": 2153.466,
+      "end": 2154.56,
+      "text": "[D] Will you please help me?"
+    },
+    {
+      "start": 2154.626,
+      "end": 2156.48,
+      "text": "[T] I will do my best. I'll do my best."
+    },
+    {
+      "start": 2156.72,
+      "end": 2160.294,
+      "text": "Anything to keep grill brush bristles from ending up"
+    },
+    {
+      "start": 2160.36,
+      "end": 2163.294,
+      "text": "in people's throats is definitely something I'm on board with."
+    },
+    {
+      "start": 2163.36,
+      "end": 2165.774,
+      "text": "[D] That's right. I saw your email on your reply to this."
+    },
+    {
+      "start": 2165.84,
+      "end": 2169.01,
+      "text": "So maybe we could talk about that in the pitch in the last part of this video."
+    },
+    {
+      "start": 2169.136,
+      "end": 2171.614,
+      "text": "[T] For sure. I've experienced the problem firsthand."
+    },
+    {
+      "start": 2171.68,
+      "end": 2175.774,
+      "text": "It's funny you said in your email like, People know someone that knows"
+    },
+    {
+      "start": 2175.84,
+      "end": 2177.64,
+      "text": "someone that's had this problem. Like, no, that's me."
+    },
+    {
+      "start": 2177.706,
+      "end": 2179.479,
+      "text": "I've had this problem. I'm the guy."
+    },
+    {
+      "start": 2179.64,
+      "end": 2181.12,
+      "text": "[D] That's great. We'll talk about that later."
+    },
+    {
+      "start": 2181.186,
+      "end": 2183.734,
+      "text": "So that's the story of how we made the Smarter Scrubber."
+    },
+    {
+      "start": 2183.8,
+      "end": 2186.36,
+      "text": "But there's one more thing you need to know about."
+    },
+    {
+      "start": 2186.76,
+      "end": 2191.334,
+      "text": "You remember I told you that we had this American chain mail and we wanted to get"
+    },
+    {
+      "start": 2191.4,
+      "end": 2193.334,
+      "text": "some more chain mail, and we had to go to India to get"
+    },
+    {
+      "start": 2193.4,
+      "end": 2196.294,
+      "text": "the quantities we need in the event that we sell out of everything we"
+    },
+    {
+      "start": 2196.36,
+      "end": 2197.78,
+      "text": "have from the American chain mail."
+    },
+    {
+      "start": 2197.96,
+      "end": 2201.334,
+      "text": "Well, I'm in the middle of making this video, and a couple of days ago,"
+    },
+    {
+      "start": 2201.4,
+      "end": 2204.774,
+      "text": "I thought it would be good to go show you a palette of the American chain mail"
+    },
+    {
+      "start": 2204.84,
+      "end": 2208.18,
+      "text": "and a palette of the Indian chain mail to show you that they're two separate things."
+    },
+    {
+      "start": 2208.32,
+      "end": 2211.52,
+      "text": "While I was filming that, something crazy happened,"
+    },
+    {
+      "start": 2211.64,
+      "end": 2213.48,
+      "text": "and the camera happened to be rolling."
+    },
+    {
+      "start": 2213.747,
+      "end": 2218.24,
+      "text": "Okay, so this is chain mail that we haven't used in any assembly yet."
+    },
+    {
+      "start": 2219.08,
+      "end": 2220.2,
+      "text": "This is from India."
+    },
+    {
+      "start": 2220.8,
+      "end": 2221.68,
+      "text": "Dude, look at that."
+    },
+    {
+      "start": 2222.52,
+      "end": 2223.44,
+      "text": "That's not from India."
+    },
+    {
+      "start": 2224.2,
+      "end": 2224.92,
+      "text": "That's Chinese."
+    },
+    {
+      "start": 2225.8,
+      "end": 2227.48,
+      "text": "Is that- Is that Chinese?"
+    },
+    {
+      "start": 2227.76,
+      "end": 2229.054,
+      "text": "I didn't even notice that."
+    },
+    {
+      "start": 2229.12,
+      "end": 2231.04,
+      "text": "That's your seller's name. He's Indian."
+    },
+    {
+      "start": 2231.84,
+      "end": 2234.52,
+      "text": "I bet they're just shipping it from China to India."
+    },
+    {
+      "start": 2236.16,
+      "end": 2237.62,
+      "text": "I bet that's what they're doing."
+    },
+    {
+      "start": 2238.32,
+      "end": 2240.134,
+      "text": "Is that Chinese? It looks like Chinese."
+    },
+    {
+      "start": 2240.2,
+      "end": 2241.53,
+      "text": "Get Google Translate out."
+    },
+    {
+      "start": 2241.608,
+      "end": 2246.2,
+      "text": "We got this drop ship from India, but I think he just boomeranged it."
+    },
+    {
+      "start": 2246.52,
+      "end": 2246.92,
+      "text": "I do, too."
+    },
+    {
+      "start": 2247.44,
+      "end": 2251.654,
+      "text": "I think a person in India told us it was from India, but it was actually"
+    },
+    {
+      "start": 2251.72,
+      "end": 2253.2,
+      "text": "from China, is what I'm thinking."
+    },
+    {
+      "start": 2253.48,
+      "end": 2259.12,
+      "text": "It's got Chinese writing on it. Pu Qi Han Haipai."
+    },
+    {
+      "start": 2259.8,
+      "end": 2261.68,
+      "text": "Man, that looks Chinese. What is that?"
+    },
+    {
+      "start": 2261.92,
+      "end": 2265.134,
+      "text": "Says, Haipai refers to East meets West culture from Shanghai"
+    },
+    {
+      "start": 2265.2,
+      "end": 2266.614,
+      "text": "in the 20th and 21st centuries."
+    },
+    {
+      "start": 2266.68,
+      "end": 2268.614,
+      "text": "It's part of the culture of Shanghai."
+    },
+    {
+      "start": 2268.68,
+      "end": 2269.8,
+      "text": "That's what it is. Haipai."
+    },
+    {
+      "start": 2271.08,
+      "end": 2273.814,
+      "text": "I don't know what that means."
+    },
+    {
+      "start": 2273.88,
+      "end": 2277.64,
+      "text": "I don't know if that means, but it's definitely not English."
+    },
+    {
+      "start": 2277.92,
+      "end": 2278.4,
+      "text": "Okay."
+    },
+    {
+      "start": 2279.4,
+      "end": 2283.614,
+      "text": "This is so hard. This is so hard."
+    },
+    {
+      "start": 2283.68,
+      "end": 2285.04,
+      "text": "It's the supply chain."
+    },
+    {
+      "start": 2285.92,
+      "end": 2287.64,
+      "text": "Jack. It always goes back to China."
+    },
+    {
+      "start": 2288.84,
+      "end": 2289.2,
+      "text": "Yeah."
+    },
+    {
+      "start": 2289.72,
+      "end": 2293.52,
+      "text": "Everybody wants to make a dime, so it's worth it."
+    },
+    {
+      "start": 2294.68,
+      "end": 2295.2,
+      "text": "I'm shocked."
+    },
+    {
+      "start": 2295.662,
+      "end": 2298.814,
+      "text": "It's pretty weird to set out to try to make a thing"
+    },
+    {
+      "start": 2298.88,
+      "end": 2302.4,
+      "text": "completely in America and to find out towards the end of the process"
+    },
+    {
+      "start": 2303.04,
+      "end": 2305.28,
+      "text": "that you made something in China anyways."
+    },
+    {
+      "start": 2305.88,
+      "end": 2307.654,
+      "text": "That's really hard to swallow."
+    },
+    {
+      "start": 2307.72,
+      "end": 2311.56,
+      "text": "So this is a big, big problem."
+    },
+    {
+      "start": 2312.12,
+      "end": 2315.854,
+      "text": "And I have like 100 things I want to say because I've learned so much in this"
+    },
+    {
+      "start": 2315.92,
+      "end": 2318.84,
+      "text": "process and I did a lot of things wrong."
+    },
+    {
+      "start": 2319.08,
+      "end": 2321.2,
+      "text": "Obviously, we did a lot of things wrong."
+    },
+    {
+      "start": 2321.855,
+      "end": 2324.525,
+      "text": "But I'll limit myself to saying this one thing."
+    },
+    {
+      "start": 2324.591,
+      "end": 2328.12,
+      "text": "If you are ever, ever in a position to make a decision"
+    },
+    {
+      "start": 2328.32,
+      "end": 2330.2,
+      "text": "about where your thing is manufactured."
+    },
+    {
+      "start": 2331.32,
+      "end": 2336.574,
+      "text": "Take a second and consider making a little less profit maybe in order"
+    },
+    {
+      "start": 2336.64,
+      "end": 2338.16,
+      "text": "to invest in your local community."
+    },
+    {
+      "start": 2338.906,
+      "end": 2342.176,
+      "text": "Because these are people you know and love, and they need jobs,"
+    },
+    {
+      "start": 2343.16,
+      "end": 2345.44,
+      "text": "and they need to be able to feed their families."
+    },
+    {
+      "start": 2345.913,
+      "end": 2349.483,
+      "text": "And you need a person in your hometown that can injection mold."
+    },
+    {
+      "start": 2349.55,
+      "end": 2351.49,
+      "text": "You need to be able to do that locally."
+    },
+    {
+      "start": 2351.56,
+      "end": 2353.12,
+      "text": "So that's what I would say."
+    },
+    {
+      "start": 2353.32,
+      "end": 2354.92,
+      "text": "I feel a lot of things right now."
+    },
+    {
+      "start": 2355.04,
+      "end": 2356.334,
+      "text": "I'm not going to say all of them."
+    },
+    {
+      "start": 2356.4,
+      "end": 2357.48,
+      "text": "It's time for the pitch."
+    },
+    {
+      "start": 2357.8,
+      "end": 2359.97,
+      "text": "And before I give you the pitch, I want to say this."
+    },
+    {
+      "start": 2360.294,
+      "end": 2363.294,
+      "text": "I don't think it's right that I had to have a YouTube"
+    },
+    {
+      "start": 2363.36,
+      "end": 2364.92,
+      "text": "channel in order to take this risk."
+    },
+    {
+      "start": 2365.4,
+      "end": 2368.574,
+      "text": "I hope that we will invest in manufacturing in America and other"
+    },
+    {
+      "start": 2368.64,
+      "end": 2371.934,
+      "text": "places in the West so that it will make sense for people"
+    },
+    {
+      "start": 2372,
+      "end": 2374,
+      "text": "who have a really good idea that will help people."
+    },
+    {
+      "start": 2374.4,
+      "end": 2377.014,
+      "text": "It'll make sense for them to make these types of things in their"
+    },
+    {
+      "start": 2377.08,
+      "end": 2378.64,
+      "text": "hometown and take them to market."
+    },
+    {
+      "start": 2379.12,
+      "end": 2382.414,
+      "text": "I don't like the fact that having a YouTube channel was a big part of the"
+    },
+    {
+      "start": 2382.48,
+      "end": 2384.2,
+      "text": "calculus in order for me to do this."
+    },
+    {
+      "start": 2384.68,
+      "end": 2386.08,
+      "text": "So I just wanted to say that."
+    },
+    {
+      "start": 2386.16,
+      "end": 2387.4,
+      "text": "So here we go."
+    },
+    {
+      "start": 2387.56,
+      "end": 2389.76,
+      "text": "I'm going to give you a pitch on the Smarter Scrubber,"
+    },
+    {
+      "start": 2389.826,
+      "end": 2392.68,
+      "text": "and we will see if you want to buy one. All right."
+    },
+    {
+      "start": 2392.92,
+      "end": 2396.294,
+      "text": "My name's Destin, and I would like to tell you about a product called"
+    },
+    {
+      "start": 2396.36,
+      "end": 2397.2,
+      "text": "the Smarter Scrubber."
+    },
+    {
+      "start": 2397.266,
+      "end": 2401.001,
+      "text": "I genuinely believe this is the smartest way to clean your grill."
+    },
+    {
+      "start": 2401.068,
+      "end": 2403.53,
+      "text": "If you go to a store right now and you look at the shelves,"
+    },
+    {
+      "start": 2403.6,
+      "end": 2408.92,
+      "text": "you're going to see a ton of options for steel, bristle, wire grill scrubbers."
+    },
+    {
+      "start": 2409.32,
+      "end": 2410.974,
+      "text": "And they're interesting."
+    },
+    {
+      "start": 2411.04,
+      "end": 2412.52,
+      "text": "I mean, there's a lot of different designs."
+    },
+    {
+      "start": 2412.586,
+      "end": 2416.214,
+      "text": "You can tell that this is a very difficult problem because of all the different"
+    },
+    {
+      "start": 2416.28,
+      "end": 2418.65,
+      "text": "solutions people are throwing out there for trying to solve it."
+    },
+    {
+      "start": 2418.72,
+      "end": 2420.68,
+      "text": "And these wire bristles are a problem."
+    },
+    {
+      "start": 2421.36,
+      "end": 2425.158,
+      "text": "I don't know if you know this, but those bristles can come off on your"
+    },
+    {
+      "start": 2425.28,
+      "end": 2428.4,
+      "text": "grill, and then when you're drilling, they can get in your food"
+    },
+    {
+      "start": 2428.6,
+      "end": 2429.72,
+      "text": "and you can ingest that."
+    },
+    {
+      "start": 2430.16,
+      "end": 2431.32,
+      "text": "And that's very, very bad."
+    },
+    {
+      "start": 2431.8,
+      "end": 2436,
+      "text": "If you have ever talked to somebody that this has happened to, it's a big deal."
+    },
+    {
+      "start": 2436.2,
+      "end": 2439.92,
+      "text": "And chances are you know somebody that knows somebody that this has happened"
+    },
+    {
+      "start": 2440.08,
+      "end": 2442.843,
+      "text": "to because this happens way more than you think."
+    },
+    {
+      "start": 2443.243,
+      "end": 2443.944,
+      "text": "So this is Ted."
+    },
+    {
+      "start": 2444.011,
+      "end": 2446.694,
+      "text": "Ted, my understanding is you had something happen"
+    },
+    {
+      "start": 2446.76,
+      "end": 2448.44,
+      "text": "to you with a grill brush. What happened?"
+    },
+    {
+      "start": 2448.782,
+      "end": 2454.454,
+      "text": "I was out barbecuing, and I went to eat my salmon that night,"
+    },
+    {
+      "start": 2454.52,
+      "end": 2459.774,
+      "text": "and a bristle brush that had gotten on my grill got into my salmon and impaled"
+    },
+    {
+      "start": 2459.84,
+      "end": 2461.62,
+      "text": "it myself at the back of my throat."
+    },
+    {
+      "start": 2461.76,
+      "end": 2466.534,
+      "text": "And with some skilled work by my wife and a pair of forceps,"
+    },
+    {
+      "start": 2466.6,
+      "end": 2468.974,
+      "text": "I was able to get it out, or she was able to get out of my throat."
+    },
+    {
+      "start": 2469.04,
+      "end": 2471.48,
+      "text": "When it stuck in you, where was it? What did it feel like?"
+    },
+    {
+      "start": 2472.072,
+      "end": 2475.96,
+      "text": "All the way at the back, I could barely see it, halfway impaled."
+    },
+    {
+      "start": 2476.36,
+      "end": 2480.494,
+      "text": "And I thought it was a fishbone, but it pretty clearly wasn't"
+    },
+    {
+      "start": 2480.56,
+      "end": 2482.01,
+      "text": "once we started to look at it."
+    },
+    {
+      "start": 2482.08,
+      "end": 2483.917,
+      "text": "And it was painful."
+    },
+    {
+      "start": 2483.984,
+      "end": 2485.28,
+      "text": "It's hard to talk."
+    },
+    {
+      "start": 2485.8,
+      "end": 2487.72,
+      "text": "I was lucky that we were able to get it out without having to go"
+    },
+    {
+      "start": 2487.786,
+      "end": 2488.854,
+      "text": "to the emergency room."
+    },
+    {
+      "start": 2488.92,
+      "end": 2491.48,
+      "text": "My brother is an ear, nose, and throat doctor, and he says"
+    },
+    {
+      "start": 2491.88,
+      "end": 2494.85,
+      "text": "every summer, he's got someone coming in with this problem, and it can be"
+    },
+    {
+      "start": 2494.92,
+      "end": 2496.414,
+      "text": "easy in the case of what mine was."
+    },
+    {
+      "start": 2496.48,
+      "end": 2497.734,
+      "text": "It's like, Oh, just see if you can pull it out."
+    },
+    {
+      "start": 2497.8,
+      "end": 2498.6,
+      "text": "I went, Okay."
+    },
+    {
+      "start": 2499.08,
+      "end": 2502.4,
+      "text": "Or it can go all the way down your throat, and now you're talking about"
+    },
+    {
+      "start": 2502.52,
+      "end": 2507.934,
+      "text": "a semi-surgical procedure to get that thing So it's not safe,"
+    },
+    {
+      "start": 2508,
+      "end": 2510.57,
+      "text": "and it's only a matter of time if you keep using those bristle brushes."
+    },
+    {
+      "start": 2510.644,
+      "end": 2514.694,
+      "text": "Ted's situation ended up okay, but there is a worse situation that can happen."
+    },
+    {
+      "start": 2514.76,
+      "end": 2517.774,
+      "text": "John and I have a mutual friend that's a doctor, and when we gave him a smarter"
+    },
+    {
+      "start": 2517.84,
+      "end": 2519.8,
+      "text": "scrubber, he told us a story about his partner."
+    },
+    {
+      "start": 2520,
+      "end": 2523.294,
+      "text": "He had to do an exploratory surgery to find a grill brush bristle"
+    },
+    {
+      "start": 2523.36,
+      "end": 2525.04,
+      "text": "in the bowel of one of his patients."
+    },
+    {
+      "start": 2525.64,
+      "end": 2527.84,
+      "text": "Apparently, this is way more common than I realized."
+    },
+    {
+      "start": 2528.16,
+      "end": 2530.574,
+      "text": "Tyler goes on to explain that he hasn't owned a grill brush"
+    },
+    {
+      "start": 2530.64,
+      "end": 2531.92,
+      "text": "with bristles since residency."
+    },
+    {
+      "start": 2532.24,
+      "end": 2535.534,
+      "text": "I've debated on whether or not to show you pictures of that, and I've"
+    },
+    {
+      "start": 2535.6,
+      "end": 2536.85,
+      "text": "decided to do it this way."
+    },
+    {
+      "start": 2536.92,
+      "end": 2540.534,
+      "text": "I'm going to show you a picture for one second on the screen, and you have"
+    },
+    {
+      "start": 2540.6,
+      "end": 2542.01,
+      "text": "the option of closing your eyes."
+    },
+    {
+      "start": 2542.08,
+      "end": 2546.16,
+      "text": "But this is from a medical paper of a person that had to go under"
+    },
+    {
+      "start": 2546.28,
+      "end": 2548.934,
+      "text": "exploratory surgery, and they found the bristle sticking"
+    },
+    {
+      "start": 2549,
+      "end": 2550.751,
+      "text": "out of the gut inside the body."
+    },
+    {
+      "start": 2551.08,
+      "end": 2553.36,
+      "text": "So I'm going to show you that picture. Close your eyes if you want to."
+    },
+    {
+      "start": 2553.426,
+      "end": 2555.734,
+      "text": "In three, two, one. There it is."
+    },
+    {
+      "start": 2555.8,
+      "end": 2557.16,
+      "text": "Yeah, that's bad. It's bad."
+    },
+    {
+      "start": 2557.4,
+      "end": 2558.78,
+      "text": "You don't want to do that."
+    },
+    {
+      "start": 2559.44,
+      "end": 2563.68,
+      "text": "That was the thrust behind wanting to build the Smarter Scrubber."
+    },
+    {
+      "start": 2563.88,
+      "end": 2566.96,
+      "text": "But the more I get to thinking about why this needs to exist,"
+    },
+    {
+      "start": 2567.8,
+      "end": 2571.16,
+      "text": "the more I realize there are other reasons why we should make a product like this."
+    },
+    {
+      "start": 2571.48,
+      "end": 2572.8,
+      "text": "This is made in America."
+    },
+    {
+      "start": 2573.08,
+      "end": 2575.374,
+      "text": "All of the components are not currently made in America,"
+    },
+    {
+      "start": 2575.44,
+      "end": 2576.534,
+      "text": "but we're moving that way."
+    },
+    {
+      "start": 2576.6,
+      "end": 2578.04,
+      "text": "We're trying very hard to do that."
+    },
+    {
+      "start": 2578.4,
+      "end": 2582.014,
+      "text": "I have noticed that a lot of products on the market right now are cheap."
+    },
+    {
+      "start": 2582.08,
+      "end": 2583.254,
+      "text": "They're made poorly."
+    },
+    {
+      "start": 2583.32,
+      "end": 2586.44,
+      "text": "I understand why you would be tempted to buy the cheaper product because it"
+    },
+    {
+      "start": 2586.56,
+      "end": 2588.174,
+      "text": "feels like you're spending less money, right?"
+    },
+    {
+      "start": 2588.24,
+      "end": 2591.92,
+      "text": "Let's look at a graph and let me show you why even if the Smarter Scrubber is four"
+    },
+    {
+      "start": 2591.986,
+      "end": 2594.56,
+      "text": "times the cost of this, it's in your best interest."
+    },
+    {
+      "start": 2595.08,
+      "end": 2595.57,
+      "text": "Check this out."
+    },
+    {
+      "start": 2595.64,
+      "end": 2598.814,
+      "text": "If we look at this graph, when you first purchase, it feels like this."
+    },
+    {
+      "start": 2598.88,
+      "end": 2602.214,
+      "text": "It feels like the cheap one cost about one-fourth as much,"
+    },
+    {
+      "start": 2602.28,
+      "end": 2603.28,
+      "text": "and you've spent that much money."
+    },
+    {
+      "start": 2603.346,
+      "end": 2605.08,
+      "text": "It feels like you've wasted money, right?"
+    },
+    {
+      "start": 2605.146,
+      "end": 2608.175,
+      "text": "This literally says on a sticker to buy a new one every year."
+    },
+    {
+      "start": 2608.44,
+      "end": 2610.84,
+      "text": "If we play this out over time, look at what happens."
+    },
+    {
+      "start": 2611.2,
+      "end": 2614.24,
+      "text": "You are buying a new one of the cheap ones every year instead of just"
+    },
+    {
+      "start": 2614.306,
+      "end": 2616,
+      "text": "buying one good one that lasts."
+    },
+    {
+      "start": 2616.55,
+      "end": 2621.08,
+      "text": "So you are saving money by buying the more expensive scrubber over time."
+    },
+    {
+      "start": 2621.44,
+      "end": 2623.6,
+      "text": "It's very important. This has actually got a name."
+    },
+    {
+      "start": 2623.666,
+      "end": 2627.127,
+      "text": "This is called the Boots Theory of socioeconomic unfairness."
+    },
+    {
+      "start": 2627.48,
+      "end": 2630.654,
+      "text": "The theory is if you buy a cheaper product, you're going to spend more money"
+    },
+    {
+      "start": 2630.72,
+      "end": 2632.84,
+      "text": "over time because you have to keep replacing it."
+    },
+    {
+      "start": 2633.32,
+      "end": 2635.92,
+      "text": "So it makes more sense to get a higher quality item."
+    },
+    {
+      "start": 2636.17,
+      "end": 2638.52,
+      "text": "So one of the things we wanted to do with the Smarter Scrubber is we wanted"
+    },
+    {
+      "start": 2638.586,
+      "end": 2642.174,
+      "text": "to make something that was strong that you would have for a long time."
+    },
+    {
+      "start": 2642.24,
+      "end": 2645.52,
+      "text": "One thing I don't apologize for, I've actually heard this feedback,"
+    },
+    {
+      "start": 2645.8,
+      "end": 2648.88,
+      "text": "I do not apologize for this feeling like a medieval weapon."
+    },
+    {
+      "start": 2649.082,
+      "end": 2653.614,
+      "text": "We actually talked to a person that handles grill products for a big company."
+    },
+    {
+      "start": 2653.68,
+      "end": 2655.33,
+      "text": "You would recognize the name if I told you."
+    },
+    {
+      "start": 2655.4,
+      "end": 2656.32,
+      "text": "And we put it in his hand."
+    },
+    {
+      "start": 2656.386,
+      "end": 2659.88,
+      "text": "The first thing he said was, well, this feels like an American made product."
+    },
+    {
+      "start": 2660.44,
+      "end": 2663.12,
+      "text": "And I was like, What does that mean? And he said, It's very strong."
+    },
+    {
+      "start": 2663.68,
+      "end": 2665,
+      "text": "And I don't apologize for that."
+    },
+    {
+      "start": 2665.12,
+      "end": 2666.37,
+      "text": "That's what I was going for."
+    },
+    {
+      "start": 2666.44,
+      "end": 2669.36,
+      "text": "Another thing I want to tell you about is the fact that I designed it"
+    },
+    {
+      "start": 2669.8,
+      "end": 2675.214,
+      "text": "so that you can pull the head off the top and you can clean things by hand."
+    },
+    {
+      "start": 2675.28,
+      "end": 2679.694,
+      "text": "So even if you don't use it on your grill, you can use just the head at your sink"
+    },
+    {
+      "start": 2679.76,
+      "end": 2681.814,
+      "text": "and you can clean your cast iron pots and pans with that."
+    },
+    {
+      "start": 2681.88,
+      "end": 2683.24,
+      "text": "It works really, really well."
+    },
+    {
+      "start": 2683.4,
+      "end": 2686.24,
+      "text": "Another thing is you can take this and just throw it in the dishwasher."
+    },
+    {
+      "start": 2686.68,
+      "end": 2689.16,
+      "text": "We've made it out of materials that can handle the dishwasher no problem,"
+    },
+    {
+      "start": 2689.226,
+      "end": 2692.76,
+      "text": "so you can clean this thing and get the gunk off of it really easily."
+    },
+    {
+      "start": 2693.32,
+      "end": 2697.334,
+      "text": "The Smarter Scrubber is a problem that I wanted to solve."
+    },
+    {
+      "start": 2697.4,
+      "end": 2699.52,
+      "text": "I've been wanting to design something and build it in America"
+    },
+    {
+      "start": 2699.586,
+      "end": 2702.694,
+      "text": "for a for a really, really long time, and this is my first go at it."
+    },
+    {
+      "start": 2702.76,
+      "end": 2705.414,
+      "text": "And I would encourage you to try it because I genuinely"
+    },
+    {
+      "start": 2705.48,
+      "end": 2706.72,
+      "text": "think you will love it."
+    },
+    {
+      "start": 2707.16,
+      "end": 2709.12,
+      "text": "You can go check out the reviews on the website."
+    },
+    {
+      "start": 2709.186,
+      "end": 2711.56,
+      "text": "We're selling this at SmarterScrubber.com"
+    },
+    {
+      "start": 2712.2,
+      "end": 2713.334,
+      "text": "I think it's a great thing."
+    },
+    {
+      "start": 2713.4,
+      "end": 2715.854,
+      "text": "You're going to pay a little more for it, and that's because we made it well."
+    },
+    {
+      "start": 2715.92,
+      "end": 2717.28,
+      "text": "We didn't make it to just throw away."
+    },
+    {
+      "start": 2717.518,
+      "end": 2722.734,
+      "text": "If you go into the store and you buy any one of these, I want you to think"
+    },
+    {
+      "start": 2722.8,
+      "end": 2724.45,
+      "text": "about the person that made it for you."
+    },
+    {
+      "start": 2724.52,
+      "end": 2726.6,
+      "text": "They don't care about you like I care about you."
+    },
+    {
+      "start": 2727,
+      "end": 2729.17,
+      "text": "When they put a sticker on here, it says something like,"
+    },
+    {
+      "start": 2729.24,
+      "end": 2731.718,
+      "text": "Stop using if bristles are found on the grill,"
+    },
+    {
+      "start": 2731.798,
+      "end": 2733.68,
+      "text": "replace after one year of use is recommended."
+    },
+    {
+      "start": 2733.746,
+      "end": 2735.88,
+      "text": "That person is just trying to sell you a grill scrubber."
+    },
+    {
+      "start": 2736.36,
+      "end": 2736.84,
+      "text": "I'm not."
+    },
+    {
+      "start": 2737.76,
+      "end": 2740.36,
+      "text": "I'm trying to make your life better, and I'm trying to make it in America"
+    },
+    {
+      "start": 2740.426,
+      "end": 2743.36,
+      "text": "because I want people here locally to have jobs."
+    },
+    {
+      "start": 2743.52,
+      "end": 2745.44,
+      "text": "I care about you. I care about your health."
+    },
+    {
+      "start": 2746.16,
+      "end": 2750.414,
+      "text": "And I want you to try out the smarter scrubber to see if this is something"
+    },
+    {
+      "start": 2750.48,
+      "end": 2752.494,
+      "text": "that would work for you and your family."
+    },
+    {
+      "start": 2752.56,
+      "end": 2754.36,
+      "text": "Ultimately, it's about playing the long game."
+    },
+    {
+      "start": 2754.84,
+      "end": 2756.76,
+      "text": "You can buy nice or you can buy twice."
+    },
+    {
+      "start": 2757.32,
+      "end": 2759.992,
+      "text": "I think if you buy this, it'll last for a really, really long time."
+    },
+    {
+      "start": 2760.192,
+      "end": 2762.8,
+      "text": "If you buy those other things, I'm worried that you might get hurt."
+    },
+    {
+      "start": 2762.92,
+      "end": 2765.232,
+      "text": "I would really like for you to try the Smarter Scrubber at"
+    },
+    {
+      "start": 2765.299,
+      "end": 2766.44,
+      "text": "SmarterScrubber.com."
+    },
+    {
+      "start": 2766.506,
+      "end": 2769.04,
+      "text": "If you don't buy the smarter scrubber, do me a favor."
+    },
+    {
+      "start": 2769.4,
+      "end": 2772.56,
+      "text": "Don't use any of these wire bristle grill brushes anymore."
+    },
+    {
+      "start": 2772.84,
+      "end": 2774.89,
+      "text": "I don't think it's safe for you or your family."
+    },
+    {
+      "start": 2774.96,
+      "end": 2776.21,
+      "text": "All right, how did the pitch go?"
+    },
+    {
+      "start": 2776.28,
+      "end": 2777.974,
+      "text": "I hope it worked. We'll see."
+    },
+    {
+      "start": 2778.04,
+      "end": 2779.16,
+      "text": "I guess we'll find out."
+    },
+    {
+      "start": 2779.72,
+      "end": 2784.094,
+      "text": "So I hope after this whole thing was done, that you recognize what I was going for."
+    },
+    {
+      "start": 2784.16,
+      "end": 2787.56,
+      "text": "I was trying to get the right mixture of intellectual humility because I had no"
+    },
+    {
+      "start": 2787.626,
+      "end": 2791.32,
+      "text": "idea what I was doing, but also just sheer determination to make it happen."
+    },
+    {
+      "start": 2791.56,
+      "end": 2793.76,
+      "text": "So that's the balance I was trying to strike."
+    },
+    {
+      "start": 2794.08,
+      "end": 2797.494,
+      "text": "And I would love to know your comments on the experiment as a whole."
+    },
+    {
+      "start": 2797.56,
+      "end": 2800.254,
+      "text": "It took a lot of time, but clearly I did some stuff wrong."
+    },
+    {
+      "start": 2800.32,
+      "end": 2802.37,
+      "text": "I could have done better. I'd love some feedback."
+    },
+    {
+      "start": 2802.44,
+      "end": 2805.45,
+      "text": "With that, I got some things that I want to say that's important to tell you."
+    },
+    {
+      "start": 2805.52,
+      "end": 2807.76,
+      "text": "So enjoy the footage while I say this stuff."
+    },
+    {
+      "start": 2807.88,
+      "end": 2811.2,
+      "text": "First of all, John has been working with the team to stockpile these scrubbers."
+    },
+    {
+      "start": 2811.4,
+      "end": 2814.915,
+      "text": "We've got thousands of them stockpiled and ready to go, but we don't know how"
+    },
+    {
+      "start": 2814.982,
+      "end": 2817.09,
+      "text": "many orders we're going to get as a result of the video."
+    },
+    {
+      "start": 2817.16,
+      "end": 2820.614,
+      "text": "So if you go to the website and it says pre-order, that means the grill"
+    },
+    {
+      "start": 2820.68,
+      "end": 2822.6,
+      "text": "scrubber you're buying hasn't been made yet."
+    },
+    {
+      "start": 2822.72,
+      "end": 2826.16,
+      "text": "So you can go ahead and purchase it, and we'll get it to you as soon as it's built."
+    },
+    {
+      "start": 2826.36,
+      "end": 2829.01,
+      "text": "We're hoping to get a surge of orders from this video, so if that happens,"
+    },
+    {
+      "start": 2829.08,
+      "end": 2832.12,
+      "text": "please be patient with us. John's a little scared, which is fun."
+    },
+    {
+      "start": 2832.2,
+      "end": 2835.134,
+      "text": "Our plan is to use the profits we get from these initial sales and put it"
+    },
+    {
+      "start": 2835.2,
+      "end": 2836.96,
+      "text": "right back into the process and tooling."
+    },
+    {
+      "start": 2837.104,
+      "end": 2840.894,
+      "text": "For example, right now, our bottleneck is the laser marking process."
+    },
+    {
+      "start": 2840.96,
+      "end": 2843.56,
+      "text": "We're going to try to build a conveyor belt system to do that automatically."
+    },
+    {
+      "start": 2843.626,
+      "end": 2845.679,
+      "text": "That's going to be a tremendous investment."
+    },
+    {
+      "start": 2845.8,
+      "end": 2849.014,
+      "text": "But one of the lessons I learned from this experiment, as well as the manufacturing"
+    },
+    {
+      "start": 2849.08,
+      "end": 2852.04,
+      "text": "series, is that it's smart to invest in your process and tooling."
+    },
+    {
+      "start": 2852.28,
+      "end": 2855.8,
+      "text": "Which leads me to the fact that a couple of these components may or may not be made"
+    },
+    {
+      "start": 2855.866,
+      "end": 2858.28,
+      "text": "in a different country, depending on when you buy it."
+    },
+    {
+      "start": 2858.56,
+      "end": 2861.461,
+      "text": "I'm working on making everything 100% in America."
+    },
+    {
+      "start": 2861.68,
+      "end": 2864.854,
+      "text": "However, if you buy it and it has something from somewhere else,"
+    },
+    {
+      "start": 2864.92,
+      "end": 2866.85,
+      "text": "we're going to make sure that the quality is top-notch."
+    },
+    {
+      "start": 2866.92,
+      "end": 2869.16,
+      "text": "So we're working on that. Thank you for your patience."
+    },
+    {
+      "start": 2869.48,
+      "end": 2872.4,
+      "text": "A huge thank you to patrons and people who tested early prototypes."
+    },
+    {
+      "start": 2872.48,
+      "end": 2875.32,
+      "text": "We listened to everything you said and we made changes, and that made"
+    },
+    {
+      "start": 2875.386,
+      "end": 2877.174,
+      "text": "the product better. Thank you."
+    },
+    {
+      "start": 2877.24,
+      "end": 2878.894,
+      "text": "Currently, we can ship to the US and Canada."
+    },
+    {
+      "start": 2878.96,
+      "end": 2880,
+      "text": "We figured all that out."
+    },
+    {
+      "start": 2880.066,
+      "end": 2881.294,
+      "text": "We have some partners in Europe."
+    },
+    {
+      "start": 2881.36,
+      "end": 2884.32,
+      "text": "We're trying to get there, and we'll expand to worldwide as we can."
+    },
+    {
+      "start": 2884.76,
+      "end": 2887.28,
+      "text": "When you get this thing, if for any reason you're not happy,"
+    },
+    {
+      "start": 2887.346,
+      "end": 2889.389,
+      "text": "reach out to us and we'll make it right."
+    },
+    {
+      "start": 2889.52,
+      "end": 2892.84,
+      "text": "That being said, don't put this on a crazy hot surface."
+    },
+    {
+      "start": 2893.04,
+      "end": 2896.134,
+      "text": "You can melt it if you're not thoughtful, so be smart about it."
+    },
+    {
+      "start": 2896.2,
+      "end": 2899.64,
+      "text": "Last thing, if you are interested in being a wholesaler for the Smarter Scrubber,"
+    },
+    {
+      "start": 2899.88,
+      "end": 2903.014,
+      "text": "as we get more efficient and we're able to bring the cost down,"
+    },
+    {
+      "start": 2903.08,
+      "end": 2907.054,
+      "text": "maybe we get more tooling that's more efficient, then we would love to have"
+    },
+    {
+      "start": 2907.12,
+      "end": 2908.6,
+      "text": "the Smarter Scrubber in your store."
+    },
+    {
+      "start": 2908.68,
+      "end": 2912.214,
+      "text": "So if you're interested in selling this thing, I've got a link down"
+    },
+    {
+      "start": 2912.28,
+      "end": 2913.16,
+      "text": "in the video description."
+    },
+    {
+      "start": 2913.226,
+      "end": 2916.014,
+      "text": "If you'll reach out, we'll be in touch, and maybe we can work"
+    },
+    {
+      "start": 2916.08,
+      "end": 2918.84,
+      "text": "something out as we get more efficient at building this thing."
+    },
+    {
+      "start": 2919.6,
+      "end": 2921.76,
+      "text": "All right, that's it. I hope you enjoyed this."
+    },
+    {
+      "start": 2921.88,
+      "end": 2924.2,
+      "text": "Thank you so much for watching this video. I'm grateful."
+    },
+    {
+      "start": 2924.6,
+      "end": 2926.56,
+      "text": "I'm Destin. You're getting Smarter Every Day."
+    },
+    {
+      "start": 2927,
+      "end": 2928.04,
+      "text": "Have a good one. Bye."
+    }
+  ]
+}

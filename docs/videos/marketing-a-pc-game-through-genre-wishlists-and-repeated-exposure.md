@@ -9,6 +9,7 @@ Video: 52:17 · Reading: ~14 minutes · Basis: captions + 11 inspected snapshots
 
 Topics: Game marketing · Steam
 Generated: November 2026
+Processing tokens: Not recorded — Exact per-video model token usage was not recorded during original processing.
 
 ## Overview
 

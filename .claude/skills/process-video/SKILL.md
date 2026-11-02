@@ -10,6 +10,19 @@ and a substantial, easy-to-scan article that retains the video's explanations, e
 tradeoffs, caveats, and useful specifics. Use the current agent for writing; no separate AI
 service is required. Run commands from the repository root.
 
+## Check for duplicates first
+
+Before fetching or writing, normalize each supplied YouTube URL to its video ID using
+`videoId` from `tools/core.mjs`. Compare IDs, not full URLs or titles, so short links,
+timestamp parameters, and other URL variants count as the same video. Deduplicate IDs
+within a batch as well as checking `articles/*.json` and `sources/*/source.json` for matches.
+
+If an article already exists for that ID, tell the owner it has already been processed and
+point to its existing reading page; skip reprocessing unless the request explicitly asks
+for a revision, refresh, or another edition. Continue processing any new videos in the batch.
+If only a saved source exists, reuse it and finish the missing write-up rather than treating
+caption retrieval alone as completed processing. Preserve existing articles and user edits.
+
 ## Get the evidence
 
 1. Run `node tools/witness.mjs fetch "<youtube-url>"`. This retrieves metadata and English
@@ -73,6 +86,8 @@ source folder, stop before overwriting and report the collision for deliberate d
 - Assign two concise `topics` labels, reusing existing library labels when appropriate. Set
   `generatedMonth` to the month the reading was first generated (`YYYY-MM`, using the user's
   timezone), not the video's publication month. Preserve it on revisions and rebuilds.
+  Also record `processedAt` as the first-generation ISO timestamp with timezone. The library
+  uses it to put the newest readings first and display processing dates; preserve it on revisions.
 - Use connected prose under informative headings, with lists when the material benefits from them.
   Remove filler, repetition, greetings, and housekeeping. Reorganize locally for clarity while
   keeping section time ranges in source order. Write a synthesis in your own words, not a lightly
@@ -96,6 +111,18 @@ source folder, stop before overwriting and report the collision for deliberate d
   lists both editions, and their pages link to each other automatically.
 
 ## Render and verify
+
+Record `processingUsage` in each new article (see the article format). Prefer reported model
+input plus output usage attributable to the video when available. Otherwise provide a clearly
+labeled rough estimate (`estimated: true`), tracking its basis from the start. A reproducible
+fallback is visible text handled during the run: guidance and transcript chunks read, authored
+text/code, and available tool text. Approximate at four characters per token and round coarsely.
+Record which material was counted and any repeated reads in `note`. Explicitly state that
+this visible-work estimate excludes unmeasured context replay, image tokens, and hidden
+reasoning; it is not a complete billed-usage total. Don't pass transcript/article size alone
+off as total processing usage or divide shared batch usage arbitrarily. Use `null` only when
+neither a measurement nor a defensible scoped estimate is available. Preserve counts on
+rebuild and distinguish later revision work from original processing.
 
 Run `node tools/witness.mjs build`, `node tools/witness.mjs check`, and `node --test` after
 changing the tools. A content-only addition needs build and check. These produce matching HTML

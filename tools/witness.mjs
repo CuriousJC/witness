@@ -129,6 +129,7 @@ function outputs() {
     ['docs/index.html', renderIndex(entries)],
     ['docs/assets/reading.css', fs.readFileSync(at('web', 'reading.css'), 'utf8')],
     ['docs/assets/library.js', fs.readFileSync(at('web', 'library.js'), 'utf8')],
+    ['docs/assets/images.js', fs.readFileSync(at('web', 'images.js'), 'utf8')],
     ...entries.map(({ article, source, frames }) => [`docs/videos/${article.slug}.html`, renderArticle(article, source, { frames, editions: entries.filter(e => e.article.videoId === source.videoId).map(e => e.article) })]),
     ...entries.map(({ article, source, frames }) => [`docs/videos/${article.slug}.md`, renderMarkdown(article, source, { frames, editions: entries.filter(e => e.article.videoId === source.videoId).map(e => e.article) })]),
     ...entries.flatMap(({ article, source, frames }) => (article.sections.flatMap(s => s.figures || [])).map(f => {

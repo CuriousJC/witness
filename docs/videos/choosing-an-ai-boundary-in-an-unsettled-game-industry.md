@@ -9,6 +9,7 @@ Video: 17:00 · Reading: ~8 minutes · Basis: captions only
 
 Topics: AI · Game industry
 Generated: November 2026
+Processing tokens: Not recorded — Exact per-video model token usage was not recorded during original processing.
 
 ## Overview
 

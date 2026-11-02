@@ -1,0 +1,5964 @@
+{
+  "videoId": "qjyPRnzlx8A",
+  "slug": "ultimate-gamedev-funding-tierlist",
+  "url": "https://www.youtube.com/watch?v=qjyPRnzlx8A",
+  "title": "Ultimate gamedev funding tierlist",
+  "channel": "BiteMe Games",
+  "published": "2023-11-10",
+  "duration": 2406,
+  "description": "Get me to coach your game & gamedev career: https://calendly.com/bitemegames/gamedev-coaching\n\nWhen you're a gamedev, money can be a tricky thing. You need money to be able to make a game, but until you've actually released a game, you can't make money from it. So, how do you exactly fund your studio then? In this video, we go over some of the different ways you can fund your studio, and talk some more about our personal experiences with it. \n\nJoin our Discord: https://discord.gg/WSus22f8aM\n\nThank you to our Patrons:\nGame Dev With Michael\nFlorian Alushaj\nGagePerryGames\nNeatWare Grzegorz Kiernozek\n\nDo you want even more content regarding making your own studio and getting an in-depth look at how we run BiteMe Games? Or maybe even get some dedicated coaching? Check out our Patreon: \nhttps://www.patreon.com/bitemegames\n\nTimestamps:\n00:00 You'll need to eat\n00:40 Crowdfunding\n04:37 Publishers\n11:00 Incubator\n14:38 Government grants\n20:36 Venture capital\n21:52 Game residuals\n24:02 Personal savings\n26:19 Bank loans\n27:27 Other grants\n29:52 Community funded\n34:16 Freelance\n37:19 Overview\n37:31 Closing thoughts\n---\nGet our game now on Steam: https://store.steampowered.com/app/2152810/Forge_Industry/\n\nIn need of some Unity Assets? Use our affiliate link to support us, it's free, and we get a small kickback: https://prf.hn/l/wzGa15G\n\nWant to reach out to us? Send us an email at hello@bitemegames.com",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 40,
+      "title": "You'll need to eat"
+    },
+    {
+      "start": 40,
+      "end": 277,
+      "title": "Crowdfunding"
+    },
+    {
+      "start": 277,
+      "end": 660,
+      "title": "Publishers"
+    },
+    {
+      "start": 660,
+      "end": 878,
+      "title": "Incubator"
+    },
+    {
+      "start": 878,
+      "end": 1236,
+      "title": "Government grants"
+    },
+    {
+      "start": 1236,
+      "end": 1312,
+      "title": "Venture capital"
+    },
+    {
+      "start": 1312,
+      "end": 1442,
+      "title": "Game residuals"
+    },
+    {
+      "start": 1442,
+      "end": 1579,
+      "title": "Personal savings"
+    },
+    {
+      "start": 1579,
+      "end": 1647,
+      "title": "Bank loans"
+    },
+    {
+      "start": 1647,
+      "end": 1792,
+      "title": "Other grants"
+    },
+    {
+      "start": 1792,
+      "end": 2056,
+      "title": "Community funded"
+    },
+    {
+      "start": 2056,
+      "end": 2239,
+      "title": "Freelance"
+    },
+    {
+      "start": 2239,
+      "end": 2251,
+      "title": "Overview"
+    },
+    {
+      "start": 2251,
+      "end": 2406,
+      "title": "Closing thoughts"
+    }
+  ],
+  "captions": {
+    "language": "en-orig",
+    "kind": "automatic",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 3.84,
+      "text": "one of the problems that you guys"
+    },
+    {
+      "start": 1.64,
+      "end": 5.08,
+      "text": "struggle with the most is funding your"
+    },
+    {
+      "start": 3.84,
+      "end": 7.6,
+      "text": "game development Journey because of"
+    },
+    {
+      "start": 5.08,
+      "end": 9.719,
+      "text": "course making games is all fun but you"
+    },
+    {
+      "start": 7.6,
+      "end": 11.759,
+      "text": "still need to eat unfortunately we still"
+    },
+    {
+      "start": 9.719,
+      "end": 14.4,
+      "text": "haven't figured out like photosynthesis"
+    },
+    {
+      "start": 11.759,
+      "end": 15.839,
+      "text": "and usually that requires money and how"
+    },
+    {
+      "start": 14.4,
+      "end": 18.32,
+      "text": "do you get that money as a game"
+    },
+    {
+      "start": 15.839,
+      "end": 20.68,
+      "text": "developer there's plenty of ways some"
+    },
+    {
+      "start": 18.32,
+      "end": 23.08,
+      "text": "are good most of them are honestly quite"
+    },
+    {
+      "start": 20.68,
+      "end": 25.32,
+      "text": "bad so we figured in our traditional"
+    },
+    {
+      "start": 23.08,
+      "end": 27.519,
+      "text": "tier listing format we're going to be"
+    },
+    {
+      "start": 25.32,
+      "end": 29.08,
+      "text": "going over all of them giving us your"
+    },
+    {
+      "start": 27.519,
+      "end": 31.359,
+      "text": "thoughts because most of them at this"
+    },
+    {
+      "start": 29.08,
+      "end": 33.16,
+      "text": "point we have like interacted within or"
+    },
+    {
+      "start": 31.359,
+      "end": 35.04,
+      "text": "at least I've talked to people who have"
+    },
+    {
+      "start": 33.16,
+      "end": 36.84,
+      "text": "actually gone that part for like in"
+    },
+    {
+      "start": 35.04,
+      "end": 38.719,
+      "text": "development all our opinions please"
+    },
+    {
+      "start": 36.84,
+      "end": 40.879,
+      "text": "don't murder Us in the comments but you"
+    },
+    {
+      "start": 38.719,
+      "end": 44.079,
+      "text": "can comment and I think we should start"
+    },
+    {
+      "start": 40.879,
+      "end": 46.199,
+      "text": "with the one that probably most of you"
+    },
+    {
+      "start": 44.079,
+      "end": 48.12,
+      "text": "guys have considered but that I believe"
+    },
+    {
+      "start": 46.199,
+      "end": 50.12,
+      "text": "isn't really that great as you may think"
+    },
+    {
+      "start": 48.12,
+      "end": 52.44,
+      "text": "and that is crowdfunding crowdfunding"
+    },
+    {
+      "start": 50.12,
+      "end": 55.199,
+      "text": "through Kickstarter or Indiegogo really"
+    },
+    {
+      "start": 52.44,
+      "end": 57.76,
+      "text": "where the concept is simple you have an"
+    },
+    {
+      "start": 55.199,
+      "end": 60.12,
+      "text": "amazing idea and maybe you have some art"
+    },
+    {
+      "start": 57.76,
+      "end": 61.719,
+      "text": "and you know you make a crowd running"
+    },
+    {
+      "start": 60.12,
+      "end": 63.76,
+      "text": "campaign you're like hey this is my game"
+    },
+    {
+      "start": 61.719,
+      "end": 65.799,
+      "text": "idea this is like some very early"
+    },
+    {
+      "start": 63.76,
+      "end": 68.479,
+      "text": "prototype footage that I have I'm asking"
+    },
+    {
+      "start": 65.799,
+      "end": 70.159,
+      "text": "for $50,000 there are a lot of games"
+    },
+    {
+      "start": 68.479,
+      "end": 72.36,
+      "text": "that have successfully done this or"
+    },
+    {
+      "start": 70.159,
+      "end": 73.96,
+      "text": "currently doing it I think the main one"
+    },
+    {
+      "start": 72.36,
+      "end": 76.119,
+      "text": "like that I still think about every"
+    },
+    {
+      "start": 73.96,
+      "end": 77.68,
+      "text": "night basically Star Citizen 10 years"
+    },
+    {
+      "start": 76.119,
+      "end": 79.56,
+      "text": "into like crowdfunding already they've"
+    },
+    {
+      "start": 77.68,
+      "end": 81.56,
+      "text": "gone like very extreme already but"
+    },
+    {
+      "start": 79.56,
+      "end": 84.4,
+      "text": "there's also plenty of indie games that"
+    },
+    {
+      "start": 81.56,
+      "end": 86.32,
+      "text": "try to get started um I think Earth of"
+    },
+    {
+      "start": 84.4,
+      "end": 88.079,
+      "text": "Orin there's there's a few I'm going to"
+    },
+    {
+      "start": 86.32,
+      "end": 89.56,
+      "text": "put Boll footage of some games that have"
+    },
+    {
+      "start": 88.079,
+      "end": 91.2,
+      "text": "been like gone through crowdfunding or"
+    },
+    {
+      "start": 89.56,
+      "end": 92.96,
+      "text": "somewhat successful but in the meantime"
+    },
+    {
+      "start": 91.2,
+      "end": 94.92,
+      "text": "I want to spend a bit of time why I"
+    },
+    {
+      "start": 92.96,
+      "end": 97.399,
+      "text": "don't think it's a good idea you already"
+    },
+    {
+      "start": 94.92,
+      "end": 99.759,
+      "text": "need an audience yes so that's something"
+    },
+    {
+      "start": 97.399,
+      "end": 101.68,
+      "text": "the biggest misconception is oh I'm just"
+    },
+    {
+      "start": 99.759,
+      "end": 103.479,
+      "text": "going to put up the kickstarter page and"
+    },
+    {
+      "start": 101.68,
+      "end": 105.92,
+      "text": "the kickstarter algorithm is going to"
+    },
+    {
+      "start": 103.479,
+      "end": 107.92,
+      "text": "feed people towards me not going to"
+    },
+    {
+      "start": 105.92,
+      "end": 111,
+      "text": "happen whereas I think there is a stat"
+    },
+    {
+      "start": 107.92,
+      "end": 113.28,
+      "text": "that I think only 20% of all backers are"
+    },
+    {
+      "start": 111,
+      "end": 115.36,
+      "text": "found organically through Kickstarter"
+    },
+    {
+      "start": 113.28,
+      "end": 117.96,
+      "text": "and then the remaining 80% you basically"
+    },
+    {
+      "start": 115.36,
+      "end": 119.6,
+      "text": "have to supply yourself another big trap"
+    },
+    {
+      "start": 117.96,
+      "end": 122.28,
+      "text": "well there's multiple actually the first"
+    },
+    {
+      "start": 119.6,
+      "end": 124.56,
+      "text": "one is how do you do rewards because"
+    },
+    {
+      "start": 122.28,
+      "end": 126.159,
+      "text": "often you know you get the money but"
+    },
+    {
+      "start": 124.56,
+      "end": 127.6,
+      "text": "especially if you do physical rewards"
+    },
+    {
+      "start": 126.159,
+      "end": 129.52,
+      "text": "like oh I'm going to send you a poster"
+    },
+    {
+      "start": 127.6,
+      "end": 131.76,
+      "text": "or a print or like even like I've seen"
+    },
+    {
+      "start": 129.52,
+      "end": 134.04,
+      "text": "like mini figurines of our game those"
+    },
+    {
+      "start": 131.76,
+      "end": 136.84,
+      "text": "things cost a lot of money shipping"
+    },
+    {
+      "start": 134.04,
+      "end": 138.72,
+      "text": "worldwide is like a crazy amount of like"
+    },
+    {
+      "start": 136.84,
+      "end": 140.12,
+      "text": "both time and money investment because"
+    },
+    {
+      "start": 138.72,
+      "end": 141.959,
+      "text": "you have to figure out how the local"
+    },
+    {
+      "start": 140.12,
+      "end": 143.64,
+      "text": "laws and everything work as well and in"
+    },
+    {
+      "start": 141.959,
+      "end": 145.4,
+      "text": "the end there's even like I've known of"
+    },
+    {
+      "start": 143.64,
+      "end": 147,
+      "text": "some developers who basically have lost"
+    },
+    {
+      "start": 145.4,
+      "end": 148.76,
+      "text": "money on their crowdfunding campaign"
+    },
+    {
+      "start": 147,
+      "end": 150.879,
+      "text": "because they set like a price for a"
+    },
+    {
+      "start": 148.76,
+      "end": 152.4,
+      "text": "physical good that wasn't enough to"
+    },
+    {
+      "start": 150.879,
+      "end": 153.84,
+      "text": "really even cover the good and then they"
+    },
+    {
+      "start": 152.4,
+      "end": 156.36,
+      "text": "had all the other benefits they had to"
+    },
+    {
+      "start": 153.84,
+      "end": 158.8,
+      "text": "do as well another problem is also you"
+    },
+    {
+      "start": 156.36,
+      "end": 160.4,
+      "text": "can't just make a Kickstarter page and"
+    },
+    {
+      "start": 158.8,
+      "end": 162.159,
+      "text": "put it up and then forget about it the"
+    },
+    {
+      "start": 160.4,
+      "end": 164.28,
+      "text": "money will start rolling in you need to"
+    },
+    {
+      "start": 162.159,
+      "end": 166,
+      "text": "like actively have a full-on community"
+    },
+    {
+      "start": 164.28,
+      "end": 167.879,
+      "text": "campaign basically that's also part of"
+    },
+    {
+      "start": 166,
+      "end": 169.48,
+      "text": "the you know 20% only comes through"
+    },
+    {
+      "start": 167.879,
+      "end": 171.519,
+      "text": "Kickstarter you need to have like"
+    },
+    {
+      "start": 169.48,
+      "end": 173.44,
+      "text": "constant updates make like in between"
+    },
+    {
+      "start": 171.519,
+      "end": 175.08,
+      "text": "like trailers have like Discord servers"
+    },
+    {
+      "start": 173.44,
+      "end": 177.159,
+      "text": "that are very engaged because you need"
+    },
+    {
+      "start": 175.08,
+      "end": 178.72,
+      "text": "to get an audience that will like"
+    },
+    {
+      "start": 177.159,
+      "end": 180.44,
+      "text": "advertise for you that is going to be"
+    },
+    {
+      "start": 178.72,
+      "end": 182.76,
+      "text": "like oh I found this really cool game on"
+    },
+    {
+      "start": 180.44,
+      "end": 184.4,
+      "text": "Kickstarter you should also back it so"
+    },
+    {
+      "start": 182.76,
+      "end": 186.68,
+      "text": "yeah that's generally why I'm not the"
+    },
+    {
+      "start": 184.4,
+      "end": 189.4,
+      "text": "big fan the idea behind is really good"
+    },
+    {
+      "start": 186.68,
+      "end": 191.64,
+      "text": "though because also Kickstarter is not"
+    },
+    {
+      "start": 189.4,
+      "end": 192.959,
+      "text": "you know if your game fails in the end"
+    },
+    {
+      "start": 191.64,
+      "end": 194.56,
+      "text": "okay you'll have disappointed people"
+    },
+    {
+      "start": 192.959,
+      "end": 195.92,
+      "text": "will probably try to refund but it's not"
+    },
+    {
+      "start": 194.56,
+      "end": 197.799,
+      "text": "like you're going to lose your house"
+    },
+    {
+      "start": 195.92,
+      "end": 200.44,
+      "text": "over it that's a very big thing it is"
+    },
+    {
+      "start": 197.799,
+      "end": 202.159,
+      "text": "more flexible in that regard also your"
+    },
+    {
+      "start": 200.44,
+      "end": 204.239,
+      "text": "audience already means that you have a"
+    },
+    {
+      "start": 202.159,
+      "end": 206.04,
+      "text": "core audience so your game has a bit B"
+    },
+    {
+      "start": 204.239,
+      "end": 207.64,
+      "text": "validated already that hey I'm not"
+    },
+    {
+      "start": 206.04,
+      "end": 209.28,
+      "text": "making garbage whereas you know if you"
+    },
+    {
+      "start": 207.64,
+      "end": 210.76,
+      "text": "make something that nobody really wants"
+    },
+    {
+      "start": 209.28,
+      "end": 212.68,
+      "text": "and then you put it on Steam after 2"
+    },
+    {
+      "start": 210.76,
+      "end": 214.76,
+      "text": "years of development and nobody buys it"
+    },
+    {
+      "start": 212.68,
+      "end": 216.72,
+      "text": "well that's a problem Kickstarter can be"
+    },
+    {
+      "start": 214.76,
+      "end": 218.519,
+      "text": "that first like beat to get it started"
+    },
+    {
+      "start": 216.72,
+      "end": 221,
+      "text": "often you get some marketing around it"
+    },
+    {
+      "start": 218.519,
+      "end": 222.64,
+      "text": "as well so he already said a whole lot I"
+    },
+    {
+      "start": 221,
+      "end": 225.959,
+      "text": "don't really have a lot to add yeah I"
+    },
+    {
+      "start": 222.64,
+      "end": 227.48,
+      "text": "just went on like he rants but yeah I I"
+    },
+    {
+      "start": 225.959,
+      "end": 228.879,
+      "text": "agree that's also one of the reasons why"
+    },
+    {
+      "start": 227.48,
+      "end": 230.599,
+      "text": "we didn't do a Kickstarter because we"
+    },
+    {
+      "start": 228.879,
+      "end": 232.68,
+      "text": "see a lot of drawbacks in it if you are"
+    },
+    {
+      "start": 230.599,
+      "end": 235.04,
+      "text": "just making your first game like most of"
+    },
+    {
+      "start": 232.68,
+      "end": 238.04,
+      "text": "you are as far as I know don't do it"
+    },
+    {
+      "start": 235.04,
+      "end": 240.159,
+      "text": "it's not the way to go yeah"
+    },
+    {
+      "start": 238.04,
+      "end": 241.959,
+      "text": "there are definitely if you have like an"
+    },
+    {
+      "start": 240.159,
+      "end": 243.959,
+      "text": "established funding and maybe like a"
+    },
+    {
+      "start": 241.959,
+      "end": 245.76,
+      "text": "publisher has pulled out suddenly but"
+    },
+    {
+      "start": 243.959,
+      "end": 247.36,
+      "text": "you have that Community already then"
+    },
+    {
+      "start": 245.76,
+      "end": 249.239,
+      "text": "look into something like Kickstarter it"
+    },
+    {
+      "start": 247.36,
+      "end": 251.879,
+      "text": "can be worth it then but honestly I"
+    },
+    {
+      "start": 249.239,
+      "end": 255,
+      "text": "would put put it right now at a d tier"
+    },
+    {
+      "start": 251.879,
+      "end": 257.4,
+      "text": "maybe even agreed okay I was thinking C"
+    },
+    {
+      "start": 255,
+      "end": 258.919,
+      "text": "or D but I can definitely see a d I'm"
+    },
+    {
+      "start": 257.4,
+      "end": 260.519,
+      "text": "I'm not sure because you know we also"
+    },
+    {
+      "start": 258.919,
+      "end": 262.4,
+      "text": "have to think about the future things"
+    },
+    {
+      "start": 260.519,
+      "end": 264.479,
+      "text": "maybe I would put this as a c tier"
+    },
+    {
+      "start": 262.4,
+      "end": 266.28,
+      "text": "actually just because that's like a good"
+    },
+    {
+      "start": 264.479,
+      "end": 268.68,
+      "text": "in the middle we can go up and down from"
+    },
+    {
+      "start": 266.28,
+      "end": 270.199,
+      "text": "there as well yeah I guess like I said C"
+    },
+    {
+      "start": 268.68,
+      "end": 271.72,
+      "text": "or D is both fin"
+    },
+    {
+      "start": 270.199,
+      "end": 273.96,
+      "text": "because there are definitely success"
+    },
+    {
+      "start": 271.72,
+      "end": 275.759,
+      "text": "stories and it is possible to do it it's"
+    },
+    {
+      "start": 273.96,
+      "end": 277.72,
+      "text": "just when you are just starting out it's"
+    },
+    {
+      "start": 275.759,
+      "end": 279.32,
+      "text": "probably not the best way we also really"
+    },
+    {
+      "start": 277.72,
+      "end": 281.16,
+      "text": "front loaded this tier list because that"
+    },
+    {
+      "start": 279.32,
+      "end": 284.479,
+      "text": "brings us to our second one which is"
+    },
+    {
+      "start": 281.16,
+      "end": 287.52,
+      "text": "Publishers yeah we're not pulling any"
+    },
+    {
+      "start": 284.479,
+      "end": 290.88,
+      "text": "punches it seems okay once"
+    },
+    {
+      "start": 287.52,
+      "end": 292.96,
+      "text": "again I feel like Publishers are"
+    },
+    {
+      "start": 290.88,
+      "end": 294.32,
+      "text": "overrated okay but also underrated I'm"
+    },
+    {
+      "start": 292.96,
+      "end": 296.28,
+      "text": "going to let you do the rent otherwise"
+    },
+    {
+      "start": 294.32,
+      "end": 299.12,
+      "text": "before I go on for seven minutes again"
+    },
+    {
+      "start": 296.28,
+      "end": 300.759,
+      "text": "so an opinion that I think we both share"
+    },
+    {
+      "start": 299.12,
+      "end": 303.28,
+      "text": "because that's how we were invite me at"
+    },
+    {
+      "start": 300.759,
+      "end": 305.88,
+      "text": "least is people think Publishers are"
+    },
+    {
+      "start": 303.28,
+      "end": 307.919,
+      "text": "free money they are not they are like a"
+    },
+    {
+      "start": 305.88,
+      "end": 310.039,
+      "text": "bank they give you like 100 Grand up"
+    },
+    {
+      "start": 307.919,
+      "end": 312.32,
+      "text": "front but you need to pay that money"
+    },
+    {
+      "start": 310.039,
+      "end": 314.68,
+      "text": "back and once you have paid that money"
+    },
+    {
+      "start": 312.32,
+      "end": 317,
+      "text": "back unlike a bank they say okay now"
+    },
+    {
+      "start": 314.68,
+      "end": 318.84,
+      "text": "it's like 30% is for us and it depends"
+    },
+    {
+      "start": 317,
+      "end": 320.88,
+      "text": "on your deal of course but you always"
+    },
+    {
+      "start": 318.84,
+      "end": 323.52,
+      "text": "keep paying them of course they give you"
+    },
+    {
+      "start": 320.88,
+      "end": 325.28,
+      "text": "the the runway to develop your game but"
+    },
+    {
+      "start": 323.52,
+      "end": 327.84,
+      "text": "I think a lot of people that are just"
+    },
+    {
+      "start": 325.28,
+      "end": 329.639,
+      "text": "starting out are not best suited to go"
+    },
+    {
+      "start": 327.84,
+      "end": 331.24,
+      "text": "to a publisher right away yeah they have"
+    },
+    {
+      "start": 329.639,
+      "end": 333.28,
+      "text": "this dream of you know once I get a"
+    },
+    {
+      "start": 331.24,
+      "end": 335.759,
+      "text": "publisher my indie game is going to be a"
+    },
+    {
+      "start": 333.28,
+      "end": 337.8,
+      "text": "success because fun Publishers one big"
+    },
+    {
+      "start": 335.759,
+      "end": 340.12,
+      "text": "difference with a bank loan is they do"
+    },
+    {
+      "start": 337.8,
+      "end": 342.28,
+      "text": "also support you or at least yeah that's"
+    },
+    {
+      "start": 340.12,
+      "end": 344.44,
+      "text": "what a good publisher should do problem"
+    },
+    {
+      "start": 342.28,
+      "end": 346.12,
+      "text": "is there's a lot of garbage Publishers"
+    },
+    {
+      "start": 344.44,
+      "end": 348.24,
+      "text": "out there as well we've been approached"
+    },
+    {
+      "start": 346.12,
+      "end": 350.24,
+      "text": "by a few for Forge industry as well but"
+    },
+    {
+      "start": 348.24,
+      "end": 352.319,
+      "text": "it's like you know they make very crappy"
+    },
+    {
+      "start": 350.24,
+      "end": 354.36,
+      "text": "games and it's more you know very"
+    },
+    {
+      "start": 352.319,
+      "end": 356.039,
+      "text": "aggressive contracts really like where"
+    },
+    {
+      "start": 354.36,
+      "end": 357.479,
+      "text": "they get you know you get an upfront"
+    },
+    {
+      "start": 356.039,
+      "end": 359.479,
+      "text": "payment but then once the game is"
+    },
+    {
+      "start": 357.479,
+      "end": 362.24,
+      "text": "released they have like usually 80 or 90"
+    },
+    {
+      "start": 359.479,
+      "end": 365.28,
+      "text": "90% Revenue splits so like every games"
+    },
+    {
+      "start": 362.24,
+      "end": 367.44,
+      "text": "you sell like 90% goes to them to recoup"
+    },
+    {
+      "start": 365.28,
+      "end": 369,
+      "text": "and then after that has been recouped"
+    },
+    {
+      "start": 367.44,
+      "end": 370.36,
+      "text": "then there still like more that you need"
+    },
+    {
+      "start": 369,
+      "end": 372.56,
+      "text": "to pay them but you just get a little"
+    },
+    {
+      "start": 370.36,
+      "end": 374.639,
+      "text": "bit more some more problems like I said"
+    },
+    {
+      "start": 372.56,
+      "end": 377,
+      "text": "it's easy to find the bad one now what"
+    },
+    {
+      "start": 374.639,
+      "end": 379.56,
+      "text": "do I mean with a bad one most Publishers"
+    },
+    {
+      "start": 377,
+      "end": 382.52,
+      "text": "have good intentions the problem is it's"
+    },
+    {
+      "start": 379.56,
+      "end": 384.84,
+      "text": "a very hectic landscape and you usually"
+    },
+    {
+      "start": 382.52,
+      "end": 386.919,
+      "text": "get like a producer assigned to you but"
+    },
+    {
+      "start": 384.84,
+      "end": 388.56,
+      "text": "every like 6 months for some reason you"
+    },
+    {
+      "start": 386.919,
+      "end": 391,
+      "text": "get new producers it's a problem I hear"
+    },
+    {
+      "start": 388.56,
+      "end": 392.68,
+      "text": "a lot because like people shift jobs get"
+    },
+    {
+      "start": 391,
+      "end": 394.199,
+      "text": "better pays at other places and that"
+    },
+    {
+      "start": 392.68,
+      "end": 396.16,
+      "text": "means that you can't really have the"
+    },
+    {
+      "start": 394.199,
+      "end": 397.84,
+      "text": "long-term Vision that a publisher will"
+    },
+    {
+      "start": 396.16,
+      "end": 400.639,
+      "text": "like tell you to do another problem is"
+    },
+    {
+      "start": 397.84,
+      "end": 402.16,
+      "text": "Publishers can be traditional sometimes"
+    },
+    {
+      "start": 400.639,
+      "end": 403.479,
+      "text": "so they'll be like okay we'll give you"
+    },
+    {
+      "start": 402.16,
+      "end": 405.16,
+      "text": "like part of this budget is for"
+    },
+    {
+      "start": 403.479,
+      "end": 407.28,
+      "text": "marketing as well we're going to go to"
+    },
+    {
+      "start": 405.16,
+      "end": 409.68,
+      "text": "Gamescom for like 5 days with like a"
+    },
+    {
+      "start": 407.28,
+      "end": 410.8,
+      "text": "massive boot that costs a lot of money"
+    },
+    {
+      "start": 409.68,
+      "end": 412.68,
+      "text": "and you're going to have to pay that"
+    },
+    {
+      "start": 410.8,
+      "end": 414.199,
+      "text": "back in the end you can't be like oh"
+    },
+    {
+      "start": 412.68,
+      "end": 416.12,
+      "text": "we're not going to do that because no"
+    },
+    {
+      "start": 414.199,
+      "end": 417.44,
+      "text": "the publisher knows best now the"
+    },
+    {
+      "start": 416.12,
+      "end": 418.639,
+      "text": "publisher is giving you the money and"
+    },
+    {
+      "start": 417.44,
+      "end": 419.919,
+      "text": "you're going to have to listen to that"
+    },
+    {
+      "start": 418.639,
+      "end": 421.52,
+      "text": "publisher basically basically you have"
+    },
+    {
+      "start": 419.919,
+      "end": 423.44,
+      "text": "to spend the money because you have to"
+    },
+    {
+      "start": 421.52,
+      "end": 425.199,
+      "text": "pay it back and if you even if you want"
+    },
+    {
+      "start": 423.44,
+      "end": 427.24,
+      "text": "less you shouldn't be happy if you get"
+    },
+    {
+      "start": 425.199,
+      "end": 429.08,
+      "text": "like a 500,000 publisher deal because"
+    },
+    {
+      "start": 427.24,
+      "end": 430.56,
+      "text": "you have to pay that back yeah of of"
+    },
+    {
+      "start": 429.08,
+      "end": 432.759,
+      "text": "course they do take the risk because I"
+    },
+    {
+      "start": 430.56,
+      "end": 434.36,
+      "text": "think uh if your game completely flops"
+    },
+    {
+      "start": 432.759,
+      "end": 435.96,
+      "text": "okay they took the risk for you so"
+    },
+    {
+      "start": 434.36,
+      "end": 437.72,
+      "text": "that's nice I guess you made something"
+    },
+    {
+      "start": 435.96,
+      "end": 439.44,
+      "text": "but if like if you start game"
+    },
+    {
+      "start": 437.72,
+      "end": 441,
+      "text": "development thinking your game is going"
+    },
+    {
+      "start": 439.44,
+      "end": 442.44,
+      "text": "to flop and that's why you need a"
+    },
+    {
+      "start": 441,
+      "end": 444.28,
+      "text": "publisher you're probably doing"
+    },
+    {
+      "start": 442.44,
+      "end": 445.72,
+      "text": "something wrong yeah I have a really"
+    },
+    {
+      "start": 444.28,
+      "end": 447.44,
+      "text": "good example I was talking with a"
+    },
+    {
+      "start": 445.72,
+      "end": 449.96,
+      "text": "Belgian developer recently and they had"
+    },
+    {
+      "start": 447.44,
+      "end": 451.599,
+      "text": "a publisher fun them for 80 wasn't like"
+    },
+    {
+      "start": 449.96,
+      "end": 453.919,
+      "text": "not that crazy big of a game and they"
+    },
+    {
+      "start": 451.599,
+      "end": 456.12,
+      "text": "were like okay €10,000 of this game is"
+    },
+    {
+      "start": 453.919,
+      "end": 458.639,
+      "text": "going to go to localization to Chinese"
+    },
+    {
+      "start": 456.12,
+      "end": 460.72,
+      "text": "and the development Studio was like but"
+    },
+    {
+      "start": 458.639,
+      "end": 462.96,
+      "text": "we don't really want that we could could"
+    },
+    {
+      "start": 460.72,
+      "end": 464.36,
+      "text": "you just not have given us that 10,000"
+    },
+    {
+      "start": 462.96,
+      "end": 466.199,
+      "text": "that's not because they had a very Tex"
+    },
+    {
+      "start": 464.36,
+      "end": 467.879,
+      "text": "driven game that was meant for the"
+    },
+    {
+      "start": 466.199,
+      "end": 469.28,
+      "text": "English language and they were just like"
+    },
+    {
+      "start": 467.879,
+      "end": 470.96,
+      "text": "okay could you not have done that"
+    },
+    {
+      "start": 469.28,
+      "end": 472.44,
+      "text": "because now there just 10,000 that"
+    },
+    {
+      "start": 470.96,
+      "end": 474.599,
+      "text": "you're going to have to recoup more and"
+    },
+    {
+      "start": 472.44,
+      "end": 478.039,
+      "text": "it's not going to pay back in the end"
+    },
+    {
+      "start": 474.599,
+      "end": 479.56,
+      "text": "another problem these are don't go too"
+    },
+    {
+      "start": 478.039,
+      "end": 480.919,
+      "text": "far these are the longest ones"
+    },
+    {
+      "start": 479.56,
+      "end": 484.12,
+      "text": "Publishers can be"
+    },
+    {
+      "start": 480.919,
+      "end": 485.759,
+      "text": "dicks and what I mean by that is you'll"
+    },
+    {
+      "start": 484.12,
+      "end": 487.44,
+      "text": "have like your demo ready and you're"
+    },
+    {
+      "start": 485.759,
+      "end": 489.36,
+      "text": "going to Gamescom with your steam deck"
+    },
+    {
+      "start": 487.44,
+      "end": 491.56,
+      "text": "or your like pitch deck oh the comeb"
+    },
+    {
+      "start": 489.36,
+      "end": 493.12,
+      "text": "back later yes the comeback later moment"
+    },
+    {
+      "start": 491.56,
+      "end": 495.08,
+      "text": "and they're like oh yeah this is really"
+    },
+    {
+      "start": 493.12,
+      "end": 496.8,
+      "text": "interesting we'd love to like hear more"
+    },
+    {
+      "start": 495.08,
+      "end": 498.08,
+      "text": "about it why don't you work on it for"
+    },
+    {
+      "start": 496.8,
+      "end": 500.12,
+      "text": "like a little bit more and then come"
+    },
+    {
+      "start": 498.08,
+      "end": 501.44,
+      "text": "back to us that's what they often will"
+    },
+    {
+      "start": 500.12,
+      "end": 503.68,
+      "text": "be selling you like you know there's"
+    },
+    {
+      "start": 501.44,
+      "end": 506.039,
+      "text": "always like oh yeah we want interest but"
+    },
+    {
+      "start": 503.68,
+      "end": 507.759,
+      "text": "they try to stall because stalling isn't"
+    },
+    {
+      "start": 506.039,
+      "end": 510.68,
+      "text": "their advantage because the longer they"
+    },
+    {
+      "start": 507.759,
+      "end": 512.279,
+      "text": "stall the more risky you take instead of"
+    },
+    {
+      "start": 510.68,
+      "end": 513.56,
+      "text": "them so you have a lot of scumbag"
+    },
+    {
+      "start": 512.279,
+      "end": 515.479,
+      "text": "Publishers that will keep you like"
+    },
+    {
+      "start": 513.56,
+      "end": 517.599,
+      "text": "strung along really but don't really"
+    },
+    {
+      "start": 515.479,
+      "end": 519.399,
+      "text": "have the intention to commit and I think"
+    },
+    {
+      "start": 517.599,
+      "end": 521.08,
+      "text": "we recently went to a talk from uh Jason"
+    },
+    {
+      "start": 519.399,
+      "end": 523.2,
+      "text": "Delo where he covered this really good"
+    },
+    {
+      "start": 521.08,
+      "end": 525.04,
+      "text": "Publishers aren't looking for like a"
+    },
+    {
+      "start": 523.2,
+      "end": 527.12,
+      "text": "good idea or even a good execution but"
+    },
+    {
+      "start": 525.04,
+      "end": 528.279,
+      "text": "they're looking for you in the meantime"
+    },
+    {
+      "start": 527.12,
+      "end": 530.32,
+      "text": "they don't want the better game when"
+    },
+    {
+      "start": 528.279,
+      "end": 532.44,
+      "text": "they say come back later they want a"
+    },
+    {
+      "start": 530.32,
+      "end": 533.959,
+      "text": "proven game so they want a game where"
+    },
+    {
+      "start": 532.44,
+      "end": 535.8,
+      "text": "from users yeah they want a game where"
+    },
+    {
+      "start": 533.959,
+      "end": 537.56,
+      "text": "you already have like an early access"
+    },
+    {
+      "start": 535.8,
+      "end": 540.56,
+      "text": "Community for well not Early Access but"
+    },
+    {
+      "start": 537.56,
+      "end": 544.88,
+      "text": "where you you run play test"
+    },
+    {
+      "start": 540.56,
+      "end": 547.16,
+      "text": "a you covered valid that thees what you"
+    },
+    {
+      "start": 544.88,
+      "end": 549.04,
+      "text": "are do matter how good orad it actually"
+    },
+    {
+      "start": 547.16,
+      "end": 550.76,
+      "text": "is technically they probably just look"
+    },
+    {
+      "start": 549.04,
+      "end": 552.6,
+      "text": "at is this going to sell well because"
+    },
+    {
+      "start": 550.76,
+      "end": 553.88,
+      "text": "they want to recoup their cost and they"
+    },
+    {
+      "start": 552.6,
+      "end": 554.959,
+      "text": "usually don't want to tell you this up"
+    },
+    {
+      "start": 553.88,
+      "end": 556.839,
+      "text": "front because you know it's kind of a"
+    },
+    {
+      "start": 554.959,
+      "end": 559.04,
+      "text": "dick move I think those are my main"
+    },
+    {
+      "start": 556.839,
+      "end": 560.48,
+      "text": "concerns I have with Publishers now we"
+    },
+    {
+      "start": 559.04,
+      "end": 561.88,
+      "text": "do want to make like some really"
+    },
+    {
+      "start": 560.48,
+      "end": 563.519,
+      "text": "in-depth videos where we sit down with"
+    },
+    {
+      "start": 561.88,
+      "end": 565.72,
+      "text": "Publishers because I know Publishers are"
+    },
+    {
+      "start": 563.519,
+      "end": 566.92,
+      "text": "a really big part of game development so"
+    },
+    {
+      "start": 565.72,
+      "end": 568.64,
+      "text": "if you're a publisher watching this"
+    },
+    {
+      "start": 566.92,
+      "end": 570.76,
+      "text": "right now reach out to us um I do want"
+    },
+    {
+      "start": 568.64,
+      "end": 572.399,
+      "text": "to go into to like learn more about it"
+    },
+    {
+      "start": 570.76,
+      "end": 574.24,
+      "text": "because we have self-published our games"
+    },
+    {
+      "start": 572.399,
+      "end": 576.12,
+      "text": "right now and because we have the luxury"
+    },
+    {
+      "start": 574.24,
+      "end": 577.839,
+      "text": "of this YouTube channel and like more"
+    },
+    {
+      "start": 576.12,
+      "end": 579.44,
+      "text": "like funding streams we'll get into that"
+    },
+    {
+      "start": 577.839,
+      "end": 580.8,
+      "text": "later we don't really need to deal with"
+    },
+    {
+      "start": 579.44,
+      "end": 582.399,
+      "text": "a publisher right now it's like"
+    },
+    {
+      "start": 580.8,
+      "end": 584.24,
+      "text": "something that could be nice but we"
+    },
+    {
+      "start": 582.399,
+      "end": 586.56,
+      "text": "don't need it right now but it's"
+    },
+    {
+      "start": 584.24,
+      "end": 588.44,
+      "text": "something that a lot of developers it is"
+    },
+    {
+      "start": 586.56,
+      "end": 590.24,
+      "text": "normal to get a publisher also if you"
+    },
+    {
+      "start": 588.44,
+      "end": 591.8,
+      "text": "want to go for example into a market"
+    },
+    {
+      "start": 590.24,
+      "end": 593.72,
+      "text": "that you don't have that much experience"
+    },
+    {
+      "start": 591.8,
+      "end": 596.12,
+      "text": "with because they do have actual people"
+    },
+    {
+      "start": 593.72,
+      "end": 597.6,
+      "text": "with marketing knowledge we we ranted a"
+    },
+    {
+      "start": 596.12,
+      "end": 599.36,
+      "text": "lot about Publishers they do have good"
+    },
+    {
+      "start": 597.6,
+      "end": 600.88,
+      "text": "things to offer they have a lot lot of"
+    },
+    {
+      "start": 599.36,
+      "end": 603.2,
+      "text": "good things to offer but I feel like a"
+    },
+    {
+      "start": 600.88,
+      "end": 604.72,
+      "text": "lot of developers don't it's not it's"
+    },
+    {
+      "start": 603.2,
+      "end": 607.12,
+      "text": "not the savior of all getting a"
+    },
+    {
+      "start": 604.72,
+      "end": 609,
+      "text": "publishing deal doesn't always mean your"
+    },
+    {
+      "start": 607.12,
+      "end": 611.16,
+      "text": "game is going to be great you succeeded"
+    },
+    {
+      "start": 609,
+      "end": 613.279,
+      "text": "as a developer whatever it is a good"
+    },
+    {
+      "start": 611.16,
+      "end": 616.48,
+      "text": "help it can be a good help at least but"
+    },
+    {
+      "start": 613.279,
+      "end": 618.36,
+      "text": "it's not yeah the Savior yeah so that's"
+    },
+    {
+      "start": 616.48,
+      "end": 621.12,
+      "text": "basically all I had to say about it I"
+    },
+    {
+      "start": 618.36,
+      "end": 623.72,
+      "text": "think I would put it at an A minus or a"
+    },
+    {
+      "start": 621.12,
+      "end": 626.68,
+      "text": "B with all that I've said B okay I I"
+    },
+    {
+      "start": 623.72,
+      "end": 628.839,
+      "text": "wouldn't put it too highly because we we"
+    },
+    {
+      "start": 626.68,
+      "end": 630.44,
+      "text": "rented for like 10 minutes about how bad"
+    },
+    {
+      "start": 628.839,
+      "end": 632.44,
+      "text": "they are and then set like for one"
+    },
+    {
+      "start": 630.44,
+      "end": 634,
+      "text": "minute they are also pretty decent for"
+    },
+    {
+      "start": 632.44,
+      "end": 635.8,
+      "text": "some things but that's good but the"
+    },
+    {
+      "start": 634,
+      "end": 637.32,
+      "text": "reason for that like I said is because"
+    },
+    {
+      "start": 635.8,
+      "end": 639.079,
+      "text": "you know all the good parts of our"
+    },
+    {
+      "start": 637.32,
+      "end": 640.399,
+      "text": "Publishers usually because they're good"
+    },
+    {
+      "start": 639.079,
+      "end": 642.16,
+      "text": "at marketing themselves you know they"
+    },
+    {
+      "start": 640.399,
+      "end": 643.76,
+      "text": "have the good boots the visibility at"
+    },
+    {
+      "start": 642.16,
+      "end": 645.76,
+      "text": "like large events they have the network"
+    },
+    {
+      "start": 643.76,
+      "end": 648.16,
+      "text": "they can give you more people so you can"
+    },
+    {
+      "start": 645.76,
+      "end": 650.44,
+      "text": "develop faster but there is a lot of"
+    },
+    {
+      "start": 648.16,
+      "end": 652.2,
+      "text": "costs like in terms of you know what to"
+    },
+    {
+      "start": 650.44,
+      "end": 654.24,
+      "text": "do with the money that's associated with"
+    },
+    {
+      "start": 652.2,
+      "end": 655.92,
+      "text": "it that not everyone is certain don't"
+    },
+    {
+      "start": 654.24,
+      "end": 658.519,
+      "text": "just blindly go in it thinking publisher"
+    },
+    {
+      "start": 655.92,
+      "end": 661.839,
+      "text": "deal is Win just think about like what"
+    },
+    {
+      "start": 658.519,
+      "end": 663.32,
+      "text": "is it a swap analysis next up and Marx"
+    },
+    {
+      "start": 661.839,
+      "end": 665.8,
+      "text": "please hold your horses and don't go too"
+    },
+    {
+      "start": 663.32,
+      "end": 667.04,
+      "text": "crazy on this one is the incubator so"
+    },
+    {
+      "start": 665.8,
+      "end": 669.839,
+      "text": "what is this imagine you're getting"
+    },
+    {
+      "start": 667.04,
+      "end": 671.56,
+      "text": "start as a studio and someone else gains"
+    },
+    {
+      "start": 669.839,
+      "end": 673.399,
+      "text": "from the start basically Equity your"
+    },
+    {
+      "start": 671.56,
+      "end": 675.76,
+      "text": "company but they do provide other things"
+    },
+    {
+      "start": 673.399,
+      "end": 678.88,
+      "text": "like a studio a network some training"
+    },
+    {
+      "start": 675.76,
+      "end": 680.48,
+      "text": "maybe even people contacts they do bring"
+    },
+    {
+      "start": 678.88,
+      "end": 682.079,
+      "text": "things to the table of course but from"
+    },
+    {
+      "start": 680.48,
+      "end": 683.68,
+      "text": "the start you basically give a part of"
+    },
+    {
+      "start": 682.079,
+      "end": 685.399,
+      "text": "the equity to them yeah this is"
+    },
+    {
+      "start": 683.68,
+      "end": 686.959,
+      "text": "something incubators is something that"
+    },
+    {
+      "start": 685.399,
+      "end": 688.639,
+      "text": "originated more from the traditional"
+    },
+    {
+      "start": 686.959,
+      "end": 690.2,
+      "text": "Tech scene really where it's like you"
+    },
+    {
+      "start": 688.639,
+      "end": 692.519,
+      "text": "know oh have this cool software as a"
+    },
+    {
+      "start": 690.2,
+      "end": 694.12,
+      "text": "service idea you like rent like a desk"
+    },
+    {
+      "start": 692.519,
+      "end": 696.079,
+      "text": "somewhere and then they like support you"
+    },
+    {
+      "start": 694.12,
+      "end": 698,
+      "text": "in like making sure you manage your game"
+    },
+    {
+      "start": 696.079,
+      "end": 700.079,
+      "text": "I do think that is a pretty solid part"
+    },
+    {
+      "start": 698,
+      "end": 702.279,
+      "text": "like supporting part if you are someone"
+    },
+    {
+      "start": 700.079,
+      "end": 703.519,
+      "text": "who's like I just want to make games and"
+    },
+    {
+      "start": 702.279,
+      "end": 705,
+      "text": "that's all I really care about I don't"
+    },
+    {
+      "start": 703.519,
+      "end": 706.8,
+      "text": "want to deal with like planning that"
+    },
+    {
+      "start": 705,
+      "end": 708.839,
+      "text": "much or with like the paperwork of"
+    },
+    {
+      "start": 706.8,
+      "end": 710.24,
+      "text": "starting a company incubators are really"
+    },
+    {
+      "start": 708.839,
+      "end": 712.079,
+      "text": "good for that because they take all of"
+    },
+    {
+      "start": 710.24,
+      "end": 713.519,
+      "text": "the boring stuff out of your hands"
+    },
+    {
+      "start": 712.079,
+      "end": 715.6,
+      "text": "really you don't need to worry about"
+    },
+    {
+      "start": 713.519,
+      "end": 718.04,
+      "text": "that depending on your incubator the big"
+    },
+    {
+      "start": 715.6,
+      "end": 720.68,
+      "text": "problem that I feel is money up front"
+    },
+    {
+      "start": 718.04,
+      "end": 723.16,
+      "text": "versus like long-term gain because here"
+    },
+    {
+      "start": 720.68,
+      "end": 725.519,
+      "text": "in Belgium we have one big incubator and"
+    },
+    {
+      "start": 723.16,
+      "end": 727.88,
+      "text": "generally you get about 25 to"
+    },
+    {
+      "start": 725.519,
+      "end": 730.079,
+      "text": "50,000 when you join it as like your"
+    },
+    {
+      "start": 727.88,
+      "end": 732.44,
+      "text": "starting Fund in exchange for 10% of"
+    },
+    {
+      "start": 730.079,
+      "end": 734.44,
+      "text": "your equity which seems like a solid"
+    },
+    {
+      "start": 732.44,
+      "end": 738.519,
+      "text": "deal at the first but do you value your"
+    },
+    {
+      "start": 734.44,
+      "end": 741.36,
+      "text": "company at 250k in 5 years that is also"
+    },
+    {
+      "start": 738.519,
+      "end": 743.12,
+      "text": "true and also honestly 25k because"
+    },
+    {
+      "start": 741.36,
+      "end": 745.48,
+      "text": "that's what they usually give honestly"
+    },
+    {
+      "start": 743.12,
+      "end": 747.279,
+      "text": "isn't that much if you're like realistic"
+    },
+    {
+      "start": 745.48,
+      "end": 749.32,
+      "text": "because the moment you start hiring"
+    },
+    {
+      "start": 747.279,
+      "end": 751.04,
+      "text": "people you have a Runway if if you hire"
+    },
+    {
+      "start": 749.32,
+      "end": 752.56,
+      "text": "one person and you pay yourself not"
+    },
+    {
+      "start": 751.04,
+      "end": 754.12,
+      "text": "including like your office cost or"
+    },
+    {
+      "start": 752.56,
+      "end": 756.48,
+      "text": "whatever that's a six-month Runway you"
+    },
+    {
+      "start": 754.12,
+      "end": 758.04,
+      "text": "have which isn't that long really and"
+    },
+    {
+      "start": 756.48,
+      "end": 759.639,
+      "text": "you'll have this idea of I have this"
+    },
+    {
+      "start": 758.04,
+      "end": 761.32,
+      "text": "bunch of money I can just like get"
+    },
+    {
+      "start": 759.639,
+      "end": 763.199,
+      "text": "artists and things like that but you'll"
+    },
+    {
+      "start": 761.32,
+      "end": 764.92,
+      "text": "find out that it's not really that much"
+    },
+    {
+      "start": 763.199,
+      "end": 766.68,
+      "text": "in the end and you'll still be stuck"
+    },
+    {
+      "start": 764.92,
+      "end": 768.44,
+      "text": "looking for more money I do think they"
+    },
+    {
+      "start": 766.68,
+      "end": 769.76,
+      "text": "are really good like I said if you don't"
+    },
+    {
+      "start": 768.44,
+      "end": 771.24,
+      "text": "want to deal with all of that stuff you"
+    },
+    {
+      "start": 769.76,
+      "end": 773.399,
+      "text": "just want to make games and especially"
+    },
+    {
+      "start": 771.24,
+      "end": 775.88,
+      "text": "if you're like solo developer maybe one"
+    },
+    {
+      "start": 773.399,
+      "end": 777.68,
+      "text": "like extra programmer or artist you can"
+    },
+    {
+      "start": 775.88,
+      "end": 779.32,
+      "text": "do a lot through it so I do think"
+    },
+    {
+      "start": 777.68,
+      "end": 781.079,
+      "text": "they're pretty solid and they they also"
+    },
+    {
+      "start": 779.32,
+      "end": 783.6,
+      "text": "have usually a network to connect you"
+    },
+    {
+      "start": 781.079,
+      "end": 785.36,
+      "text": "with Publishers or other people like"
+    },
+    {
+      "start": 783.6,
+      "end": 788.12,
+      "text": "that yeah I think they give you a"
+    },
+    {
+      "start": 785.36,
+      "end": 789.8,
+      "text": "Kickstart to your journey but you if you"
+    },
+    {
+      "start": 788.12,
+      "end": 792,
+      "text": "think of about long-term success you"
+    },
+    {
+      "start": 789.8,
+      "end": 793.24,
+      "text": "probably are going to outgrow them so in"
+    },
+    {
+      "start": 792,
+      "end": 794.519,
+      "text": "at the beginning they can give you"
+    },
+    {
+      "start": 793.24,
+      "end": 796,
+      "text": "people in the industry that can help you"
+    },
+    {
+      "start": 794.519,
+      "end": 797.48,
+      "text": "out they can help you with of course"
+    },
+    {
+      "start": 796,
+      "end": 799.72,
+      "text": "with the the money like he said so for"
+    },
+    {
+      "start": 797.48,
+      "end": 801.24,
+      "text": "example if you're purely coding like us"
+    },
+    {
+      "start": 799.72,
+      "end": 802.959,
+      "text": "and we would have joined them we could"
+    },
+    {
+      "start": 801.24,
+      "end": 804.88,
+      "text": "have like get 25k that we could have"
+    },
+    {
+      "start": 802.959,
+      "end": 806.079,
+      "text": "spend on artists we'd have an office as"
+    },
+    {
+      "start": 804.88,
+      "end": 808.12,
+      "text": "well because right now we're just doing"
+    },
+    {
+      "start": 806.079,
+      "end": 810.24,
+      "text": "it all remote really yeah the reason why"
+    },
+    {
+      "start": 808.12,
+      "end": 812.16,
+      "text": "we didn't do it as well is also just"
+    },
+    {
+      "start": 810.24,
+      "end": 813.839,
+      "text": "because you know we're four people we"
+    },
+    {
+      "start": 812.16,
+      "end": 814.839,
+      "text": "have all like a little bit of a finance"
+    },
+    {
+      "start": 813.839,
+      "end": 816.519,
+      "text": "background or like you know the"
+    },
+    {
+      "start": 814.839,
+      "end": 817.88,
+      "text": "accounting like doing dealing all with"
+    },
+    {
+      "start": 816.519,
+      "end": 819.72,
+      "text": "the company business so I was like I'm"
+    },
+    {
+      "start": 817.88,
+      "end": 821.839,
+      "text": "just going to do it ourselves and also"
+    },
+    {
+      "start": 819.72,
+      "end": 823.68,
+      "text": "they require you to go full-time we"
+    },
+    {
+      "start": 821.839,
+      "end": 825.24,
+      "text": "didn't start as full-time developers you"
+    },
+    {
+      "start": 823.68,
+      "end": 827,
+      "text": "can't join an incubator as like a"
+    },
+    {
+      "start": 825.24,
+      "end": 828.76,
+      "text": "part-timer no you're going to have to"
+    },
+    {
+      "start": 827,
+      "end": 830.639,
+      "text": "quit your main job if you want to join"
+    },
+    {
+      "start": 828.76,
+      "end": 832.6,
+      "text": "an incubator if you want to join a real"
+    },
+    {
+      "start": 830.639,
+      "end": 834.6,
+      "text": "one at least that is also a very big"
+    },
+    {
+      "start": 832.6,
+      "end": 837.04,
+      "text": "like thing you need to keep in mind I"
+    },
+    {
+      "start": 834.6,
+      "end": 839.079,
+      "text": "would put them at a B tier as well I"
+    },
+    {
+      "start": 837.04,
+      "end": 840.839,
+      "text": "feel I do think they're pretty good"
+    },
+    {
+      "start": 839.079,
+      "end": 842.48,
+      "text": "maybe even higher I don't know what what"
+    },
+    {
+      "start": 840.839,
+      "end": 844.199,
+      "text": "would you say I don't think they're"
+    },
+    {
+      "start": 842.48,
+      "end": 846.12,
+      "text": "worse than Kickstarter they are not"
+    },
+    {
+      "start": 844.199,
+      "end": 847.8,
+      "text": "worse than Kickstarter but I think they"
+    },
+    {
+      "start": 846.12,
+      "end": 850.16,
+      "text": "are worse than publisher you basically"
+    },
+    {
+      "start": 847.8,
+      "end": 853.839,
+      "text": "sign your entire company over instead of"
+    },
+    {
+      "start": 850.16,
+      "end": 855.68,
+      "text": "just a game that's true yeah B minus"
+    },
+    {
+      "start": 853.839,
+      "end": 857.36,
+      "text": "yeah sure we we really suck at tier"
+    },
+    {
+      "start": 855.68,
+      "end": 859.839,
+      "text": "listing and where we actually put things"
+    },
+    {
+      "start": 857.36,
+      "end": 861.639,
+      "text": "so this is our own creative take on tier"
+    },
+    {
+      "start": 859.839,
+      "end": 863.72,
+      "text": "list okay I'm going to promise we're"
+    },
+    {
+      "start": 861.639,
+      "end": 865.519,
+      "text": "going to start speeding up at this point"
+    },
+    {
+      "start": 863.72,
+      "end": 867.6,
+      "text": "I think we've got the main big ones out"
+    },
+    {
+      "start": 865.519,
+      "end": 869.16,
+      "text": "of the way I don't know how long this"
+    },
+    {
+      "start": 867.6,
+      "end": 870.959,
+      "text": "video is going to take it's way too long"
+    },
+    {
+      "start": 869.16,
+      "end": 872.32,
+      "text": "but there is going to be a lot of value"
+    },
+    {
+      "start": 870.959,
+      "end": 874.56,
+      "text": "in this I feel if you're a beginning"
+    },
+    {
+      "start": 872.32,
+      "end": 876.36,
+      "text": "developer if you haven't done yet please"
+    },
+    {
+      "start": 874.56,
+      "end": 879,
+      "text": "subscribe maybe I should plug this like"
+    },
+    {
+      "start": 876.36,
+      "end": 881.6,
+      "text": "more in the middle of the videos next up"
+    },
+    {
+      "start": 879,
+      "end": 883.8,
+      "text": "we have grants but specifically"
+    },
+    {
+      "start": 881.6,
+      "end": 886.199,
+      "text": "government grants don't worry I will"
+    },
+    {
+      "start": 883.8,
+      "end": 888.199,
+      "text": "stay calm okay we have some experience"
+    },
+    {
+      "start": 886.199,
+      "end": 890.72,
+      "text": "with this we've I have because at least"
+    },
+    {
+      "start": 888.199,
+      "end": 892.88,
+      "text": "I have because he just has to program I"
+    },
+    {
+      "start": 890.72,
+      "end": 894.8,
+      "text": "have looked into three different GRS"
+    },
+    {
+      "start": 892.88,
+      "end": 896.92,
+      "text": "right now three different grants uh one"
+    },
+    {
+      "start": 894.8,
+      "end": 898.36,
+      "text": "from Europe one from the Flemish"
+    },
+    {
+      "start": 896.92,
+      "end": 900.32,
+      "text": "government well two from Flemish"
+    },
+    {
+      "start": 898.36,
+      "end": 902.199,
+      "text": "government one for our Flemish uh Cinema"
+    },
+    {
+      "start": 900.32,
+      "end": 903.959,
+      "text": "and audio visual government which is"
+    },
+    {
+      "start": 902.199,
+      "end": 905.959,
+      "text": "like a game fund and then one of the"
+    },
+    {
+      "start": 903.959,
+      "end": 908.04,
+      "text": "more General flounders investment and"
+    },
+    {
+      "start": 905.959,
+      "end": 909.6,
+      "text": "trade which is more just about exporting"
+    },
+    {
+      "start": 908.04,
+      "end": 911.519,
+      "text": "I've looked at all three we've gone"
+    },
+    {
+      "start": 909.6,
+      "end": 913.759,
+      "text": "through two application processes and"
+    },
+    {
+      "start": 911.519,
+      "end": 916.16,
+      "text": "we've got results from one so far how"
+    },
+    {
+      "start": 913.759,
+      "end": 918.16,
+      "text": "they work is basically you submit a long"
+    },
+    {
+      "start": 916.16,
+      "end": 919.759,
+      "text": "document about this is my game or this"
+    },
+    {
+      "start": 918.16,
+      "end": 921.36,
+      "text": "is my company this is what I want to"
+    },
+    {
+      "start": 919.759,
+      "end": 923.88,
+      "text": "achieve and this is what I need help"
+    },
+    {
+      "start": 921.36,
+      "end": 925.44,
+      "text": "with and then you'll have to wait a bit"
+    },
+    {
+      "start": 923.88,
+      "end": 927.16,
+      "text": "they'll go through all the documents and"
+    },
+    {
+      "start": 925.44,
+      "end": 928.839,
+      "text": "they'll be like okay hey you're approved"
+    },
+    {
+      "start": 927.16,
+      "end": 931.16,
+      "text": "here's some money or they'll be like"
+    },
+    {
+      "start": 928.839,
+      "end": 933.399,
+      "text": "okay you're not approved no money for"
+    },
+    {
+      "start": 931.16,
+      "end": 935.319,
+      "text": "you generally these grants what makes"
+    },
+    {
+      "start": 933.399,
+      "end": 937.6,
+      "text": "them really good is they're very lenient"
+    },
+    {
+      "start": 935.319,
+      "end": 939.88,
+      "text": "for example the Flemish Audi visual one"
+    },
+    {
+      "start": 937.6,
+      "end": 942.04,
+      "text": "they can give you between 25,000 and in"
+    },
+    {
+      "start": 939.88,
+      "end": 945.199,
+      "text": "total at most €400,000"
+    },
+    {
+      "start": 942.04,
+      "end": 947.279,
+      "text": "and they have a it would be nice if you"
+    },
+    {
+      "start": 945.199,
+      "end": 949.519,
+      "text": "could pay us back but honestly we don't"
+    },
+    {
+      "start": 947.279,
+      "end": 951.72,
+      "text": "like really expect that many people to"
+    },
+    {
+      "start": 949.519,
+      "end": 954.959,
+      "text": "fully pay us back so their idea is"
+    },
+    {
+      "start": 951.72,
+      "end": 956.6,
+      "text": "they're lost in line so you pay yourself"
+    },
+    {
+      "start": 954.959,
+      "end": 958.839,
+      "text": "you like if you have a publisher you can"
+    },
+    {
+      "start": 956.6,
+      "end": 960.44,
+      "text": "first pay the publisher and then if you"
+    },
+    {
+      "start": 958.839,
+      "end": 961.72,
+      "text": "still have like some money lying around"
+    },
+    {
+      "start": 960.44,
+      "end": 963.519,
+      "text": "because your game was that much of a"
+    },
+    {
+      "start": 961.72,
+      "end": 966.319,
+      "text": "success if you can pay them back then"
+    },
+    {
+      "start": 963.519,
+      "end": 968.68,
+      "text": "with no interest would be cool if not no"
+    },
+    {
+      "start": 966.319,
+      "end": 970.04,
+      "text": "worries so that part is really good it"
+    },
+    {
+      "start": 968.68,
+      "end": 971.88,
+      "text": "depends of course a lot as well there"
+    },
+    {
+      "start": 970.04,
+      "end": 973.839,
+      "text": "are other grants where you don't have to"
+    },
+    {
+      "start": 971.88,
+      "end": 976.079,
+      "text": "pay them back at all these are usually a"
+    },
+    {
+      "start": 973.839,
+      "end": 977.68,
+      "text": "bit lower in like the amount from"
+    },
+    {
+      "start": 976.079,
+      "end": 980.68,
+      "text": "however the one we had from flounders"
+    },
+    {
+      "start": 977.68,
+      "end": 983.279,
+      "text": "investment and trade is €9,000 which is"
+    },
+    {
+      "start": 980.68,
+      "end": 984.959,
+      "text": "you had to spend it on going outside of"
+    },
+    {
+      "start": 983.279,
+      "end": 986.079,
+      "text": "Belgium basically for exporting you"
+    },
+    {
+      "start": 984.959,
+      "end": 987.399,
+      "text": "don't need to pay that back you just"
+    },
+    {
+      "start": 986.079,
+      "end": 989.12,
+      "text": "need to prove that you've used it and"
+    },
+    {
+      "start": 987.399,
+      "end": 991.6,
+      "text": "you've tried your best really and then"
+    },
+    {
+      "start": 989.12,
+      "end": 993.16,
+      "text": "you have creative Europe and that one is"
+    },
+    {
+      "start": 991.6,
+      "end": 995.519,
+      "text": "if you have a narrative based game"
+    },
+    {
+      "start": 993.16,
+      "end": 997.24,
+      "text": "important you can get after your game"
+    },
+    {
+      "start": 995.519,
+      "end": 999.079,
+      "text": "has been launched you can get some money"
+    },
+    {
+      "start": 997.24,
+      "end": 1001.56,
+      "text": "back I don't know the exact numbers but"
+    },
+    {
+      "start": 999.079,
+      "end": 1003.04,
+      "text": "basically you have to have The Upfront"
+    },
+    {
+      "start": 1001.56,
+      "end": 1004.88,
+      "text": "investment first before you get the"
+    },
+    {
+      "start": 1003.04,
+      "end": 1006.759,
+      "text": "money back I'm going to let you speak"
+    },
+    {
+      "start": 1004.88,
+      "end": 1008.68,
+      "text": "now because I can keep going on this for"
+    },
+    {
+      "start": 1006.759,
+      "end": 1010.6,
+      "text": "like I think another 15 minutes at this"
+    },
+    {
+      "start": 1008.68,
+      "end": 1012.48,
+      "text": "point yeah generally I think like you"
+    },
+    {
+      "start": 1010.6,
+      "end": 1014.079,
+      "text": "said they are very lenient they give you"
+    },
+    {
+      "start": 1012.48,
+      "end": 1016.079,
+      "text": "a lot of opportunities the biggest"
+    },
+    {
+      "start": 1014.079,
+      "end": 1018,
+      "text": "downside that I see first of all from"
+    },
+    {
+      "start": 1016.079,
+      "end": 1019.88,
+      "text": "what I hear the application processes"
+    },
+    {
+      "start": 1018,
+      "end": 1021.48,
+      "text": "are a night nightmare he he had a lot of"
+    },
+    {
+      "start": 1019.88,
+      "end": 1023.8,
+      "text": "fun making those so I'm happy I didn't"
+    },
+    {
+      "start": 1021.48,
+      "end": 1025.559,
+      "text": "have to but also just like everything"
+    },
+    {
+      "start": 1023.8,
+      "end": 1027.799,
+      "text": "with the government like imagine your"
+    },
+    {
+      "start": 1025.559,
+      "end": 1030,
+      "text": "government right now having to pass in a"
+    },
+    {
+      "start": 1027.799,
+      "end": 1032.919,
+      "text": "law yeah it takes ages before you get a"
+    },
+    {
+      "start": 1030,
+      "end": 1035.88,
+      "text": "reply it just very slow and it depending"
+    },
+    {
+      "start": 1032.919,
+      "end": 1037.12,
+      "text": "on what kind of developer you are it can"
+    },
+    {
+      "start": 1035.88,
+      "end": 1040.48,
+      "text": "be a good match because if you want to"
+    },
+    {
+      "start": 1037.12,
+      "end": 1042.559,
+      "text": "make a very big scope I mean even if"
+    },
+    {
+      "start": 1040.48,
+      "end": 1045.079,
+      "text": "even if they don't like big Scopes uh"
+    },
+    {
+      "start": 1042.559,
+      "end": 1048.679,
+      "text": "long Runway game like over 3 years or"
+    },
+    {
+      "start": 1045.079,
+      "end": 1051.32,
+      "text": "something they can be a godson I think"
+    },
+    {
+      "start": 1048.679,
+      "end": 1053.4,
+      "text": "but if you are looking to move quickly"
+    },
+    {
+      "start": 1051.32,
+      "end": 1055.88,
+      "text": "if you are looking to expand on your"
+    },
+    {
+      "start": 1053.4,
+      "end": 1059.4,
+      "text": "game quickly or Rel short development"
+    },
+    {
+      "start": 1055.88,
+      "end": 1061.799,
+      "text": "cycle short we mean like 6 to 12 months"
+    },
+    {
+      "start": 1059.4,
+      "end": 1064.64,
+      "text": "really half year a year then it's"
+    },
+    {
+      "start": 1061.799,
+      "end": 1066.6,
+      "text": "getting a lot harder already to yeah"
+    },
+    {
+      "start": 1064.64,
+      "end": 1069.24,
+      "text": "with good conscious say they are amazing"
+    },
+    {
+      "start": 1066.6,
+      "end": 1072.52,
+      "text": "so story time we applied for the Flemish"
+    },
+    {
+      "start": 1069.24,
+      "end": 1074.16,
+      "text": "audio visual fund we requested €25,000"
+    },
+    {
+      "start": 1072.52,
+      "end": 1076.32,
+      "text": "in Prototype funding I covered this in a"
+    },
+    {
+      "start": 1074.16,
+      "end": 1078.76,
+      "text": "video before the process to write the"
+    },
+    {
+      "start": 1076.32,
+      "end": 1081.039,
+      "text": "entire document took about 2 weeks so"
+    },
+    {
+      "start": 1078.76,
+      "end": 1083.32,
+      "text": "two weeks I was just writing out our"
+    },
+    {
+      "start": 1081.039,
+      "end": 1084.799,
+      "text": "scope all of our mechanics or like I had"
+    },
+    {
+      "start": 1083.32,
+      "end": 1086.039,
+      "text": "to like make a planning of this is how"
+    },
+    {
+      "start": 1084.799,
+      "end": 1088.28,
+      "text": "we're going to spend the money you had"
+    },
+    {
+      "start": 1086.039,
+      "end": 1089.76,
+      "text": "to like budget how many hours are we"
+    },
+    {
+      "start": 1088.28,
+      "end": 1091.559,
+      "text": "going to be using on art on like"
+    },
+    {
+      "start": 1089.76,
+      "end": 1093.679,
+      "text": "implementing this specific mechanic on"
+    },
+    {
+      "start": 1091.559,
+      "end": 1096.28,
+      "text": "UI all of that has to be speced out it's"
+    },
+    {
+      "start": 1093.679,
+      "end": 1099.6,
+      "text": "a lot of work and then we had to send it"
+    },
+    {
+      "start": 1096.28,
+      "end": 1101,
+      "text": "off and we had to wait 4 months that's a"
+    },
+    {
+      "start": 1099.6,
+      "end": 1103.72,
+      "text": "crazy amount of time in that time we"
+    },
+    {
+      "start": 1101,
+      "end": 1105.76,
+      "text": "gained 9,000 subscribers 90% basically"
+    },
+    {
+      "start": 1103.72,
+      "end": 1107.96,
+      "text": "of our audience was gained in that"
+    },
+    {
+      "start": 1105.76,
+      "end": 1110.52,
+      "text": "period we released the game for the"
+    },
+    {
+      "start": 1107.96,
+      "end": 1112.48,
+      "text": "industry we did postlaunch updates for"
+    },
+    {
+      "start": 1110.52,
+      "end": 1114.559,
+      "text": "that game we went to various conventions"
+    },
+    {
+      "start": 1112.48,
+      "end": 1116.48,
+      "text": "for that game and only then did we have"
+    },
+    {
+      "start": 1114.559,
+      "end": 1118.08,
+      "text": "a meeting with the the jury where they"
+    },
+    {
+      "start": 1116.48,
+      "end": 1119.48,
+      "text": "like spend 20 minutes to look at your"
+    },
+    {
+      "start": 1118.08,
+      "end": 1121.76,
+      "text": "application and be like H you get"
+    },
+    {
+      "start": 1119.48,
+      "end": 1123.48,
+      "text": "funding yes or no we didn't get it in"
+    },
+    {
+      "start": 1121.76,
+      "end": 1125.24,
+      "text": "the end because we didn't have artist so"
+    },
+    {
+      "start": 1123.48,
+      "end": 1126.96,
+      "text": "yeah keep that in mind they can take a"
+    },
+    {
+      "start": 1125.24,
+      "end": 1128.679,
+      "text": "very long time uh some other problems"
+    },
+    {
+      "start": 1126.96,
+      "end": 1130.64,
+      "text": "like I said creative Europe you need to"
+    },
+    {
+      "start": 1128.679,
+      "end": 1133.12,
+      "text": "have spent the money before already so"
+    },
+    {
+      "start": 1130.64,
+      "end": 1135.559,
+      "text": "it's only like a year after like if we"
+    },
+    {
+      "start": 1133.12,
+      "end": 1137.84,
+      "text": "had made a narrative game we could have"
+    },
+    {
+      "start": 1135.559,
+      "end": 1140.039,
+      "text": "applied right now for the current open"
+    },
+    {
+      "start": 1137.84,
+      "end": 1141.84,
+      "text": "call and we could have gotten up to 50%"
+    },
+    {
+      "start": 1140.039,
+      "end": 1143.799,
+      "text": "of our total development cost pack you"
+    },
+    {
+      "start": 1141.84,
+      "end": 1145,
+      "text": "can factor in your hourly rate even if"
+    },
+    {
+      "start": 1143.799,
+      "end": 1147.6,
+      "text": "you don't pay yourself for that one"
+    },
+    {
+      "start": 1145,
+      "end": 1149.6,
+      "text": "that's important but again it's a very"
+    },
+    {
+      "start": 1147.6,
+      "end": 1151.799,
+      "text": "long file like Europe one is 80 Pages"
+    },
+    {
+      "start": 1149.6,
+      "end": 1153.4,
+      "text": "it's like nuts and another problem is"
+    },
+    {
+      "start": 1151.799,
+      "end": 1156.12,
+      "text": "with the timings there's only like"
+    },
+    {
+      "start": 1153.4,
+      "end": 1158.159,
+      "text": "certain application Windows usually the"
+    },
+    {
+      "start": 1156.12,
+      "end": 1159.4,
+      "text": "Flemish investment one uh the flaish"
+    },
+    {
+      "start": 1158.159,
+      "end": 1161,
+      "text": "investment trade there's only two"
+    },
+    {
+      "start": 1159.4,
+      "end": 1163,
+      "text": "periods a year and you have like a"
+    },
+    {
+      "start": 1161,
+      "end": 1165.36,
+      "text": "three-day window then to apply and if"
+    },
+    {
+      "start": 1163,
+      "end": 1167.039,
+      "text": "you've missed it bad luck flamage audio"
+    },
+    {
+      "start": 1165.36,
+      "end": 1169.32,
+      "text": "visual fund is I think three or four"
+    },
+    {
+      "start": 1167.039,
+      "end": 1171.48,
+      "text": "times a year that you can apply and the"
+    },
+    {
+      "start": 1169.32,
+      "end": 1173.36,
+      "text": "creative Europe one is once a year uh"
+    },
+    {
+      "start": 1171.48,
+      "end": 1175.159,
+      "text": "usually those things can really slow"
+    },
+    {
+      "start": 1173.36,
+      "end": 1176.679,
+      "text": "down your development as well I do think"
+    },
+    {
+      "start": 1175.159,
+      "end": 1179.08,
+      "text": "they're pretty good for certain"
+    },
+    {
+      "start": 1176.679,
+      "end": 1182.559,
+      "text": "audiences because this is probably the"
+    },
+    {
+      "start": 1179.08,
+      "end": 1184.52,
+      "text": "closest you're going to get to a free"
+    },
+    {
+      "start": 1182.559,
+      "end": 1187.36,
+      "text": "money even if it's not free money they"
+    },
+    {
+      "start": 1184.52,
+      "end": 1189.6,
+      "text": "are very lenient so I think they still"
+    },
+    {
+      "start": 1187.36,
+      "end": 1192.28,
+      "text": "rate very highly but it's important to"
+    },
+    {
+      "start": 1189.6,
+      "end": 1194.88,
+      "text": "know there are caveats like while"
+    },
+    {
+      "start": 1192.28,
+      "end": 1197.679,
+      "text": "Publishers aren't the godsent of all"
+    },
+    {
+      "start": 1194.88,
+      "end": 1199.679,
+      "text": "these can be a godsent depending on your"
+    },
+    {
+      "start": 1197.679,
+      "end": 1202.12,
+      "text": "yeah on how your government works where"
+    },
+    {
+      "start": 1199.679,
+      "end": 1203.799,
+      "text": "you are in the world and of course if it"
+    },
+    {
+      "start": 1202.12,
+      "end": 1206.64,
+      "text": "aligns with your schedule then they are"
+    },
+    {
+      "start": 1203.799,
+      "end": 1209.679,
+      "text": "amazing but if it's a bit yeah it's very"
+    },
+    {
+      "start": 1206.64,
+      "end": 1211.24,
+      "text": "dependent on your timing as a studio all"
+    },
+    {
+      "start": 1209.679,
+      "end": 1213.44,
+      "text": "of those other things like you have to"
+    },
+    {
+      "start": 1211.24,
+      "end": 1215.6,
+      "text": "be willing to put in the time and work I"
+    },
+    {
+      "start": 1213.44,
+      "end": 1218.24,
+      "text": "would put them at 8 TI though I can I"
+    },
+    {
+      "start": 1215.6,
+      "end": 1219.96,
+      "text": "can live with that also depends on what"
+    },
+    {
+      "start": 1218.24,
+      "end": 1222.6,
+      "text": "country and the region you are if you're"
+    },
+    {
+      "start": 1219.96,
+      "end": 1224.919,
+      "text": "in like I think Africa you're screwed"
+    },
+    {
+      "start": 1222.6,
+      "end": 1227.12,
+      "text": "I'm sorry I'm really sorry but if you're"
+    },
+    {
+      "start": 1224.919,
+      "end": 1228.799,
+      "text": "in I think the US and in Europe as well"
+    },
+    {
+      "start": 1227.12,
+      "end": 1230.88,
+      "text": "it's really coming up becoming more"
+    },
+    {
+      "start": 1228.799,
+      "end": 1233.6,
+      "text": "popular to have like game funds biggest"
+    },
+    {
+      "start": 1230.88,
+      "end": 1236.559,
+      "text": "industry of them all in entertainment"
+    },
+    {
+      "start": 1233.6,
+      "end": 1237.84,
+      "text": "so everyone wants a piece of the pie"
+    },
+    {
+      "start": 1236.559,
+      "end": 1239.84,
+      "text": "okay I promise this one is going to be"
+    },
+    {
+      "start": 1237.84,
+      "end": 1241.159,
+      "text": "quick venture capitalist I'm going to"
+    },
+    {
+      "start": 1239.84,
+      "end": 1242.72,
+      "text": "keep this really short venture"
+    },
+    {
+      "start": 1241.159,
+      "end": 1244.32,
+      "text": "capitalist if you don't know them it's"
+    },
+    {
+      "start": 1242.72,
+      "end": 1245.96,
+      "text": "basically the same as an incubator but"
+    },
+    {
+      "start": 1244.32,
+      "end": 1248,
+      "text": "you get less benefits but you can get"
+    },
+    {
+      "start": 1245.96,
+      "end": 1250.559,
+      "text": "more money so Venture Capital again is"
+    },
+    {
+      "start": 1248,
+      "end": 1253,
+      "text": "very traditional to regular it you have"
+    },
+    {
+      "start": 1250.559,
+      "end": 1255.52,
+      "text": "an idea you do like funding rounds and"
+    },
+    {
+      "start": 1253,
+      "end": 1257.919,
+      "text": "you say like hey I'm selling you 20% of"
+    },
+    {
+      "start": 1255.52,
+      "end": 1259.799,
+      "text": "my company in exchange for 200,000 do"
+    },
+    {
+      "start": 1257.919,
+      "end": 1263.4,
+      "text": "you know know Shark Tank it's basically"
+    },
+    {
+      "start": 1259.799,
+      "end": 1264.96,
+      "text": "Shark Tank yeah but for games very like"
+    },
+    {
+      "start": 1263.4,
+      "end": 1266.52,
+      "text": "a lot of like you know networking"
+    },
+    {
+      "start": 1264.96,
+      "end": 1268.159,
+      "text": "connections things like that you get"
+    },
+    {
+      "start": 1266.52,
+      "end": 1270.48,
+      "text": "more money but generally the projects"
+    },
+    {
+      "start": 1268.159,
+      "end": 1272.12,
+      "text": "they fund are also very long scale so"
+    },
+    {
+      "start": 1270.48,
+      "end": 1274.36,
+      "text": "they won't be funding a game they'll be"
+    },
+    {
+      "start": 1272.12,
+      "end": 1275.96,
+      "text": "funding your studio there's one very big"
+    },
+    {
+      "start": 1274.36,
+      "end": 1277.76,
+      "text": "one in Belgium for example that is"
+    },
+    {
+      "start": 1275.96,
+      "end": 1279.679,
+      "text": "Venture Capital funded and what they've"
+    },
+    {
+      "start": 1277.76,
+      "end": 1282.12,
+      "text": "done as well because you need to make"
+    },
+    {
+      "start": 1279.679,
+      "end": 1283.799,
+      "text": "money with Venture Capital they have a"
+    },
+    {
+      "start": 1282.12,
+      "end": 1285.919,
+      "text": "motion capture Studio that they can like"
+    },
+    {
+      "start": 1283.799,
+      "end": 1288.159,
+      "text": "rent out to other Studios I would put"
+    },
+    {
+      "start": 1285.919,
+      "end": 1289.919,
+      "text": "this one at like an e or an F tier"
+    },
+    {
+      "start": 1288.159,
+      "end": 1291.84,
+      "text": "honestly I don't think you should engage"
+    },
+    {
+      "start": 1289.919,
+      "end": 1293.919,
+      "text": "with them at all as an IND developer"
+    },
+    {
+      "start": 1291.84,
+      "end": 1295.24,
+      "text": "yeah there are a lot of risks associated"
+    },
+    {
+      "start": 1293.919,
+      "end": 1297.48,
+      "text": "with this one because they can be very"
+    },
+    {
+      "start": 1295.24,
+      "end": 1299.679,
+      "text": "aggressive from what I know yeah I would"
+    },
+    {
+      "start": 1297.48,
+      "end": 1303.559,
+      "text": "also this if this"
+    },
+    {
+      "start": 1299.679,
+      "end": 1305.24,
+      "text": "fer perhaps yes like there's such a b"
+    },
+    {
+      "start": 1303.559,
+      "end": 1306.76,
+      "text": "big risk there are a lot of better"
+    },
+    {
+      "start": 1305.24,
+      "end": 1308.48,
+      "text": "options out there like just look at the"
+    },
+    {
+      "start": 1306.76,
+      "end": 1310.6,
+      "text": "tier list everything above it is better"
+    },
+    {
+      "start": 1308.48,
+      "end": 1312.919,
+      "text": "try that before this is your last resort"
+    },
+    {
+      "start": 1310.6,
+      "end": 1316.88,
+      "text": "if you really need money yeah next quick"
+    },
+    {
+      "start": 1312.919,
+      "end": 1319,
+      "text": "one I promise is steam residuals so this"
+    },
+    {
+      "start": 1316.88,
+      "end": 1321.039,
+      "text": "is you've released a game I mean if you"
+    },
+    {
+      "start": 1319,
+      "end": 1323.12,
+      "text": "have it just then it's SD if you don't"
+    },
+    {
+      "start": 1321.039,
+      "end": 1325.44,
+      "text": "have it it's fer yeah basically that's"
+    },
+    {
+      "start": 1323.12,
+      "end": 1327.679,
+      "text": "why I often suggest making your first"
+    },
+    {
+      "start": 1325.44,
+      "end": 1329.32,
+      "text": "game and actually releasing it as fast"
+    },
+    {
+      "start": 1327.679,
+      "end": 1332,
+      "text": "as possible because the moment you do"
+    },
+    {
+      "start": 1329.32,
+      "end": 1334.48,
+      "text": "that you get access to game residuals so"
+    },
+    {
+      "start": 1332,
+      "end": 1336.76,
+      "text": "this is recurring income woo passive"
+    },
+    {
+      "start": 1334.48,
+      "end": 1338.36,
+      "text": "income or like mostly passive you've"
+    },
+    {
+      "start": 1336.76,
+      "end": 1340.6,
+      "text": "already done the initial investment you"
+    },
+    {
+      "start": 1338.36,
+      "end": 1342.4,
+      "text": "have the product out there steam doesn't"
+    },
+    {
+      "start": 1340.6,
+      "end": 1344.32,
+      "text": "like require you to pay even if like"
+    },
+    {
+      "start": 1342.4,
+      "end": 1346.12,
+      "text": "nobody buys your game unlike a like"
+    },
+    {
+      "start": 1344.32,
+      "end": 1347.559,
+      "text": "Warehouse in Amazon if you do like Drop"
+    },
+    {
+      "start": 1346.12,
+      "end": 1350.6,
+      "text": "Shipping you just have to pay like the"
+    },
+    {
+      "start": 1347.559,
+      "end": 1352.919,
+      "text": "30% cut and that's it you do it's like"
+    },
+    {
+      "start": 1350.6,
+      "end": 1354.4,
+      "text": "we probably are getting some sales as we"
+    },
+    {
+      "start": 1352.919,
+      "end": 1355.84,
+      "text": "record this video and we're not doing"
+    },
+    {
+      "start": 1354.4,
+      "end": 1358.36,
+      "text": "that much anymore one thing to keep in"
+    },
+    {
+      "start": 1355.84,
+      "end": 1360.279,
+      "text": "mind is probably the amount of residuals"
+    },
+    {
+      "start": 1358.36,
+      "end": 1362.36,
+      "text": "you get is based upon how much post"
+    },
+    {
+      "start": 1360.279,
+      "end": 1363.64,
+      "text": "launch support you still do and things"
+    },
+    {
+      "start": 1362.36,
+      "end": 1365.36,
+      "text": "like that and also you can like still"
+    },
+    {
+      "start": 1363.64,
+      "end": 1367.36,
+      "text": "Market a little bit update the store"
+    },
+    {
+      "start": 1365.36,
+      "end": 1369.559,
+      "text": "Page from now and then generally I do"
+    },
+    {
+      "start": 1367.36,
+      "end": 1370.84,
+      "text": "think this is a really solid way to get"
+    },
+    {
+      "start": 1369.559,
+      "end": 1372.679,
+      "text": "a little bit of extra income you"
+    },
+    {
+      "start": 1370.84,
+      "end": 1374.2,
+      "text": "probably won't be able to live of it but"
+    },
+    {
+      "start": 1372.679,
+      "end": 1376.24,
+      "text": "it will supplement your future"
+    },
+    {
+      "start": 1374.2,
+      "end": 1378.36,
+      "text": "developments yeah I personally think"
+    },
+    {
+      "start": 1376.24,
+      "end": 1379.96,
+      "text": "that if you're starting out a studio you"
+    },
+    {
+      "start": 1378.36,
+      "end": 1382.76,
+      "text": "probably want to build a backl there was"
+    },
+    {
+      "start": 1379.96,
+      "end": 1385.48,
+      "text": "once a talk on GDC I think about a guy"
+    },
+    {
+      "start": 1382.76,
+      "end": 1387.279,
+      "text": "that just made small games and over time"
+    },
+    {
+      "start": 1385.48,
+      "end": 1389.159,
+      "text": "the amount of to a lot and he he was"
+    },
+    {
+      "start": 1387.279,
+      "end": 1391.679,
+      "text": "making six figures in a year because of"
+    },
+    {
+      "start": 1389.159,
+      "end": 1393.76,
+      "text": "that because they all like build up upon"
+    },
+    {
+      "start": 1391.679,
+      "end": 1396.279,
+      "text": "uh built upon each other basically it's"
+    },
+    {
+      "start": 1393.76,
+      "end": 1398.559,
+      "text": "like oh okay this game sold for like 200"
+    },
+    {
+      "start": 1396.279,
+      "end": 1400.08,
+      "text": "bucks a month and this for like 300 and"
+    },
+    {
+      "start": 1398.559,
+      "end": 1401.48,
+      "text": "like that he could pay himself a pretty"
+    },
+    {
+      "start": 1400.08,
+      "end": 1404.2,
+      "text": "decent wage because he just had a good"
+    },
+    {
+      "start": 1401.48,
+      "end": 1405.679,
+      "text": "backlog and of course like the downside"
+    },
+    {
+      "start": 1404.2,
+      "end": 1407.6,
+      "text": "is you have to have made the investment"
+    },
+    {
+      "start": 1405.679,
+      "end": 1410.44,
+      "text": "but if you are working right now for for"
+    },
+    {
+      "start": 1407.6,
+      "end": 1413,
+      "text": "example a full-time job I would try if"
+    },
+    {
+      "start": 1410.44,
+      "end": 1415.52,
+      "text": "you can to just release a game while"
+    },
+    {
+      "start": 1413,
+      "end": 1418.36,
+      "text": "still working and only then consider uh"
+    },
+    {
+      "start": 1415.52,
+      "end": 1420.4,
+      "text": "going like full-time IND so where we"
+    },
+    {
+      "start": 1418.36,
+      "end": 1423.08,
+      "text": "going of put them honestly s tier I"
+    },
+    {
+      "start": 1420.4,
+      "end": 1424.84,
+      "text": "think I think if I I can't think good"
+    },
+    {
+      "start": 1423.08,
+      "end": 1427.039,
+      "text": "conscious give them s tier just because"
+    },
+    {
+      "start": 1424.84,
+      "end": 1430.12,
+      "text": "you have you have to have made it a tier"
+    },
+    {
+      "start": 1427.039,
+      "end": 1432.2,
+      "text": "then yeah if you can do it is s tier but"
+    },
+    {
+      "start": 1430.12,
+      "end": 1434.12,
+      "text": "just because there's like a high big"
+    },
+    {
+      "start": 1432.2,
+      "end": 1438.039,
+      "text": "step to just you need to have done the"
+    },
+    {
+      "start": 1434.12,
+      "end": 1439.799,
+      "text": "first release yeah so if you can do it"
+    },
+    {
+      "start": 1438.039,
+      "end": 1442.159,
+      "text": "it's probably one of the best ways"
+    },
+    {
+      "start": 1439.799,
+      "end": 1444.52,
+      "text": "because it's literally free money next"
+    },
+    {
+      "start": 1442.159,
+      "end": 1446.6,
+      "text": "up one that I personally have quite a"
+    },
+    {
+      "start": 1444.52,
+      "end": 1449.039,
+      "text": "bit of experience with and that is"
+    },
+    {
+      "start": 1446.6,
+      "end": 1451.4,
+      "text": "personal savings so if you don't know"
+    },
+    {
+      "start": 1449.039,
+      "end": 1452.799,
+      "text": "the story I quit my job I had a bunch of"
+    },
+    {
+      "start": 1451.4,
+      "end": 1454.559,
+      "text": "money saved up and that's how I've been"
+    },
+    {
+      "start": 1452.799,
+      "end": 1456.12,
+      "text": "able to afford being a game developer"
+    },
+    {
+      "start": 1454.559,
+      "end": 1457.88,
+      "text": "right now we're making more money it's"
+    },
+    {
+      "start": 1456.12,
+      "end": 1460.2,
+      "text": "like building up but I'm still coasting"
+    },
+    {
+      "start": 1457.88,
+      "end": 1462.44,
+      "text": "of savings for a while I think this one"
+    },
+    {
+      "start": 1460.2,
+      "end": 1464.88,
+      "text": "is pretty self- obvious like okay the"
+    },
+    {
+      "start": 1462.44,
+      "end": 1466.84,
+      "text": "advantage is I know how much money I"
+    },
+    {
+      "start": 1464.88,
+      "end": 1468.2,
+      "text": "have I have my Runway set out because I"
+    },
+    {
+      "start": 1466.84,
+      "end": 1470.039,
+      "text": "know on average how how much am I"
+    },
+    {
+      "start": 1468.2,
+      "end": 1472.52,
+      "text": "spending each month and then I can just"
+    },
+    {
+      "start": 1470.039,
+      "end": 1475.84,
+      "text": "coast and not have to worry too much the"
+    },
+    {
+      "start": 1472.52,
+      "end": 1477.679,
+      "text": "big problem is risk not that getting"
+    },
+    {
+      "start": 1475.84,
+      "end": 1479.48,
+      "text": "that saving in the first place have you"
+    },
+    {
+      "start": 1477.679,
+      "end": 1481.799,
+      "text": "looked at the state of the economy"
+    },
+    {
+      "start": 1479.48,
+      "end": 1483.399,
+      "text": "recently also fair I guess this is more"
+    },
+    {
+      "start": 1481.799,
+      "end": 1485.64,
+      "text": "something if you are like you know"
+    },
+    {
+      "start": 1483.399,
+      "end": 1487.159,
+      "text": "you're like 40 50 years old maybe you've"
+    },
+    {
+      "start": 1485.64,
+      "end": 1488.919,
+      "text": "got a house I've talked to some people"
+    },
+    {
+      "start": 1487.159,
+      "end": 1490.76,
+      "text": "who they paid off their house and you"
+    },
+    {
+      "start": 1488.919,
+      "end": 1492.52,
+      "text": "know you can like roll in money you've"
+    },
+    {
+      "start": 1490.76,
+      "end": 1494.2,
+      "text": "been working for 20 years saved up a"
+    },
+    {
+      "start": 1492.52,
+      "end": 1496.32,
+      "text": "bunch you you have like a pretty solid"
+    },
+    {
+      "start": 1494.2,
+      "end": 1497.76,
+      "text": "Runway that you can actually be like ah"
+    },
+    {
+      "start": 1496.32,
+      "end": 1499.559,
+      "text": "[ __ ] it I'm going to make a game like"
+    },
+    {
+      "start": 1497.76,
+      "end": 1501.32,
+      "text": "like full-time for next 2 years if"
+    },
+    {
+      "start": 1499.559,
+      "end": 1503.08,
+      "text": "you're like a young L who's like just"
+    },
+    {
+      "start": 1501.32,
+      "end": 1504.799,
+      "text": "graduated this is no way going to be"
+    },
+    {
+      "start": 1503.08,
+      "end": 1506.48,
+      "text": "possible for you you need to have had a"
+    },
+    {
+      "start": 1504.799,
+      "end": 1507.72,
+      "text": "previous career outside of game"
+    },
+    {
+      "start": 1506.48,
+      "end": 1509.72,
+      "text": "development because game development"
+    },
+    {
+      "start": 1507.72,
+      "end": 1511.2,
+      "text": "pays [ __ ] yeah you need you also need a"
+    },
+    {
+      "start": 1509.72,
+      "end": 1512.84,
+      "text": "backup plan because there's a lot of"
+    },
+    {
+      "start": 1511.2,
+      "end": 1515.799,
+      "text": "risk involved like what if you quit your"
+    },
+    {
+      "start": 1512.84,
+      "end": 1517.64,
+      "text": "job and you have like 50,000 Runway"
+    },
+    {
+      "start": 1515.799,
+      "end": 1519.919,
+      "text": "let's just name a number you work for"
+    },
+    {
+      "start": 1517.64,
+      "end": 1521.799,
+      "text": "one and a half year and you release a"
+    },
+    {
+      "start": 1519.919,
+      "end": 1523.919,
+      "text": "game your budget is basically done and"
+    },
+    {
+      "start": 1521.799,
+      "end": 1525.76,
+      "text": "your game flops you just wasted that"
+    },
+    {
+      "start": 1523.919,
+      "end": 1528.32,
+      "text": "money so to say like it's still a big"
+    },
+    {
+      "start": 1525.76,
+      "end": 1531.279,
+      "text": "risk so you can't I I can't good fit but"
+    },
+    {
+      "start": 1528.32,
+      "end": 1532.799,
+      "text": "it too high however is a risk so there"
+    },
+    {
+      "start": 1531.279,
+      "end": 1535.24,
+      "text": "are also a lot of benefits involved"
+    },
+    {
+      "start": 1532.799,
+      "end": 1537.279,
+      "text": "because you have full Freedom that's the"
+    },
+    {
+      "start": 1535.24,
+      "end": 1539.24,
+      "text": "good Advantage like I don't have to care"
+    },
+    {
+      "start": 1537.279,
+      "end": 1541.679,
+      "text": "about what anyone says I don't have to"
+    },
+    {
+      "start": 1539.24,
+      "end": 1542.96,
+      "text": "care about oh are we really am I going"
+    },
+    {
+      "start": 1541.679,
+      "end": 1545.64,
+      "text": "to have to like go and talk to"
+    },
+    {
+      "start": 1542.96,
+      "end": 1547.24,
+      "text": "Publishers because right now I don't and"
+    },
+    {
+      "start": 1545.64,
+      "end": 1549.72,
+      "text": "that is if you're have a game with you"
+    },
+    {
+      "start": 1547.24,
+      "end": 1551.72,
+      "text": "need creative freedom this is perfect"
+    },
+    {
+      "start": 1549.72,
+      "end": 1556.2,
+      "text": "for that because you control everything"
+    },
+    {
+      "start": 1551.72,
+      "end": 1558.6,
+      "text": "still yeah I agree it's just a big risk"
+    },
+    {
+      "start": 1556.2,
+      "end": 1561.52,
+      "text": "beer then I guess yes I can't put it at"
+    },
+    {
+      "start": 1558.6,
+      "end": 1565.08,
+      "text": "AER I feel no AER definitely not but"
+    },
+    {
+      "start": 1561.52,
+      "end": 1567.6,
+      "text": "publisher I I would put it B minus B"
+    },
+    {
+      "start": 1565.08,
+      "end": 1569.32,
+      "text": "minus just below publisher because like"
+    },
+    {
+      "start": 1567.6,
+      "end": 1572.64,
+      "text": "if you can do it it's a lot better than"
+    },
+    {
+      "start": 1569.32,
+      "end": 1574.399,
+      "text": "a publisher yeah but a publisher while"
+    },
+    {
+      "start": 1572.64,
+      "end": 1576.799,
+      "text": "they have a lot of drawbacks they give"
+    },
+    {
+      "start": 1574.399,
+      "end": 1578.6,
+      "text": "you a sense of security yeah B minus I"
+    },
+    {
+      "start": 1576.799,
+      "end": 1581.32,
+      "text": "can live with"
+    },
+    {
+      "start": 1578.6,
+      "end": 1585.76,
+      "text": "that next up bank"
+    },
+    {
+      "start": 1581.32,
+      "end": 1587.24,
+      "text": "loans don't do it fer no like in all"
+    },
+    {
+      "start": 1585.76,
+      "end": 1590,
+      "text": "seriousness if you have to take out a"
+    },
+    {
+      "start": 1587.24,
+      "end": 1591.6,
+      "text": "loan for a game first of all no Bank"
+    },
+    {
+      "start": 1590,
+      "end": 1593.6,
+      "text": "probably is going to actually give you a"
+    },
+    {
+      "start": 1591.6,
+      "end": 1596.08,
+      "text": "loan for game development I I really"
+    },
+    {
+      "start": 1593.6,
+      "end": 1597.96,
+      "text": "want to see you try that one but even if"
+    },
+    {
+      "start": 1596.08,
+      "end": 1599.88,
+      "text": "you would get it how are you going to"
+    },
+    {
+      "start": 1597.96,
+      "end": 1601.32,
+      "text": "pay it back if you fail yeah that's the"
+    },
+    {
+      "start": 1599.88,
+      "end": 1603.84,
+      "text": "thing if you like fail with your"
+    },
+    {
+      "start": 1601.32,
+      "end": 1605.24,
+      "text": "personal savings okay you can probably"
+    },
+    {
+      "start": 1603.84,
+      "end": 1607.88,
+      "text": "just go back to work and it's fine but"
+    },
+    {
+      "start": 1605.24,
+      "end": 1609.72,
+      "text": "if you fail and there's like you know a"
+    },
+    {
+      "start": 1607.88,
+      "end": 1611.32,
+      "text": "bank that's looming over you you need to"
+    },
+    {
+      "start": 1609.72,
+      "end": 1613.399,
+      "text": "like what you're bankrupting yourself"
+    },
+    {
+      "start": 1611.32,
+      "end": 1615.679,
+      "text": "literally you might lose your house"
+    },
+    {
+      "start": 1613.399,
+      "end": 1617.399,
+      "text": "there's much more risk that way and"
+    },
+    {
+      "start": 1615.679,
+      "end": 1619.88,
+      "text": "honestly game development it's fun but"
+    },
+    {
+      "start": 1617.399,
+      "end": 1622.039,
+      "text": "it's not worth like that much trouble"
+    },
+    {
+      "start": 1619.88,
+      "end": 1624.24,
+      "text": "for so I wouldn't do it I would I"
+    },
+    {
+      "start": 1622.039,
+      "end": 1627.399,
+      "text": "definitely don't do it another F tier I"
+    },
+    {
+      "start": 1624.24,
+      "end": 1629.52,
+      "text": "think it's fer all right now I feel bad"
+    },
+    {
+      "start": 1627.399,
+      "end": 1632.32,
+      "text": "for Venture capitalists because I mean"
+    },
+    {
+      "start": 1629.52,
+      "end": 1634.2,
+      "text": "they're kind of the same as a bank"
+    },
+    {
+      "start": 1632.32,
+      "end": 1637.08,
+      "text": "except the venture capitalist usually"
+    },
+    {
+      "start": 1634.2,
+      "end": 1640.2,
+      "text": "can't come and steal your house yeah"
+    },
+    {
+      "start": 1637.08,
+      "end": 1642.159,
+      "text": "that's only a small detail of course"
+    },
+    {
+      "start": 1640.2,
+      "end": 1643.6,
+      "text": "like I said Remember the economy nobody"
+    },
+    {
+      "start": 1642.159,
+      "end": 1645.919,
+      "text": "of our viewers is going to be able to"
+    },
+    {
+      "start": 1643.6,
+      "end": 1648.24,
+      "text": "afford a house to begin with yeah"
+    },
+    {
+      "start": 1645.919,
+      "end": 1650.84,
+      "text": "relatable I guess okay it's back on a"
+    },
+    {
+      "start": 1648.24,
+      "end": 1652.96,
+      "text": "more positive note y so we talked about"
+    },
+    {
+      "start": 1650.84,
+      "end": 1655.52,
+      "text": "government grants one other one that's"
+    },
+    {
+      "start": 1652.96,
+      "end": 1657.96,
+      "text": "also Grant based is the Epic Mega Grant"
+    },
+    {
+      "start": 1655.52,
+      "end": 1659.64,
+      "text": "is a very big one so more non-government"
+    },
+    {
+      "start": 1657.96,
+      "end": 1661.12,
+      "text": "grants or you also have like some"
+    },
+    {
+      "start": 1659.64,
+      "end": 1662.799,
+      "text": "competitions where you can win some"
+    },
+    {
+      "start": 1661.12,
+      "end": 1664.44,
+      "text": "money if you're like the best indie game"
+    },
+    {
+      "start": 1662.799,
+      "end": 1666.399,
+      "text": "I think some game jams also have like"
+    },
+    {
+      "start": 1664.44,
+      "end": 1668.279,
+      "text": "price money yeah if you can get it why"
+    },
+    {
+      "start": 1666.399,
+      "end": 1670.12,
+      "text": "not yeah that's the thing I think"
+    },
+    {
+      "start": 1668.279,
+      "end": 1672.159,
+      "text": "especially epic Mega grants if you are"
+    },
+    {
+      "start": 1670.12,
+      "end": 1674,
+      "text": "an unreal game we know some developers"
+    },
+    {
+      "start": 1672.159,
+      "end": 1676.159,
+      "text": "that's basically kickstarted the entire"
+    },
+    {
+      "start": 1674,
+      "end": 1679,
+      "text": "career with like one Epic Mega ground"
+    },
+    {
+      "start": 1676.159,
+      "end": 1681.08,
+      "text": "cuz it's 25k yeah I think it's but"
+    },
+    {
+      "start": 1679,
+      "end": 1683.08,
+      "text": "unlike an incubator you have full"
+    },
+    {
+      "start": 1681.08,
+      "end": 1684.559,
+      "text": "control of your company still you have a"
+    },
+    {
+      "start": 1683.08,
+      "end": 1686.919,
+      "text": "bit of backing from unreal things like"
+    },
+    {
+      "start": 1684.559,
+      "end": 1688.36,
+      "text": "that honestly Unity you probably don't"
+    },
+    {
+      "start": 1686.919,
+      "end": 1691.6,
+      "text": "watch this because I don't think you"
+    },
+    {
+      "start": 1688.36,
+      "end": 1693.12,
+      "text": "like us but if someone from Unity is"
+    },
+    {
+      "start": 1691.6,
+      "end": 1695,
+      "text": "watching us first of all answer our"
+    },
+    {
+      "start": 1693.12,
+      "end": 1698.44,
+      "text": "email second of"
+    },
+    {
+      "start": 1695,
+      "end": 1701.039,
+      "text": "all sorry second of all why are you not"
+    },
+    {
+      "start": 1698.44,
+      "end": 1703.24,
+      "text": "doing Mega Grands like this is such a"
+    },
+    {
+      "start": 1701.039,
+      "end": 1706.6,
+      "text": "big Advantage for unreal I think because"
+    },
+    {
+      "start": 1703.24,
+      "end": 1708.76,
+      "text": "Unity doesn't need it Unity is so I mean"
+    },
+    {
+      "start": 1706.6,
+      "end": 1711.32,
+      "text": "right now they need it right now they"
+    },
+    {
+      "start": 1708.76,
+      "end": 1713.679,
+      "text": "need it but up until like before they"
+    },
+    {
+      "start": 1711.32,
+      "end": 1716.44,
+      "text": "decided to like just burn down the"
+    },
+    {
+      "start": 1713.679,
+      "end": 1718.519,
+      "text": "company they didn't need it because"
+    },
+    {
+      "start": 1716.44,
+      "end": 1720.72,
+      "text": "everyone used Unity whereas unreal was"
+    },
+    {
+      "start": 1718.519,
+      "end": 1723.2,
+      "text": "more for like the real like bigger"
+    },
+    {
+      "start": 1720.72,
+      "end": 1725.559,
+      "text": "Studios so I think that's where the mega"
+    },
+    {
+      "start": 1723.2,
+      "end": 1727.88,
+      "text": "gron came in basically Unity start doing"
+    },
+    {
+      "start": 1725.559,
+      "end": 1729.799,
+      "text": "it now a lot of people don't like you"
+    },
+    {
+      "start": 1727.88,
+      "end": 1732.919,
+      "text": "right now they are looking at unreal or"
+    },
+    {
+      "start": 1729.799,
+      "end": 1736.96,
+      "text": "godo or God do whatever you call it gdau"
+    },
+    {
+      "start": 1732.919,
+      "end": 1739.159,
+      "text": "gdau gdo gdo basically um start doing it"
+    },
+    {
+      "start": 1736.96,
+      "end": 1741.12,
+      "text": "that was my call to action I'm sorry"
+    },
+    {
+      "start": 1739.159,
+      "end": 1742.96,
+      "text": "yeah I uh yeah and then you can also"
+    },
+    {
+      "start": 1741.12,
+      "end": 1745.84,
+      "text": "submit your game to like competitions I"
+    },
+    {
+      "start": 1742.96,
+      "end": 1747.88,
+      "text": "think gwdc is one I don't really like it"
+    },
+    {
+      "start": 1745.84,
+      "end": 1749.44,
+      "text": "that much or like game jams I think"
+    },
+    {
+      "start": 1747.88,
+      "end": 1750.96,
+      "text": "pretty much this is a really solid way"
+    },
+    {
+      "start": 1749.44,
+      "end": 1753.48,
+      "text": "as well to get a little bit you won't"
+    },
+    {
+      "start": 1750.96,
+      "end": 1756.12,
+      "text": "get that much money of it but it will be"
+    },
+    {
+      "start": 1753.48,
+      "end": 1757.6,
+      "text": "like an extra like fun bonus that when"
+    },
+    {
+      "start": 1756.12,
+      "end": 1759.76,
+      "text": "keep like give you a bit more Runway"
+    },
+    {
+      "start": 1757.6,
+      "end": 1762.159,
+      "text": "give you a bit more also validation of"
+    },
+    {
+      "start": 1759.76,
+      "end": 1763.799,
+      "text": "hey what I'm doing is good similar to"
+    },
+    {
+      "start": 1762.159,
+      "end": 1766.2,
+      "text": "how you get a government grant usually"
+    },
+    {
+      "start": 1763.799,
+      "end": 1768.039,
+      "text": "what you're doing is good like someone"
+    },
+    {
+      "start": 1766.2,
+      "end": 1770.12,
+      "text": "has seen it it's like this is good work"
+    },
+    {
+      "start": 1768.039,
+      "end": 1772,
+      "text": "Tim Sweeney if you're watching this"
+    },
+    {
+      "start": 1770.12,
+      "end": 1774.88,
+      "text": "probably not you can also give us a mega"
+    },
+    {
+      "start": 1772,
+      "end": 1776.519,
+      "text": "Grant but we'll oh I'll switch to un"
+    },
+    {
+      "start": 1774.88,
+      "end": 1778.6,
+      "text": "real if they give us a gr for the next"
+    },
+    {
+      "start": 1776.519,
+      "end": 1780.6,
+      "text": "game then I don't want to rewrite every"
+    },
+    {
+      "start": 1778.6,
+      "end": 1783.12,
+      "text": "line of codes yeah I don't know I think"
+    },
+    {
+      "start": 1780.6,
+      "end": 1785.399,
+      "text": "a TI yeah I think it's good yeah it's"
+    },
+    {
+      "start": 1783.12,
+      "end": 1787.48,
+      "text": "good honestly it's a very pro move of"
+    },
+    {
+      "start": 1785.399,
+      "end": 1790.12,
+      "text": "Epic to do this I know they get a lot of"
+    },
+    {
+      "start": 1787.48,
+      "end": 1792.76,
+      "text": "flag for the epic games store and people"
+    },
+    {
+      "start": 1790.12,
+      "end": 1795.36,
+      "text": "don't like it but don't hate the company"
+    },
+    {
+      "start": 1792.76,
+      "end": 1797.32,
+      "text": "and then a strategy that we are looking"
+    },
+    {
+      "start": 1795.36,
+      "end": 1798.799,
+      "text": "into I guess uh we don't have that much"
+    },
+    {
+      "start": 1797.32,
+      "end": 1800.399,
+      "text": "experience with that but it's something"
+    },
+    {
+      "start": 1798.799,
+      "end": 1803.72,
+      "text": "that I've seen a lot of other developers"
+    },
+    {
+      "start": 1800.399,
+      "end": 1805.64,
+      "text": "do is community funded development and"
+    },
+    {
+      "start": 1803.72,
+      "end": 1807.24,
+      "text": "that is similar to how a Kickstarter"
+    },
+    {
+      "start": 1805.64,
+      "end": 1810.919,
+      "text": "works but instead of being like a"
+    },
+    {
+      "start": 1807.24,
+      "end": 1812.679,
+      "text": "upfront onetime big lumpsum you get a"
+    },
+    {
+      "start": 1810.919,
+      "end": 1814.72,
+      "text": "constant stream of subscribers usually"
+    },
+    {
+      "start": 1812.679,
+      "end": 1817.799,
+      "text": "through a patreon or a Kofi I think is"
+    },
+    {
+      "start": 1814.72,
+      "end": 1819.24,
+      "text": "another platform where you are like hey"
+    },
+    {
+      "start": 1817.799,
+      "end": 1821.279,
+      "text": "I'm going to be working on this game you"
+    },
+    {
+      "start": 1819.24,
+      "end": 1822.88,
+      "text": "like make the updates Randy is a very"
+    },
+    {
+      "start": 1821.279,
+      "end": 1824.76,
+      "text": "big YouTuber Game Dev that I've been"
+    },
+    {
+      "start": 1822.88,
+      "end": 1826.799,
+      "text": "following he has still hasn't released"
+    },
+    {
+      "start": 1824.76,
+      "end": 1828.6,
+      "text": "the game I feel off like all these years"
+    },
+    {
+      "start": 1826.799,
+      "end": 1830.72,
+      "text": "he's funny know but he's funny and he"
+    },
+    {
+      "start": 1828.6,
+      "end": 1832.559,
+      "text": "has a similar idea of you know you can"
+    },
+    {
+      "start": 1830.72,
+      "end": 1834.44,
+      "text": "fund me you get early builds of the game"
+    },
+    {
+      "start": 1832.559,
+      "end": 1836.6,
+      "text": "you have like more direct contact things"
+    },
+    {
+      "start": 1834.44,
+      "end": 1838.679,
+      "text": "like that maybe like I'll if you pay me"
+    },
+    {
+      "start": 1836.6,
+      "end": 1840.519,
+      "text": "enough if like or like 50 bucks a month"
+    },
+    {
+      "start": 1838.679,
+      "end": 1842.24,
+      "text": "I'll make like you as a character in the"
+    },
+    {
+      "start": 1840.519,
+      "end": 1844.64,
+      "text": "game things like that so it's basically"
+    },
+    {
+      "start": 1842.24,
+      "end": 1847,
+      "text": "a constantly running Kickstarter I think"
+    },
+    {
+      "start": 1844.64,
+      "end": 1849,
+      "text": "this is good but you need to keep in"
+    },
+    {
+      "start": 1847,
+      "end": 1850.799,
+      "text": "mind similar with Kickstarter you need"
+    },
+    {
+      "start": 1849,
+      "end": 1852.32,
+      "text": "to become a community manager and not"
+    },
+    {
+      "start": 1850.799,
+      "end": 1853.799,
+      "text": "everyone is ready for that especially if"
+    },
+    {
+      "start": 1852.32,
+      "end": 1855.799,
+      "text": "you're like Randy you need to make"
+    },
+    {
+      "start": 1853.799,
+      "end": 1857.039,
+      "text": "YouTube videos you need to be funny"
+    },
+    {
+      "start": 1855.799,
+      "end": 1858.519,
+      "text": "another thing is for example you make"
+    },
+    {
+      "start": 1857.039,
+      "end": 1860.12,
+      "text": "like some tutorials or you share some"
+    },
+    {
+      "start": 1858.519,
+      "end": 1861.799,
+      "text": "source code but that's when you go more"
+    },
+    {
+      "start": 1860.12,
+      "end": 1864.159,
+      "text": "into the like General YouTuber thing"
+    },
+    {
+      "start": 1861.799,
+      "end": 1866.159,
+      "text": "already you need to have a community"
+    },
+    {
+      "start": 1864.159,
+      "end": 1868.519,
+      "text": "that you can convert and if you're alone"
+    },
+    {
+      "start": 1866.159,
+      "end": 1870.159,
+      "text": "it's a whole lot of work so if you're"
+    },
+    {
+      "start": 1868.519,
+      "end": 1871.84,
+      "text": "alone it's probably a very bad idea to"
+    },
+    {
+      "start": 1870.159,
+      "end": 1873.679,
+      "text": "do this I think there's definitely value"
+    },
+    {
+      "start": 1871.84,
+      "end": 1875.12,
+      "text": "in it like for example a lot of people"
+    },
+    {
+      "start": 1873.679,
+      "end": 1877.12,
+      "text": "also like to be part of creating"
+    },
+    {
+      "start": 1875.12,
+      "end": 1879.48,
+      "text": "something amazing if people believe your"
+    },
+    {
+      "start": 1877.12,
+      "end": 1881.24,
+      "text": "vision they will most likely support you"
+    },
+    {
+      "start": 1879.48,
+      "end": 1883.159,
+      "text": "and if they for example back you on a"
+    },
+    {
+      "start": 1881.24,
+      "end": 1884.88,
+      "text": "patreon they are also more likely to for"
+    },
+    {
+      "start": 1883.159,
+      "end": 1887.24,
+      "text": "example play your play tests give you"
+    },
+    {
+      "start": 1884.88,
+      "end": 1889.039,
+      "text": "feedback and that's also a lot of"
+    },
+    {
+      "start": 1887.24,
+      "end": 1891.559,
+      "text": "benefit you get from this well of course"
+    },
+    {
+      "start": 1889.039,
+      "end": 1892.96,
+      "text": "the publisher can pay a tester to do it"
+    },
+    {
+      "start": 1891.559,
+      "end": 1894.559,
+      "text": "if you can do it for the community that"
+    },
+    {
+      "start": 1892.96,
+      "end": 1896.799,
+      "text": "do it for free because they have passion"
+    },
+    {
+      "start": 1894.559,
+      "end": 1898.32,
+      "text": "for your project it's even better and I"
+    },
+    {
+      "start": 1896.799,
+      "end": 1901.2,
+      "text": "want to quickly take this moment to also"
+    },
+    {
+      "start": 1898.32,
+      "end": 1903.72,
+      "text": "shill our own patreon which we do have"
+    },
+    {
+      "start": 1901.2,
+      "end": 1905.24,
+      "text": "since like a few weeks because as I said"
+    },
+    {
+      "start": 1903.72,
+      "end": 1907.44,
+      "text": "this is something that we have been"
+    },
+    {
+      "start": 1905.24,
+      "end": 1909.2,
+      "text": "actually thinking about and is like if"
+    },
+    {
+      "start": 1907.44,
+      "end": 1911.039,
+      "text": "you do have the audience like we did"
+    },
+    {
+      "start": 1909.2,
+      "end": 1912.44,
+      "text": "have it like the point we reached 10K it"
+    },
+    {
+      "start": 1911.039,
+      "end": 1914.159,
+      "text": "was like okay we actually have to think"
+    },
+    {
+      "start": 1912.44,
+      "end": 1915.84,
+      "text": "about this like how do we not have to"
+    },
+    {
+      "start": 1914.159,
+      "end": 1917.519,
+      "text": "sell our soul to a publisher we are"
+    },
+    {
+      "start": 1915.84,
+      "end": 1919.279,
+      "text": "going to try a patreon so if you someone"
+    },
+    {
+      "start": 1917.519,
+      "end": 1921.639,
+      "text": "who is like loving these videos loving"
+    },
+    {
+      "start": 1919.279,
+      "end": 1924.399,
+      "text": "our games wanted see us succeed and grow"
+    },
+    {
+      "start": 1921.639,
+      "end": 1926.96,
+      "text": "because well in the end Marx will have"
+    },
+    {
+      "start": 1924.399,
+      "end": 1928.6,
+      "text": "to have food because like he said he's I"
+    },
+    {
+      "start": 1926.96,
+      "end": 1931.12,
+      "text": "I don't have that much savings it's like"
+    },
+    {
+      "start": 1928.6,
+      "end": 1932.919,
+      "text": "always going down but yeah we do have a"
+    },
+    {
+      "start": 1931.12,
+      "end": 1934.919,
+      "text": "patreon I'll link it down below please"
+    },
+    {
+      "start": 1932.919,
+      "end": 1936.88,
+      "text": "support us that way and if you can't no"
+    },
+    {
+      "start": 1934.919,
+      "end": 1938.6,
+      "text": "problem just share the video yeah or"
+    },
+    {
+      "start": 1936.88,
+      "end": 1941.2,
+      "text": "just keep watching cuz YouTube AdSense"
+    },
+    {
+      "start": 1938.6,
+      "end": 1943.399,
+      "text": "is still a thing so yeah true I think"
+    },
+    {
+      "start": 1941.2,
+      "end": 1945.32,
+      "text": "it's pretty good I think it's a b tier"
+    },
+    {
+      "start": 1943.399,
+      "end": 1947.12,
+      "text": "is what I would put it you put it above"
+    },
+    {
+      "start": 1945.32,
+      "end": 1949.08,
+      "text": "Kickstarter I put it above Kickstarter"
+    },
+    {
+      "start": 1947.12,
+      "end": 1952.039,
+      "text": "more work than Kickstarter no I don't"
+    },
+    {
+      "start": 1949.08,
+      "end": 1953.799,
+      "text": "think so no Kickstarter is a lot of very"
+    },
+    {
+      "start": 1952.039,
+      "end": 1955.799,
+      "text": "you because Kickstarter you need to make"
+    },
+    {
+      "start": 1953.799,
+      "end": 1957.72,
+      "text": "a campaign really and you have like all"
+    },
+    {
+      "start": 1955.799,
+      "end": 1959.72,
+      "text": "the fancy art whereas but patreon you"
+    },
+    {
+      "start": 1957.72,
+      "end": 1961.679,
+      "text": "have to do consistently patreon you need"
+    },
+    {
+      "start": 1959.72,
+      "end": 1963.48,
+      "text": "consistently but the quality can be much"
+    },
+    {
+      "start": 1961.679,
+      "end": 1965.08,
+      "text": "lower it can be as simple as hey this is"
+    },
+    {
+      "start": 1963.48,
+      "end": 1966.72,
+      "text": "like a little video where I share my"
+    },
+    {
+      "start": 1965.08,
+      "end": 1968.2,
+      "text": "screen and I talk in the meantime of"
+    },
+    {
+      "start": 1966.72,
+      "end": 1970.44,
+      "text": "this is the progress that I have been"
+    },
+    {
+      "start": 1968.2,
+      "end": 1971.679,
+      "text": "making this is like a new character I've"
+    },
+    {
+      "start": 1970.44,
+      "end": 1974.039,
+      "text": "made for the game things like that"
+    },
+    {
+      "start": 1971.679,
+      "end": 1976.639,
+      "text": "whereas also Kickstarter is a lot more"
+    },
+    {
+      "start": 1974.039,
+      "end": 1978.679,
+      "text": "risk because once that funding period is"
+    },
+    {
+      "start": 1976.639,
+      "end": 1980.44,
+      "text": "over if you don't reach your goal you're"
+    },
+    {
+      "start": 1978.679,
+      "end": 1982.279,
+      "text": "not reaching it and then it's like you"
+    },
+    {
+      "start": 1980.44,
+      "end": 1983.799,
+      "text": "can't like keep re kickstarting your"
+    },
+    {
+      "start": 1982.279,
+      "end": 1985.12,
+      "text": "game whereas you know patreon there will"
+    },
+    {
+      "start": 1983.799,
+      "end": 1987.2,
+      "text": "be moments there will be UPS there will"
+    },
+    {
+      "start": 1985.12,
+      "end": 1988.84,
+      "text": "be Downs maybe depending on like the"
+    },
+    {
+      "start": 1987.2,
+      "end": 1990.6,
+      "text": "Clos you get to development or if you"
+    },
+    {
+      "start": 1988.84,
+      "end": 1993.2,
+      "text": "make a very cool feature get put"
+    },
+    {
+      "start": 1990.6,
+      "end": 1996.279,
+      "text": "featured somewhere but I think you"
+    },
+    {
+      "start": 1993.2,
+      "end": 1998.519,
+      "text": "spread out the funding but also the risk"
+    },
+    {
+      "start": 1996.279,
+      "end": 2000.36,
+      "text": "over a longer period that's true and now"
+    },
+    {
+      "start": 1998.519,
+      "end": 2003,
+      "text": "that I think about it you also while a"
+    },
+    {
+      "start": 2000.36,
+      "end": 2004.399,
+      "text": "Kickstarter runs for like a month or so"
+    },
+    {
+      "start": 2003,
+      "end": 2007.48,
+      "text": "in that month you have to succeed a"
+    },
+    {
+      "start": 2004.399,
+      "end": 2009.279,
+      "text": "patreon can also grow yeah so even if if"
+    },
+    {
+      "start": 2007.48,
+      "end": 2011.519,
+      "text": "you're the only person watching this"
+    },
+    {
+      "start": 2009.279,
+      "end": 2014.6,
+      "text": "that joins our patreon you helped us out"
+    },
+    {
+      "start": 2011.519,
+      "end": 2017.399,
+      "text": "already and okay like we might grow on"
+    },
+    {
+      "start": 2014.6,
+      "end": 2019.24,
+      "text": "it hopefully your campaign won't fail"
+    },
+    {
+      "start": 2017.399,
+      "end": 2021.12,
+      "text": "like your kick yeah your patreon didn't"
+    },
+    {
+      "start": 2019.24,
+      "end": 2022.32,
+      "text": "fail while your Kickstarter can fail I"
+    },
+    {
+      "start": 2021.12,
+      "end": 2023.559,
+      "text": "think you can keep the money anyway with"
+    },
+    {
+      "start": 2022.32,
+      "end": 2025.039,
+      "text": "Kickstarter depending how you fund it"
+    },
+    {
+      "start": 2023.559,
+      "end": 2027.36,
+      "text": "but you convince me I can I can live"
+    },
+    {
+      "start": 2025.039,
+      "end": 2030.12,
+      "text": "with B tier yeah I think B tier is"
+    },
+    {
+      "start": 2027.36,
+      "end": 2033.48,
+      "text": "pretty solid as well so bially basically"
+    },
+    {
+      "start": 2030.12,
+      "end": 2035.44,
+      "text": "get a publisher or go uh I don't think"
+    },
+    {
+      "start": 2033.48,
+      "end": 2037,
+      "text": "Community funding is for everyone no"
+    },
+    {
+      "start": 2035.44,
+      "end": 2040.159,
+      "text": "it's a lot of work don't do it as if if"
+    },
+    {
+      "start": 2037,
+      "end": 2042.039,
+      "text": "you're on your own you'll also you can't"
+    },
+    {
+      "start": 2040.159,
+      "end": 2043.279,
+      "text": "start development being like okay I'm"
+    },
+    {
+      "start": 2042.039,
+      "end": 2044.679,
+      "text": "going to make this game and it's going"
+    },
+    {
+      "start": 2043.279,
+      "end": 2046.32,
+      "text": "to be Community funded it's something"
+    },
+    {
+      "start": 2044.679,
+      "end": 2049.32,
+      "text": "that you'll have to see through the"
+    },
+    {
+      "start": 2046.32,
+      "end": 2052.119,
+      "text": "evolution of like making gifs on Reddit"
+    },
+    {
+      "start": 2049.32,
+      "end": 2054.119,
+      "text": "or on like uh Twitter and then like from"
+    },
+    {
+      "start": 2052.119,
+      "end": 2055.599,
+      "text": "there on seeing like the name suggests"
+    },
+    {
+      "start": 2054.119,
+      "end": 2057.56,
+      "text": "you need a community for Community"
+    },
+    {
+      "start": 2055.599,
+      "end": 2060.839,
+      "text": "funding all right one more and we can go"
+    },
+    {
+      "start": 2057.56,
+      "end": 2063,
+      "text": "home freelance funding so what this yeah"
+    },
+    {
+      "start": 2060.839,
+      "end": 2065,
+      "text": "work for hire basically because this is"
+    },
+    {
+      "start": 2063,
+      "end": 2067.56,
+      "text": "something that we here in Belgium see a"
+    },
+    {
+      "start": 2065,
+      "end": 2069.359,
+      "text": "lot um that is because you know people"
+    },
+    {
+      "start": 2067.56,
+      "end": 2070.919,
+      "text": "don't have those savings maybe they have"
+    },
+    {
+      "start": 2069.359,
+      "end": 2072.72,
+      "text": "an incubator but they ran out of like"
+    },
+    {
+      "start": 2070.919,
+      "end": 2075.159,
+      "text": "the main incubator money it's like okay"
+    },
+    {
+      "start": 2072.72,
+      "end": 2076.879,
+      "text": "I'm a game developer or like an artist I"
+    },
+    {
+      "start": 2075.159,
+      "end": 2078.48,
+      "text": "work on my game for like two three days"
+    },
+    {
+      "start": 2076.879,
+      "end": 2080.919,
+      "text": "a week and in the other two or three"
+    },
+    {
+      "start": 2078.48,
+      "end": 2082.919,
+      "text": "days I go and I work for another studio"
+    },
+    {
+      "start": 2080.919,
+      "end": 2085.079,
+      "text": "and it's like that way you get some"
+    },
+    {
+      "start": 2082.919,
+      "end": 2086.919,
+      "text": "money paid for and then you can like"
+    },
+    {
+      "start": 2085.079,
+      "end": 2088.359,
+      "text": "also spend a few days on your main job"
+    },
+    {
+      "start": 2086.919,
+      "end": 2090.24,
+      "text": "still and in the end you're still doing"
+    },
+    {
+      "start": 2088.359,
+      "end": 2091.679,
+      "text": "five days a week of game development so"
+    },
+    {
+      "start": 2090.24,
+      "end": 2093.599,
+      "text": "you don't have to become a waiter or"
+    },
+    {
+      "start": 2091.679,
+      "end": 2096,
+      "text": "whatever and you can still keep in that"
+    },
+    {
+      "start": 2093.599,
+      "end": 2099.2,
+      "text": "industry that you really want to I think"
+    },
+    {
+      "start": 2096,
+      "end": 2100.28,
+      "text": "it's if you have to it's a l Resort yes"
+    },
+    {
+      "start": 2099.2,
+      "end": 2102.4,
+      "text": "there are yeah of course you're still"
+    },
+    {
+      "start": 2100.28,
+      "end": 2104.119,
+      "text": "doing game death but I think it will"
+    },
+    {
+      "start": 2102.4,
+      "end": 2105.839,
+      "text": "drain a lot of your energy because it's"
+    },
+    {
+      "start": 2104.119,
+      "end": 2108.72,
+      "text": "not like oh I'm going to be spending"
+    },
+    {
+      "start": 2105.839,
+      "end": 2110.24,
+      "text": "only 60% of my work week on a game on"
+    },
+    {
+      "start": 2108.72,
+      "end": 2112.28,
+      "text": "like my own game that you're only going"
+    },
+    {
+      "start": 2110.24,
+      "end": 2113.96,
+      "text": "to get 60% of results because your brain"
+    },
+    {
+      "start": 2112.28,
+      "end": 2115.68,
+      "text": "will be more drained from it Contex"
+    },
+    {
+      "start": 2113.96,
+      "end": 2117.8,
+      "text": "switching is a thing it's you have to"
+    },
+    {
+      "start": 2115.68,
+      "end": 2119.079,
+      "text": "suddenly switch between like oh my own"
+    },
+    {
+      "start": 2117.8,
+      "end": 2121.8,
+      "text": "game and then maybe suddenly this"
+    },
+    {
+      "start": 2119.079,
+      "end": 2124.119,
+      "text": "completely different game also finding"
+    },
+    {
+      "start": 2121.8,
+      "end": 2125.48,
+      "text": "the freelance work kind of hard right"
+    },
+    {
+      "start": 2124.119,
+      "end": 2127.52,
+      "text": "now I don't know if you noticed But like"
+    },
+    {
+      "start": 2125.48,
+      "end": 2129.56,
+      "text": "everyone has been laying off like very"
+    },
+    {
+      "start": 2127.52,
+      "end": 2131.359,
+      "text": "talented artists at like epic and such"
+    },
+    {
+      "start": 2129.56,
+      "end": 2133.359,
+      "text": "you have to compete with those as well"
+    },
+    {
+      "start": 2131.359,
+      "end": 2134.92,
+      "text": "it can be really hard there yeah if you"
+    },
+    {
+      "start": 2133.359,
+      "end": 2136.599,
+      "text": "are going down this route I think"
+    },
+    {
+      "start": 2134.92,
+      "end": 2139.079,
+      "text": "another developer from Belgium that I"
+    },
+    {
+      "start": 2136.599,
+      "end": 2140.88,
+      "text": "know of that does this what I like about"
+    },
+    {
+      "start": 2139.079,
+      "end": 2143.88,
+      "text": "his approach is that he does like six"
+    },
+    {
+      "start": 2140.88,
+      "end": 2145.72,
+      "text": "months of only uh work for higher and"
+    },
+    {
+      "start": 2143.88,
+      "end": 2147.599,
+      "text": "then for example he has the funds for"
+    },
+    {
+      "start": 2145.72,
+      "end": 2151.04,
+      "text": "let's just also say 6 months to work on"
+    },
+    {
+      "start": 2147.599,
+      "end": 2152.359,
+      "text": "his own game okay surely you are like"
+    },
+    {
+      "start": 2151.04,
+      "end": 2155,
+      "text": "you're only working half a year on your"
+    },
+    {
+      "start": 2152.359,
+      "end": 2156.92,
+      "text": "own game but you at least have less"
+    },
+    {
+      "start": 2155,
+      "end": 2158.56,
+      "text": "contact switching and you can do that"
+    },
+    {
+      "start": 2156.92,
+      "end": 2160.52,
+      "text": "very long stretch where you have the"
+    },
+    {
+      "start": 2158.56,
+      "end": 2161.28,
+      "text": "momentum shout out Oscar by the way we"
+    },
+    {
+      "start": 2160.52,
+      "end": 2163.68,
+      "text": "love"
+    },
+    {
+      "start": 2161.28,
+      "end": 2165.48,
+      "text": "you so if you go down this road I think"
+    },
+    {
+      "start": 2163.68,
+      "end": 2169.319,
+      "text": "that's the best approach however if you"
+    },
+    {
+      "start": 2165.48,
+      "end": 2171.4,
+      "text": "can avoid it I mean I would yeah I think"
+    },
+    {
+      "start": 2169.319,
+      "end": 2173.319,
+      "text": "it's better that you I would prefer it"
+    },
+    {
+      "start": 2171.4,
+      "end": 2175.599,
+      "text": "if you stayed in your current career"
+    },
+    {
+      "start": 2173.319,
+      "end": 2177.68,
+      "text": "first get that saving and then go for"
+    },
+    {
+      "start": 2175.599,
+      "end": 2179.52,
+      "text": "the savings approach especially because"
+    },
+    {
+      "start": 2177.68,
+      "end": 2181.52,
+      "text": "a lot of your viewers aren't game deps"
+    },
+    {
+      "start": 2179.52,
+      "end": 2183,
+      "text": "by trade you like want to get into game"
+    },
+    {
+      "start": 2181.52,
+      "end": 2185.56,
+      "text": "def you're it's going to be really hard"
+    },
+    {
+      "start": 2183,
+      "end": 2187.16,
+      "text": "to find work for hire if you don't have"
+    },
+    {
+      "start": 2185.56,
+      "end": 2189.64,
+      "text": "if you graduate this is good yeah if"
+    },
+    {
+      "start": 2187.16,
+      "end": 2191.92,
+      "text": "you've graduated from a game def degree"
+    },
+    {
+      "start": 2189.64,
+      "end": 2193.319,
+      "text": "then you can do this but if I was to go"
+    },
+    {
+      "start": 2191.92,
+      "end": 2195.16,
+      "text": "to a random studio right now and I'm"
+    },
+    {
+      "start": 2193.319,
+      "end": 2197.079,
+      "text": "like hey can I work for you for like two"
+    },
+    {
+      "start": 2195.16,
+      "end": 2199.88,
+      "text": "three days a week they'll be like who"
+    },
+    {
+      "start": 2197.079,
+      "end": 2201.88,
+      "text": "are you go away so it's not for everyone"
+    },
+    {
+      "start": 2199.88,
+      "end": 2205.16,
+      "text": "either how the hell do we rate this what"
+    },
+    {
+      "start": 2201.88,
+      "end": 2209.24,
+      "text": "is this deer list even I would put it at"
+    },
+    {
+      "start": 2205.16,
+      "end": 2211.56,
+      "text": "a c minus or no a d I don't think it's"
+    },
+    {
+      "start": 2209.24,
+      "end": 2214.04,
+      "text": "great but it can work for very specific"
+    },
+    {
+      "start": 2211.56,
+      "end": 2215.76,
+      "text": "individuals but for most of our viewers"
+    },
+    {
+      "start": 2214.04,
+      "end": 2217.359,
+      "text": "probably not for most of the viewers"
+    },
+    {
+      "start": 2215.76,
+      "end": 2219.76,
+      "text": "probably not you also need to have be"
+    },
+    {
+      "start": 2217.359,
+      "end": 2221.52,
+      "text": "talented so you get all the jobs and you"
+    },
+    {
+      "start": 2219.76,
+      "end": 2223.599,
+      "text": "just have to hustle as well to find the"
+    },
+    {
+      "start": 2221.52,
+      "end": 2226.319,
+      "text": "jobs to begin with yeah it's also timec"
+    },
+    {
+      "start": 2223.599,
+      "end": 2228.72,
+      "text": "consuming and the the biggest part why I"
+    },
+    {
+      "start": 2226.319,
+      "end": 2230.96,
+      "text": "don't like why I think D is fair you"
+    },
+    {
+      "start": 2228.72,
+      "end": 2232.359,
+      "text": "don't progress on your own game and if"
+    },
+    {
+      "start": 2230.96,
+      "end": 2234.319,
+      "text": "you are an indie and you're not making"
+    },
+    {
+      "start": 2232.359,
+      "end": 2237.079,
+      "text": "your own game why are you in Indie just"
+    },
+    {
+      "start": 2234.319,
+      "end": 2242.319,
+      "text": "go work for larion or whatever I don't"
+    },
+    {
+      "start": 2237.079,
+      "end": 2242.319,
+      "text": "care yeah let's put it a d"
+    },
+    {
+      "start": 2242.68,
+      "end": 2249,
+      "text": "okay so please come deep fry our uh"
+    },
+    {
+      "start": 2247,
+      "end": 2251.48,
+      "text": "amazing opinions in the comment because"
+    },
+    {
+      "start": 2249,
+      "end": 2252.8,
+      "text": "a lot of you will probably hate it I do"
+    },
+    {
+      "start": 2251.48,
+      "end": 2255,
+      "text": "think there is quite a bit of value in"
+    },
+    {
+      "start": 2252.8,
+      "end": 2256.68,
+      "text": "this video I'm not sure we probably"
+    },
+    {
+      "start": 2255,
+      "end": 2258.68,
+      "text": "missed a few these are like the main"
+    },
+    {
+      "start": 2256.68,
+      "end": 2260.64,
+      "text": "ones but I'm really curious what are you"
+    },
+    {
+      "start": 2258.68,
+      "end": 2262.52,
+      "text": "doing to like fund your development I"
+    },
+    {
+      "start": 2260.64,
+      "end": 2264.52,
+      "text": "feel like honestly the biggest one we"
+    },
+    {
+      "start": 2262.52,
+      "end": 2266.48,
+      "text": "kind of missed was you know just doing"
+    },
+    {
+      "start": 2264.52,
+      "end": 2267.96,
+      "text": "it on the side but that's less of the"
+    },
+    {
+      "start": 2266.48,
+      "end": 2269.88,
+      "text": "scope because you know a lot of our"
+    },
+    {
+      "start": 2267.96,
+      "end": 2271.92,
+      "text": "people they're like having full-time"
+    },
+    {
+      "start": 2269.88,
+      "end": 2273.079,
+      "text": "career somewhere else and like work in"
+    },
+    {
+      "start": 2271.92,
+      "end": 2274.4,
+      "text": "game on the site just say it's"
+    },
+    {
+      "start": 2273.079,
+      "end": 2277.2,
+      "text": "self-funded then yeah then it's"
+    },
+    {
+      "start": 2274.4,
+      "end": 2278.359,
+      "text": "basically self-funded but that's I don't"
+    },
+    {
+      "start": 2277.2,
+      "end": 2280.359,
+      "text": "really count this this is really if you"
+    },
+    {
+      "start": 2278.359,
+      "end": 2282.4,
+      "text": "want to go more into the full-time Indie"
+    },
+    {
+      "start": 2280.359,
+      "end": 2283.96,
+      "text": "uh this tier list because yeah of course"
+    },
+    {
+      "start": 2282.4,
+      "end": 2285.839,
+      "text": "doing it on on the side as a hobby"
+    },
+    {
+      "start": 2283.96,
+      "end": 2288.119,
+      "text": "project is going to like make you the"
+    },
+    {
+      "start": 2285.839,
+      "end": 2289.76,
+      "text": "most money in the end but yeah I think"
+    },
+    {
+      "start": 2288.119,
+      "end": 2292.359,
+      "text": "those are the main ones this is also a"
+    },
+    {
+      "start": 2289.76,
+      "end": 2295.4,
+      "text": "very rough video for us to make because"
+    },
+    {
+      "start": 2292.359,
+      "end": 2296.839,
+      "text": "we don't have Venture Capital like yeah'"
+    },
+    {
+      "start": 2295.4,
+      "end": 2298.599,
+      "text": "we have opinions and and Venture"
+    },
+    {
+      "start": 2296.839,
+      "end": 2300.72,
+      "text": "capitals have reached out to us actually"
+    },
+    {
+      "start": 2298.599,
+      "end": 2302.319,
+      "text": "but yeah but also like we have opinions"
+    },
+    {
+      "start": 2300.72,
+      "end": 2304.079,
+      "text": "on how we want to run a studio and a lot"
+    },
+    {
+      "start": 2302.319,
+      "end": 2306.2,
+      "text": "of the funding weights are actually very"
+    },
+    {
+      "start": 2304.079,
+      "end": 2309.48,
+      "text": "personal on how you see your own Studio"
+    },
+    {
+      "start": 2306.2,
+      "end": 2311.52,
+      "text": "because the vision of of bite me for us"
+    },
+    {
+      "start": 2309.48,
+      "end": 2313.319,
+      "text": "at least I think yeah this is for me at"
+    },
+    {
+      "start": 2311.52,
+      "end": 2315.319,
+      "text": "least this is a very good story maybe"
+    },
+    {
+      "start": 2313.319,
+      "end": 2317.52,
+      "text": "when into games come um Thomas had to"
+    },
+    {
+      "start": 2315.319,
+      "end": 2319.119,
+      "text": "listen to me like in the car after three"
+    },
+    {
+      "start": 2317.52,
+      "end": 2320.839,
+      "text": "days of Gamescom I was like you know"
+    },
+    {
+      "start": 2319.119,
+      "end": 2322.4,
+      "text": "what we're better than these Publishers"
+    },
+    {
+      "start": 2320.839,
+      "end": 2325.359,
+      "text": "we don't need them we're going to go our"
+    },
+    {
+      "start": 2322.4,
+      "end": 2327.16,
+      "text": "own way slay Queen so yeah it depends"
+    },
+    {
+      "start": 2325.359,
+      "end": 2329.839,
+      "text": "like for some people like publisher is"
+    },
+    {
+      "start": 2327.16,
+      "end": 2331.76,
+      "text": "the way to go we personally like I my"
+    },
+    {
+      "start": 2329.839,
+      "end": 2333.24,
+      "text": "own belief isn't really that much that a"
+    },
+    {
+      "start": 2331.76,
+      "end": 2334.319,
+      "text": "publisher is the way to go as like I"
+    },
+    {
+      "start": 2333.24,
+      "end": 2337,
+      "text": "said if you're a publisher and you want"
+    },
+    {
+      "start": 2334.319,
+      "end": 2338.8,
+      "text": "to show me the light reach out yeah it's"
+    },
+    {
+      "start": 2337,
+      "end": 2340.76,
+      "text": "a personal take it's also depending on"
+    },
+    {
+      "start": 2338.8,
+      "end": 2342.68,
+      "text": "your situation at home do you have your"
+    },
+    {
+      "start": 2340.76,
+      "end": 2344.92,
+      "text": "uh yeah do you need to pay rent or do"
+    },
+    {
+      "start": 2342.68,
+      "end": 2347.28,
+      "text": "you have to keep uh paying do you have"
+    },
+    {
+      "start": 2344.92,
+      "end": 2349.359,
+      "text": "children that need to eat it's it's very"
+    },
+    {
+      "start": 2347.28,
+      "end": 2351.4,
+      "text": "dependent so while we might have ritten"
+    },
+    {
+      "start": 2349.359,
+      "end": 2353.72,
+      "text": "venture capitalist F tier maybe for you"
+    },
+    {
+      "start": 2351.4,
+      "end": 2355.92,
+      "text": "it's the way to go probably not who"
+    },
+    {
+      "start": 2353.72,
+      "end": 2357.92,
+      "text": "knows but yeah anyways we're game"
+    },
+    {
+      "start": 2355.92,
+      "end": 2359.4,
+      "text": "developers like I said if we've made our"
+    },
+    {
+      "start": 2357.92,
+      "end": 2361.16,
+      "text": "own game we've interacted with a bunch"
+    },
+    {
+      "start": 2359.4,
+      "end": 2363.119,
+      "text": "of these ways if you're interested into"
+    },
+    {
+      "start": 2361.16,
+      "end": 2364.88,
+      "text": "running a studio in general more and you"
+    },
+    {
+      "start": 2363.119,
+      "end": 2366.839,
+      "text": "know figuring out how do I get funding"
+    },
+    {
+      "start": 2364.88,
+      "end": 2368.839,
+      "text": "how do I make sure that my games"
+    },
+    {
+      "start": 2366.839,
+      "end": 2370.44,
+      "text": "launches are correct this is the channel"
+    },
+    {
+      "start": 2368.839,
+      "end": 2372.28,
+      "text": "to be so if you go down below and you"
+    },
+    {
+      "start": 2370.44,
+      "end": 2373.72,
+      "text": "subscribe that would really help us out"
+    },
+    {
+      "start": 2372.28,
+      "end": 2375.92,
+      "text": "because then we know that you like these"
+    },
+    {
+      "start": 2373.72,
+      "end": 2377.76,
+      "text": "kinds of content and we can like make"
+    },
+    {
+      "start": 2375.92,
+      "end": 2379.359,
+      "text": "more of it and you get in exchange for"
+    },
+    {
+      "start": 2377.76,
+      "end": 2380.92,
+      "text": "that you get these videos twice a week"
+    },
+    {
+      "start": 2379.359,
+      "end": 2382.64,
+      "text": "so I do think that we have quite a bit"
+    },
+    {
+      "start": 2380.92,
+      "end": 2384.56,
+      "text": "of wisdom already even though we're"
+    },
+    {
+      "start": 2382.64,
+      "end": 2386.839,
+      "text": "still a pretty young studio so I just"
+    },
+    {
+      "start": 2384.56,
+      "end": 2388.599,
+      "text": "want to spread that with you guys also"
+    },
+    {
+      "start": 2386.839,
+      "end": 2390.079,
+      "text": "we have a Discord join the Discord there"
+    },
+    {
+      "start": 2388.599,
+      "end": 2391.319,
+      "text": "are a lot of people talking over there"
+    },
+    {
+      "start": 2390.079,
+      "end": 2392.8,
+      "text": "so they might have helped you out and"
+    },
+    {
+      "start": 2391.319,
+      "end": 2395.359,
+      "text": "see what is best for you in this"
+    },
+    {
+      "start": 2392.8,
+      "end": 2396.599,
+      "text": "situation yeah anyways that's all I"
+    },
+    {
+      "start": 2395.359,
+      "end": 2398.52,
+      "text": "think we have to say I'm going to shut"
+    },
+    {
+      "start": 2396.599,
+      "end": 2400.88,
+      "text": "up now before like I say any more like"
+    },
+    {
+      "start": 2398.52,
+      "end": 2402.76,
+      "text": "bad statements so thanks for watching we"
+    },
+    {
+      "start": 2400.88,
+      "end": 2406,
+      "text": "burned a lot of bridges today and we'll"
+    },
+    {
+      "start": 2402.76,
+      "end": 2406,
+      "text": "see you guys in the next one bye"
+    }
+  ]
+}

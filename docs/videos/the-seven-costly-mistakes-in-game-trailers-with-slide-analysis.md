@@ -9,6 +9,7 @@ Video: 40:24 · Reading: ~19 minutes · Basis: captions + 20 inspected snapshots
 
 Topics: Game marketing · Trailers
 Generated: November 2026
+Processing tokens: Not recorded — Exact per-video model token usage was not recorded during original processing.
 
 ## Overview
 

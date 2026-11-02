@@ -1,0 +1,172 @@
+# Marketing a PC Game Through Genre, Wishlists, and Repeated Exposure
+
+Chris Zukowski explains how a Steam campaign combines audience fit, a clear store page, steady wishlist growth, and repeated promotional opportunities.
+
+Source: [How to Market A PC Game / Chris Zukowski (How To Market A Game)](https://www.youtube.com/watch?v=Oh9CBk0FHSM) · DevGAMM · Published 2022-04-18
+Video: 52:17 · Reading: ~14 minutes · Basis: captions + 11 inspected snapshots
+
+[Web edition](marketing-a-pc-game-through-genre-wishlists-and-repeated-exposure.html)
+
+Topics: Game marketing · Steam
+Generated: November 2026
+
+## Overview
+
+In this 2021 talk, Chris Zukowski treats Steam marketing as a long campaign rather than a single launch announcement. His argument starts with the game: genre and audience demand constrain what promotion can accomplish. A clear store page then converts everyday exposure, while festivals, playable builds, streamers, and other events provide additional bursts of interest. His Valheim case study shows how several channels can reinforce one another. The benchmarks belong to this recording and are planning examples, not present-day platform guarantees.
+
+### What the snapshots add
+
+- Inspected slides clarify the conversion funnel, the annual wishlist arithmetic, and the distinction between Valheim followers and estimated wishlists.
+- The genre and earnings charts are described with their original comparison scope rather than treated as proof of algorithmic causation.
+
+## Key takeaways
+
+- **Choose a market the game can serve** Zukowski argues that genre demand matters more than how hard a developer promotes a poorly matched product.
+- **Combine a baseline with promotional spikes** Capsule art and accurate tags help daily discovery; festivals and playable builds create larger opportunities over time.
+- **Use numbers to plan, not promise** Wishlist targets and channel estimates make a campaign concrete, but the talk does not establish fixed algorithm thresholds.
+
+## Steam replaced a visible gatekeeper with performance-sensitive discovery
+
+Source timestamp: [0:00](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=0s)
+
+Zukowski begins with Steam's transition from a small catalogue of Valve games to selected third-party releases, Greenlight voting, and finally the open submission system he describes as Steam Direct. Developers worried about the rapidly growing number of releases and asked for curation. His response is that curation did not simply disappear: some of it moved into recommendation systems and some into outside communities.
+
+His central metaphor is an invisible bouncer. A developer may get a game into the store, but meaningful exposure still depends on evidence of demand. He recalls the “October event,” when developers noticed abrupt sales declines around recommendation changes. He interprets Valve's subsequent explanation about sales and wishlist popularity as evidence that the system retained a preference for games already demonstrating commercial interest. That interpretation guides the talk; it is not access to the algorithm's implementation.
+
+The earnings chart he shows compares new releases in 2018 and 2019 by percentile. Lower percentiles fall below zero change, while much of the upper range is positive. He reads this as an environment in which stronger performers received more benefit and weak performers were squeezed. The chart is a comparison of earnings distributions across years, not a controlled experiment proving that an algorithm change alone caused the difference.
+
+He brings the perspective of a consultant who has worked with developers and publishers, observed shoppers browsing Steam, and released a pixel platformer that did not sell well. The four areas he wants developers to work on are the game and its genre, wishlist accumulation, everyday store conversion, and larger promotional events. The objective is to build enough interest that Steam has reasons to show the game more widely.
+
+## Genre sets the odds before a campaign begins
+
+Source timestamp: [7:17](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=437s)
+
+A game can be polished, functional, and free of obvious bugs yet still sell poorly. Zukowski argues that developers often overlook genre demand when explaining this outcome. His tag analysis counted how many games carried particular Steam tags and compared that supply with review-based sales estimates. The displayed supply chart has especially tall Puzzle and Platformer bars. His point is that a category popular with creators need not be equally attractive to buyers.
+
+He contrasts puzzle platformers with categories such as 4X strategy, city builders, role-playing games, and colony simulations. One inspected slide gives approximate median earnings of $44,000 for colony simulations and $1,200 for platformers. Those figures describe the data he used at the time, with all the limitations of tag classification and sales estimation. They are not a claim that a new colony simulation is guaranteed to earn that amount or that a platformer cannot break out.
+
+His analogy is trying to sell snow skis in Tucson. A developer could produce excellent skis, publish clever posts, and hire ski influencers, but promotion cannot create the same local demand as a market where people actually ski. Likewise, tweeting harder may not overcome a weak fit between the product and the audience shopping on a particular store. Marketing begins with what is being made, rather than the amount of attention spent advertising it afterward.
+
+The Steam preferences he describes include darker settings, substantial interacting systems, crafting, deck building, roguelikes, and replayable content. These let players experiment and return repeatedly. He is discussing commercial odds, not a prescription for every artist: he explicitly welcomes people making games for expression or love of design without a profit objective. Even commercially difficult genres can have exceptional successes; he cautions against using the exception as the expected outcome.
+
+The lesson also is not to copy a high-earning tag onto a different game. Genre describes the experience buyers want. Picking a market means designing something its audience values, not presenting a platformer as a city builder and hoping that the label alone supplies demand.
+
+## Wishlists make launch interest cumulative
+
+Source timestamp: [12:44](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=764s)
+
+Choosing a promising genre does not remove the need for a campaign. Zukowski rejects the hope of simply releasing a game and going viral. A wishlist is useful because it keeps a prospective buyer connected to a later launch or sale; he describes Valve's notification email as an especially effective conversion mechanism. The campaign's job is to accumulate people who want that reminder.
+
+He gives a rough wishlist-to-sales conversion range of 5–20% when the game and campaign meet the audience's expectations. He recommends aiming around 10,000 wishlists for a project intended to make meaningful commercial income, while acknowledging that a hobby project can have different goals. Although his slide uses minimum-style language, he explicitly says there is no magic test in which the algorithm changes behavior at exactly 10,000.
+
+He associates that level of demand with a better chance of appearing in Popular Upcoming near release, and describes a large increase in wishlist collection when a game gets that visibility. The timing and volume he cites are historical observations. The general mechanism he wants developers to understand is reinforcement: interest collected before release can help unlock further discovery immediately before launch.
+
+One influencer usually cannot supply the whole audience a project needs. His own examples vary between ordinary large results and exceptional ones, but the consistent message is that even major coverage is typically one contribution among many. Prelaunch is a marathon of festivals, outreach, testing, and repeated chances to learn. A good campaign chart looks like a staircase with ongoing growth and several jumps, rather than a flat line followed by one miraculous spike.
+
+## The everyday funnel: impressions, visits, and wishlists
+
+Source timestamp: [17:03](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=1023s)
+
+Steam can expose a game every day even when the developer is not running an event. Zukowski separates two conversions: an impression of the capsule becomes a visit to the page, and a visit becomes a wishlist. Improving either step matters because the result repeats across many weeks. The page must tell shoppers that the game matches their tastes and looks worth investigating.
+
+The complete comparison slide makes the denominators explicit. Lofi Ping Pong receives 35,337 impressions, 3,398 visits, and 161 wishlists over the period discussed: 9.6% of impressions become visits, and 4.7% of visits become wishlists. Omen Exitio receives 32,834 impressions, 2,187 visits, and 59 wishlists: 6.7% and 2.7% respectively. The wishlist percentages are not percentages of all impressions. Similar initial exposure can therefore produce quite different totals after both stages.
+
+Repeated for a year, the stronger week's 161 wishlists would amount to roughly 8,000, while 59 per week would be roughly 3,000. This is an extrapolation that holds the observed week constant, not a forecast established by the two examples. It demonstrates why small-looking percentage differences can become consequential without any additional viral hit.
+
+He recommends improving capsule art, citing Dwarven Valley's move from a screenshot-style image to a stronger illustration. The inspected slide places the old and new capsules over views and wishlists charts with a noticeable spike. He attributes an improvement to the new presentation; the still does not independently isolate its effect from every other possible change.
+
+Recognizable genre cues help an interested shopper identify the game. A hammer in crafting-game art is his deliberately simple example. Accurate tags serve the same goal inside the store: they connect the game with people who want its real experience. Mislabeling a puzzle platformer as a city builder merely sends it to shoppers likely to reject it. Clear art and honest classification support each other.
+
+![Complete funnel: Lofi Ping Pong has 35,337 impressions, 3,398 visits (9.6%), and 161 wishlists (4.7% of visits); Omen Exitio has 32,834 impressions, 2,187 visits (6.7%), and 59 wishlists (2.7% of visits).](../assets/how-to-market-a-pc-game-chris-zukowski-how-to-market-a-game/frames/frame-00-18-00.jpg)
+
+[18:00](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=1080s) — Two successive conversions turn similar impression counts into 161 versus 59 wishlists. The percentages use different denominators.
+
+## The strongest promotional opportunities in his 2021 ranking
+
+Source timestamp: [20:46](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=1246s)
+
+Zukowski ranks festivals first among the promotional channels he discusses. Online events remove travel, booth, staffing, and physical setup costs, and events featured by Steam put games in front of people already browsing a game store. He distinguishes Steam's own demo festival from region- or theme-specific events that may have additional eligibility or selection requirements. Applying widely means applying to events the game actually qualifies for.
+
+His festival slide gives a median of about 750 wishlists; he also mentions stronger events producing 3,000–4,000 across a weekend. Developers can sometimes organize regional showcases and approach Steam about a shared promotional page, especially when the lineup contains games with an existing audience. His recommendation is to keep track of applications and deadlines so that suitable opportunities do not pass unnoticed.
+
+Streamers are his next major channel. A playable demo gives a creator something concrete to cover. Rather than approach every large personality indiscriminately, find creators whose established tastes and audience overlap with the game. He cites around 1,500 wishlists as an example of strong coverage from a major creator, but does not present follower count as a dependable conversion formula.
+
+He prefers organic coverage when the creator likes the game, while allowing paid coverage as another route. Repeated play can be especially useful: it suggests the game continues to interest both the streamer and their viewers. That sustained appeal depends partly on the design, which is one reason he values replayable systems and player-generated adventures.
+
+A public beta provides another reason to talk about the game and an opportunity to invite interested players onto a mailing list or Discord. His model is a limited part of the game made available for a weekend or a week, with a clear invitation to wishlist. He gives roughly a thousand wishlists as an illustrative result. Although betas find bugs and generate feedback, he stresses their role as a marketing activity. Replayable games fit readily, but a carefully limited narrative sample can also work.
+
+## Reddit, press, and social media have different audiences and returns
+
+Source timestamp: [25:59](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=1559s)
+
+Reddit can reach players, but success in a developer community does not necessarily translate into game buyers. Zukowski contrasts large gaming subreddits with smaller indie spaces and developer forums, where readers may be more interested in making games than buying one. Understanding a community's conventions is part of the work; he advises participating beyond self-promotion rather than arriving only to post links. His suggested ten-to-one mix of other participation to promotion is his rule of thumb in the talk, not a universal current rule for every subreddit.
+
+He treats Imgur as a declining opportunity relative to its earlier potential, recalling roughly 400 wishlists for a strong front-page result. He similarly regards traditional press outreach as time-consuming for the direct wishlist returns he had observed, giving around 150 wishlists for an article at a major outlet. He would still take that interest, but encourages comparing the effort with festivals or playable coverage.
+
+His most pointed distinction is between marketing and social media. Twitter attention, he argues, favors especially attractive graphics and cute animals with expressive eyes. A game without those qualities may receive little buyer conversion even if its developer works hard on posts. He still values Twitter for networking. His dismissive remarks about Facebook and Instagram reflect his experience and the period of this talk, rather than a timeless conclusion about all games and audiences.
+
+He treats TikTok separately as an emerging opportunity, with strong posts bringing perhaps 200–1,500 wishlists in the range he cites. Even very large view counts may convert modestly: he mentions around a million views for roughly 2,000 wishlists. The analogy is processing a lot of rock for a little ore. A platform's ability to deliver attention and its ability to send interested Steam shoppers are different questions.
+
+Across these channels, the useful unit for his campaign planning is the interested person who takes the next step. Views, likes, and developer praise can help, but they do not automatically add up to the same commercial audience as wishlists or people spending time with the game.
+
+## Build a campaign budget in wishlists, then look for many small gatekeepers
+
+Source timestamp: [30:19](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=1819s)
+
+The annual planning slide combines a daily baseline and several discrete successes. Fifteen wishlists per day gives 5,475 in a year. Three festivals contribute 2,250 total, two major streamers contribute 3,000, and a front-page Reddit result adds 1,500. The displayed total is 12,225. These numbers clarify a passage where the automatic captions scramble several totals.
+
+There is a small inconsistency even on the slide: the festival line is labeled 750/day, but its allocated 2,250 for three festivals uses 750 for each festival contribution. The reproducible example is the displayed allocation and sum, not a claim that every festival supplies 750 each day for its full duration. The exercise is to make assumptions visible and see whether the proposed activity could plausibly accumulate the target audience.
+
+A team might replace those assumptions with its own baseline, realistic acceptance rate, genre, and production schedule. A visually exceptional project might qualify for more showcases; a larger business may need a much larger target. None of the example opportunities is guaranteed merely because it appears in a spreadsheet.
+
+He closes the conceptual loop by saying curation has been scattered among festival selectors, streamers, and communities such as Reddit. Each has an audience and makes choices about what deserves attention. Marketing therefore means earning many separate opportunities for the right people to encounter the game. There is no single curator whose approval solves the whole campaign.
+
+![Annual example totals 12,225 wishlists: 5,475 from 15 per day, 2,250 from three festivals, 3,000 from two major streamers, and 1,500 from front-page Reddit. The festival line says 750/day but the total allocates 750 per festival.](../assets/how-to-market-a-pc-game-chris-zukowski-how-to-market-a-game/frames/frame-00-30-35.jpg)
+
+[30:35](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=1835s) — The displayed annual example totals 12,225 wishlists. The festival allocation is 2,250 across three events despite the ambiguous per-day label.
+
+## Valheim: a successful launch assembled from several reinforcing parts
+
+Source timestamp: [33:00](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=1980s)
+
+Valheim is his case study against the impression that a major hit appeared from nowhere. He reconstructs a prelaunch campaign from public follower history, announcements, beta activity, and streaming charts. This is an outside analysis: he does not claim access to the developer's private wishlist totals or contracts.
+
+The inspected launch slide shows 16,098 Steam followers and approximately 160,000 wishlists. He derives the latter using an approximate ten wishlists per follower. The distinction matters because the captions repeatedly drop digits and briefly reverse the ratio. The follower number is what the slide displays; the wishlist number remains his estimate, not a disclosed official count.
+
+First, he sees an unusually good fit between product and market: a darker Viking setting, crafting and construction, exploration, deep systems, and long-lived player-generated adventures. Those qualities also give streamers repeatable material. A short narrative might be exhausted in one sitting; a group can keep returning to a systemic world and create more stories.
+
+Second, social media size does not explain the result. He points to an early tweet with about fifteen likes and roughly 1,700 Twitter followers near launch. His argument is not that those figures measure every form of attention, but that a relatively small Twitter audience did not prevent a very large Steam success.
+
+He associates one prelaunch bump with an E3/PC Gaming Show appearance, a new trailer, and the announcement of Coffee Stain as publisher, estimating around 1,500 wishlists for that event. He also estimates that daily wishlist growth rose from about 50 to 120 after the publisher connection. He suspects crossover from audiences for related Coffee Stain games such as Satisfactory. This is a plausible explanation offered by the speaker, not an experiment establishing the publisher as the sole cause.
+
+Valheim also ran a long series of alpha and beta opportunities, including activity on itch.io. The inspected slide contains an alpha announcement, beta signup material, and a note about expanding testing. The early responses were modest, but repeated opportunities helped build an audience and improve the game over time.
+
+Finally, he reads a rise in streaming just before release as evidence of coordinated early outreach. He speculates that some creators may have been paid and that enthusiasm kept them playing afterward; the public chart cannot verify the payment arrangements. His conclusion combines all the elements: good game, suitable genre, publisher audience, showcase placement, testing, and early streaming. Reducing that combination to a single viral moment loses the work that made the launch possible.
+
+![Valheim launch basics slide explicitly shows 16,098 followers and approximately 160,000 wishlists.](../assets/how-to-market-a-pc-game-chris-zukowski-how-to-market-a-game/frames/frame-00-34-20.jpg)
+
+[34:20](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=2060s) — The slide resolves the caption ambiguity: 16,098 followers, with approximately 160,000 wishlists estimated by the speaker.
+
+## Q&A: mixed genres, announcement timing, and clear descriptions
+
+Source timestamp: [42:00](https://www.youtube.com/watch?v=Oh9CBk0FHSM&t=2520s)
+
+For a mixed-genre game, Zukowski recommends testing the two audiences separately. Market toward one side for about a month, then the other, and see which group responds. A hybrid does not automatically inherit the full audience of both parents; it can disappoint both if the combination clashes with what either group wants. The response should determine where the campaign concentrates.
+
+An unknown developer should get a Steam page up as soon as the art direction is settled enough to represent the game. The extra time is valuable for learning messaging and discovering what interests people. An established designer with a recognizable name can instead plan a stronger formal announcement, perhaps nine months to a year before launch, because that name gives press a reason to cover the reveal. His distinction is about the leverage a team already possesses.
+
+Asked about festival lists, he points to the resources in his community, including a spreadsheet with deadlines and costs. Asked about the genre analysis, he explains that he counted tags in an aggregated game list and depended on their accuracy. That method describes how games are classified, not an authoritative taxonomy immune to mistagging.
+
+He gives GOG and Epic much less emphasis than Steam, roughly comparing their potential sales with a tenth of Steam's in his experience. For Steam event broadcasting, he recommends streaming the game, including a prerecorded session where appropriate, but explicitly says he cannot supply a precise percentage improvement. These answers are historical judgments and recommendations rather than current store specifications.
+
+His strongest page-design advice is to make the game's actual activity unmistakable. Screenshots and descriptions should explain whether the player crafts, fights, plans, rescues someone, or performs another concrete action. “Epic adventures” is too vague to tell a shopper what they will do. This returns to the central genre argument: communication works when it lets the right customer recognize an experience they want.
+
+On reaching China, he openly says he lacks direct expertise. He has heard of developers using territory-specific publishing partnerships and suggests considering one when local interest is weak, while acknowledging that a game with substantial existing Chinese wishlist demand may have other options. The limitation is part of the answer: he is not offering a detailed market-entry method.
+
+## Source and limitations
+
+- Based on the complete English automatic captions and 11 inspected snapshots selected around the talk's substantive slides. These stills support the named examples; the intervening video, animations, and demonstrations were not exhaustively reviewed.
+- Platform behavior, commercial figures, tool descriptions, and industry examples are presented as the speaker's claims at the time of the recording, not independently verified current guidance.
+
+[Timestamped source captions](../../sources/how-to-market-a-pc-game-chris-zukowski-how-to-market-a-game/source.json)
+[Snapshot observations](../../sources/how-to-market-a-pc-game-chris-zukowski-how-to-market-a-game/visuals.json)

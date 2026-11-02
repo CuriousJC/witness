@@ -9,6 +9,8 @@ the renderer escapes it. Paragraphs are separate strings. No HTML or Markdown ma
   "title": "A descriptive reading title",
   "slug": "a-descriptive-reading-title",
   "basis": "captions",
+  "topics": ["Game marketing", "Trailers"],
+  "generatedMonth": "2026-11",
   "dek": "One sentence explaining the subject and the value of reading it.",
   "overview": ["A short orientation paragraph."],
   "takeaways": [
@@ -40,6 +42,12 @@ article slugs are their titles lowercased, with accents normalized and punctuati
 replaced by hyphens (see `slugify` in `tools/core.mjs`). Filenames must match slugs. The build calculates
 reading time from the prose at 230 words/minute. The raw caption text remains available
 offline in an expandable section below the article, linked to its original timestamps.
+
+New readings include exactly two distinct, concise `topics` and a `generatedMonth` in
+`YYYY-MM` form. Reuse topic wording across related readings for useful library filters.
+The month records first generation in the user's timezone, independently of video publication;
+preserve it when revising an article or rebuilding output. Legacy records may omit these
+fields until their generation month is known; do not invent a historical month.
 The build also writes `docs/videos/<reading-title-slug>.md` from the same JSON record. Prefer
 that file when reading an edition for context. Markdown preserves prose, timestamp links,
 figures, and limitations; raw caption and observation records are linked rather than repeated.

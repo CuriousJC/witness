@@ -1,0 +1,7114 @@
+{
+  "videoId": "5iwNYRLWjRk",
+  "slug": "alex-delamaire-guiding-evaluating-new-ip-a-toolbox",
+  "url": "https://www.youtube.com/watch?v=5iwNYRLWjRk",
+  "title": "Alex Delamaire - Guiding & Evaluating New IP - A Toolbox",
+  "channel": "Digital Dragons",
+  "published": "2024-11-15",
+  "duration": 3065,
+  "description": "Alex Delamaire - Guiding & Evaluating New IP - A Toolbox\n\n“Culture is a moving target”, as the adage says. So how do you build something today that may still resonate with players tomorrow? And why would you even consider taking that risk if you have the option to leverage an already established IP and audience? To help you find your answers to those questions, let’s examine various frameworks and tools to reduce uncertainty; revisit advice from talented devs that bear repeating; and look at BBI’s original IP incubation process.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 170,
+      "title": "Introduction and context"
+    },
+    {
+      "start": 170,
+      "end": 497,
+      "title": "Professional background"
+    },
+    {
+      "start": 497,
+      "end": 715,
+      "title": "The state of new IP"
+    },
+    {
+      "start": 715,
+      "end": 812,
+      "title": "Value of owning IP"
+    },
+    {
+      "start": 812,
+      "end": 1042,
+      "title": "Research and market insight"
+    },
+    {
+      "start": 1042,
+      "end": 1214,
+      "title": "Player motivations"
+    },
+    {
+      "start": 1214,
+      "end": 1361,
+      "title": "Case study: Project Puffin"
+    },
+    {
+      "start": 1361,
+      "end": 1693,
+      "title": "Cultural resonance"
+    },
+    {
+      "start": 1693,
+      "end": 1808,
+      "title": "The 3C framework"
+    },
+    {
+      "start": 1808,
+      "end": 2027,
+      "title": "The rule of thirds for IP"
+    },
+    {
+      "start": 2027,
+      "end": 2340,
+      "title": "Incubation programs"
+    },
+    {
+      "start": 2340,
+      "end": 2840,
+      "title": "Exploration and validation"
+    },
+    {
+      "start": 2840,
+      "end": 3065,
+      "title": "Safe iteration and wrap-up"
+    }
+  ],
+  "captions": {
+    "language": "en-orig",
+    "kind": "automatic",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 7.8,
+      "end": 18.469,
+      "text": "[Music]"
+    },
+    {
+      "start": 20.96,
+      "end": 25.48,
+      "text": "um cool well let's um let's get started"
+    },
+    {
+      "start": 23.279,
+      "end": 26.84,
+      "text": "let's get right into it then um quick"
+    },
+    {
+      "start": 25.48,
+      "end": 29.24,
+      "text": "overview of what we're going to talk"
+    },
+    {
+      "start": 26.84,
+      "end": 31.4,
+      "text": "about today so um I'll do a bit intro"
+    },
+    {
+      "start": 29.24,
+      "end": 33.04,
+      "text": "who am I where do I I come from so you"
+    },
+    {
+      "start": 31.4,
+      "end": 35.84,
+      "text": "kind of understand the lens with which"
+    },
+    {
+      "start": 33.04,
+      "end": 37.04,
+      "text": "I'm looking at this thing um then we'll"
+    },
+    {
+      "start": 35.84,
+      "end": 38.719,
+      "text": "have to talk a little bit about the"
+    },
+    {
+      "start": 37.04,
+      "end": 40.6,
+      "text": "elephant in the room which is you know"
+    },
+    {
+      "start": 38.719,
+      "end": 43.32,
+      "text": "new IP in the market today it's pretty"
+    },
+    {
+      "start": 40.6,
+      "end": 45.48,
+      "text": "tough uh but you know I think there's"
+    },
+    {
+      "start": 43.32,
+      "end": 48,
+      "text": "still a lot of value in there um and"
+    },
+    {
+      "start": 45.48,
+      "end": 50.8,
+      "text": "then we'll look um at some you know um"
+    },
+    {
+      "start": 48,
+      "end": 54.12,
+      "text": "tools framework um kind of ways that you"
+    },
+    {
+      "start": 50.8,
+      "end": 56.16,
+      "text": "can um approach how you look at things"
+    },
+    {
+      "start": 54.12,
+      "end": 58.44,
+      "text": "uh to find inspiration whether it's how"
+    },
+    {
+      "start": 56.16,
+      "end": 60.079,
+      "text": "you look at the market or look at"
+    },
+    {
+      "start": 58.44,
+      "end": 61.64,
+      "text": "yourself and your company your studio"
+    },
+    {
+      "start": 60.079,
+      "end": 63.039,
+      "text": "you're great at and how you connect"
+    },
+    {
+      "start": 61.64,
+      "end": 66.08,
+      "text": "those two to find you know the version"
+    },
+    {
+      "start": 63.039,
+      "end": 67.72,
+      "text": "of new IP that works best for you um and"
+    },
+    {
+      "start": 66.08,
+      "end": 70.08,
+      "text": "during that process I will also share a"
+    },
+    {
+      "start": 67.72,
+      "end": 72.439,
+      "text": "little bit of what uh Blackbird does"
+    },
+    {
+      "start": 70.08,
+      "end": 75,
+      "text": "which is the uh The scunt Works project"
+    },
+    {
+      "start": 72.439,
+      "end": 77.6,
+      "text": "um so it's an initiative that we have um"
+    },
+    {
+      "start": 75,
+      "end": 79.92,
+      "text": "every year to help uh incubate new ideas"
+    },
+    {
+      "start": 77.6,
+      "end": 81.96,
+      "text": "new IP um then we'll touch a little bit"
+    },
+    {
+      "start": 79.92,
+      "end": 83.96,
+      "text": "on um once you've come with these new"
+    },
+    {
+      "start": 81.96,
+      "end": 86.159,
+      "text": "ideas how do you explore and validate"
+    },
+    {
+      "start": 83.96,
+      "end": 88.92,
+      "text": "them um including touching on a few"
+    },
+    {
+      "start": 86.159,
+      "end": 91.68,
+      "text": "shortcuts and and hacks that you know"
+    },
+    {
+      "start": 88.92,
+      "end": 94.6,
+      "text": "you can benefit from um and then finally"
+    },
+    {
+      "start": 91.68,
+      "end": 98,
+      "text": "um we'll we'll kind of recap um and take"
+    },
+    {
+      "start": 94.6,
+      "end": 100.52,
+      "text": "a few questions okay um so first thing"
+    },
+    {
+      "start": 98,
+      "end": 102.439,
+      "text": "first before I I I dive into everything"
+    },
+    {
+      "start": 100.52,
+      "end": 104.92,
+      "text": "um thank you so much for you know having"
+    },
+    {
+      "start": 102.439,
+      "end": 107.399,
+      "text": "me here and also a big special thanks to"
+    },
+    {
+      "start": 104.92,
+      "end": 108.759,
+      "text": "digital dragons because three years ago"
+    },
+    {
+      "start": 107.399,
+      "end": 110.88,
+      "text": "uh one of our games hard space"
+    },
+    {
+      "start": 108.759,
+      "end": 113,
+      "text": "shipbreaker actually um you know placed"
+    },
+    {
+      "start": 110.88,
+      "end": 114.88,
+      "text": "second um in the awards and"
+    },
+    {
+      "start": 113,
+      "end": 116.96,
+      "text": "unfortunately we we couldn't be here was"
+    },
+    {
+      "start": 114.88,
+      "end": 119.96,
+      "text": "still the pandemic it was still hard for"
+    },
+    {
+      "start": 116.96,
+      "end": 121.6,
+      "text": "us to travel out of Canada um and so"
+    },
+    {
+      "start": 119.96,
+      "end": 124.479,
+      "text": "yeah I'm I'm I'm glad I get to to to be"
+    },
+    {
+      "start": 121.6,
+      "end": 125.719,
+      "text": "here now and to meet all of you um and a"
+    },
+    {
+      "start": 124.479,
+      "end": 128.2,
+      "text": "little bit of a disclaimer about this"
+    },
+    {
+      "start": 125.719,
+      "end": 130.399,
+      "text": "talk as well um and so I didn't put this"
+    },
+    {
+      "start": 128.2,
+      "end": 132.76,
+      "text": "slide just because it's cool to have"
+    },
+    {
+      "start": 130.399,
+      "end": 135.4,
+      "text": "this uh this nice shipbreaker branded"
+    },
+    {
+      "start": 132.76,
+      "end": 137.8,
+      "text": "toolbox that a fan created um but I want"
+    },
+    {
+      "start": 135.4,
+      "end": 140.76,
+      "text": "to talk a little bit why why did I call"
+    },
+    {
+      "start": 137.8,
+      "end": 143.48,
+      "text": "this a toolbox um so if you think about"
+    },
+    {
+      "start": 140.76,
+      "end": 145.56,
+      "text": "a toolbox it's a bit messy and this talk"
+    },
+    {
+      "start": 143.48,
+      "end": 148.599,
+      "text": "will also be going a bunch of different"
+    },
+    {
+      "start": 145.56,
+      "end": 150.92,
+      "text": "directions I don't have you know a super"
+    },
+    {
+      "start": 148.599,
+      "end": 153.84,
+      "text": "clear meod that you should follow um a"
+    },
+    {
+      "start": 150.92,
+      "end": 155.959,
+      "text": "toz to have your new IP new IP is a"
+    },
+    {
+      "start": 153.84,
+      "end": 158.319,
+      "text": "complicated topic so I I don't pretend"
+    },
+    {
+      "start": 155.959,
+      "end": 160.519,
+      "text": "to have all the answers um but there's a"
+    },
+    {
+      "start": 158.319,
+      "end": 162.8,
+      "text": "lot of tools there and you know probably"
+    },
+    {
+      "start": 160.519,
+      "end": 164.2,
+      "text": "you're going to find tools that work for"
+    },
+    {
+      "start": 162.8,
+      "end": 166.48,
+      "text": "the kind of problem that you have right"
+    },
+    {
+      "start": 164.2,
+      "end": 168.239,
+      "text": "now um at your studio just like in a"
+    },
+    {
+      "start": 166.48,
+      "end": 172,
+      "text": "toolbox there's you know tools for every"
+    },
+    {
+      "start": 168.239,
+      "end": 174.28,
+      "text": "kind of use um yeah so a bit more about"
+    },
+    {
+      "start": 172,
+      "end": 175.76,
+      "text": "about me um so I am currently uh in"
+    },
+    {
+      "start": 174.28,
+      "end": 177.84,
+      "text": "charge of Business Development and"
+    },
+    {
+      "start": 175.76,
+      "end": 179.159,
+      "text": "Communications at Blackbird Canadian"
+    },
+    {
+      "start": 177.84,
+      "end": 181.519,
+      "text": "Studio there has done heartspace"
+    },
+    {
+      "start": 179.159,
+      "end": 183.159,
+      "text": "shipbreaker home World 3 recently we"
+    },
+    {
+      "start": 181.519,
+      "end": 187.159,
+      "text": "also did Minecraft Legends Crossfire"
+    },
+    {
+      "start": 183.159,
+      "end": 189.12,
+      "text": "Legion um before I I got into games um"
+    },
+    {
+      "start": 187.159,
+      "end": 191.92,
+      "text": "I've been in games for about like 12"
+    },
+    {
+      "start": 189.12,
+      "end": 194.28,
+      "text": "years I used to be in advertising so I"
+    },
+    {
+      "start": 191.92,
+      "end": 196.239,
+      "text": "worked for a bunch of agencies um and I"
+    },
+    {
+      "start": 194.28,
+      "end": 199.519,
+      "text": "was doing what people call a bit"
+    },
+    {
+      "start": 196.239,
+      "end": 201.799,
+      "text": "bombastically uh strategic planning um"
+    },
+    {
+      "start": 199.519,
+      "end": 203.799,
+      "text": "and so what what what that means is um"
+    },
+    {
+      "start": 201.799,
+      "end": 205.159,
+      "text": "the Strategic planner is the person who"
+    },
+    {
+      "start": 203.799,
+      "end": 208.04,
+      "text": "helps connect the reality of the"
+    },
+    {
+      "start": 205.159,
+      "end": 210.319,
+      "text": "business um takes the data and then try"
+    },
+    {
+      "start": 208.04,
+      "end": 211.92,
+      "text": "to extract unique consumer insights"
+    },
+    {
+      "start": 210.319,
+      "end": 213.799,
+      "text": "there that creative teams can then"
+    },
+    {
+      "start": 211.92,
+      "end": 216.08,
+      "text": "create a product around in this case the"
+    },
+    {
+      "start": 213.799,
+      "end": 217.879,
+      "text": "product was was um you know advertising"
+    },
+    {
+      "start": 216.08,
+      "end": 219.56,
+      "text": "um so that that's really My Lens like"
+    },
+    {
+      "start": 217.879,
+      "end": 221.439,
+      "text": "I've um you know I studied Humanities"
+    },
+    {
+      "start": 219.56,
+      "end": 223.72,
+      "text": "I'm originally French now I live in"
+    },
+    {
+      "start": 221.439,
+      "end": 225.28,
+      "text": "Canada um but that that's kind of like"
+    },
+    {
+      "start": 223.72,
+      "end": 227.959,
+      "text": "the the lens through which I I look at"
+    },
+    {
+      "start": 225.28,
+      "end": 229.12,
+      "text": "things um and so I've worked at Bethesda"
+    },
+    {
+      "start": 227.959,
+      "end": 231.92,
+      "text": "that's where I started my career when"
+    },
+    {
+      "start": 229.12,
+      "end": 235.04,
+      "text": "they open um a marketing office in"
+    },
+    {
+      "start": 231.92,
+      "end": 237.56,
+      "text": "France then moved to um Canada working"
+    },
+    {
+      "start": 235.04,
+      "end": 240.439,
+      "text": "with Relic um on the company first"
+    },
+    {
+      "start": 237.56,
+      "end": 243.239,
+      "text": "franchise then h on long dark and N"
+    },
+    {
+      "start": 240.439,
+      "end": 246,
+      "text": "Blackbird um on the side I also help um"
+    },
+    {
+      "start": 243.239,
+      "end": 248.68,
+      "text": "a bunch of Indie teams friends people"
+    },
+    {
+      "start": 246,
+      "end": 250.4,
+      "text": "that you know have come across um as I"
+    },
+    {
+      "start": 248.68,
+      "end": 252.319,
+      "text": "always say someone who does bis Dev if"
+    },
+    {
+      "start": 250.4,
+      "end": 254.599,
+      "text": "you if you only keep your knowledge to"
+    },
+    {
+      "start": 252.319,
+      "end": 256.84,
+      "text": "yourself and don't help anyone else it's"
+    },
+    {
+      "start": 254.599,
+      "end": 258.919,
+      "text": "wasted you usually know a lot more than"
+    },
+    {
+      "start": 256.84,
+      "end": 260.959,
+      "text": "what is applicable to your studio so I I"
+    },
+    {
+      "start": 258.919,
+      "end": 263.759,
+      "text": "try to do that um and so Studios have"
+    },
+    {
+      "start": 260.959,
+      "end": 265.44,
+      "text": "helped recently include um um ever"
+    },
+    {
+      "start": 263.759,
+      "end": 267.4,
+      "text": "curious they announced a game with a"
+    },
+    {
+      "start": 265.44,
+      "end": 269.039,
+      "text": "bloom with nine dots a publisher I've"
+    },
+    {
+      "start": 267.4,
+      "end": 270.56,
+      "text": "helped connect a bunch of people around"
+    },
+    {
+      "start": 269.039,
+      "end": 273.84,
+      "text": "the the triple ey initiative which"
+    },
+    {
+      "start": 270.56,
+      "end": 277.479,
+      "text": "you've probably seen recently um yeah"
+    },
+    {
+      "start": 273.84,
+      "end": 279.44,
+      "text": "okay so how did I you know um get here"
+    },
+    {
+      "start": 277.479,
+      "end": 280.68,
+      "text": "and and basically what has informed my"
+    },
+    {
+      "start": 279.44,
+      "end": 283.72,
+      "text": "my thought process and what we're going"
+    },
+    {
+      "start": 280.68,
+      "end": 285.4,
+      "text": "to talk about so um when I was in"
+    },
+    {
+      "start": 283.72,
+      "end": 288.08,
+      "text": "advertising I I got into a few"
+    },
+    {
+      "start": 285.4,
+      "end": 289.759,
+      "text": "situations where um there was that old"
+    },
+    {
+      "start": 288.08,
+      "end": 291.24,
+      "text": "adage that that came back to me which is"
+    },
+    {
+      "start": 289.759,
+      "end": 293.96,
+      "text": "you know you can put as much lipstick as"
+    },
+    {
+      "start": 291.24,
+      "end": 296,
+      "text": "you want on a pig it is still a pig um"
+    },
+    {
+      "start": 293.96,
+      "end": 297.4,
+      "text": "and so what I mean by that is sometimes"
+    },
+    {
+      "start": 296,
+      "end": 299.88,
+      "text": "when you're in advertising you're you're"
+    },
+    {
+      "start": 297.4,
+      "end": 302.52,
+      "text": "very much at the end of the of that kind"
+    },
+    {
+      "start": 299.88,
+      "end": 304.36,
+      "text": "of process and you have to deal with a"
+    },
+    {
+      "start": 302.52,
+      "end": 306.6,
+      "text": "product where the the main problem is is"
+    },
+    {
+      "start": 304.36,
+      "end": 307.919,
+      "text": "the product itself um you know trying to"
+    },
+    {
+      "start": 306.6,
+      "end": 309.84,
+      "text": "solve it through Communications but"
+    },
+    {
+      "start": 307.919,
+      "end": 311.759,
+      "text": "Communications can only do so much and"
+    },
+    {
+      "start": 309.84,
+      "end": 313.96,
+      "text": "in my case the black sheep the the"
+    },
+    {
+      "start": 311.759,
+      "end": 315.84,
+      "text": "turning point was Blackberry um so in"
+    },
+    {
+      "start": 313.96,
+      "end": 317.759,
+      "text": "the early 2010 we had Blackberry as a"
+    },
+    {
+      "start": 315.84,
+      "end": 320.639,
+      "text": "client and they came to us and they were"
+    },
+    {
+      "start": 317.759,
+      "end": 322.639,
+      "text": "like we uh want to do a campaign you"
+    },
+    {
+      "start": 320.639,
+      "end": 324.479,
+      "text": "know that revolves around music to try"
+    },
+    {
+      "start": 322.639,
+      "end": 326,
+      "text": "to entice young people to use"
+    },
+    {
+      "start": 324.479,
+      "end": 327.96,
+      "text": "blackberries and I was like this is"
+    },
+    {
+      "start": 326,
+      "end": 330,
+      "text": "stupid um do you guys know about"
+    },
+    {
+      "start": 327.96,
+      "end": 331.96,
+      "text": "the iPhone and the iPad like this has"
+    },
+    {
+      "start": 330,
+      "end": 334.12,
+      "text": "been preempted forever in your category"
+    },
+    {
+      "start": 331.96,
+      "end": 335.88,
+      "text": "it doesn't make sense but you know"
+    },
+    {
+      "start": 334.12,
+      "end": 337.319,
+      "text": "that's that's how they they they they"
+    },
+    {
+      "start": 335.88,
+      "end": 339,
+      "text": "perceived the the product that was the"
+    },
+    {
+      "start": 337.319,
+      "end": 341.199,
+      "text": "Mandate that was coming from them and so"
+    },
+    {
+      "start": 339,
+      "end": 344.319,
+      "text": "it was really hard for us to to to um to"
+    },
+    {
+      "start": 341.199,
+      "end": 346.56,
+      "text": "move away uh from that and so um it kind"
+    },
+    {
+      "start": 344.319,
+      "end": 348.96,
+      "text": "of um you know um started me on a on a"
+    },
+    {
+      "start": 346.56,
+      "end": 351.72,
+      "text": "journey to think a little bit more about"
+    },
+    {
+      "start": 348.96,
+      "end": 354.36,
+      "text": "what comes before advertising and and"
+    },
+    {
+      "start": 351.72,
+      "end": 356.479,
+      "text": "the ways that you can actually um inform"
+    },
+    {
+      "start": 354.36,
+      "end": 358.919,
+      "text": "through research and marketing at the"
+    },
+    {
+      "start": 356.479,
+      "end": 361.199,
+      "text": "conception of a product um so a very"
+    },
+    {
+      "start": 358.919,
+      "end": 364.24,
+      "text": "famous um you know agency and case study"
+    },
+    {
+      "start": 361.199,
+      "end": 366.759,
+      "text": "is Ideo what you see here is um an"
+    },
+    {
+      "start": 364.24,
+      "end": 369.44,
+      "text": "exercise they did I think 20 years ago"
+    },
+    {
+      "start": 366.759,
+      "end": 371.44,
+      "text": "about redesigning a shopping cart and so"
+    },
+    {
+      "start": 369.44,
+      "end": 373.24,
+      "text": "you know what they do is they do um user"
+    },
+    {
+      "start": 371.44,
+      "end": 375.36,
+      "text": "research they do field studies they talk"
+    },
+    {
+      "start": 373.24,
+      "end": 378,
+      "text": "to people they come see how people use"
+    },
+    {
+      "start": 375.36,
+      "end": 379.36,
+      "text": "the product and then they they help um"
+    },
+    {
+      "start": 378,
+      "end": 381.44,
+      "text": "they leverage that to help inform the"
+    },
+    {
+      "start": 379.36,
+      "end": 384.319,
+      "text": "design of their product so here they had"
+    },
+    {
+      "start": 381.44,
+      "end": 385.919,
+      "text": "some cool stuff with um you have some um"
+    },
+    {
+      "start": 384.319,
+      "end": 388.52,
+      "text": "different parts of of the cart that can"
+    },
+    {
+      "start": 385.919,
+      "end": 390.319,
+      "text": "be removed um so you can more easily put"
+    },
+    {
+      "start": 388.52,
+      "end": 391.96,
+      "text": "heavy items in so you don't have to you"
+    },
+    {
+      "start": 390.319,
+      "end": 394.039,
+      "text": "know bend over as much and hurt your"
+    },
+    {
+      "start": 391.96,
+      "end": 396.52,
+      "text": "back you have a scanner on the side that"
+    },
+    {
+      "start": 394.039,
+      "end": 398.88,
+      "text": "makes it that much faster uh for you to"
+    },
+    {
+      "start": 396.52,
+      "end": 400.599,
+      "text": "know the price of certain things so you"
+    },
+    {
+      "start": 398.88,
+      "end": 402,
+      "text": "know really really interesting process"
+    },
+    {
+      "start": 400.599,
+      "end": 404.08,
+      "text": "so I was like okay you know that's"
+    },
+    {
+      "start": 402,
+      "end": 406.639,
+      "text": "something that I I I want to do more of"
+    },
+    {
+      "start": 404.08,
+      "end": 409.52,
+      "text": "and and you know if I move into another"
+    },
+    {
+      "start": 406.639,
+      "end": 411.8,
+      "text": "field that's what I'd like to focus on"
+    },
+    {
+      "start": 409.52,
+      "end": 416.199,
+      "text": "um there's also an advertising you know"
+    },
+    {
+      "start": 411.8,
+      "end": 417.52,
+      "text": "a lot of U um Obsession for Trends um"
+    },
+    {
+      "start": 416.199,
+      "end": 419.879,
+      "text": "and so you know Trends can be pretty"
+    },
+    {
+      "start": 417.52,
+      "end": 422.479,
+      "text": "fickle and they don't always have a lot"
+    },
+    {
+      "start": 419.879,
+      "end": 424.879,
+      "text": "of of meat to them but sometimes they"
+    },
+    {
+      "start": 422.479,
+      "end": 426.479,
+      "text": "they they can be pretty deep and so uh"
+    },
+    {
+      "start": 424.879,
+      "end": 428.56,
+      "text": "when I was working in advertising those"
+    },
+    {
+      "start": 426.479,
+      "end": 430,
+      "text": "are you know kind of two uh agencies"
+    },
+    {
+      "start": 428.56,
+      "end": 432.879,
+      "text": "that that stood with me like research"
+    },
+    {
+      "start": 430,
+      "end": 435.639,
+      "text": "agencies Nelly Ry is is one that's more"
+    },
+    {
+      "start": 432.879,
+      "end": 438.879,
+      "text": "specialized on um I'd say fashion"
+    },
+    {
+      "start": 435.639,
+      "end": 441.599,
+      "text": "clothing um all all these kind of things"
+    },
+    {
+      "start": 438.879,
+      "end": 444.759,
+      "text": "and then contagious is um sort of like a"
+    },
+    {
+      "start": 441.599,
+      "end": 447.4,
+      "text": "trade magazine um but that really uh"
+    },
+    {
+      "start": 444.759,
+      "end": 448.8,
+      "text": "tries to research you know deep consumer"
+    },
+    {
+      "start": 447.4,
+      "end": 450.12,
+      "text": "Trends and how it's going to affect the"
+    },
+    {
+      "start": 448.8,
+      "end": 451.96,
+      "text": "kind of product you you make the kind of"
+    },
+    {
+      "start": 450.12,
+      "end": 453.8,
+      "text": "advertising you make and so all these"
+    },
+    {
+      "start": 451.96,
+      "end": 455.84,
+      "text": "things really nurtured my my reflection"
+    },
+    {
+      "start": 453.8,
+      "end": 458.24,
+      "text": "and in the end the the kind of you know"
+    },
+    {
+      "start": 455.84,
+      "end": 460.319,
+      "text": "philosophy that I know have and and what"
+    },
+    {
+      "start": 458.24,
+      "end": 462.639,
+      "text": "I'm going to try to um you know talk"
+    },
+    {
+      "start": 460.319,
+      "end": 465.479,
+      "text": "about here is basically how do you paint"
+    },
+    {
+      "start": 462.639,
+      "end": 467.28,
+      "text": "the parameters of the sandbox um so I'm"
+    },
+    {
+      "start": 465.479,
+      "end": 468.72,
+      "text": "not a creative um you know I appreciate"
+    },
+    {
+      "start": 467.28,
+      "end": 470.68,
+      "text": "the creative process I have a huge"
+    },
+    {
+      "start": 468.72,
+      "end": 472.68,
+      "text": "respect for designers but I'm not"
+    },
+    {
+      "start": 470.68,
+      "end": 475,
+      "text": "fooling myself I'm not a designer you"
+    },
+    {
+      "start": 472.68,
+      "end": 477.68,
+      "text": "know I I I need to know enough about the"
+    },
+    {
+      "start": 475,
+      "end": 479.52,
+      "text": "trade but that's not my role so I'm not"
+    },
+    {
+      "start": 477.68,
+      "end": 481.599,
+      "text": "the one making this cool sand castle"
+    },
+    {
+      "start": 479.52,
+      "end": 484.08,
+      "text": "designers do but I'm the one saying this"
+    },
+    {
+      "start": 481.599,
+      "end": 486.4,
+      "text": "is how big the sandbox is this is the"
+    },
+    {
+      "start": 484.08,
+      "end": 488.479,
+      "text": "perimeter in which you can safely play"
+    },
+    {
+      "start": 486.4,
+      "end": 490.4,
+      "text": "and then once we go out of those bounds"
+    },
+    {
+      "start": 488.479,
+      "end": 491.919,
+      "text": "then we start taking risk and we should"
+    },
+    {
+      "start": 490.4,
+      "end": 493.199,
+      "text": "take risk because otherwise you make"
+    },
+    {
+      "start": 491.919,
+      "end": 495.479,
+      "text": "something that has already been done and"
+    },
+    {
+      "start": 493.199,
+      "end": 498.12,
+      "text": "is boring but we should all be aware of"
+    },
+    {
+      "start": 495.479,
+      "end": 500.44,
+      "text": "the level of risk we're taking okay uh"
+    },
+    {
+      "start": 498.12,
+      "end": 501.84,
+      "text": "so enough now about me and where I come"
+    },
+    {
+      "start": 500.44,
+      "end": 503.4,
+      "text": "from but I you know it was I think"
+    },
+    {
+      "start": 501.84,
+      "end": 504.52,
+      "text": "important for you to have that lens and"
+    },
+    {
+      "start": 503.4,
+      "end": 507.8,
+      "text": "so let's talk a little bit about you"
+    },
+    {
+      "start": 504.52,
+      "end": 510.319,
+      "text": "know new IP today um before we dive into"
+    },
+    {
+      "start": 507.8,
+      "end": 512.32,
+      "text": "um how we we we research it so it's a"
+    },
+    {
+      "start": 510.319,
+      "end": 513.88,
+      "text": "bit of a thorny topic and and um when I"
+    },
+    {
+      "start": 512.32,
+      "end": 516.36,
+      "text": "was putting together this presentation"
+    },
+    {
+      "start": 513.88,
+      "end": 518.44,
+      "text": "this quote from from Dickens um you know"
+    },
+    {
+      "start": 516.36,
+      "end": 520.8,
+      "text": "came to mind because you you really have"
+    },
+    {
+      "start": 518.44,
+      "end": 522.479,
+      "text": "a pretty polarized market right now um"
+    },
+    {
+      "start": 520.8,
+      "end": 524.8,
+      "text": "for games like on the one hand you've"
+    },
+    {
+      "start": 522.479,
+      "end": 527.24,
+      "text": "all seen this report from newu um you"
+    },
+    {
+      "start": 524.8,
+      "end": 528.88,
+      "text": "know existing games life service games"
+    },
+    {
+      "start": 527.24,
+      "end": 531.839,
+      "text": "not just triaa right there's also big"
+    },
+    {
+      "start": 528.88,
+      "end": 535.04,
+      "text": "indie games like rust um like um you"
+    },
+    {
+      "start": 531.839,
+      "end": 537.24,
+      "text": "know um Teraria all these games they"
+    },
+    {
+      "start": 535.04,
+      "end": 539.32,
+      "text": "they keep retaining players so you're"
+    },
+    {
+      "start": 537.24,
+      "end": 540.8,
+      "text": "like oh why why even try then you know"
+    },
+    {
+      "start": 539.32,
+      "end": 543.2,
+      "text": "if if there's these games that are well"
+    },
+    {
+      "start": 540.8,
+      "end": 545,
+      "text": "installed and entrenched um and"
+    },
+    {
+      "start": 543.2,
+      "end": 547.64,
+      "text": "especially now that we have games that"
+    },
+    {
+      "start": 545,
+      "end": 549.519,
+      "text": "can cross across platforms you know the"
+    },
+    {
+      "start": 547.64,
+      "end": 551.72,
+      "text": "consoles are retr compatible we've"
+    },
+    {
+      "start": 549.519,
+      "end": 554.64,
+      "text": "become expert all at um kind of life"
+    },
+    {
+      "start": 551.72,
+      "end": 556.36,
+      "text": "cycle management with DLC and discounts"
+    },
+    {
+      "start": 554.64,
+      "end": 558.44,
+      "text": "so it can be a bit disheartening and"
+    },
+    {
+      "start": 556.36,
+      "end": 561.32,
+      "text": "then you know a week ago there was the"
+    },
+    {
+      "start": 558.44,
+      "end": 563.2,
+      "text": "closure um announced by Microsoft of"
+    },
+    {
+      "start": 561.32,
+      "end": 564.959,
+      "text": "some of their Studios that were um you"
+    },
+    {
+      "start": 563.2,
+      "end": 567.16,
+      "text": "know famous for actually being pretty"
+    },
+    {
+      "start": 564.959,
+      "end": 569.76,
+      "text": "great at newp you know Hi-Fi Rush was"
+    },
+    {
+      "start": 567.16,
+      "end": 571.76,
+      "text": "supposedly one of the best um you know"
+    },
+    {
+      "start": 569.76,
+      "end": 574.519,
+      "text": "success the Microsoft has found in uip"
+    },
+    {
+      "start": 571.76,
+      "end": 576.6,
+      "text": "recently Arcane you know has pioneered"
+    },
+    {
+      "start": 574.519,
+      "end": 579,
+      "text": "many new games in the immersive Sim"
+    },
+    {
+      "start": 576.6,
+      "end": 580.839,
+      "text": "genre and yeah they were they were shut"
+    },
+    {
+      "start": 579,
+      "end": 582.519,
+      "text": "down that same week as well redy"
+    },
+    {
+      "start": 580.839,
+      "end": 585.959,
+      "text": "announced that they were narrowing down"
+    },
+    {
+      "start": 582.519,
+      "end": 588.399,
+      "text": "their bets um to existing IP and so they"
+    },
+    {
+      "start": 585.959,
+      "end": 590.64,
+      "text": "they dropped off Castrol and then if you"
+    },
+    {
+      "start": 588.399,
+      "end": 592.12,
+      "text": "look even at the the Indie Darlings and"
+    },
+    {
+      "start": 590.64,
+      "end": 594.8,
+      "text": "where there's a lot of creativity coming"
+    },
+    {
+      "start": 592.12,
+      "end": 596.76,
+      "text": "on it can also maybe feel you know a bit"
+    },
+    {
+      "start": 594.8,
+      "end": 598.48,
+      "text": "dispiriting you like I don't know if I"
+    },
+    {
+      "start": 596.76,
+      "end": 600.92,
+      "text": "had slay Des spirate to on the cards you"
+    },
+    {
+      "start": 598.48,
+      "end": 603.44,
+      "text": "know pun intended but I'm like wow okay"
+    },
+    {
+      "start": 600.92,
+      "end": 605.2,
+      "text": "a followup to State Aspire but yeah you"
+    },
+    {
+      "start": 603.44,
+      "end": 608.92,
+      "text": "know independent creators as well feel"
+    },
+    {
+      "start": 605.2,
+      "end": 610.76,
+      "text": "the need to to leverage existing in nonp"
+    },
+    {
+      "start": 608.92,
+      "end": 612.44,
+      "text": "um the creators of subnotica after Moon"
+    },
+    {
+      "start": 610.76,
+      "end": 615.12,
+      "text": "breaker they're going back to subnotica"
+    },
+    {
+      "start": 612.44,
+      "end": 617.68,
+      "text": "3 um so like w okay is it is it that"
+    },
+    {
+      "start": 615.12,
+      "end": 621.36,
+      "text": "dire and certainly the environment right"
+    },
+    {
+      "start": 617.68,
+      "end": 623.2,
+      "text": "now is is very um I would say licenser"
+    },
+    {
+      "start": 621.36,
+      "end": 624.959,
+      "text": "friendly if you look at how many games"
+    },
+    {
+      "start": 623.2,
+      "end": 627.839,
+      "text": "are you know being impulsed by those big"
+    },
+    {
+      "start": 624.959,
+      "end": 629.48,
+      "text": "corporations there there is a ton I mean"
+    },
+    {
+      "start": 627.839,
+      "end": 631.8,
+      "text": "hogwart's Legacy was probably the"
+    },
+    {
+      "start": 629.48,
+      "end": 633.64,
+      "text": "biggest game of last year with bers gate"
+    },
+    {
+      "start": 631.8,
+      "end": 635.88,
+      "text": "um you know we're talking about Arcane"
+    },
+    {
+      "start": 633.64,
+      "end": 638.2,
+      "text": "they're making a Marvel game blade U"
+    },
+    {
+      "start": 635.88,
+      "end": 640.399,
+      "text": "you've had many alien games coming many"
+    },
+    {
+      "start": 638.2,
+      "end": 642.519,
+      "text": "more Star Wars games Hasbro is making"
+    },
+    {
+      "start": 640.399,
+      "end": 644.639,
+      "text": "a$1 billion doll bet um you know"
+    },
+    {
+      "start": 642.519,
+      "end": 647.88,
+      "text": "leveraging DND D and and GI Joe and"
+    },
+    {
+      "start": 644.639,
+      "end": 650.76,
+      "text": "their other franchise is even devolver U"
+    },
+    {
+      "start": 647.88,
+      "end": 653.48,
+      "text": "has reorganized good sheeper um to be"
+    },
+    {
+      "start": 650.76,
+      "end": 655.76,
+      "text": "focusing on licensing so you know I"
+    },
+    {
+      "start": 653.48,
+      "end": 657.639,
+      "text": "wanted to address that because when I"
+    },
+    {
+      "start": 655.76,
+      "end": 660,
+      "text": "agreed to make this talk I was like oh"
+    },
+    {
+      "start": 657.639,
+      "end": 662,
+      "text": "what did I sign up for you know um am I"
+    },
+    {
+      "start": 660,
+      "end": 664.68,
+      "text": "am I encouraging people to just go in a"
+    },
+    {
+      "start": 662,
+      "end": 667,
+      "text": "in a in in a mainfield but yet there is"
+    },
+    {
+      "start": 664.68,
+      "end": 668.12,
+      "text": "hope um and so if you look at all those"
+    },
+    {
+      "start": 667,
+      "end": 670.079,
+      "text": "games they're all pretty recent they're"
+    },
+    {
+      "start": 668.12,
+      "end": 671.92,
+      "text": "all new IP they've all done terrific in"
+    },
+    {
+      "start": 670.079,
+      "end": 674.44,
+      "text": "different genres I mean Stell blade"
+    },
+    {
+      "start": 671.92,
+      "end": 676.839,
+      "text": "pretty recently um you know um there's"
+    },
+    {
+      "start": 674.44,
+      "end": 680.279,
+      "text": "lethal company Manor Lords is is a"
+    },
+    {
+      "start": 676.839,
+      "end": 682.48,
+      "text": "magnificent one um and so it's still you"
+    },
+    {
+      "start": 680.279,
+      "end": 684.12,
+      "text": "know I think a very very um valid path"
+    },
+    {
+      "start": 682.48,
+      "end": 685.6,
+      "text": "the thing that you have to navigate is"
+    },
+    {
+      "start": 684.12,
+      "end": 687.8,
+      "text": "yeah the amount of you know Financial"
+    },
+    {
+      "start": 685.6,
+      "end": 690,
+      "text": "Risk you're taking how big your team is"
+    },
+    {
+      "start": 687.8,
+      "end": 692.68,
+      "text": "um but I I think it's important to not"
+    },
+    {
+      "start": 690,
+      "end": 695.399,
+      "text": "be completely bugged down um by the news"
+    },
+    {
+      "start": 692.68,
+      "end": 696.6,
+      "text": "about existing games and and franchises"
+    },
+    {
+      "start": 695.399,
+      "end": 698.6,
+      "text": "and the reason why I think it's"
+    },
+    {
+      "start": 696.6,
+      "end": 701.519,
+      "text": "especially important uh when you're"
+    },
+    {
+      "start": 698.6,
+      "end": 702.68,
+      "text": "starting as as a studio because you know"
+    },
+    {
+      "start": 701.519,
+      "end": 703.839,
+      "text": "I see it in Vancouver there's many"
+    },
+    {
+      "start": 702.68,
+      "end": 705.959,
+      "text": "studios where now they're being"
+    },
+    {
+      "start": 703.839,
+      "end": 707.56,
+      "text": "approached by licensers or other Studios"
+    },
+    {
+      "start": 705.959,
+      "end": 709.16,
+      "text": "that have an existing IP and they're"
+    },
+    {
+      "start": 707.56,
+      "end": 710.88,
+      "text": "like oh you know why don't you work with"
+    },
+    {
+      "start": 709.16,
+      "end": 713.399,
+      "text": "our thing you know it'd be better and"
+    },
+    {
+      "start": 710.88,
+      "end": 715.36,
+      "text": "the risk would be uh lower which is kind"
+    },
+    {
+      "start": 713.399,
+      "end": 717.92,
+      "text": "of true but also you don't own this"
+    },
+    {
+      "start": 715.36,
+      "end": 720.32,
+      "text": "thing and when you own an IP you have a"
+    },
+    {
+      "start": 717.92,
+      "end": 722.48,
+      "text": "chance at this so so this is the famous"
+    },
+    {
+      "start": 720.32,
+      "end": 724.6,
+      "text": "flywheel that you know Walt Disney uh"
+    },
+    {
+      "start": 722.48,
+      "end": 726.56,
+      "text": "Drew I think 40 years ago when he was"
+    },
+    {
+      "start": 724.6,
+      "end": 728.44,
+      "text": "trying to explain the business he was"
+    },
+    {
+      "start": 726.56,
+      "end": 730.32,
+      "text": "building around the character and the"
+    },
+    {
+      "start": 728.44,
+      "end": 732.12,
+      "text": "franchises they were developing and he"
+    },
+    {
+      "start": 730.32,
+      "end": 734.6,
+      "text": "was like yeah it all feeds one another"
+    },
+    {
+      "start": 732.12,
+      "end": 737.639,
+      "text": "you know the characters go into movies"
+    },
+    {
+      "start": 734.6,
+      "end": 740,
+      "text": "they become toys the movies inspire you"
+    },
+    {
+      "start": 737.639,
+      "end": 742.079,
+      "text": "know um environments for seam parks and"
+    },
+    {
+      "start": 740,
+      "end": 744.839,
+      "text": "rides and all this so it's all a"
+    },
+    {
+      "start": 742.079,
+      "end": 748.279,
+      "text": "virtuous cycle and you can only do this"
+    },
+    {
+      "start": 744.839,
+      "end": 751.24,
+      "text": "if you have um your own IP famously"
+    },
+    {
+      "start": 748.279,
+      "end": 753.6,
+      "text": "blizzard um when they set out to do uh"
+    },
+    {
+      "start": 751.24,
+      "end": 756.32,
+      "text": "Warcraft they were initially looking to"
+    },
+    {
+      "start": 753.6,
+      "end": 757.6,
+      "text": "license Warhammer from GES Workshop but"
+    },
+    {
+      "start": 756.32,
+      "end": 759.399,
+      "text": "you know they were unknown at the time"
+    },
+    {
+      "start": 757.6,
+      "end": 761.399,
+      "text": "and so Games Workshop was like not not"
+    },
+    {
+      "start": 759.399,
+      "end": 764,
+      "text": "really interested so imagine if they had"
+    },
+    {
+      "start": 761.399,
+      "end": 766.24,
+      "text": "done that no Warcraft movie no nothing"
+    },
+    {
+      "start": 764,
+      "end": 769.279,
+      "text": "so it would have kind of cut short 20"
+    },
+    {
+      "start": 766.24,
+      "end": 770.92,
+      "text": "years later um what they could do um"
+    },
+    {
+      "start": 769.279,
+      "end": 772.76,
+      "text": "with that IP and so I think it's really"
+    },
+    {
+      "start": 770.92,
+      "end": 774.6,
+      "text": "important because we're seeing it now"
+    },
+    {
+      "start": 772.76,
+      "end": 776.839,
+      "text": "you know you have big titles full out"
+    },
+    {
+      "start": 774.6,
+      "end": 778.6,
+      "text": "Last of Us Mario they're yeah they're"
+    },
+    {
+      "start": 776.839,
+      "end": 780.68,
+      "text": "all really taking advantage of the"
+    },
+    {
+      "start": 778.6,
+      "end": 782.88,
+      "text": "flywheel those are movies but if you"
+    },
+    {
+      "start": 780.68,
+      "end": 784.32,
+      "text": "look at a property like Minecraft"
+    },
+    {
+      "start": 782.88,
+      "end": 786.519,
+      "text": "they've been making more money every"
+    },
+    {
+      "start": 784.32,
+      "end": 788.04,
+      "text": "year from merch and derivative than from"
+    },
+    {
+      "start": 786.519,
+      "end": 790.92,
+      "text": "the core games you know and they're also"
+    },
+    {
+      "start": 788.04,
+      "end": 792.959,
+      "text": "working on a movie so I think it's CR"
+    },
+    {
+      "start": 790.92,
+      "end": 795.16,
+      "text": "critical and I think also it's not just"
+    },
+    {
+      "start": 792.959,
+      "end": 798.519,
+      "text": "something for big studios um you know"
+    },
+    {
+      "start": 795.16,
+      "end": 799.8,
+      "text": "five nighted Freddy's um was one of the"
+    },
+    {
+      "start": 798.519,
+      "end": 801.48,
+      "text": "well I think it was actually the biggest"
+    },
+    {
+      "start": 799.8,
+      "end": 803.88,
+      "text": "Halloween movie this year with"
+    },
+    {
+      "start": 801.48,
+      "end": 805.68,
+      "text": "bloomhouse so here again you know if if"
+    },
+    {
+      "start": 803.88,
+      "end": 807.639,
+      "text": "it was not their IP they wouldn't reap"
+    },
+    {
+      "start": 805.68,
+      "end": 809.44,
+      "text": "the benefit of that and then tiny build"
+    },
+    {
+      "start": 807.639,
+      "end": 813.639,
+      "text": "has been exceptionally good at at you"
+    },
+    {
+      "start": 809.44,
+      "end": 815.76,
+      "text": "know uh building around their IP um and"
+    },
+    {
+      "start": 813.639,
+      "end": 817.88,
+      "text": "just looking in you know at what I know"
+    },
+    {
+      "start": 815.76,
+      "end": 819.36,
+      "text": "Vancouver where I live the studios that"
+    },
+    {
+      "start": 817.88,
+      "end": 820.959,
+      "text": "have weathered the current industry"
+    },
+    {
+      "start": 819.36,
+      "end": 823.48,
+      "text": "storm that we see the one that are the"
+    },
+    {
+      "start": 820.959,
+      "end": 825.639,
+      "text": "more robust they all own their IP um"
+    },
+    {
+      "start": 823.48,
+      "end": 827.44,
+      "text": "they've all created them they're all now"
+    },
+    {
+      "start": 825.639,
+      "end": 830.959,
+      "text": "expanding upon them whether it's you"
+    },
+    {
+      "start": 827.44,
+      "end": 832.8,
+      "text": "know um hinan making um this kind of"
+    },
+    {
+      "start": 830.959,
+      "end": 835.16,
+      "text": "like season pass with the long dark"
+    },
+    {
+      "start": 832.8,
+      "end": 838.04,
+      "text": "whether it's Clay making you know games"
+    },
+    {
+      "start": 835.16,
+      "end": 840.6,
+      "text": "that are thematically related ight"
+    },
+    {
+      "start": 838.04,
+      "end": 842.88,
+      "text": "making a sequel to to um the forest"
+    },
+    {
+      "start": 840.6,
+      "end": 844.32,
+      "text": "they're all the studios that you know"
+    },
+    {
+      "start": 842.88,
+      "end": 846.8,
+      "text": "all those Studios as far as I know in"
+    },
+    {
+      "start": 844.32,
+      "end": 848.92,
+      "text": "Vancouver they haven't laid off anyone"
+    },
+    {
+      "start": 846.8,
+      "end": 850.639,
+      "text": "they haven't um whereas there's a lot of"
+    },
+    {
+      "start": 848.92,
+      "end": 851.639,
+      "text": "other Studios I mean including Blackbird"
+    },
+    {
+      "start": 850.639,
+      "end": 853.12,
+      "text": "we went through you know some"
+    },
+    {
+      "start": 851.639,
+      "end": 855.199,
+      "text": "challenging times with our publishing"
+    },
+    {
+      "start": 853.12,
+      "end": 857.6,
+      "text": "Partners or unfortunately we we we had"
+    },
+    {
+      "start": 855.199,
+      "end": 859.199,
+      "text": "to let people go um so I to me I think"
+    },
+    {
+      "start": 857.6,
+      "end": 862.079,
+      "text": "that there's something there in terms of"
+    },
+    {
+      "start": 859.199,
+      "end": 863.959,
+      "text": "like owning you know really a strong fan"
+    },
+    {
+      "start": 862.079,
+      "end": 866.279,
+      "text": "base where you have direct access you"
+    },
+    {
+      "start": 863.959,
+      "end": 869.279,
+      "text": "can over time monetize fine love and"
+    },
+    {
+      "start": 866.279,
+      "end": 872.399,
+      "text": "that's that's a a source of stability"
+    },
+    {
+      "start": 869.279,
+      "end": 874.399,
+      "text": "okay so uh now hopefully I convinced"
+    },
+    {
+      "start": 872.399,
+      "end": 877.56,
+      "text": "everyone that um you know it's it's a"
+    },
+    {
+      "start": 874.399,
+      "end": 880,
+      "text": "risk worth taking um um um while being"
+    },
+    {
+      "start": 877.56,
+      "end": 882.72,
+      "text": "aware of of the you know the challenges"
+    },
+    {
+      "start": 880,
+      "end": 884.04,
+      "text": "um how do you start about you know uip"
+    },
+    {
+      "start": 882.72,
+      "end": 885.88,
+      "text": "so the first thing that everyone will"
+    },
+    {
+      "start": 884.04,
+      "end": 888.12,
+      "text": "tell you is look at the market look at"
+    },
+    {
+      "start": 885.88,
+      "end": 889.72,
+      "text": "what's selling you know gen viability"
+    },
+    {
+      "start": 888.12,
+      "end": 892.399,
+      "text": "there's a lot of really cool resources"
+    },
+    {
+      "start": 889.72,
+      "end": 894.519,
+      "text": "there that you can find um especially um"
+    },
+    {
+      "start": 892.399,
+      "end": 896.8,
+      "text": "there's Chris zukovsky um on the how to"
+    },
+    {
+      "start": 894.519,
+      "end": 899.16,
+      "text": "Market a game blog there is you know"
+    },
+    {
+      "start": 896.8,
+      "end": 900.959,
+      "text": "Simon CIS and game discover Co all all"
+    },
+    {
+      "start": 899.16,
+      "end": 903.32,
+      "text": "those will will give you yeah obviously"
+    },
+    {
+      "start": 900.959,
+      "end": 905.72,
+      "text": "a really good sense of um the median"
+    },
+    {
+      "start": 903.32,
+      "end": 908.04,
+      "text": "Revenue per genre um and then you should"
+    },
+    {
+      "start": 905.72,
+      "end": 910.639,
+      "text": "also do a little bit of a investigation"
+    },
+    {
+      "start": 908.04,
+      "end": 912.56,
+      "text": "in terms of okay certain genre have"
+    },
+    {
+      "start": 910.639,
+      "end": 914.56,
+      "text": "certain production value expectations"
+    },
+    {
+      "start": 912.56,
+      "end": 916.8,
+      "text": "there you know you need a certain team"
+    },
+    {
+      "start": 914.56,
+      "end": 918.279,
+      "text": "size and budget to compete certain genre"
+    },
+    {
+      "start": 916.8,
+      "end": 919.839,
+      "text": "may have a good median Revenue but they"
+    },
+    {
+      "start": 918.279,
+      "end": 923.44,
+      "text": "may have some very entrenched leaders"
+    },
+    {
+      "start": 919.839,
+      "end": 927.24,
+      "text": "there um so you know sure um if you make"
+    },
+    {
+      "start": 923.44,
+      "end": 929.079,
+      "text": "it you you you send to reap some rewards"
+    },
+    {
+      "start": 927.24,
+      "end": 931.36,
+      "text": "but it might be pretty hard to get into"
+    },
+    {
+      "start": 929.079,
+      "end": 932.8,
+      "text": "so all this is is honestly something"
+    },
+    {
+      "start": 931.36,
+      "end": 934.44,
+      "text": "that I think everyone's talking about"
+    },
+    {
+      "start": 932.8,
+      "end": 936.44,
+      "text": "right now and so I don't want to dwell"
+    },
+    {
+      "start": 934.44,
+      "end": 938.079,
+      "text": "too much on it um I think it's"
+    },
+    {
+      "start": 936.44,
+      "end": 940.6,
+      "text": "interesting but it just tells you what"
+    },
+    {
+      "start": 938.079,
+      "end": 942.88,
+      "text": "the now is what I'm more interesting is"
+    },
+    {
+      "start": 940.6,
+      "end": 945.36,
+      "text": "trying to find what the then is you know"
+    },
+    {
+      "start": 942.88,
+      "end": 947.839,
+      "text": "from this point in time how do we get"
+    },
+    {
+      "start": 945.36,
+      "end": 950.44,
+      "text": "further and so uh when we're working on"
+    },
+    {
+      "start": 947.839,
+      "end": 952.639,
+      "text": "earthless um a Rog likee deck builder"
+    },
+    {
+      "start": 950.44,
+      "end": 954.6,
+      "text": "mixed with tactics at Blackbird"
+    },
+    {
+      "start": 952.639,
+      "end": 956.92,
+      "text": "something we were doing was uh diving"
+    },
+    {
+      "start": 954.6,
+      "end": 960.36,
+      "text": "into steam reviews and so we were trying"
+    },
+    {
+      "start": 956.92,
+      "end": 962.44,
+      "text": "to categorize how often certain themes"
+    },
+    {
+      "start": 960.36,
+      "end": 964.48,
+      "text": "or you know items of feedback would be"
+    },
+    {
+      "start": 962.44,
+      "end": 966.199,
+      "text": "coming back in terms of like pros and"
+    },
+    {
+      "start": 964.48,
+      "end": 967.959,
+      "text": "cons so you can see here it was all like"
+    },
+    {
+      "start": 966.199,
+      "end": 969.88,
+      "text": "done manually where we're trying to have"
+    },
+    {
+      "start": 967.959,
+      "end": 971.68,
+      "text": "those common themes rank off and they"
+    },
+    {
+      "start": 969.88,
+      "end": 975.04,
+      "text": "would come back and then we do that as"
+    },
+    {
+      "start": 971.68,
+      "end": 977.04,
+      "text": "well with um you know um um press"
+    },
+    {
+      "start": 975.04,
+      "end": 978.639,
+      "text": "reviews so that was pretty timec"
+    },
+    {
+      "start": 977.04,
+      "end": 980.56,
+      "text": "consuming now there's a wonderful tool"
+    },
+    {
+      "start": 978.639,
+      "end": 981.959,
+      "text": "called chat GPT and so the beauty that"
+    },
+    {
+      "start": 980.56,
+      "end": 984.639,
+      "text": "you can do with that and it's probably"
+    },
+    {
+      "start": 981.959,
+      "end": 986.319,
+      "text": "one of the rare ethical uses of it is"
+    },
+    {
+      "start": 984.639,
+      "end": 988.399,
+      "text": "you can feed it you can script the"
+    },
+    {
+      "start": 986.319,
+      "end": 991.88,
+      "text": "reviews you can feed it the steam data"
+    },
+    {
+      "start": 988.399,
+      "end": 993.44,
+      "text": "and you can actually asked GPT um to um"
+    },
+    {
+      "start": 991.88,
+      "end": 994.68,
+      "text": "summarize that for you and the themes"
+    },
+    {
+      "start": 993.44,
+      "end": 996.399,
+      "text": "and it works pretty well we've actually"
+    },
+    {
+      "start": 994.68,
+      "end": 999.16,
+      "text": "been doing it uh this week with the"
+    },
+    {
+      "start": 996.399,
+      "end": 1001.72,
+      "text": "release of H World 3 um and you know"
+    },
+    {
+      "start": 999.16,
+      "end": 1004.04,
+      "text": "it's pretty close what what GPT has um"
+    },
+    {
+      "start": 1001.72,
+      "end": 1006.36,
+      "text": "spit out to what we've observed um"
+    },
+    {
+      "start": 1004.04,
+      "end": 1008.48,
+      "text": "empirically and so I think with that you"
+    },
+    {
+      "start": 1006.36,
+      "end": 1010.399,
+      "text": "start having an interesting um starting"
+    },
+    {
+      "start": 1008.48,
+      "end": 1012.959,
+      "text": "point where you you get a sense in a in"
+    },
+    {
+      "start": 1010.399,
+      "end": 1014.319,
+      "text": "a genre of like okay where might be the"
+    },
+    {
+      "start": 1012.959,
+      "end": 1016.48,
+      "text": "Gap what may be the opportunity to"
+    },
+    {
+      "start": 1014.319,
+      "end": 1018.88,
+      "text": "improve it because ultimately this is"
+    },
+    {
+      "start": 1016.48,
+      "end": 1020.199,
+      "text": "what you're playing against you are"
+    },
+    {
+      "start": 1018.88,
+      "end": 1022.92,
+      "text": "starting a product now and you're going"
+    },
+    {
+      "start": 1020.199,
+      "end": 1025.12,
+      "text": "to releasee it four or five years later"
+    },
+    {
+      "start": 1022.92,
+      "end": 1027.76,
+      "text": "and in the meantime you know culture"
+    },
+    {
+      "start": 1025.12,
+      "end": 1030.559,
+      "text": "taste um competition new games all that"
+    },
+    {
+      "start": 1027.76,
+      "end": 1032.319,
+      "text": "moves forward and so here again if you"
+    },
+    {
+      "start": 1030.559,
+      "end": 1034.4,
+      "text": "just start and focus very specifically"
+    },
+    {
+      "start": 1032.319,
+      "end": 1036.039,
+      "text": "on what is selling now today it's"
+    },
+    {
+      "start": 1034.4,
+      "end": 1038.039,
+      "text": "probably not was not what is going to"
+    },
+    {
+      "start": 1036.039,
+      "end": 1039.52,
+      "text": "sell tomorrow or at least you know that"
+    },
+    {
+      "start": 1038.039,
+      "end": 1041.679,
+      "text": "genre might sell but for different"
+    },
+    {
+      "start": 1039.52,
+      "end": 1044.24,
+      "text": "reasons so you want to kind of like peek"
+    },
+    {
+      "start": 1041.679,
+      "end": 1046.24,
+      "text": "through the cracks and and really sorry"
+    },
+    {
+      "start": 1044.24,
+      "end": 1047.36,
+      "text": "you know the the the the way I like to"
+    },
+    {
+      "start": 1046.24,
+      "end": 1049.24,
+      "text": "present it is you want to see the"
+    },
+    {
+      "start": 1047.36,
+      "end": 1050.88,
+      "text": "negative space you know what is but is"
+    },
+    {
+      "start": 1049.24,
+      "end": 1053.2,
+      "text": "the shape of other games to come that"
+    },
+    {
+      "start": 1050.88,
+      "end": 1055.16,
+      "text": "you can kind of discern as you've"
+    },
+    {
+      "start": 1053.2,
+      "end": 1057.679,
+      "text": "observed this genre as you've dived into"
+    },
+    {
+      "start": 1055.16,
+      "end": 1059.559,
+      "text": "the player feedback and then start of"
+    },
+    {
+      "start": 1057.679,
+      "end": 1062.2,
+      "text": "you know making out what it could be"
+    },
+    {
+      "start": 1059.559,
+      "end": 1065.12,
+      "text": "it's very similar to the um the faster"
+    },
+    {
+      "start": 1062.2,
+      "end": 1067.4,
+      "text": "horse you know analogy um from from"
+    },
+    {
+      "start": 1065.12,
+      "end": 1069.52,
+      "text": "Henry Ford which supposedly said well if"
+    },
+    {
+      "start": 1067.4,
+      "end": 1070.88,
+      "text": "I'd ask people what they wanted you know"
+    },
+    {
+      "start": 1069.52,
+      "end": 1073.12,
+      "text": "they they wouldn't have thought of a car"
+    },
+    {
+      "start": 1070.88,
+      "end": 1074.24,
+      "text": "it didn't exist at the time um so they"
+    },
+    {
+      "start": 1073.12,
+      "end": 1076.64,
+      "text": "would just have thought of like yeah I"
+    },
+    {
+      "start": 1074.24,
+      "end": 1079.799,
+      "text": "need a faster horse um so you need to"
+    },
+    {
+      "start": 1076.64,
+      "end": 1082.039,
+      "text": "take that problem on and one uh aspect"
+    },
+    {
+      "start": 1079.799,
+      "end": 1084.36,
+      "text": "that I find you know pretty helpful um"
+    },
+    {
+      "start": 1082.039,
+      "end": 1086.28,
+      "text": "to look at the market um and and and and"
+    },
+    {
+      "start": 1084.36,
+      "end": 1088.84,
+      "text": "help kind of like see that and see what"
+    },
+    {
+      "start": 1086.28,
+      "end": 1091.32,
+      "text": "might be coming is uh motivations and"
+    },
+    {
+      "start": 1088.84,
+      "end": 1093.08,
+      "text": "player Persona so um you're all probably"
+    },
+    {
+      "start": 1091.32,
+      "end": 1094.6,
+      "text": "very familiar with this from you know"
+    },
+    {
+      "start": 1093.08,
+      "end": 1096.32,
+      "text": "when when you build your games I think"
+    },
+    {
+      "start": 1094.6,
+      "end": 1098.4,
+      "text": "it's actually a good tool to kind of"
+    },
+    {
+      "start": 1096.32,
+      "end": 1100.52,
+      "text": "look at the market and kind of get a"
+    },
+    {
+      "start": 1098.4,
+      "end": 1102.6,
+      "text": "sense of like in certain genres in"
+    },
+    {
+      "start": 1100.52,
+      "end": 1105.08,
+      "text": "certain categories you know are there"
+    },
+    {
+      "start": 1102.6,
+      "end": 1106.76,
+      "text": "some aspirations that are unfulfilled or"
+    },
+    {
+      "start": 1105.08,
+      "end": 1109.52,
+      "text": "that could be you know fulfilled in a in"
+    },
+    {
+      "start": 1106.76,
+      "end": 1110.72,
+      "text": "a in a different way um so I mean I I"
+    },
+    {
+      "start": 1109.52,
+      "end": 1112.799,
+      "text": "quite like the work in general that"
+    },
+    {
+      "start": 1110.72,
+      "end": 1114.76,
+      "text": "Quantic fundry does they they they have"
+    },
+    {
+      "start": 1112.799,
+      "end": 1117.36,
+      "text": "a lot of interesting resources there"
+    },
+    {
+      "start": 1114.76,
+      "end": 1120.32,
+      "text": "where they dive deep into a genre uh but"
+    },
+    {
+      "start": 1117.36,
+      "end": 1121.72,
+      "text": "really A lot of people ultimately um you"
+    },
+    {
+      "start": 1120.32,
+      "end": 1123.72,
+      "text": "know have created a lot of Frameworks"
+    },
+    {
+      "start": 1121.72,
+      "end": 1125.24,
+      "text": "around that and they all derive from the"
+    },
+    {
+      "start": 1123.72,
+      "end": 1127.559,
+      "text": "the one you have on the right which is"
+    },
+    {
+      "start": 1125.24,
+      "end": 1129.52,
+      "text": "the uh the ocean model from psychology"
+    },
+    {
+      "start": 1127.559,
+      "end": 1132.12,
+      "text": "the Big Five in terms of like openness"
+    },
+    {
+      "start": 1129.52,
+      "end": 1134.919,
+      "text": "to experience um you know"
+    },
+    {
+      "start": 1132.12,
+      "end": 1137.4,
+      "text": "conscientiousness um extra version and"
+    },
+    {
+      "start": 1134.919,
+      "end": 1139.24,
+      "text": "it helps kind of like paint um a picture"
+    },
+    {
+      "start": 1137.4,
+      "end": 1141.32,
+      "text": "of what you resonate with are you more"
+    },
+    {
+      "start": 1139.24,
+      "end": 1143.559,
+      "text": "collaborative are you more competitive"
+    },
+    {
+      "start": 1141.32,
+      "end": 1145.919,
+      "text": "um are you interested in you know social"
+    },
+    {
+      "start": 1143.559,
+      "end": 1148.48,
+      "text": "engagement or not so much um what kind"
+    },
+    {
+      "start": 1145.919,
+      "end": 1150.72,
+      "text": "of you know pacing is right for you um"
+    },
+    {
+      "start": 1148.48,
+      "end": 1153.039,
+      "text": "and so thinking you know this way"
+    },
+    {
+      "start": 1150.72,
+      "end": 1154.559,
+      "text": "something that was uh pretty uh striking"
+    },
+    {
+      "start": 1153.039,
+      "end": 1157.159,
+      "text": "to us at Blackbird at the beginning of"
+    },
+    {
+      "start": 1154.559,
+      "end": 1160.12,
+      "text": "the pandemic was that a lot of games"
+    },
+    {
+      "start": 1157.159,
+      "end": 1162.88,
+      "text": "were becoming social spaces and also"
+    },
+    {
+      "start": 1160.12,
+      "end": 1166,
+      "text": "basically what I would call theater um"
+    },
+    {
+      "start": 1162.88,
+      "end": 1168.72,
+      "text": "where it's not only about the game and"
+    },
+    {
+      "start": 1166,
+      "end": 1171.039,
+      "text": "its mechanics it's how that space and"
+    },
+    {
+      "start": 1168.72,
+      "end": 1172.2,
+      "text": "how it's been created allows people to"
+    },
+    {
+      "start": 1171.039,
+      "end": 1174.72,
+      "text": "bring something in that is very"
+    },
+    {
+      "start": 1172.2,
+      "end": 1176.679,
+      "text": "enjoyable so GTA roleplay you know was"
+    },
+    {
+      "start": 1174.72,
+      "end": 1178.28,
+      "text": "massive even before that time uh"
+    },
+    {
+      "start": 1176.679,
+      "end": 1180.4,
+      "text": "exploded completely during during the"
+    },
+    {
+      "start": 1178.28,
+      "end": 1182.039,
+      "text": "pandemic but then you know the success"
+    },
+    {
+      "start": 1180.4,
+      "end": 1185.4,
+      "text": "of a game like Among Us especially"
+    },
+    {
+      "start": 1182.039,
+      "end": 1187.32,
+      "text": "during pandemic times to me um is um"
+    },
+    {
+      "start": 1185.4,
+      "end": 1189.72,
+      "text": "kind of a proof that there was a meat"
+    },
+    {
+      "start": 1187.32,
+      "end": 1191.64,
+      "text": "there a need there that wasn't fully met"
+    },
+    {
+      "start": 1189.72,
+      "end": 1193.679,
+      "text": "and as we all went into lockdown and we"
+    },
+    {
+      "start": 1191.64,
+      "end": 1195.44,
+      "text": "were all separated from one another as"
+    },
+    {
+      "start": 1193.679,
+      "end": 1198.159,
+      "text": "our options for entertainment were also"
+    },
+    {
+      "start": 1195.44,
+      "end": 1202.88,
+      "text": "dwindling um this became even more you"
+    },
+    {
+      "start": 1198.159,
+      "end": 1205.12,
+      "text": "know um prevalent um and so out of that"
+    },
+    {
+      "start": 1202.88,
+      "end": 1208.36,
+      "text": "you know out of this observation at the"
+    },
+    {
+      "start": 1205.12,
+      "end": 1210,
+      "text": "time um actually you know our teams when"
+    },
+    {
+      "start": 1208.36,
+      "end": 1213,
+      "text": "we were doing our own original Ip"
+    },
+    {
+      "start": 1210,
+      "end": 1214.96,
+      "text": "process um worked on on a g I'll just"
+    },
+    {
+      "start": 1213,
+      "end": 1218.24,
+      "text": "show you a little bit there but to"
+    },
+    {
+      "start": 1214.96,
+      "end": 1219.799,
+      "text": "explain the Genesis of it um and so the"
+    },
+    {
+      "start": 1218.24,
+      "end": 1221.52,
+      "text": "the the the project as we called it was"
+    },
+    {
+      "start": 1219.799,
+      "end": 1224.28,
+      "text": "called puffen you know third person"
+    },
+    {
+      "start": 1221.52,
+      "end": 1226.12,
+      "text": "Cooperative sendbox Espionage and so the"
+    },
+    {
+      "start": 1224.28,
+      "end": 1228.2,
+      "text": "idea behind it was that what if it's a"
+    },
+    {
+      "start": 1226.12,
+      "end": 1229.84,
+      "text": "what if we do a multiplayer Hitman um"
+    },
+    {
+      "start": 1228.2,
+      "end": 1231.96,
+      "text": "you know you have a colorful cast like"
+    },
+    {
+      "start": 1229.84,
+      "end": 1233.64,
+      "text": "Guardians of the Galaxy but really the"
+    },
+    {
+      "start": 1231.96,
+      "end": 1236.32,
+      "text": "the the joy and the interesting thing in"
+    },
+    {
+      "start": 1233.64,
+      "end": 1239.039,
+      "text": "this game is that you enter kind of fly"
+    },
+    {
+      "start": 1236.32,
+      "end": 1240.32,
+      "text": "open level with your friends you have a"
+    },
+    {
+      "start": 1239.039,
+      "end": 1242.44,
+      "text": "couple of objectives that you know you"
+    },
+    {
+      "start": 1240.32,
+      "end": 1244.08,
+      "text": "need to accomplish you don't know fully"
+    },
+    {
+      "start": 1242.44,
+      "end": 1245.72,
+      "text": "how you get to accomplish them and so"
+    },
+    {
+      "start": 1244.08,
+      "end": 1249.12,
+      "text": "first what you need to do is explore the"
+    },
+    {
+      "start": 1245.72,
+      "end": 1250.28,
+      "text": "level split up um identify opportunities"
+    },
+    {
+      "start": 1249.12,
+      "end": 1251.48,
+      "text": "and then sometimes you will also"
+    },
+    {
+      "start": 1250.28,
+      "end": 1253.039,
+      "text": "identify you know some Side"
+    },
+    {
+      "start": 1251.48,
+      "end": 1255.08,
+      "text": "Opportunities like some cool item you"
+    },
+    {
+      "start": 1253.039,
+      "end": 1257.08,
+      "text": "can pick up for your character if you I"
+    },
+    {
+      "start": 1255.08,
+      "end": 1259.08,
+      "text": "don't know pick that Locker or something"
+    },
+    {
+      "start": 1257.08,
+      "end": 1260.44,
+      "text": "but the the where we we found there was"
+    },
+    {
+      "start": 1259.08,
+      "end": 1263.72,
+      "text": "something really interesting is in"
+    },
+    {
+      "start": 1260.44,
+      "end": 1265.4,
+      "text": "creating a space um you know which is a"
+    },
+    {
+      "start": 1263.72,
+      "end": 1266.799,
+      "text": "bit like a heist movie if you think of"
+    },
+    {
+      "start": 1265.4,
+      "end": 1268.08,
+      "text": "the Heist movie The interesting part is"
+    },
+    {
+      "start": 1266.799,
+      "end": 1269.6,
+      "text": "when they start disagreeing with one"
+    },
+    {
+      "start": 1268.08,
+      "end": 1271.799,
+      "text": "another when they're all pretending to"
+    },
+    {
+      "start": 1269.6,
+      "end": 1273.44,
+      "text": "be normal people like in Oceans 11 but"
+    },
+    {
+      "start": 1271.799,
+      "end": 1275.36,
+      "text": "they talk to each other um you know with"
+    },
+    {
+      "start": 1273.44,
+      "end": 1276.88,
+      "text": "their earplug and so we're like okay"
+    },
+    {
+      "start": 1275.36,
+      "end": 1279.4,
+      "text": "that Dynamic is really really cool"
+    },
+    {
+      "start": 1276.88,
+      "end": 1280.96,
+      "text": "because there's tension um there's you"
+    },
+    {
+      "start": 1279.4,
+      "end": 1282.96,
+      "text": "know that kind of theater I play that I"
+    },
+    {
+      "start": 1280.96,
+      "end": 1286.279,
+      "text": "mentioned but there's a tension that is"
+    },
+    {
+      "start": 1282.96,
+      "end": 1287.4,
+      "text": "not predicated on reflex and so that was"
+    },
+    {
+      "start": 1286.279,
+      "end": 1289.32,
+      "text": "you know what this game was pretty"
+    },
+    {
+      "start": 1287.4,
+      "end": 1291.4,
+      "text": "unique about when we were were um"
+    },
+    {
+      "start": 1289.32,
+      "end": 1293,
+      "text": "starting to prototype it it was the idea"
+    },
+    {
+      "start": 1291.4,
+      "end": 1294.279,
+      "text": "that it's not a game where you have to"
+    },
+    {
+      "start": 1293,
+      "end": 1295.52,
+      "text": "shoot where you have to be fast but it's"
+    },
+    {
+      "start": 1294.279,
+      "end": 1298.12,
+      "text": "a game where you have to be constantly"
+    },
+    {
+      "start": 1295.52,
+      "end": 1300.12,
+      "text": "talking analyzing the situation and also"
+    },
+    {
+      "start": 1298.12,
+      "end": 1302.48,
+      "text": "agreeing with your friends on what is"
+    },
+    {
+      "start": 1300.12,
+      "end": 1304.799,
+      "text": "your game plan um and then at some point"
+    },
+    {
+      "start": 1302.48,
+      "end": 1306.32,
+      "text": "uh we we had um moments in the game that"
+    },
+    {
+      "start": 1304.799,
+      "end": 1307.96,
+      "text": "would force you all to come together"
+    },
+    {
+      "start": 1306.32,
+      "end": 1309.559,
+      "text": "like a vault that you would have to"
+    },
+    {
+      "start": 1307.96,
+      "end": 1311.4,
+      "text": "break and so one guy is you know"
+    },
+    {
+      "start": 1309.559,
+      "end": 1314.6,
+      "text": "distracting the guards the other are are"
+    },
+    {
+      "start": 1311.4,
+      "end": 1316.52,
+      "text": "breaking down the Vault um and so yeah"
+    },
+    {
+      "start": 1314.6,
+      "end": 1318.72,
+      "text": "those were the the pillars of this game"
+    },
+    {
+      "start": 1316.52,
+      "end": 1320.72,
+      "text": "which you know for now is is is on PA"
+    },
+    {
+      "start": 1318.72,
+      "end": 1323.08,
+      "text": "but we we had a lot of fun prototyping"
+    },
+    {
+      "start": 1320.72,
+      "end": 1325.6,
+      "text": "it and and thinking about it and it was"
+    },
+    {
+      "start": 1323.08,
+      "end": 1326.96,
+      "text": "directly you know inspired by you know"
+    },
+    {
+      "start": 1325.6,
+      "end": 1328.4,
+      "text": "what I was saying before what we saw"
+    },
+    {
+      "start": 1326.96,
+      "end": 1331.64,
+      "text": "during the pandemic and those new kind"
+    },
+    {
+      "start": 1328.4,
+      "end": 1333.76,
+      "text": "of experiences that were emerging um and"
+    },
+    {
+      "start": 1331.64,
+      "end": 1336.24,
+      "text": "so the brains over bronze for us was was"
+    },
+    {
+      "start": 1333.76,
+      "end": 1338.32,
+      "text": "really um important the failure Spectrum"
+    },
+    {
+      "start": 1336.24,
+      "end": 1339.96,
+      "text": "sandbox as well because it was the idea"
+    },
+    {
+      "start": 1338.32,
+      "end": 1341.64,
+      "text": "that okay you can recover from a"
+    },
+    {
+      "start": 1339.96,
+      "end": 1343.6,
+      "text": "situation it's not just about how fast"
+    },
+    {
+      "start": 1341.64,
+      "end": 1345.559,
+      "text": "you can take that that person down it's"
+    },
+    {
+      "start": 1343.6,
+      "end": 1347.679,
+      "text": "really how you get yourself out of um"
+    },
+    {
+      "start": 1345.559,
+      "end": 1349.08,
+      "text": "situations and yeah we we touched on the"
+    },
+    {
+      "start": 1347.679,
+      "end": 1351.6,
+      "text": "on the vision before but it was really"
+    },
+    {
+      "start": 1349.08,
+      "end": 1354.6,
+      "text": "realizing that that mission impossible"
+    },
+    {
+      "start": 1351.6,
+      "end": 1356.52,
+      "text": "fantasy uh couple of last one in terms"
+    },
+    {
+      "start": 1354.6,
+      "end": 1359,
+      "text": "of you know looking at sort of like the"
+    },
+    {
+      "start": 1356.52,
+      "end": 1361.36,
+      "text": "the Zeitgeist and how things connect um"
+    },
+    {
+      "start": 1359,
+      "end": 1362.679,
+      "text": "outside of just purely mechanically um"
+    },
+    {
+      "start": 1361.36,
+      "end": 1365.52,
+      "text": "so obviously you know everyone's been"
+    },
+    {
+      "start": 1362.679,
+      "end": 1366.76,
+      "text": "playing hell divers fantastic game um I"
+    },
+    {
+      "start": 1365.52,
+      "end": 1369.76,
+      "text": "think there's something quite"
+    },
+    {
+      "start": 1366.76,
+      "end": 1371.32,
+      "text": "interesting in Hell diverse um related"
+    },
+    {
+      "start": 1369.76,
+      "end": 1372.72,
+      "text": "to the world we live in so we live in a"
+    },
+    {
+      "start": 1371.32,
+      "end": 1374.88,
+      "text": "world that's you know incredibly"
+    },
+    {
+      "start": 1372.72,
+      "end": 1376.2,
+      "text": "increasingly more polarized uh where"
+    },
+    {
+      "start": 1374.88,
+      "end": 1378.279,
+      "text": "it's sometimes you know just hard to"
+    },
+    {
+      "start": 1376.2,
+      "end": 1380.32,
+      "text": "have a simple conversation with people"
+    },
+    {
+      "start": 1378.279,
+      "end": 1382.32,
+      "text": "and you know there's a movie like Civil"
+    },
+    {
+      "start": 1380.32,
+      "end": 1383.84,
+      "text": "War that made a lot of noise because"
+    },
+    {
+      "start": 1382.32,
+      "end": 1385.24,
+      "text": "supposedly it's all about that if you've"
+    },
+    {
+      "start": 1383.84,
+      "end": 1387.12,
+      "text": "seen it it's actually a bit different"
+    },
+    {
+      "start": 1385.24,
+      "end": 1388.799,
+      "text": "it's what happens after but what I find"
+    },
+    {
+      "start": 1387.12,
+      "end": 1390.24,
+      "text": "really interesting in Hell diver is that"
+    },
+    {
+      "start": 1388.799,
+      "end": 1392.6,
+      "text": "the the fantasy that they they've"
+    },
+    {
+      "start": 1390.24,
+      "end": 1394.36,
+      "text": "created of of being part of that Elite"
+    },
+    {
+      "start": 1392.6,
+      "end": 1396.559,
+      "text": "Squad the the bigger narrative they have"
+    },
+    {
+      "start": 1394.36,
+      "end": 1398.559,
+      "text": "with the community gives you immediately"
+    },
+    {
+      "start": 1396.559,
+      "end": 1400.2,
+      "text": "a language in the game uh with which to"
+    },
+    {
+      "start": 1398.559,
+      "end": 1402.799,
+      "text": "communicate to other players and so if"
+    },
+    {
+      "start": 1400.2,
+      "end": 1404.159,
+      "text": "you go on Reddit if you you know go on"
+    },
+    {
+      "start": 1402.799,
+      "end": 1406.039,
+      "text": "social networks and and read about the"
+    },
+    {
+      "start": 1404.159,
+      "end": 1408.679,
+      "text": "anecdotes that people talk about they're"
+    },
+    {
+      "start": 1406.039,
+      "end": 1409.919,
+      "text": "like well you know I was solo strugging"
+    },
+    {
+      "start": 1408.679,
+      "end": 1412.2,
+      "text": "there on that mission and all of a"
+    },
+    {
+      "start": 1409.919,
+      "end": 1414.48,
+      "text": "sudden a bunch of people jumped in you"
+    },
+    {
+      "start": 1412.2,
+      "end": 1416.36,
+      "text": "know and they they were like for Liberty"
+    },
+    {
+      "start": 1414.48,
+      "end": 1418.12,
+      "text": "and we all collaborated together and"
+    },
+    {
+      "start": 1416.36,
+      "end": 1421.52,
+      "text": "worked together and there was this kind"
+    },
+    {
+      "start": 1418.12,
+      "end": 1424.6,
+      "text": "of um container that just helped them"
+    },
+    {
+      "start": 1421.52,
+      "end": 1426.4,
+      "text": "communicate and so putting aside the you"
+    },
+    {
+      "start": 1424.6,
+      "end": 1427.799,
+      "text": "know the Starship Trooper parody"
+    },
+    {
+      "start": 1426.4,
+      "end": 1429.039,
+      "text": "elements that are in there and we could"
+    },
+    {
+      "start": 1427.799,
+      "end": 1430.159,
+      "text": "discuss that but I think there's"
+    },
+    {
+      "start": 1429.039,
+      "end": 1432.2,
+      "text": "something really interesting in in Hell"
+    },
+    {
+      "start": 1430.159,
+      "end": 1434.12,
+      "text": "diver in the sense that it gives you a"
+    },
+    {
+      "start": 1432.2,
+      "end": 1436.88,
+      "text": "clear very clear language and voice with"
+    },
+    {
+      "start": 1434.12,
+      "end": 1438.039,
+      "text": "which to interact as players and so"
+    },
+    {
+      "start": 1436.88,
+      "end": 1440.6,
+      "text": "immediately you have a sense of like"
+    },
+    {
+      "start": 1438.039,
+      "end": 1442.12,
+      "text": "belonging to that Community um and in"
+    },
+    {
+      "start": 1440.6,
+      "end": 1443.76,
+      "text": "the world we live in I think that it's"
+    },
+    {
+      "start": 1442.12,
+      "end": 1445.76,
+      "text": "incredibly rare when you get to"
+    },
+    {
+      "start": 1443.76,
+      "end": 1448.32,
+      "text": "multiplayer games often you know you get"
+    },
+    {
+      "start": 1445.76,
+      "end": 1450.08,
+      "text": "split between well people like to play"
+    },
+    {
+      "start": 1448.32,
+      "end": 1452,
+      "text": "more seriously if you play um you know I"
+    },
+    {
+      "start": 1450.08,
+      "end": 1454.24,
+      "text": "don't know Arma um you know some people"
+    },
+    {
+      "start": 1452,
+      "end": 1456.039,
+      "text": "are very msome heavy some other people"
+    },
+    {
+      "start": 1454.24,
+      "end": 1457.96,
+      "text": "are you know a bit less roleplay and"
+    },
+    {
+      "start": 1456.039,
+      "end": 1460.12,
+      "text": "Hell diver they found this thing that"
+    },
+    {
+      "start": 1457.96,
+      "end": 1462.64,
+      "text": "really allows you to all speak the same"
+    },
+    {
+      "start": 1460.12,
+      "end": 1465.2,
+      "text": "language and then culture and the bigger"
+    },
+    {
+      "start": 1462.64,
+      "end": 1467.039,
+      "text": "you know things happening around you um"
+    },
+    {
+      "start": 1465.2,
+      "end": 1469.52,
+      "text": "also can sometimes surprise you and"
+    },
+    {
+      "start": 1467.039,
+      "end": 1472.12,
+      "text": "surprise you in very pleasant ways so"
+    },
+    {
+      "start": 1469.52,
+      "end": 1475.88,
+      "text": "these two um elements for me um are"
+    },
+    {
+      "start": 1472.12,
+      "end": 1479.36,
+      "text": "pretty emblematic of how the impact of"
+    },
+    {
+      "start": 1475.88,
+      "end": 1481.52,
+      "text": "all this is massive but you conly also"
+    },
+    {
+      "start": 1479.36,
+      "end": 1483.96,
+      "text": "you know predicted it's kind of hard to"
+    },
+    {
+      "start": 1481.52,
+      "end": 1485.88,
+      "text": "know exactly how to leverage that so"
+    },
+    {
+      "start": 1483.96,
+      "end": 1487.88,
+      "text": "when I was working at Bethesda you know"
+    },
+    {
+      "start": 1485.88,
+      "end": 1489.36,
+      "text": "um and and scym was about to come out"
+    },
+    {
+      "start": 1487.88,
+      "end": 1491.32,
+      "text": "everyone was convinced it would be you"
+    },
+    {
+      "start": 1489.36,
+      "end": 1492.919,
+      "text": "know pretty big success I mean more when"
+    },
+    {
+      "start": 1491.32,
+      "end": 1494.88,
+      "text": "Oblivion like steadly the games that had"
+    },
+    {
+      "start": 1492.919,
+      "end": 1497.679,
+      "text": "grown up but no one predicted it would"
+    },
+    {
+      "start": 1494.88,
+      "end": 1499.76,
+      "text": "blow up as much as you know as it did"
+    },
+    {
+      "start": 1497.679,
+      "end": 1501.679,
+      "text": "and what happened in the last you know"
+    },
+    {
+      "start": 1499.76,
+      "end": 1503.72,
+      "text": "year before the release of Skyrim is"
+    },
+    {
+      "start": 1501.679,
+      "end": 1505.72,
+      "text": "that Game of Thrones came out um you"
+    },
+    {
+      "start": 1503.72,
+      "end": 1507.48,
+      "text": "know and the show became pretty massive"
+    },
+    {
+      "start": 1505.72,
+      "end": 1509.52,
+      "text": "and so it's a show about you know"
+    },
+    {
+      "start": 1507.48,
+      "end": 1512.559,
+      "text": "dragons it's a show set in a Nordic"
+    },
+    {
+      "start": 1509.52,
+      "end": 1515.399,
+      "text": "universe and if you think about that"
+    },
+    {
+      "start": 1512.559,
+      "end": 1517.36,
+      "text": "there was no real big game that was"
+    },
+    {
+      "start": 1515.399,
+      "end": 1520.2,
+      "text": "matching that and allow you to kind of"
+    },
+    {
+      "start": 1517.36,
+      "end": 1522.039,
+      "text": "live a bit of that fantasy and so you"
+    },
+    {
+      "start": 1520.2,
+      "end": 1524.799,
+      "text": "know I have nothing to prove it but I do"
+    },
+    {
+      "start": 1522.039,
+      "end": 1526.96,
+      "text": "think that really um Skyrim did benefit"
+    },
+    {
+      "start": 1524.799,
+      "end": 1529.36,
+      "text": "from that a little bit where it put that"
+    },
+    {
+      "start": 1526.96,
+      "end": 1531.24,
+      "text": "kind of um fantasy in the zist and a lot"
+    },
+    {
+      "start": 1529.36,
+      "end": 1533.24,
+      "text": "more people all of a sudden were"
+    },
+    {
+      "start": 1531.24,
+      "end": 1535.24,
+      "text": "receptive to it and connected with it"
+    },
+    {
+      "start": 1533.24,
+      "end": 1537.279,
+      "text": "similarly bers Gate 3 I mean amazing"
+    },
+    {
+      "start": 1535.24,
+      "end": 1539.08,
+      "text": "game game of a generation like you know"
+    },
+    {
+      "start": 1537.279,
+      "end": 1540.799,
+      "text": "liaran Ste building on on their"
+    },
+    {
+      "start": 1539.08,
+      "end": 1542.88,
+      "text": "knowledge but there's something that"
+    },
+    {
+      "start": 1540.799,
+      "end": 1545.44,
+      "text": "also I think really helped Propel bers"
+    },
+    {
+      "start": 1542.88,
+      "end": 1547.96,
+      "text": "gate and it's how popular you know DND"
+    },
+    {
+      "start": 1545.44,
+      "end": 1550.72,
+      "text": "and and tabletop dld be DND became over"
+    },
+    {
+      "start": 1547.96,
+      "end": 1552.6,
+      "text": "the last you know five to 10 years um"
+    },
+    {
+      "start": 1550.72,
+      "end": 1555.159,
+      "text": "you know with with critical role with"
+    },
+    {
+      "start": 1552.6,
+      "end": 1556.84,
+      "text": "during covid people doing remote DND"
+    },
+    {
+      "start": 1555.159,
+      "end": 1559.2,
+      "text": "parties and so all of a sudden you have"
+    },
+    {
+      "start": 1556.84,
+      "end": 1561.2,
+      "text": "a game that comes out and that is"
+    },
+    {
+      "start": 1559.2,
+      "end": 1562.72,
+      "text": "writing that could tell and that also"
+    },
+    {
+      "start": 1561.2,
+      "end": 1564.84,
+      "text": "allows you to have those kind of"
+    },
+    {
+      "start": 1562.72,
+      "end": 1566.72,
+      "text": "experiences that you've just recently"
+    },
+    {
+      "start": 1564.84,
+      "end": 1569.48,
+      "text": "discovered if it was just about bers"
+    },
+    {
+      "start": 1566.72,
+      "end": 1570.96,
+      "text": "Gate 3 you know I don't know if that"
+    },
+    {
+      "start": 1569.48,
+      "end": 1573.2,
+      "text": "game would have blown up as much as it"
+    },
+    {
+      "start": 1570.96,
+      "end": 1576.399,
+      "text": "would have if it would have um spoken to"
+    },
+    {
+      "start": 1573.2,
+      "end": 1577.919,
+      "text": "such a a big audience so anyway just to"
+    },
+    {
+      "start": 1576.399,
+      "end": 1580.279,
+      "text": "finish on that topic and then and then"
+    },
+    {
+      "start": 1577.919,
+      "end": 1583.48,
+      "text": "dive a little bit more in um you know"
+    },
+    {
+      "start": 1580.279,
+      "end": 1585.399,
+      "text": "how you can look um at things um within"
+    },
+    {
+      "start": 1583.48,
+      "end": 1587.679,
+      "text": "your studio and within yourself and and"
+    },
+    {
+      "start": 1585.399,
+      "end": 1590.32,
+      "text": "for newp and and and connect them I I"
+    },
+    {
+      "start": 1587.679,
+      "end": 1592.279,
+      "text": "quite like this book um about keeping an"
+    },
+    {
+      "start": 1590.32,
+      "end": 1595.2,
+      "text": "eye on what's Happening um so it's from"
+    },
+    {
+      "start": 1592.279,
+      "end": 1599.159,
+      "text": "a former Google data scientist um set"
+    },
+    {
+      "start": 1595.2,
+      "end": 1602.399,
+      "text": "Steven deso and um basically his whole"
+    },
+    {
+      "start": 1599.159,
+      "end": 1604.6,
+      "text": "premise in this book is that people use"
+    },
+    {
+      "start": 1602.399,
+      "end": 1606.2,
+      "text": "Google um as kind of a personal"
+    },
+    {
+      "start": 1604.6,
+      "end": 1607.799,
+      "text": "assistant like you you ENT questions"
+    },
+    {
+      "start": 1606.2,
+      "end": 1609.36,
+      "text": "there that are pretty candid because you"
+    },
+    {
+      "start": 1607.799,
+      "end": 1611.6,
+      "text": "don't think that anyone is looking and"
+    },
+    {
+      "start": 1609.36,
+      "end": 1615.279,
+      "text": "Truth is on a granular level no one's"
+    },
+    {
+      "start": 1611.6,
+      "end": 1618.399,
+      "text": "looking um but as a result people sort"
+    },
+    {
+      "start": 1615.279,
+      "end": 1619.76,
+      "text": "of like Express in an unfiltered way um"
+    },
+    {
+      "start": 1618.399,
+      "end": 1621.799,
+      "text": "you know their thoughts and their fears"
+    },
+    {
+      "start": 1619.76,
+      "end": 1623.44,
+      "text": "and a lot of things through Google um"
+    },
+    {
+      "start": 1621.799,
+      "end": 1625.64,
+      "text": "and when I was in advertising 14 years"
+    },
+    {
+      "start": 1623.44,
+      "end": 1627.48,
+      "text": "ago it was actually something that were"
+    },
+    {
+      "start": 1625.64,
+      "end": 1629.12,
+      "text": "leveraging in agencies in terms of like"
+    },
+    {
+      "start": 1627.48,
+      "end": 1631.44,
+      "text": "looking at the kind of searches that"
+    },
+    {
+      "start": 1629.12,
+      "end": 1633.64,
+      "text": "were done around certain keywords and we"
+    },
+    {
+      "start": 1631.44,
+      "end": 1636.32,
+      "text": "realize that like oh okay you know um I"
+    },
+    {
+      "start": 1633.64,
+      "end": 1638.6,
+      "text": "don't know if we're working for um a"
+    },
+    {
+      "start": 1636.32,
+      "end": 1640.6,
+      "text": "company that makes this kind of cake"
+    },
+    {
+      "start": 1638.6,
+      "end": 1643.12,
+      "text": "premix all of a sudden we see that"
+    },
+    {
+      "start": 1640.6,
+      "end": 1644.799,
+      "text": "people are searching oh a specific kind"
+    },
+    {
+      "start": 1643.12,
+      "end": 1645.96,
+      "text": "of like recipe or other things right so"
+    },
+    {
+      "start": 1644.799,
+      "end": 1647.399,
+      "text": "so they don't have they don't they're"
+    },
+    {
+      "start": 1645.96,
+      "end": 1648.76,
+      "text": "not telling us there's always a bias"
+    },
+    {
+      "start": 1647.399,
+      "end": 1651.039,
+      "text": "when you ask people but they're telling"
+    },
+    {
+      "start": 1648.76,
+      "end": 1652.32,
+      "text": "it to Google and so he had he has a"
+    },
+    {
+      "start": 1651.039,
+      "end": 1655.08,
+      "text": "bunch of like really fascinating"
+    },
+    {
+      "start": 1652.32,
+      "end": 1656.36,
+      "text": "examples in there um and I think it's"
+    },
+    {
+      "start": 1655.08,
+      "end": 1660.24,
+      "text": "it's something to keep in mind and to"
+    },
+    {
+      "start": 1656.36,
+      "end": 1662.799,
+      "text": "leverage um a lot more okay so uh we're"
+    },
+    {
+      "start": 1660.24,
+      "end": 1665.72,
+      "text": "halfway through the talk if if not more"
+    },
+    {
+      "start": 1662.799,
+      "end": 1667.44,
+      "text": "so now I want to um dive a bit more into"
+    },
+    {
+      "start": 1665.72,
+      "end": 1669.919,
+      "text": "we've spent a lot of time looking at"
+    },
+    {
+      "start": 1667.44,
+      "end": 1672.44,
+      "text": "okay what's happening outside great but"
+    },
+    {
+      "start": 1669.919,
+      "end": 1674.919,
+      "text": "ultimately when when you go into the"
+    },
+    {
+      "start": 1672.44,
+      "end": 1678.159,
+      "text": "challenge of making a new IP um it's"
+    },
+    {
+      "start": 1674.919,
+      "end": 1679.44,
+      "text": "something that has to come from um deep"
+    },
+    {
+      "start": 1678.159,
+      "end": 1681.64,
+      "text": "with inside of you and there has to be"
+    },
+    {
+      "start": 1679.44,
+      "end": 1683.48,
+      "text": "something that that drives you there and"
+    },
+    {
+      "start": 1681.64,
+      "end": 1685.44,
+      "text": "it's also important for for this um you"
+    },
+    {
+      "start": 1683.48,
+      "end": 1687.679,
+      "text": "know for this IP to stand up and so how"
+    },
+    {
+      "start": 1685.44,
+      "end": 1689.559,
+      "text": "do you connect the stuff we've talked"
+    },
+    {
+      "start": 1687.679,
+      "end": 1691.2,
+      "text": "before which was very much focused on"
+    },
+    {
+      "start": 1689.559,
+      "end": 1693.2,
+      "text": "the market and the competition and then"
+    },
+    {
+      "start": 1691.2,
+      "end": 1695.36,
+      "text": "how do you kind of bring it back to you"
+    },
+    {
+      "start": 1693.2,
+      "end": 1697.88,
+      "text": "so at a very high level I've always"
+    },
+    {
+      "start": 1695.36,
+      "end": 1700.24,
+      "text": "really enjoyed this um this framework um"
+    },
+    {
+      "start": 1697.88,
+      "end": 1702.36,
+      "text": "which I discovered late in advertising"
+    },
+    {
+      "start": 1700.24,
+      "end": 1705.76,
+      "text": "um so it's called the 3C model from"
+    },
+    {
+      "start": 1702.36,
+      "end": 1709.36,
+      "text": "Japanese businessman Ken um he actually"
+    },
+    {
+      "start": 1705.76,
+      "end": 1712.12,
+      "text": "pretty famous um in in the Spheres um he"
+    },
+    {
+      "start": 1709.36,
+      "end": 1714.12,
+      "text": "you know he was behind um some of the"
+    },
+    {
+      "start": 1712.12,
+      "end": 1716.519,
+      "text": "ways Toyota was working with short"
+    },
+    {
+      "start": 1714.12,
+      "end": 1719.519,
+      "text": "supply chains um anyway hugely"
+    },
+    {
+      "start": 1716.519,
+      "end": 1721.159,
+      "text": "influential and very basically at a high"
+    },
+    {
+      "start": 1719.519,
+      "end": 1724.44,
+      "text": "level is like the three things you"
+    },
+    {
+      "start": 1721.159,
+      "end": 1726.96,
+      "text": "always need to keep in mind and find you"
+    },
+    {
+      "start": 1724.44,
+      "end": 1729.32,
+      "text": "know in this V diagram the in the middle"
+    },
+    {
+      "start": 1726.96,
+      "end": 1731.6,
+      "text": "the window of opportunity are okay the"
+    },
+    {
+      "start": 1729.32,
+      "end": 1732.96,
+      "text": "the the market and the competitors your"
+    },
+    {
+      "start": 1731.6,
+      "end": 1735.32,
+      "text": "audience and in general the audience for"
+    },
+    {
+      "start": 1732.96,
+      "end": 1738.12,
+      "text": "this kind of game and then what you're"
+    },
+    {
+      "start": 1735.32,
+      "end": 1739.44,
+      "text": "great you know in a great position to do"
+    },
+    {
+      "start": 1738.12,
+      "end": 1742.279,
+      "text": "based on your skill and knowledge as a"
+    },
+    {
+      "start": 1739.44,
+      "end": 1745.519,
+      "text": "company as a as a corporation um so when"
+    },
+    {
+      "start": 1742.279,
+      "end": 1747.48,
+      "text": "when I was at Relic um seven years ago"
+    },
+    {
+      "start": 1745.519,
+      "end": 1749.039,
+      "text": "um coming on the back of um you know"
+    },
+    {
+      "start": 1747.48,
+      "end": 1750.72,
+      "text": "dawn of War 3 I was I was the brand"
+    },
+    {
+      "start": 1749.039,
+      "end": 1753,
+      "text": "manager for a Company of Heroes at the"
+    },
+    {
+      "start": 1750.72,
+      "end": 1755.08,
+      "text": "time taking care of the the second"
+    },
+    {
+      "start": 1753,
+      "end": 1756.96,
+      "text": "episode but the company was going"
+    },
+    {
+      "start": 1755.08,
+      "end": 1758.159,
+      "text": "through a bit of an identity crisis"
+    },
+    {
+      "start": 1756.96,
+      "end": 1760.799,
+      "text": "right and we were trying to find our"
+    },
+    {
+      "start": 1758.159,
+      "end": 1763.799,
+      "text": "path forward and so the the way we we"
+    },
+    {
+      "start": 1760.799,
+      "end": 1765.64,
+      "text": "kind of leveraged um this framework was"
+    },
+    {
+      "start": 1763.799,
+      "end": 1767.76,
+      "text": "basically to see where there were gaps"
+    },
+    {
+      "start": 1765.64,
+      "end": 1769.519,
+      "text": "in our knowledge we're like okay how"
+    },
+    {
+      "start": 1767.76,
+      "end": 1771.919,
+      "text": "well do we know ourselves that sounds"
+    },
+    {
+      "start": 1769.519,
+      "end": 1774,
+      "text": "like a really uh silly question but when"
+    },
+    {
+      "start": 1771.919,
+      "end": 1776.08,
+      "text": "you work for a you know a big studio and"
+    },
+    {
+      "start": 1774,
+      "end": 1777.12,
+      "text": "like Relic had been acquired by Sega"
+    },
+    {
+      "start": 1776.08,
+      "end": 1779.6,
+      "text": "there's a lot of knowledge that"
+    },
+    {
+      "start": 1777.12,
+      "end": 1780.799,
+      "text": "eventually kind of like disappears um"
+    },
+    {
+      "start": 1779.6,
+      "end": 1782.799,
+      "text": "you have new people that are put in"
+    },
+    {
+      "start": 1780.799,
+      "end": 1784.08,
+      "text": "charge and like not everyone necessarily"
+    },
+    {
+      "start": 1782.799,
+      "end": 1786.919,
+      "text": "agrees on what are your strengths and"
+    },
+    {
+      "start": 1784.08,
+      "end": 1788.24,
+      "text": "Witnesses what you're really good at so"
+    },
+    {
+      "start": 1786.919,
+      "end": 1789.679,
+      "text": "actually you need to create enlightment"
+    },
+    {
+      "start": 1788.24,
+      "end": 1791.48,
+      "text": "there um because it's an important piece"
+    },
+    {
+      "start": 1789.679,
+      "end": 1793.679,
+      "text": "of the puzzle an important lens through"
+    },
+    {
+      "start": 1791.48,
+      "end": 1794.88,
+      "text": "which to look at the at the market then"
+    },
+    {
+      "start": 1793.679,
+      "end": 1796.64,
+      "text": "there's all the stuff we discussed"
+    },
+    {
+      "start": 1794.88,
+      "end": 1799.08,
+      "text": "before about you know player motivation"
+    },
+    {
+      "start": 1796.64,
+      "end": 1803.08,
+      "text": "in the audience um and then the the"
+    },
+    {
+      "start": 1799.08,
+      "end": 1805.36,
+      "text": "category um and so to me that's really a"
+    },
+    {
+      "start": 1803.08,
+      "end": 1807.48,
+      "text": "crucial point because it's it's by um"
+    },
+    {
+      "start": 1805.36,
+      "end": 1809.88,
+      "text": "merging the three that you find your"
+    },
+    {
+      "start": 1807.48,
+      "end": 1811.559,
+      "text": "your your own way and you're probably"
+    },
+    {
+      "start": 1809.88,
+      "end": 1813.88,
+      "text": "familiar with the rule of thirds for"
+    },
+    {
+      "start": 1811.559,
+      "end": 1815.679,
+      "text": "sqls you know a third is the same a"
+    },
+    {
+      "start": 1813.88,
+      "end": 1818.08,
+      "text": "third is improved the third is new for"
+    },
+    {
+      "start": 1815.679,
+      "end": 1821.159,
+      "text": "me there's a rule of third based on that"
+    },
+    {
+      "start": 1818.08,
+      "end": 1824.559,
+      "text": "um for new IP and so a third is you know"
+    },
+    {
+      "start": 1821.159,
+      "end": 1826.76,
+      "text": "is new bring something that is is really"
+    },
+    {
+      "start": 1824.559,
+      "end": 1828.24,
+      "text": "novel in the market the third has to be"
+    },
+    {
+      "start": 1826.76,
+      "end": 1829.919,
+      "text": "familiar you have to be able to relate"
+    },
+    {
+      "start": 1828.24,
+      "end": 1832.159,
+      "text": "to other games people have to kind of"
+    },
+    {
+      "start": 1829.919,
+      "end": 1834.6,
+      "text": "understand what you're proposing and a"
+    },
+    {
+      "start": 1832.159,
+      "end": 1836.799,
+      "text": "third actually should be personal it"
+    },
+    {
+      "start": 1834.6,
+      "end": 1838.159,
+      "text": "should be something that deeply connects"
+    },
+    {
+      "start": 1836.799,
+      "end": 1839.96,
+      "text": "with your company and you and that"
+    },
+    {
+      "start": 1838.159,
+      "end": 1841.919,
+      "text": "motivates you because it's going to give"
+    },
+    {
+      "start": 1839.96,
+      "end": 1844.279,
+      "text": "it a unique voice but it's also what"
+    },
+    {
+      "start": 1841.919,
+      "end": 1846.279,
+      "text": "going to you know um really push you to"
+    },
+    {
+      "start": 1844.279,
+      "end": 1848.44,
+      "text": "uh to hold fast during the storm and the"
+    },
+    {
+      "start": 1846.279,
+      "end": 1850.279,
+      "text": "challenges you'll go through and so if I"
+    },
+    {
+      "start": 1848.44,
+      "end": 1852.919,
+      "text": "go through a shipbreaker which was the"
+    },
+    {
+      "start": 1850.279,
+      "end": 1855.2,
+      "text": "first new IP that Blackbird did um"
+    },
+    {
+      "start": 1852.919,
+      "end": 1856.679,
+      "text": "there's actually a bit of all that so if"
+    },
+    {
+      "start": 1855.2,
+      "end": 1859.08,
+      "text": "you look at the game that came before"
+    },
+    {
+      "start": 1856.679,
+      "end": 1861.24,
+      "text": "deserts of kak real time strategy game"
+    },
+    {
+      "start": 1859.08,
+      "end": 1864.2,
+      "text": "okay shipbreaker firsters spaceship"
+    },
+    {
+      "start": 1861.24,
+      "end": 1865.96,
+      "text": "salvaging at first you're like huh"
+    },
+    {
+      "start": 1864.2,
+      "end": 1867.679,
+      "text": "there's not a lot of connection there"
+    },
+    {
+      "start": 1865.96,
+      "end": 1869.84,
+      "text": "but then when you go you know beyond the"
+    },
+    {
+      "start": 1867.679,
+      "end": 1872.2,
+      "text": "surface you're like okay these two games"
+    },
+    {
+      "start": 1869.84,
+      "end": 1873.76,
+      "text": "hugely riant on vehicle fantasy if"
+    },
+    {
+      "start": 1872.2,
+      "end": 1875.48,
+      "text": "you've played deserts of carak or any"
+    },
+    {
+      "start": 1873.76,
+      "end": 1877.799,
+      "text": "home World game the ships the vehicle"
+    },
+    {
+      "start": 1875.48,
+      "end": 1880.799,
+      "text": "they're just everything in correct we"
+    },
+    {
+      "start": 1877.799,
+      "end": 1883.48,
+      "text": "had the thread um only like eight months"
+    },
+    {
+      "start": 1880.799,
+      "end": 1885.559,
+      "text": "ago with people um you know marveling at"
+    },
+    {
+      "start": 1883.48,
+      "end": 1887.24,
+      "text": "the animations of the unit when the the"
+    },
+    {
+      "start": 1885.559,
+      "end": 1888.72,
+      "text": "the buggies go over the Dune and all"
+    },
+    {
+      "start": 1887.24,
+      "end": 1889.96,
+      "text": "that so so so it's really something"
+    },
+    {
+      "start": 1888.72,
+      "end": 1891.679,
+      "text": "that's that's core to the studio"
+    },
+    {
+      "start": 1889.96,
+      "end": 1893.6,
+      "text": "identity and in shipbreaker it's also"
+    },
+    {
+      "start": 1891.679,
+      "end": 1895.039,
+      "text": "about vehicle fantasy you you're not"
+    },
+    {
+      "start": 1893.6,
+      "end": 1897.24,
+      "text": "controlling it but you're going into the"
+    },
+    {
+      "start": 1895.039,
+      "end": 1899.12,
+      "text": "guts of spaceships they're intricate"
+    },
+    {
+      "start": 1897.24,
+      "end": 1901.519,
+      "text": "they have you know um systems that you"
+    },
+    {
+      "start": 1899.12,
+      "end": 1903.12,
+      "text": "have to navigate like fuel lines nuclear"
+    },
+    {
+      "start": 1901.519,
+      "end": 1904.84,
+      "text": "reactors so so there's something there"
+    },
+    {
+      "start": 1903.12,
+      "end": 1907.44,
+      "text": "where we we we play with the same thing"
+    },
+    {
+      "start": 1904.84,
+      "end": 1909.399,
+      "text": "but a bit differently um shipbreaker is"
+    },
+    {
+      "start": 1907.44,
+      "end": 1912,
+      "text": "also a game that is you know the the"
+    },
+    {
+      "start": 1909.399,
+      "end": 1915.6,
+      "text": "pacing and and and how you play it it's"
+    },
+    {
+      "start": 1912,
+      "end": 1916.88,
+      "text": "not really about um instant quick reflex"
+    },
+    {
+      "start": 1915.6,
+      "end": 1918.6,
+      "text": "it's actually a lot more about thinking"
+    },
+    {
+      "start": 1916.88,
+      "end": 1920.919,
+      "text": "ahead and should break you're always"
+    },
+    {
+      "start": 1918.6,
+      "end": 1923.2,
+      "text": "planning okay how am I going to take the"
+    },
+    {
+      "start": 1920.919,
+      "end": 1924.96,
+      "text": "nuclear reactor out of its casing cool"
+    },
+    {
+      "start": 1923.2,
+      "end": 1927.76,
+      "text": "oh I need to do an opening there to"
+    },
+    {
+      "start": 1924.96,
+      "end": 1929.279,
+      "text": "get it out of of of this wall oh and now"
+    },
+    {
+      "start": 1927.76,
+      "end": 1931.799,
+      "text": "if I do that I'm going to create a"
+    },
+    {
+      "start": 1929.279,
+      "end": 1934.08,
+      "text": "depressurization event so there's a lot"
+    },
+    {
+      "start": 1931.799,
+      "end": 1935.76,
+      "text": "of um Forward Thinking and then you play"
+    },
+    {
+      "start": 1934.08,
+      "end": 1938.08,
+      "text": "with resources a lot just like you do in"
+    },
+    {
+      "start": 1935.76,
+      "end": 1939.72,
+      "text": "an RTS you have your O2 you have your"
+    },
+    {
+      "start": 1938.08,
+      "end": 1942.24,
+      "text": "tools that get depleted you have"
+    },
+    {
+      "start": 1939.72,
+      "end": 1944.24,
+      "text": "obviously health and other things so um"
+    },
+    {
+      "start": 1942.24,
+      "end": 1946.72,
+      "text": "there's also an aspect where we we"
+    },
+    {
+      "start": 1944.24,
+      "end": 1948.48,
+      "text": "transferred you know some of those um"
+    },
+    {
+      "start": 1946.72,
+      "end": 1950.48,
+      "text": "I'd say thought proc processes that you"
+    },
+    {
+      "start": 1948.48,
+      "end": 1953.48,
+      "text": "have in an RTS but in a first- person"
+    },
+    {
+      "start": 1950.48,
+      "end": 1955.84,
+      "text": "game um and then it's also you know not"
+    },
+    {
+      "start": 1953.48,
+      "end": 1957.36,
+      "text": "not competitive which is um true of all"
+    },
+    {
+      "start": 1955.84,
+      "end": 1959.559,
+      "text": "the Blackbird games even if we have a"
+    },
+    {
+      "start": 1957.36,
+      "end": 1961.6,
+      "text": "leaderboard for some stuff and we keep"
+    },
+    {
+      "start": 1959.559,
+      "end": 1963.24,
+      "text": "um on nsty in a visual presentation that"
+    },
+    {
+      "start": 1961.6,
+      "end": 1965.279,
+      "text": "you know people really identify"
+    },
+    {
+      "start": 1963.24,
+      "end": 1967.88,
+      "text": "Blackbird for and then finally it was"
+    },
+    {
+      "start": 1965.279,
+      "end": 1970.159,
+      "text": "also deeply personal um and so the"
+    },
+    {
+      "start": 1967.88,
+      "end": 1972.039,
+      "text": "reason you know there's actually many"
+    },
+    {
+      "start": 1970.159,
+      "end": 1974.679,
+      "text": "reasons why it was personal a lot of the"
+    },
+    {
+      "start": 1972.039,
+      "end": 1977.48,
+      "text": "the people who worked on shreer in lead"
+    },
+    {
+      "start": 1974.679,
+      "end": 1979.36,
+      "text": "position actually had you know a manual"
+    },
+    {
+      "start": 1977.48,
+      "end": 1981.32,
+      "text": "labor jobs before they were not always"
+    },
+    {
+      "start": 1979.36,
+      "end": 1983.2,
+      "text": "in game so they they actually you know"
+    },
+    {
+      "start": 1981.32,
+      "end": 1984.88,
+      "text": "they were not ship Breakers per se but"
+    },
+    {
+      "start": 1983.2,
+      "end": 1987.36,
+      "text": "they experienced High hard labor some"
+    },
+    {
+      "start": 1984.88,
+      "end": 1990.36,
+      "text": "worked on the oil pipelines in Alberta"
+    },
+    {
+      "start": 1987.36,
+      "end": 1992.679,
+      "text": "um and on top of that you know it was"
+    },
+    {
+      "start": 1990.36,
+      "end": 1994.12,
+      "text": "hard for us in this industry not to"
+    },
+    {
+      "start": 1992.679,
+      "end": 1995.639,
+      "text": "resonate with a theme about you know"
+    },
+    {
+      "start": 1994.12,
+      "end": 1997.48,
+      "text": "unions um something that's been"
+    },
+    {
+      "start": 1995.639,
+      "end": 1999.88,
+      "text": "discussed in the industry for for a long"
+    },
+    {
+      "start": 1997.48,
+      "end": 2001.44,
+      "text": "time and so it just felt that you know"
+    },
+    {
+      "start": 1999.88,
+      "end": 2004.08,
+      "text": "this game was the opportunity to talk"
+    },
+    {
+      "start": 2001.44,
+      "end": 2006,
+      "text": "about the the value of Labor and how you"
+    },
+    {
+      "start": 2004.08,
+      "end": 2007.48,
+      "text": "know it sometimes it goes unrecognized"
+    },
+    {
+      "start": 2006,
+      "end": 2010.279,
+      "text": "and how you can take pride even in in"
+    },
+    {
+      "start": 2007.48,
+      "end": 2012.279,
+      "text": "the of tasks um and so that was the"
+    },
+    {
+      "start": 2010.279,
+      "end": 2014.279,
+      "text": "really personal part of of shipbreaker"
+    },
+    {
+      "start": 2012.279,
+      "end": 2016.519,
+      "text": "it became very personal on the company"
+    },
+    {
+      "start": 2014.279,
+      "end": 2018.12,
+      "text": "level because at the same time as we"
+    },
+    {
+      "start": 2016.519,
+      "end": 2019.84,
+      "text": "were having this discussion about the"
+    },
+    {
+      "start": 2018.12,
+      "end": 2021.6,
+      "text": "the themes of the game we're starting"
+    },
+    {
+      "start": 2019.84,
+      "end": 2024.039,
+      "text": "having you know discussions about that"
+    },
+    {
+      "start": 2021.6,
+      "end": 2027.159,
+      "text": "as a studio and we moved to a 4 day work"
+    },
+    {
+      "start": 2024.039,
+      "end": 2031.24,
+      "text": "week um as we were making"
+    },
+    {
+      "start": 2027.159,
+      "end": 2032.919,
+      "text": "shipbreaker okay um so now we we've you"
+    },
+    {
+      "start": 2031.24,
+      "end": 2034.36,
+      "text": "know seen a little bit how you can look"
+    },
+    {
+      "start": 2032.919,
+      "end": 2036.72,
+      "text": "at what's outside of you what's inside"
+    },
+    {
+      "start": 2034.36,
+      "end": 2038.639,
+      "text": "of you and and sort of find inspiration"
+    },
+    {
+      "start": 2036.72,
+      "end": 2041.2,
+      "text": "and space for newp and then the next"
+    },
+    {
+      "start": 2038.639,
+      "end": 2043.72,
+      "text": "step is really okay now how do you kind"
+    },
+    {
+      "start": 2041.2,
+      "end": 2046.32,
+      "text": "of like um try to you know make space"
+    },
+    {
+      "start": 2043.72,
+      "end": 2047.399,
+      "text": "for that and to explore them um and so"
+    },
+    {
+      "start": 2046.32,
+      "end": 2049.639,
+      "text": "here I just want to dive a little bit"
+    },
+    {
+      "start": 2047.399,
+      "end": 2051.879,
+      "text": "into uh the Skunk Works program that"
+    },
+    {
+      "start": 2049.639,
+      "end": 2053.8,
+      "text": "basically Blackbird has in place uh"
+    },
+    {
+      "start": 2051.879,
+      "end": 2056.399,
+      "text": "shipbreaker came out of Skunk Works"
+    },
+    {
+      "start": 2053.8,
+      "end": 2058.399,
+      "text": "earthless came out of Skunk Works um and"
+    },
+    {
+      "start": 2056.399,
+      "end": 2060.48,
+      "text": "some of the um other you know prototype"
+    },
+    {
+      "start": 2058.399,
+      "end": 2062.639,
+      "text": "that I'm talking about here also came"
+    },
+    {
+      "start": 2060.48,
+      "end": 2065.359,
+      "text": "out of that so the way structure the"
+    },
+    {
+      "start": 2062.639,
+      "end": 2067.679,
+      "text": "Blackbird is um every year year and a"
+    },
+    {
+      "start": 2065.359,
+      "end": 2070.04,
+      "text": "half um we try to have a couple of we"
+    },
+    {
+      "start": 2067.679,
+      "end": 2072.599,
+      "text": "weeks that are a bit slower and uh we"
+    },
+    {
+      "start": 2070.04,
+      "end": 2074.679,
+      "text": "encourage people to form teams across"
+    },
+    {
+      "start": 2072.599,
+      "end": 2076.599,
+      "text": "projects and discipline um they actually"
+    },
+    {
+      "start": 2074.679,
+      "end": 2078.919,
+      "text": "sort of get bonus points if they do that"
+    },
+    {
+      "start": 2076.599,
+      "end": 2082.56,
+      "text": "because we we love having the variety of"
+    },
+    {
+      "start": 2078.919,
+      "end": 2085.399,
+      "text": "perspective within a team and um we"
+    },
+    {
+      "start": 2082.56,
+      "end": 2087.44,
+      "text": "prepare them for a pitching session um"
+    },
+    {
+      "start": 2085.399,
+      "end": 2088.76,
+      "text": "and so during that pitching session we"
+    },
+    {
+      "start": 2087.44,
+      "end": 2091.679,
+      "text": "we'll give them a bunch of tools and"
+    },
+    {
+      "start": 2088.76,
+      "end": 2093.72,
+      "text": "ways to to to think about newp but the"
+    },
+    {
+      "start": 2091.679,
+      "end": 2097.72,
+      "text": "the the thing that's really core to us"
+    },
+    {
+      "start": 2093.72,
+      "end": 2100.44,
+      "text": "is um we're not um keeping ownership of"
+    },
+    {
+      "start": 2097.72,
+      "end": 2102.28,
+      "text": "their ideas um so if you're ultimately"
+    },
+    {
+      "start": 2100.44,
+      "end": 2104.68,
+      "text": "selected at the end of that pitching"
+    },
+    {
+      "start": 2102.28,
+      "end": 2106.16,
+      "text": "session uh we will then you know put"
+    },
+    {
+      "start": 2104.68,
+      "end": 2108.359,
+      "text": "resources internally and helping you"
+    },
+    {
+      "start": 2106.16,
+      "end": 2111.599,
+      "text": "build a prototype and all that uh but if"
+    },
+    {
+      "start": 2108.359,
+      "end": 2113.32,
+      "text": "you're not um the the IP um stays yours"
+    },
+    {
+      "start": 2111.599,
+      "end": 2115.88,
+      "text": "and so we've called it Skunk Works"
+    },
+    {
+      "start": 2113.32,
+      "end": 2119.839,
+      "text": "because um we we you know there's a lot"
+    },
+    {
+      "start": 2115.88,
+      "end": 2123.16,
+      "text": "of um love uh at Blackbird for um"
+    },
+    {
+      "start": 2119.839,
+      "end": 2124.76,
+      "text": "basically um space and uh Aeronautics"
+    },
+    {
+      "start": 2123.16,
+      "end": 2128.04,
+      "text": "and so Blackboard is named after the"
+    },
+    {
+      "start": 2124.76,
+      "end": 2130,
+      "text": "SR71 spy plane and Skunk Works was the"
+    },
+    {
+      "start": 2128.04,
+      "end": 2132.56,
+      "text": "program at loky Martin that burst that"
+    },
+    {
+      "start": 2130,
+      "end": 2134.599,
+      "text": "pipeline so the the way work kind of"
+    },
+    {
+      "start": 2132.56,
+      "end": 2137.359,
+      "text": "happens is we give team guidance at the"
+    },
+    {
+      "start": 2134.599,
+      "end": 2139.359,
+      "text": "beginning um we give them also some kind"
+    },
+    {
+      "start": 2137.359,
+      "end": 2141.079,
+      "text": "of design nuggets and things things that"
+    },
+    {
+      "start": 2139.359,
+      "end": 2143.599,
+      "text": "we think are actually interesting to"
+    },
+    {
+      "start": 2141.079,
+      "end": 2146.4,
+      "text": "think about right now um in the market"
+    },
+    {
+      "start": 2143.599,
+      "end": 2147.76,
+      "text": "um we also give a few more parameters"
+    },
+    {
+      "start": 2146.4,
+      "end": 2150.119,
+      "text": "you know sometimes around budget and"
+    },
+    {
+      "start": 2147.76,
+      "end": 2153.24,
+      "text": "other things um and then we let them you"
+    },
+    {
+      "start": 2150.119,
+      "end": 2154.92,
+      "text": "know work um during the slower weeks on"
+    },
+    {
+      "start": 2153.24,
+      "end": 2156.56,
+      "text": "a pitch and it just has to be a paper"
+    },
+    {
+      "start": 2154.92,
+      "end": 2158.44,
+      "text": "pitch at that point we we're not asking"
+    },
+    {
+      "start": 2156.56,
+      "end": 2160.119,
+      "text": "them to do prototype or anything"
+    },
+    {
+      "start": 2158.44,
+      "end": 2162.24,
+      "text": "um we really just want them to think"
+    },
+    {
+      "start": 2160.119,
+      "end": 2164.28,
+      "text": "about the things that we've just"
+    },
+    {
+      "start": 2162.24,
+      "end": 2166.16,
+      "text": "discussed before you know how does your"
+    },
+    {
+      "start": 2164.28,
+      "end": 2168.28,
+      "text": "idea you know sit in the market how does"
+    },
+    {
+      "start": 2166.16,
+      "end": 2170.319,
+      "text": "it connect uniquely to Blackbird how is"
+    },
+    {
+      "start": 2168.28,
+      "end": 2172.16,
+      "text": "it resonant how do we make sure that you"
+    },
+    {
+      "start": 2170.319,
+      "end": 2174.359,
+      "text": "know if we start making it now in four"
+    },
+    {
+      "start": 2172.16,
+      "end": 2176.52,
+      "text": "or five years you know it's not still so"
+    },
+    {
+      "start": 2174.359,
+      "end": 2178.319,
+      "text": "it's really what what interests us there"
+    },
+    {
+      "start": 2176.52,
+      "end": 2181.319,
+      "text": "and also how is it deeply personal to"
+    },
+    {
+      "start": 2178.319,
+      "end": 2183.16,
+      "text": "you how does it you know connect um and"
+    },
+    {
+      "start": 2181.319,
+      "end": 2185.88,
+      "text": "then if they're selected yeah we we put"
+    },
+    {
+      "start": 2183.16,
+      "end": 2187.28,
+      "text": "a team behind them and then um after"
+    },
+    {
+      "start": 2185.88,
+      "end": 2190.359,
+      "text": "that once we we've gone far enough with"
+    },
+    {
+      "start": 2187.28,
+      "end": 2192.92,
+      "text": "the prototype um we usually go around"
+    },
+    {
+      "start": 2190.359,
+      "end": 2194.24,
+      "text": "and Pitch it to uh to Publishers because"
+    },
+    {
+      "start": 2192.92,
+      "end": 2196.119,
+      "text": "right now Blackbird is not seeing a"
+    },
+    {
+      "start": 2194.24,
+      "end": 2198.319,
+      "text": "capacity to fully F you know some of the"
+    },
+    {
+      "start": 2196.119,
+      "end": 2200.76,
+      "text": "games we'd like to make we can um"
+    },
+    {
+      "start": 2198.319,
+      "end": 2203.48,
+      "text": "co-invest and also we kind of value you"
+    },
+    {
+      "start": 2200.76,
+      "end": 2205.16,
+      "text": "know the the external feedback um so"
+    },
+    {
+      "start": 2203.48,
+      "end": 2207.119,
+      "text": "just to to touch on the you know some of"
+    },
+    {
+      "start": 2205.16,
+      "end": 2209.839,
+      "text": "the the the the stuff we gave to the"
+    },
+    {
+      "start": 2207.119,
+      "end": 2210.839,
+      "text": "teams in the last round um and I"
+    },
+    {
+      "start": 2209.839,
+      "end": 2212.68,
+      "text": "mentioned them there because I think"
+    },
+    {
+      "start": 2210.839,
+      "end": 2215.52,
+      "text": "they're really good talk to think about"
+    },
+    {
+      "start": 2212.68,
+      "end": 2217.96,
+      "text": "you know um IP um there is the talks"
+    },
+    {
+      "start": 2215.52,
+      "end": 2219.88,
+      "text": "about the the hooks uh from r Clark from"
+    },
+    {
+      "start": 2217.96,
+      "end": 2221.44,
+      "text": "brace yourself games um and how you you"
+    },
+    {
+      "start": 2219.88,
+      "end": 2223.8,
+      "text": "know you make clear Hooks and people"
+    },
+    {
+      "start": 2221.44,
+      "end": 2226.56,
+      "text": "understand what your game proposition is"
+    },
+    {
+      "start": 2223.8,
+      "end": 2229.92,
+      "text": "um there's a really great also um kind"
+    },
+    {
+      "start": 2226.56,
+      "end": 2232.64,
+      "text": "of summary from Jason deloka um in game"
+    },
+    {
+      "start": 2229.92,
+      "end": 2234.44,
+      "text": "Discovery um about how the design of"
+    },
+    {
+      "start": 2232.64,
+      "end": 2237.2,
+      "text": "your game actually has an impact on"
+    },
+    {
+      "start": 2234.44,
+      "end": 2239.319,
+      "text": "discoverability um and in particular you"
+    },
+    {
+      "start": 2237.2,
+      "end": 2241.839,
+      "text": "know games that allow you to author"
+    },
+    {
+      "start": 2239.319,
+      "end": 2244.359,
+      "text": "things within them when you can um you"
+    },
+    {
+      "start": 2241.839,
+      "end": 2245.72,
+      "text": "know create um designs you can create"
+    },
+    {
+      "start": 2244.359,
+      "end": 2246.92,
+      "text": "your base like there's more of an"
+    },
+    {
+      "start": 2245.72,
+      "end": 2248.599,
+      "text": "incentive to share because it's"
+    },
+    {
+      "start": 2246.92,
+      "end": 2250.2,
+      "text": "something that is yours that you've put"
+    },
+    {
+      "start": 2248.599,
+      "end": 2251.599,
+      "text": "into the world and so all of a sudden"
+    },
+    {
+      "start": 2250.2,
+      "end": 2254.52,
+      "text": "whoop you're going to create kind of"
+    },
+    {
+      "start": 2251.599,
+      "end": 2256.599,
+      "text": "like free advertising um during the the"
+    },
+    {
+      "start": 2254.52,
+      "end": 2258.319,
+      "text": "you know the pandemic again it was"
+    },
+    {
+      "start": 2256.599,
+      "end": 2260.68,
+      "text": "amazing to me to see how many people"
+    },
+    {
+      "start": 2258.319,
+      "end": 2262.64,
+      "text": "were exposed to Animal Crossing through"
+    },
+    {
+      "start": 2260.68,
+      "end": 2264.319,
+      "text": "the cool you know sweatshirt and and"
+    },
+    {
+      "start": 2262.64,
+      "end": 2267.28,
+      "text": "appil design that people were creating"
+    },
+    {
+      "start": 2264.319,
+      "end": 2269.24,
+      "text": "in there um so that's really yeah really"
+    },
+    {
+      "start": 2267.28,
+      "end": 2272.04,
+      "text": "important thing and then personally I"
+    },
+    {
+      "start": 2269.24,
+      "end": 2275.24,
+      "text": "have a thing for what I call um I mean I"
+    },
+    {
+      "start": 2272.04,
+      "end": 2277.48,
+      "text": "call them table flip games but it's um"
+    },
+    {
+      "start": 2275.24,
+      "end": 2280.76,
+      "text": "it's basically you know in today's maret"
+    },
+    {
+      "start": 2277.48,
+      "end": 2282.2,
+      "text": "Market you have to balance giving a good"
+    },
+    {
+      "start": 2280.76,
+      "end": 2284.56,
+      "text": "sense of what your game is about but"
+    },
+    {
+      "start": 2282.2,
+      "end": 2286,
+      "text": "also keeping an element of surprise um"
+    },
+    {
+      "start": 2284.56,
+      "end": 2288.359,
+      "text": "because if people play the game and it's"
+    },
+    {
+      "start": 2286,
+      "end": 2289.359,
+      "text": "exactly what they imagine well it's cool"
+    },
+    {
+      "start": 2288.359,
+      "end": 2291.56,
+      "text": "they're they're you know at least"
+    },
+    {
+      "start": 2289.359,
+      "end": 2293.64,
+      "text": "they're not disappointed but it's also"
+    },
+    {
+      "start": 2291.56,
+      "end": 2295.119,
+      "text": "just that and we live in an area of like"
+    },
+    {
+      "start": 2293.64,
+      "end": 2297.24,
+      "text": "constant communication and marketing and"
+    },
+    {
+      "start": 2295.119,
+      "end": 2299.359,
+      "text": "it's it's kind of hard to you know um"
+    },
+    {
+      "start": 2297.24,
+      "end": 2301.52,
+      "text": "keep people surprised and so there's a"
+    },
+    {
+      "start": 2299.359,
+      "end": 2303.359,
+      "text": "lot of you know interesting um talks and"
+    },
+    {
+      "start": 2301.52,
+      "end": 2305.96,
+      "text": "resources two of my favorite ones are"
+    },
+    {
+      "start": 2303.359,
+      "end": 2308.04,
+      "text": "the craggy Shaggy and baggy games from"
+    },
+    {
+      "start": 2305.96,
+      "end": 2311.04,
+      "text": "from Tanya short about you know"
+    },
+    {
+      "start": 2308.04,
+      "end": 2313,
+      "text": "um games like for instance um the latest"
+    },
+    {
+      "start": 2311.04,
+      "end": 2314.88,
+      "text": "Yakuza where all of a sudden you you"
+    },
+    {
+      "start": 2313,
+      "end": 2317.28,
+      "text": "play it and then there's a there's a"
+    },
+    {
+      "start": 2314.88,
+      "end": 2319.119,
+      "text": "mini Animal Crossing game hidden just"
+    },
+    {
+      "start": 2317.28,
+      "end": 2320.64,
+      "text": "right in there um and so like oh what is"
+    },
+    {
+      "start": 2319.119,
+      "end": 2322.24,
+      "text": "this game or you know you could think"
+    },
+    {
+      "start": 2320.64,
+      "end": 2323.8,
+      "text": "also of a inscription that becomes a"
+    },
+    {
+      "start": 2322.24,
+      "end": 2325.76,
+      "text": "very different game as you play it you"
+    },
+    {
+      "start": 2323.8,
+      "end": 2327.16,
+      "text": "know doky DOI literature Club so those"
+    },
+    {
+      "start": 2325.76,
+      "end": 2329.04,
+      "text": "are games that really you know flip the"
+    },
+    {
+      "start": 2327.16,
+      "end": 2330.359,
+      "text": "table on you all of a sudden it's it's"
+    },
+    {
+      "start": 2329.04,
+      "end": 2333.04,
+      "text": "not just what you expected and that"
+    },
+    {
+      "start": 2330.359,
+      "end": 2334.88,
+      "text": "makes for a for a memorable experience"
+    },
+    {
+      "start": 2333.04,
+      "end": 2338.44,
+      "text": "and so recreate a sense of like U"
+    },
+    {
+      "start": 2334.88,
+      "end": 2343.24,
+      "text": "mystery um like that um no clip uh video"
+    },
+    {
+      "start": 2338.44,
+      "end": 2346.079,
+      "text": "also uh touches on okay um so the last"
+    },
+    {
+      "start": 2343.24,
+      "end": 2347.4,
+      "text": "part is okay now now you know you you've"
+    },
+    {
+      "start": 2346.079,
+      "end": 2349.44,
+      "text": "kind of like obviously we've gone"
+    },
+    {
+      "start": 2347.4,
+      "end": 2352.319,
+      "text": "through the process of finding"
+    },
+    {
+      "start": 2349.44,
+      "end": 2354.28,
+      "text": "inspiration and ideas kind of putting"
+    },
+    {
+      "start": 2352.319,
+      "end": 2357.359,
+      "text": "the pitch together um at least the way"
+    },
+    {
+      "start": 2354.28,
+      "end": 2359.04,
+      "text": "we do the Blackbird and then the very um"
+    },
+    {
+      "start": 2357.359,
+      "end": 2361.04,
+      "text": "you know challenging work begins it's"
+    },
+    {
+      "start": 2359.04,
+      "end": 2364.16,
+      "text": "like how do you explore that idea and"
+    },
+    {
+      "start": 2361.04,
+      "end": 2365.68,
+      "text": "how do you uh validate it um and so for"
+    },
+    {
+      "start": 2364.16,
+      "end": 2367.4,
+      "text": "me the the the the thing that's really"
+    },
+    {
+      "start": 2365.68,
+      "end": 2369.4,
+      "text": "important here again coming from a back"
+    },
+    {
+      "start": 2367.4,
+      "end": 2371.96,
+      "text": "run in in advertising and marketing is"
+    },
+    {
+      "start": 2369.4,
+      "end": 2374.839,
+      "text": "to access and validate very often and"
+    },
+    {
+      "start": 2371.96,
+      "end": 2376.64,
+      "text": "very early and as much as you can um and"
+    },
+    {
+      "start": 2374.839,
+      "end": 2377.72,
+      "text": "there's many ways you you you can do it"
+    },
+    {
+      "start": 2376.64,
+      "end": 2381.04,
+      "text": "I mean at first obviously you're going"
+    },
+    {
+      "start": 2377.72,
+      "end": 2383.76,
+      "text": "to start on on paper um but there's also"
+    },
+    {
+      "start": 2381.04,
+      "end": 2385.24,
+      "text": "elements where you know I think um it's"
+    },
+    {
+      "start": 2383.76,
+      "end": 2386.72,
+      "text": "a little bit underused in terms of how"
+    },
+    {
+      "start": 2385.24,
+      "end": 2388.48,
+      "text": "you can put something out in the market"
+    },
+    {
+      "start": 2386.72,
+      "end": 2391.44,
+      "text": "and have a bit of a little a little bit"
+    },
+    {
+      "start": 2388.48,
+      "end": 2393.72,
+      "text": "of teasing to see how things uh resonate"
+    },
+    {
+      "start": 2391.44,
+      "end": 2395.92,
+      "text": "and then there's you know all kinds of"
+    },
+    {
+      "start": 2393.72,
+      "end": 2397.76,
+      "text": "ways to develop games but obviously when"
+    },
+    {
+      "start": 2395.92,
+      "end": 2398.68,
+      "text": "you go through an open development face"
+    },
+    {
+      "start": 2397.76,
+      "end": 2400.56,
+      "text": "whether you've started with a"
+    },
+    {
+      "start": 2398.68,
+      "end": 2402.48,
+      "text": "Kickstarter or not you go through Early"
+    },
+    {
+      "start": 2400.56,
+      "end": 2404.079,
+      "text": "Access you also have a a way to like"
+    },
+    {
+      "start": 2402.48,
+      "end": 2406.2,
+      "text": "validate along the way and not just"
+    },
+    {
+      "start": 2404.079,
+      "end": 2408.2,
+      "text": "design in a in a black box and for me"
+    },
+    {
+      "start": 2406.2,
+      "end": 2409.839,
+      "text": "that's really important with new IP"
+    },
+    {
+      "start": 2408.2,
+      "end": 2411.2,
+      "text": "because in the end you're already in"
+    },
+    {
+      "start": 2409.839,
+      "end": 2412.48,
+      "text": "Uncharted territories when you when you"
+    },
+    {
+      "start": 2411.2,
+      "end": 2415.119,
+      "text": "create an existing game there's a bit"
+    },
+    {
+      "start": 2412.48,
+      "end": 2417.16,
+      "text": "more of a of a template and so in terms"
+    },
+    {
+      "start": 2415.119,
+      "end": 2419.68,
+      "text": "of like teasing and and test there's you"
+    },
+    {
+      "start": 2417.16,
+      "end": 2422.359,
+      "text": "know two example that that you know came"
+    },
+    {
+      "start": 2419.68,
+      "end": 2423.8,
+      "text": "to mind that I quite like um so I mean"
+    },
+    {
+      "start": 2422.359,
+      "end": 2425,
+      "text": "playway which you know I'm sure a lot of"
+    },
+    {
+      "start": 2423.8,
+      "end": 2426.72,
+      "text": "people here know much better than I"
+    },
+    {
+      "start": 2425,
+      "end": 2427.96,
+      "text": "would um they have a very interesting"
+    },
+    {
+      "start": 2426.72,
+      "end": 2430.079,
+      "text": "strategy where have a lot of games"
+    },
+    {
+      "start": 2427.96,
+      "end": 2431.64,
+      "text": "listed on Steam and some of them you"
+    },
+    {
+      "start": 2430.079,
+      "end": 2433.72,
+      "text": "know it's not clear if they will ever"
+    },
+    {
+      "start": 2431.64,
+      "end": 2434.839,
+      "text": "actually be released uh but they're a"
+    },
+    {
+      "start": 2433.72,
+      "end": 2436.4,
+      "text": "very interesting kind of like"
+    },
+    {
+      "start": 2434.839,
+      "end": 2438.68,
+      "text": "proposition there's a very clear idea of"
+    },
+    {
+      "start": 2436.4,
+      "end": 2441.48,
+      "text": "a game there and it's very reminiscent"
+    },
+    {
+      "start": 2438.68,
+      "end": 2444.24,
+      "text": "of what um also Studios were doing on on"
+    },
+    {
+      "start": 2441.48,
+      "end": 2446.119,
+      "text": "mobile um you know a couple years ago"
+    },
+    {
+      "start": 2444.24,
+      "end": 2448,
+      "text": "where they would sort of like create"
+    },
+    {
+      "start": 2446.119,
+      "end": 2451,
+      "text": "fake ads and so I think there's a little"
+    },
+    {
+      "start": 2448,
+      "end": 2453.319,
+      "text": "bit of a value there um in terms of"
+    },
+    {
+      "start": 2451,
+      "end": 2455.92,
+      "text": "seeing you know what connects at a high"
+    },
+    {
+      "start": 2453.319,
+      "end": 2457.52,
+      "text": "level in the market um and so in in"
+    },
+    {
+      "start": 2455.92,
+      "end": 2459.28,
+      "text": "Vancouver we we have a studio called"
+    },
+    {
+      "start": 2457.52,
+      "end": 2460.96,
+      "text": "brace yourself games uh they did"
+    },
+    {
+      "start": 2459.28,
+      "end": 2463.319,
+      "text": "industries of Titan really cool City"
+    },
+    {
+      "start": 2460.96,
+      "end": 2466.119,
+      "text": "Builder and the first thing that they"
+    },
+    {
+      "start": 2463.319,
+      "end": 2468.04,
+      "text": "kind of did before the they even have a"
+    },
+    {
+      "start": 2466.119,
+      "end": 2470.04,
+      "text": "fully playable prototype is they kind of"
+    },
+    {
+      "start": 2468.04,
+      "end": 2472.2,
+      "text": "built a trailer for the game uh and they"
+    },
+    {
+      "start": 2470.04,
+      "end": 2474.72,
+      "text": "put that trailer out to kind of gauge"
+    },
+    {
+      "start": 2472.2,
+      "end": 2476.2,
+      "text": "the enthusiasm of the community and I"
+    },
+    {
+      "start": 2474.72,
+      "end": 2478.2,
+      "text": "thought that was a pretty smart way to"
+    },
+    {
+      "start": 2476.2,
+      "end": 2479.72,
+      "text": "do it it also kind of like forced them"
+    },
+    {
+      "start": 2478.2,
+      "end": 2481.76,
+      "text": "to organize their thoughts about how"
+    },
+    {
+      "start": 2479.72,
+      "end": 2484.599,
+      "text": "they talk about the game um and so"
+    },
+    {
+      "start": 2481.76,
+      "end": 2487.359,
+      "text": "actually this year at GDC um you know D"
+    },
+    {
+      "start": 2484.599,
+      "end": 2489.76,
+      "text": "Clea who's a fantastic trailer editor"
+    },
+    {
+      "start": 2487.359,
+      "end": 2492.359,
+      "text": "gave a talk about just that um he gave a"
+    },
+    {
+      "start": 2489.76,
+      "end": 2493.96,
+      "text": "talk about okay um why should you maybe"
+    },
+    {
+      "start": 2492.359,
+      "end": 2496,
+      "text": "consider I mean a bit of a cheeky talk"
+    },
+    {
+      "start": 2493.96,
+      "end": 2499.839,
+      "text": "but why should you consider making um"
+    },
+    {
+      "start": 2496,
+      "end": 2502.04,
+      "text": "your trailer uh before the game um so"
+    },
+    {
+      "start": 2499.839,
+      "end": 2503.4,
+      "text": "yeah it's a I think a perspective that"
+    },
+    {
+      "start": 2502.04,
+      "end": 2504.88,
+      "text": "needs to be discussed a little bit more"
+    },
+    {
+      "start": 2503.4,
+      "end": 2507,
+      "text": "how how you can test that and then"
+    },
+    {
+      "start": 2504.88,
+      "end": 2508.56,
+      "text": "obviously you can test on paper um so"
+    },
+    {
+      "start": 2507,
+      "end": 2509.72,
+      "text": "when you test on paper here I'm going to"
+    },
+    {
+      "start": 2508.56,
+      "end": 2512.48,
+      "text": "you know just give you a little bit of a"
+    },
+    {
+      "start": 2509.72,
+      "end": 2514.4,
+      "text": "sneak peek of another IP that was born"
+    },
+    {
+      "start": 2512.48,
+      "end": 2516.4,
+      "text": "at the same time as the as the kind of"
+    },
+    {
+      "start": 2514.4,
+      "end": 2518.44,
+      "text": "like multiplayer Hitman that I mentioned"
+    },
+    {
+      "start": 2516.4,
+      "end": 2520.04,
+      "text": "before all those games were born uh"
+    },
+    {
+      "start": 2518.44,
+      "end": 2521.76,
+      "text": "during the the the the pandemic at"
+    },
+    {
+      "start": 2520.04,
+      "end": 2524.44,
+      "text": "Blackbird we were kind of like exploring"
+    },
+    {
+      "start": 2521.76,
+      "end": 2526.04,
+      "text": "ideas about Cooperative spaces and the"
+    },
+    {
+      "start": 2524.44,
+      "end": 2528.88,
+      "text": "kind of games that would interest us"
+    },
+    {
+      "start": 2526.04,
+      "end": 2531.839,
+      "text": "there and so this crazy game um you know"
+    },
+    {
+      "start": 2528.88,
+      "end": 2534.4,
+      "text": "germinated um about a a first-person"
+    },
+    {
+      "start": 2531.839,
+      "end": 2536.76,
+      "text": "vehicle-based Co-op battle racer and so"
+    },
+    {
+      "start": 2534.4,
+      "end": 2538.92,
+      "text": "what we meant by that is basically you"
+    },
+    {
+      "start": 2536.76,
+      "end": 2541.4,
+      "text": "have these giant Vehicles a bit like the"
+    },
+    {
+      "start": 2538.92,
+      "end": 2544.119,
+      "text": "the the the ships in Sea of Thieves and"
+    },
+    {
+      "start": 2541.4,
+      "end": 2547.72,
+      "text": "you're in a race on an incredible um"
+    },
+    {
+      "start": 2544.119,
+      "end": 2550.8,
+      "text": "off-road landscape um so pretty wild"
+    },
+    {
+      "start": 2547.72,
+      "end": 2554.68,
+      "text": "idea um but very Blackbird very vehicle"
+    },
+    {
+      "start": 2550.8,
+      "end": 2556.64,
+      "text": "Centric very uh very sci-fi um something"
+    },
+    {
+      "start": 2554.68,
+      "end": 2558.44,
+      "text": "you know also that felt very resonant"
+    },
+    {
+      "start": 2556.64,
+      "end": 2559.8,
+      "text": "with with the time and and co-op games"
+    },
+    {
+      "start": 2558.44,
+      "end": 2561.599,
+      "text": "with the idea of like moving from"
+    },
+    {
+      "start": 2559.8,
+      "end": 2563.24,
+      "text": "Station to Station on the vehicle"
+    },
+    {
+      "start": 2561.599,
+      "end": 2565.64,
+      "text": "someone scouting the train ah hand with"
+    },
+    {
+      "start": 2563.24,
+      "end": 2567.319,
+      "text": "a drone someone's driving but you know"
+    },
+    {
+      "start": 2565.64,
+      "end": 2568.68,
+      "text": "their their their view is a little bit"
+    },
+    {
+      "start": 2567.319,
+      "end": 2570.92,
+      "text": "restricted in the cockpit like you can"
+    },
+    {
+      "start": 2568.68,
+      "end": 2573.319,
+      "text": "see there so you have to cooperate um"
+    },
+    {
+      "start": 2570.92,
+      "end": 2575.68,
+      "text": "all very organically and ultimately what"
+    },
+    {
+      "start": 2573.319,
+      "end": 2577.52,
+      "text": "we're trying to to capture was the okay"
+    },
+    {
+      "start": 2575.68,
+      "end": 2580,
+      "text": "how do we create the the feeling of the"
+    },
+    {
+      "start": 2577.52,
+      "end": 2582.559,
+      "text": "Mad Max Fury Road chase scene but in the"
+    },
+    {
+      "start": 2580,
+      "end": 2583.92,
+      "text": "co-op setting so we're all super excited"
+    },
+    {
+      "start": 2582.559,
+      "end": 2586.28,
+      "text": "about this game we're like oh this is"
+    },
+    {
+      "start": 2583.92,
+      "end": 2589.72,
+      "text": "really cool um but then came the hard"
+    },
+    {
+      "start": 2586.28,
+      "end": 2591.4,
+      "text": "moment we're like okay uh that does it"
+    },
+    {
+      "start": 2589.72,
+      "end": 2592.92,
+      "text": "make sense at all um you know before we"
+    },
+    {
+      "start": 2591.4,
+      "end": 2594.76,
+      "text": "even start working on a prototype what"
+    },
+    {
+      "start": 2592.92,
+      "end": 2598.44,
+      "text": "what are the challenges so what we did"
+    },
+    {
+      "start": 2594.76,
+      "end": 2600.72,
+      "text": "is something you know pretty simple um"
+    },
+    {
+      "start": 2598.44,
+      "end": 2602.96,
+      "text": "is we tried to bow it down talking with"
+    },
+    {
+      "start": 2600.72,
+      "end": 2604.839,
+      "text": "the team to like key ingredients you"
+    },
+    {
+      "start": 2602.96,
+      "end": 2606.24,
+      "text": "know and so some of those You could"
+    },
+    {
+      "start": 2604.839,
+      "end": 2608.559,
+      "text": "argue are more pillars some are more"
+    },
+    {
+      "start": 2606.24,
+      "end": 2610.319,
+      "text": "features to me it doesn't really matter"
+    },
+    {
+      "start": 2608.559,
+      "end": 2613.44,
+      "text": "it's kind of like the the word cloud of"
+    },
+    {
+      "start": 2610.319,
+      "end": 2615.68,
+      "text": "if I put this we start all agreeing on"
+    },
+    {
+      "start": 2613.44,
+      "end": 2617,
+      "text": "like yeah this is the shape the ship"
+    },
+    {
+      "start": 2615.68,
+      "end": 2619.599,
+      "text": "that this described is the game we're"
+    },
+    {
+      "start": 2617,
+      "end": 2621,
+      "text": "talking about um and then the exercise"
+    },
+    {
+      "start": 2619.599,
+      "end": 2623.68,
+      "text": "we went through and I'm sorry because"
+    },
+    {
+      "start": 2621,
+      "end": 2625.559,
+      "text": "it's it's not the best scene uh in a"
+    },
+    {
+      "start": 2623.68,
+      "end": 2628.119,
+      "text": "presentation but for each of those"
+    },
+    {
+      "start": 2625.559,
+      "end": 2629.8,
+      "text": "ingredients we looked at like first okay"
+    },
+    {
+      "start": 2628.119,
+      "end": 2632.599,
+      "text": "what does what is the main goal that"
+    },
+    {
+      "start": 2629.8,
+      "end": 2633.92,
+      "text": "each ingredient need to accomplish um so"
+    },
+    {
+      "start": 2632.599,
+      "end": 2636.88,
+      "text": "for instance you know we had one big"
+    },
+    {
+      "start": 2633.92,
+      "end": 2639.44,
+      "text": "Dynamic map cool well if you if you have"
+    },
+    {
+      "start": 2636.88,
+      "end": 2640.96,
+      "text": "that that um the the important thing for"
+    },
+    {
+      "start": 2639.44,
+      "end": 2642.599,
+      "text": "us is that you build familiarity with"
+    },
+    {
+      "start": 2640.96,
+      "end": 2644.4,
+      "text": "the terrain the more you play this game"
+    },
+    {
+      "start": 2642.599,
+      "end": 2645.68,
+      "text": "the more you start to understand how you"
+    },
+    {
+      "start": 2644.4,
+      "end": 2647.119,
+      "text": "can go through it and how you can"
+    },
+    {
+      "start": 2645.68,
+      "end": 2649.4,
+      "text": "Traverse but then we want to keep"
+    },
+    {
+      "start": 2647.119,
+      "end": 2652.359,
+      "text": "variety with it so you're going to have"
+    },
+    {
+      "start": 2649.4,
+      "end": 2654.2,
+      "text": "also maybe elements like weather or"
+    },
+    {
+      "start": 2652.359,
+      "end": 2657.64,
+      "text": "other things that will kind of you know"
+    },
+    {
+      "start": 2654.2,
+      "end": 2660.559,
+      "text": "um kind of throw you off balance so"
+    },
+    {
+      "start": 2657.64,
+      "end": 2661.88,
+      "text": "trying to first um identify okay those"
+    },
+    {
+      "start": 2660.559,
+      "end": 2663.839,
+      "text": "ingredients what what goal are they"
+    },
+    {
+      "start": 2661.88,
+      "end": 2665.52,
+      "text": "serving what do we want them to do and"
+    },
+    {
+      "start": 2663.839,
+      "end": 2668.16,
+      "text": "then looking at challenges you know"
+    },
+    {
+      "start": 2665.52,
+      "end": 2671.119,
+      "text": "across them challenges is based on the"
+    },
+    {
+      "start": 2668.16,
+      "end": 2673.88,
+      "text": "market based on who we are um so for"
+    },
+    {
+      "start": 2671.119,
+      "end": 2676.64,
+      "text": "example when it comes to the the racing"
+    },
+    {
+      "start": 2673.88,
+      "end": 2678.88,
+      "text": "um format you know we've had questions"
+    },
+    {
+      "start": 2676.64,
+      "end": 2680.559,
+      "text": "about does it really sit well with our"
+    },
+    {
+      "start": 2678.88,
+      "end": 2682.4,
+      "text": "audience we're talking about shipbreaker"
+    },
+    {
+      "start": 2680.559,
+      "end": 2684.68,
+      "text": "kak the kind of pacing that our audience"
+    },
+    {
+      "start": 2682.4,
+      "end": 2686.44,
+      "text": "enjoys I'm like is a constant push"
+    },
+    {
+      "start": 2684.68,
+      "end": 2688.24,
+      "text": "forward really something that you know"
+    },
+    {
+      "start": 2686.44,
+      "end": 2690.96,
+      "text": "our audience would resonate with not"
+    },
+    {
+      "start": 2688.24,
+      "end": 2692.839,
+      "text": "neily certain um and then after that we"
+    },
+    {
+      "start": 2690.96,
+      "end": 2694.96,
+      "text": "look at the you know areas that we"
+    },
+    {
+      "start": 2692.839,
+      "end": 2697.64,
+      "text": "should explore then in terms of like"
+    },
+    {
+      "start": 2694.96,
+      "end": 2699.92,
+      "text": "prototyping um to you know navigate"
+    },
+    {
+      "start": 2697.64,
+      "end": 2702.359,
+      "text": "those do challenges and at the bottom um"
+    },
+    {
+      "start": 2699.92,
+      "end": 2704,
+      "text": "some of the games that were referenced"
+    },
+    {
+      "start": 2702.359,
+      "end": 2706.52,
+      "text": "last little bit of teaser last one that"
+    },
+    {
+      "start": 2704,
+      "end": 2709.359,
+      "text": "we also talked about another Co-op game"
+    },
+    {
+      "start": 2706.52,
+      "end": 2711.72,
+      "text": "that was about scaling giant creatures"
+    },
+    {
+      "start": 2709.359,
+      "end": 2713.96,
+      "text": "kind of like um I'd say a wholesome"
+    },
+    {
+      "start": 2711.72,
+      "end": 2715.52,
+      "text": "Monster Hunter if you will with vehicles"
+    },
+    {
+      "start": 2713.96,
+      "end": 2717.24,
+      "text": "or or Shadow of the Colossus where you"
+    },
+    {
+      "start": 2715.52,
+      "end": 2718.96,
+      "text": "don't kill the creatures here again the"
+    },
+    {
+      "start": 2717.24,
+      "end": 2721.24,
+      "text": "idea was that you have these giant"
+    },
+    {
+      "start": 2718.96,
+      "end": 2723.48,
+      "text": "moving platforms and and and kind of"
+    },
+    {
+      "start": 2721.24,
+      "end": 2726,
+      "text": "like terrain and then you approach them"
+    },
+    {
+      "start": 2723.48,
+      "end": 2728.48,
+      "text": "with your little gingi there floating um"
+    },
+    {
+      "start": 2726,
+      "end": 2730.92,
+      "text": "and then you try to navigate those um"
+    },
+    {
+      "start": 2728.48,
+      "end": 2732.68,
+      "text": "kind of treacherous spaces um the whole"
+    },
+    {
+      "start": 2730.92,
+      "end": 2734.559,
+      "text": "idea was born believe it or not out of"
+    },
+    {
+      "start": 2732.68,
+      "end": 2737.24,
+      "text": "shipbreaker because shipbreaker has"
+    },
+    {
+      "start": 2734.559,
+      "end": 2739.8,
+      "text": "Dynamic um ship interiors and so the"
+    },
+    {
+      "start": 2737.24,
+      "end": 2741.52,
+      "text": "team was like oh can we use that to"
+    },
+    {
+      "start": 2739.8,
+      "end": 2743.16,
+      "text": "create another kind of dynamic terrain"
+    },
+    {
+      "start": 2741.52,
+      "end": 2744.76,
+      "text": "and so instead of being the guts of a"
+    },
+    {
+      "start": 2743.16,
+      "end": 2747.4,
+      "text": "ship it was the exterior of a Creator"
+    },
+    {
+      "start": 2744.76,
+      "end": 2749.96,
+      "text": "and how you scale it anyway so fun idea"
+    },
+    {
+      "start": 2747.4,
+      "end": 2752.079,
+      "text": "you know was was pretty wild here again"
+    },
+    {
+      "start": 2749.96,
+      "end": 2754.04,
+      "text": "we kind of like broke it down to key"
+    },
+    {
+      "start": 2752.079,
+      "end": 2756.319,
+      "text": "ingredients and we're like okay what"
+    },
+    {
+      "start": 2754.04,
+      "end": 2758.76,
+      "text": "what is the word cloud again if we just"
+    },
+    {
+      "start": 2756.319,
+      "end": 2760.359,
+      "text": "put just those words we try to remove as"
+    },
+    {
+      "start": 2758.76,
+      "end": 2762.4,
+      "text": "many as we can you know we don't want"
+    },
+    {
+      "start": 2760.359,
+      "end": 2764.16,
+      "text": "too many but we put just those words"
+    },
+    {
+      "start": 2762.4,
+      "end": 2766.119,
+      "text": "does it paint the picture in our mind of"
+    },
+    {
+      "start": 2764.16,
+      "end": 2767.359,
+      "text": "the game we're collectively discussing"
+    },
+    {
+      "start": 2766.119,
+      "end": 2769.48,
+      "text": "and then once we've agreed with that"
+    },
+    {
+      "start": 2767.359,
+      "end": 2772.4,
+      "text": "with the team um you know the exercise"
+    },
+    {
+      "start": 2769.48,
+      "end": 2773.76,
+      "text": "was like okay um so what is you know"
+    },
+    {
+      "start": 2772.4,
+      "end": 2776.359,
+      "text": "what is this game where does it sit in"
+    },
+    {
+      "start": 2773.76,
+      "end": 2778.119,
+      "text": "the market how can we even evaluate who"
+    },
+    {
+      "start": 2776.359,
+      "end": 2780.52,
+      "text": "would play it with the sales potential"
+    },
+    {
+      "start": 2778.119,
+      "end": 2782.559,
+      "text": "coulds pretty well so we asked the team"
+    },
+    {
+      "start": 2780.52,
+      "end": 2785.28,
+      "text": "to basically list a bunch of references"
+    },
+    {
+      "start": 2782.559,
+      "end": 2788.2,
+      "text": "you know game that inspired them on one"
+    },
+    {
+      "start": 2785.28,
+      "end": 2790.599,
+      "text": "aspect or another um of this one and"
+    },
+    {
+      "start": 2788.2,
+      "end": 2792.4,
+      "text": "then we did a matrix we're like and"
+    },
+    {
+      "start": 2790.599,
+      "end": 2794.92,
+      "text": "sorry here again not sure it's you know"
+    },
+    {
+      "start": 2792.4,
+      "end": 2796.92,
+      "text": "super legible but we we look at the key"
+    },
+    {
+      "start": 2794.92,
+      "end": 2798.96,
+      "text": "ingredients across all the comparative"
+    },
+    {
+      "start": 2796.92,
+      "end": 2801.24,
+      "text": "games that we had and like okay how much"
+    },
+    {
+      "start": 2798.96,
+      "end": 2802.599,
+      "text": "does that overlap you know um and"
+    },
+    {
+      "start": 2801.24,
+      "end": 2804.319,
+      "text": "sometimes you stretch it a bit because"
+    },
+    {
+      "start": 2802.599,
+      "end": 2806.559,
+      "text": "um in here I have you know space in"
+    },
+    {
+      "start": 2804.319,
+      "end": 2808.2,
+      "text": "physics and we've listed subnotica as"
+    },
+    {
+      "start": 2806.559,
+      "end": 2810.119,
+      "text": "like yeah it's an okay comp because if"
+    },
+    {
+      "start": 2808.2,
+      "end": 2812.28,
+      "text": "you're under water or if you're in space"
+    },
+    {
+      "start": 2810.119,
+      "end": 2814.4,
+      "text": "functionally it's it's sort of similar U"
+    },
+    {
+      "start": 2812.28,
+      "end": 2817.119,
+      "text": "but the what it did for us here is it"
+    },
+    {
+      "start": 2814.4,
+      "end": 2819.04,
+      "text": "also allowed us to okay think a bit more"
+    },
+    {
+      "start": 2817.119,
+      "end": 2821.72,
+      "text": "about this game this the space it lives"
+    },
+    {
+      "start": 2819.04,
+      "end": 2823.599,
+      "text": "in the game it's actually the closest to"
+    },
+    {
+      "start": 2821.72,
+      "end": 2825.76,
+      "text": "and then we can look at these games the"
+    },
+    {
+      "start": 2823.599,
+      "end": 2827.68,
+      "text": "motivations for these games but also how"
+    },
+    {
+      "start": 2825.76,
+      "end": 2829.44,
+      "text": "much revenue they generate um you know"
+    },
+    {
+      "start": 2827.68,
+      "end": 2831,
+      "text": "the challenges that they have and have a"
+    },
+    {
+      "start": 2829.44,
+      "end": 2834.16,
+      "text": "better sense of where this crazy"
+    },
+    {
+      "start": 2831,
+      "end": 2835.64,
+      "text": "freaking idea of scaling monsters you"
+    },
+    {
+      "start": 2834.16,
+      "end": 2838.4,
+      "text": "know and navigating around them with"
+    },
+    {
+      "start": 2835.64,
+      "end": 2840,
+      "text": "vehicles uh where what's the opportunity"
+    },
+    {
+      "start": 2838.4,
+      "end": 2844.079,
+      "text": "there and is it you know too dangerous"
+    },
+    {
+      "start": 2840,
+      "end": 2846.48,
+      "text": "or not okay um so last bit of the talk"
+    },
+    {
+      "start": 2844.079,
+      "end": 2848.4,
+      "text": "and then we can do a bit of Q&A is um"
+    },
+    {
+      "start": 2846.48,
+      "end": 2851.119,
+      "text": "you know I think there's also sometimes"
+    },
+    {
+      "start": 2848.4,
+      "end": 2853.119,
+      "text": "an opportunity for newp um to be um"
+    },
+    {
+      "start": 2851.119,
+      "end": 2855.319,
+      "text": "iterated and tested in an environment"
+    },
+    {
+      "start": 2853.119,
+      "end": 2857,
+      "text": "that um is safer and to me is a little"
+    },
+    {
+      "start": 2855.319,
+      "end": 2859.599,
+      "text": "bit of a shortcut and a hack so the"
+    },
+    {
+      "start": 2857,
+      "end": 2861.559,
+      "text": "first one is DLC um so the Sims U"
+    },
+    {
+      "start": 2859.599,
+      "end": 2863.76,
+      "text": "they've been very open about it the team"
+    },
+    {
+      "start": 2861.559,
+      "end": 2865.24,
+      "text": "um they have an incredible amount of DLC"
+    },
+    {
+      "start": 2863.76,
+      "end": 2867.359,
+      "text": "and the way theyve structured their DLC"
+    },
+    {
+      "start": 2865.24,
+      "end": 2869.16,
+      "text": "pipeline is some of these DLC they don't"
+    },
+    {
+      "start": 2867.359,
+      "end": 2870.64,
+      "text": "expect them they they don't know how"
+    },
+    {
+      "start": 2869.16,
+      "end": 2872.559,
+      "text": "they're going to land basically so they"
+    },
+    {
+      "start": 2870.64,
+      "end": 2874.76,
+      "text": "have safe bets and they have DLCs that"
+    },
+    {
+      "start": 2872.559,
+      "end": 2876.52,
+      "text": "are a bit more exploratory and so that's"
+    },
+    {
+      "start": 2874.76,
+      "end": 2878.24,
+      "text": "really interesting because that's how"
+    },
+    {
+      "start": 2876.52,
+      "end": 2880.079,
+      "text": "the the get you know that first test"
+    },
+    {
+      "start": 2878.24,
+      "end": 2881.359,
+      "text": "from the audience of like okay they"
+    },
+    {
+      "start": 2880.079,
+      "end": 2883.4,
+      "text": "might like that and then you know maybe"
+    },
+    {
+      "start": 2881.359,
+      "end": 2885.8,
+      "text": "in the the next game they will um even"
+    },
+    {
+      "start": 2883.4,
+      "end": 2887.72,
+      "text": "flesh it out further um but from game to"
+    },
+    {
+      "start": 2885.8,
+      "end": 2890.48,
+      "text": "game you also have um you know what"
+    },
+    {
+      "start": 2887.72,
+      "end": 2891.96,
+      "text": "Arcane did with moon crash which was a"
+    },
+    {
+      "start": 2890.48,
+      "end": 2894.52,
+      "text": "lot of it was a bit of a template for"
+    },
+    {
+      "start": 2891.96,
+      "end": 2896.319,
+      "text": "death Loop um so here again you know DLC"
+    },
+    {
+      "start": 2894.52,
+      "end": 2898.119,
+      "text": "for an existing game where they explored"
+    },
+    {
+      "start": 2896.319,
+      "end": 2899.68,
+      "text": "some ideas they had an audience and they"
+    },
+    {
+      "start": 2898.119,
+      "end": 2901.4,
+      "text": "could see how that resonate rather than"
+    },
+    {
+      "start": 2899.68,
+      "end": 2903.2,
+      "text": "taking a you know a giant leap into the"
+    },
+    {
+      "start": 2901.4,
+      "end": 2905.16,
+      "text": "unknown another thing that's worth"
+    },
+    {
+      "start": 2903.2,
+      "end": 2906.16,
+      "text": "looking at is mods because the audience"
+    },
+    {
+      "start": 2905.16,
+      "end": 2908.04,
+      "text": "is going to build stuff and they're"
+    },
+    {
+      "start": 2906.16,
+      "end": 2909.599,
+      "text": "going to kind of like tell you sometimes"
+    },
+    {
+      "start": 2908.04,
+      "end": 2911.72,
+      "text": "you know what they want or some parts of"
+    },
+    {
+      "start": 2909.599,
+      "end": 2913,
+      "text": "your game that they resonate with and"
+    },
+    {
+      "start": 2911.72,
+      "end": 2914.2,
+      "text": "they might like you to twist in a"
+    },
+    {
+      "start": 2913,
+      "end": 2916.2,
+      "text": "different way to create something"
+    },
+    {
+      "start": 2914.2,
+      "end": 2918.28,
+      "text": "different and so Arma for me has been a"
+    },
+    {
+      "start": 2916.2,
+      "end": 2919.599,
+      "text": "fascinating platform because so many"
+    },
+    {
+      "start": 2918.28,
+      "end": 2921.96,
+      "text": "mods and big games you know have come"
+    },
+    {
+      "start": 2919.599,
+      "end": 2924.44,
+      "text": "out of it I Daisy is obvious pubg but"
+    },
+    {
+      "start": 2921.96,
+      "end": 2926.68,
+      "text": "even you can see that Bohemia is is um"
+    },
+    {
+      "start": 2924.44,
+      "end": 2929.119,
+      "text": "taking also some cues there in in um"
+    },
+    {
+      "start": 2926.68,
+      "end": 2931.559,
+      "text": "reforger their their new game there's a"
+    },
+    {
+      "start": 2929.119,
+      "end": 2934.359,
+      "text": "mod that they've added combat Ops everon"
+    },
+    {
+      "start": 2931.559,
+      "end": 2937,
+      "text": "which is a bit like um anti- stazy um a"
+    },
+    {
+      "start": 2934.359,
+      "end": 2938.2,
+      "text": "mod that was very popular for Arma 3 so"
+    },
+    {
+      "start": 2937,
+      "end": 2940.92,
+      "text": "here again you got you know an"
+    },
+    {
+      "start": 2938.2,
+      "end": 2944.599,
+      "text": "interesting way to to find um validation"
+    },
+    {
+      "start": 2940.92,
+      "end": 2946.4,
+      "text": "or see if there's interest um and then"
+    },
+    {
+      "start": 2944.599,
+      "end": 2948.04,
+      "text": "this one is a bit of a left field one"
+    },
+    {
+      "start": 2946.4,
+      "end": 2949.72,
+      "text": "but sometimes you can also test thing"
+    },
+    {
+      "start": 2948.04,
+      "end": 2952.48,
+      "text": "with an April Falls and actually that's"
+    },
+    {
+      "start": 2949.72,
+      "end": 2954.72,
+      "text": "how the pandaran you know got introduced"
+    },
+    {
+      "start": 2952.48,
+      "end": 2956.16,
+      "text": "um to the world I mean to Warcraft 3"
+    },
+    {
+      "start": 2954.72,
+      "end": 2959.119,
+      "text": "first that's kind of like an Easter egg"
+    },
+    {
+      "start": 2956.16,
+      "end": 2960.64,
+      "text": "and and hidden unit and then how they"
+    },
+    {
+      "start": 2959.119,
+      "end": 2962.24,
+      "text": "eventually were brought to uh to World"
+    },
+    {
+      "start": 2960.64,
+      "end": 2966.2,
+      "text": "of um"
+    },
+    {
+      "start": 2962.24,
+      "end": 2968.72,
+      "text": "Warcraft okay um so yeah in conclusion"
+    },
+    {
+      "start": 2966.2,
+      "end": 2971.599,
+      "text": "you know what I find um really"
+    },
+    {
+      "start": 2968.72,
+      "end": 2974.52,
+      "text": "interesting the process of new IP for me"
+    },
+    {
+      "start": 2971.599,
+      "end": 2977,
+      "text": "uh Beyond well trying to bring novelty"
+    },
+    {
+      "start": 2974.52,
+      "end": 2980.079,
+      "text": "into the market and help guide the team"
+    },
+    {
+      "start": 2977,
+      "end": 2982.799,
+      "text": "and um make sure that um as much as"
+    },
+    {
+      "start": 2980.079,
+      "end": 2984.079,
+      "text": "possible we're we're managing risks is I"
+    },
+    {
+      "start": 2982.799,
+      "end": 2986.52,
+      "text": "found that going through this process"
+    },
+    {
+      "start": 2984.079,
+      "end": 2988.44,
+      "text": "collectively at Blackbird it strengthen"
+    },
+    {
+      "start": 2986.52,
+      "end": 2990.68,
+      "text": "our studio culture because we we're"
+    },
+    {
+      "start": 2988.44,
+      "end": 2992,
+      "text": "we're talking about basically you know"
+    },
+    {
+      "start": 2990.68,
+      "end": 2993.839,
+      "text": "what are we good at what are we good at"
+    },
+    {
+      "start": 2992,
+      "end": 2996.24,
+      "text": "making what are we uniquely positioned"
+    },
+    {
+      "start": 2993.839,
+      "end": 2997.599,
+      "text": "to do what are the things you know among"
+    },
+    {
+      "start": 2996.24,
+      "end": 2999.079,
+      "text": "this that audience seems to really"
+    },
+    {
+      "start": 2997.599,
+      "end": 3000.559,
+      "text": "resonate with and then how does it"
+    },
+    {
+      "start": 2999.079,
+      "end": 3002.48,
+      "text": "connect with where the market is moving"
+    },
+    {
+      "start": 3000.559,
+      "end": 3004.68,
+      "text": "in terms of like player ta taste in"
+    },
+    {
+      "start": 3002.48,
+      "end": 3007.079,
+      "text": "terms of like the broader side Guist and"
+    },
+    {
+      "start": 3004.68,
+      "end": 3009.48,
+      "text": "so that has been you know the product of"
+    },
+    {
+      "start": 3007.079,
+      "end": 3011.48,
+      "text": "new IP for me it's not just new IP is"
+    },
+    {
+      "start": 3009.48,
+      "end": 3013.359,
+      "text": "actually also Studio culture and that"
+    },
+    {
+      "start": 3011.48,
+      "end": 3016.079,
+      "text": "was one of the I think the the biggest"
+    },
+    {
+      "start": 3013.359,
+      "end": 3017.799,
+      "text": "lessons um through that process um and"
+    },
+    {
+      "start": 3016.079,
+      "end": 3020.52,
+      "text": "then as a final little bit of reference"
+    },
+    {
+      "start": 3017.799,
+      "end": 3023,
+      "text": "that you know I invite you to check um"
+    },
+    {
+      "start": 3020.52,
+      "end": 3024.559,
+      "text": "this one has a lot of overlap with some"
+    },
+    {
+      "start": 3023,
+      "end": 3026,
+      "text": "of the stuff I've covered here but it's"
+    },
+    {
+      "start": 3024.559,
+      "end": 3028.04,
+      "text": "really more from a design mechanics"
+    },
+    {
+      "start": 3026,
+      "end": 3029.96,
+      "text": "perspective but there's this amazing"
+    },
+    {
+      "start": 3028.04,
+      "end": 3034.04,
+      "text": "video uh from one of the designers"
+    },
+    {
+      "start": 3029.96,
+      "end": 3036.359,
+      "text": "behind thrall um JN aser about design as"
+    },
+    {
+      "start": 3034.04,
+      "end": 3038.079,
+      "text": "a search algorithm um so the video is"
+    },
+    {
+      "start": 3036.359,
+      "end": 3040,
+      "text": "called this problem changes your"
+    },
+    {
+      "start": 3038.079,
+      "end": 3042.799,
+      "text": "perspective on Game Dev but there's a"
+    },
+    {
+      "start": 3040,
+      "end": 3045.119,
+      "text": "lot of um things that he touches about"
+    },
+    {
+      "start": 3042.799,
+      "end": 3046.88,
+      "text": "that are similar to things we've talked"
+    },
+    {
+      "start": 3045.119,
+      "end": 3049.48,
+      "text": "about here except he's really very"
+    },
+    {
+      "start": 3046.88,
+      "end": 3052.119,
+      "text": "focused on like uh mechanics and and how"
+    },
+    {
+      "start": 3049.48,
+      "end": 3053.04,
+      "text": "you explore you know um the space of of"
+    },
+    {
+      "start": 3052.119,
+      "end": 3056.119,
+      "text": "of"
+    },
+    {
+      "start": 3053.04,
+      "end": 3058.319,
+      "text": "mechanics okay and um that's it for me"
+    },
+    {
+      "start": 3056.119,
+      "end": 3061.319,
+      "text": "uh thank you you uh thank you Alex for"
+    },
+    {
+      "start": 3058.319,
+      "end": 3061.319,
+      "text": "this"
+    }
+  ]
+}

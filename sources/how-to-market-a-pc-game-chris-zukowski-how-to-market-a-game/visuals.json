@@ -1,0 +1,93 @@
+{
+  "videoId": "Oh9CBk0FHSM",
+  "frames": [
+    {
+      "time": 245,
+      "file": "frames/frame-00-04-05.jpg",
+      "observations": [
+        "Chart compares changes in initial earnings of new releases from 2018 to 2019 by percentile; the lower percentiles are below zero and higher percentiles above it."
+      ],
+      "alt": "Chart compares changes in initial earnings of new releases from 2018 to 2019 by percentile; the lower percentiles are below zero and higher percentiles above it."
+    },
+    {
+      "time": 470,
+      "file": "frames/frame-00-07-50.jpg",
+      "observations": [
+        "Number-of-games bar chart has substantially taller Puzzle and Platformer bars than the other displayed tags."
+      ],
+      "alt": "Number-of-games bar chart has substantially taller Puzzle and Platformer bars than the other displayed tags."
+    },
+    {
+      "time": 670,
+      "file": "frames/frame-00-11-10.jpg",
+      "observations": [
+        "Slide labels the median colony simulation at approximately $44,000 and the median platformer at approximately $1,200."
+      ],
+      "alt": "Slide labels the median colony simulation at approximately $44,000 and the median platformer at approximately $1,200."
+    },
+    {
+      "time": 885,
+      "file": "frames/frame-00-14-45.jpg",
+      "observations": [
+        "Slide presents approximately 10,000 wishlists as a minimum and says reaching it takes time."
+      ],
+      "alt": "Slide presents approximately 10,000 wishlists as a minimum and says reaching it takes time."
+    },
+    {
+      "time": 1045,
+      "file": "frames/frame-00-17-25.jpg",
+      "observations": [
+        "Lofi Ping Pong and Omen Exitio are compared with 35,337 and 32,834 impressions respectively; later funnel steps are not yet shown."
+      ],
+      "alt": "Lofi Ping Pong and Omen Exitio are compared with 35,337 and 32,834 impressions respectively; later funnel steps are not yet shown."
+    },
+    {
+      "time": 1080,
+      "file": "frames/frame-00-18-00.jpg",
+      "observations": [
+        "Complete funnel: Lofi Ping Pong has 35,337 impressions, 3,398 visits (9.6%), and 161 wishlists (4.7% of visits); Omen Exitio has 32,834 impressions, 2,187 visits (6.7%), and 59 wishlists (2.7% of visits)."
+      ],
+      "alt": "Complete funnel: Lofi Ping Pong has 35,337 impressions, 3,398 visits (9.6%), and 161 wishlists (4.7% of visits); Omen Exitio has 32,834 impressions, 2,187 visits (6.7%), and 59 wishlists (2.7% of visits)."
+    },
+    {
+      "time": 1125,
+      "file": "frames/frame-00-18-45.jpg",
+      "observations": [
+        "Dwarven Valley old and new capsule images appear above separate views and wishlists charts with spikes; the image alone does not establish causation."
+      ],
+      "alt": "Dwarven Valley old and new capsule images appear above separate views and wishlists charts with spikes; the image alone does not establish causation."
+    },
+    {
+      "time": 1395,
+      "file": "frames/frame-00-23-15.jpg",
+      "observations": [
+        "Festival examples show Steam Game Festival and Games from Quebec, with a median wishlists label of 750."
+      ],
+      "alt": "Festival examples show Steam Game Festival and Games from Quebec, with a median wishlists label of 750."
+    },
+    {
+      "time": 1835,
+      "file": "frames/frame-00-30-35.jpg",
+      "observations": [
+        "Annual example totals 12,225 wishlists: 5,475 from 15 per day, 2,250 from three festivals, 3,000 from two major streamers, and 1,500 from front-page Reddit. The festival line says 750/day but the total allocates 750 per festival."
+      ],
+      "alt": "Annual example totals 12,225 wishlists: 5,475 from 15 per day, 2,250 from three festivals, 3,000 from two major streamers, and 1,500 from front-page Reddit. The festival line says 750/day but the total allocates 750 per festival."
+    },
+    {
+      "time": 2060,
+      "file": "frames/frame-00-34-20.jpg",
+      "observations": [
+        "Valheim launch basics slide explicitly shows 16,098 followers and approximately 160,000 wishlists."
+      ],
+      "alt": "Valheim launch basics slide explicitly shows 16,098 followers and approximately 160,000 wishlists."
+    },
+    {
+      "time": 2330,
+      "file": "frames/frame-00-38-50.jpg",
+      "observations": [
+        "Valheim slide combines an itch.io alpha announcement, a beta signup page, and a development note about expanding the beta."
+      ],
+      "alt": "Valheim slide combines an itch.io alpha announcement, a beta signup page, and a development note about expanding the beta."
+    }
+  ]
+}

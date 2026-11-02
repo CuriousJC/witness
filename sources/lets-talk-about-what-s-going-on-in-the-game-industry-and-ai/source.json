@@ -1,0 +1,2249 @@
+{
+  "videoId": "IfFxn0xLlPk",
+  "slug": "lets-talk-about-what-s-going-on-in-the-game-industry-and-ai",
+  "url": "https://www.youtube.com/watch?v=IfFxn0xLlPk",
+  "title": "Lets Talk About What's Going On In The Game Industry And AI",
+  "channel": "Procedural Minds",
+  "published": "2026-11-01",
+  "duration": 1020,
+  "description": "It's been crazy out there. Layoffs, Steam ripoffs, PlayStation and Nintendo jailbroken, and Epic going all in on AI. Let's talk about all of it, what it means for me, and what's next for the channel.\n\n________________________________________________________________________\n________________________________________________________________________\n \nPATREON:         https://www.patreon.com/Procedural_Minds\nTWITCH:            https://www.twitch.tv/krozjin\nTWITTER / X:    https://x.com/ProceduralMinds\nTIKTOK:             https://www.tiktok.com/@procedural_minds\nDISCORD:          https://discord.gg/qPZm7CgD2f\n\n________________________________________________________________________\n________________________________________________________________________\n\nAffiliate Disclosure: Some of the links below are Amazon affiliate links. If you make a purchase through these links, I may earn a small commission at no extra cost to you. This helps support the channel — thank you!\n\nStreaming Equipment:\nMic: https://amzn.to/450wtwW\nMic Arm: https://amzn.to/4bk2OT6\nAudio Mixer: https://amzn.to/4gw9Ojg\nStream Deck: https://amzn.to/3QPsEaM\nKeyboard: https://amzn.to/4wFAAdE\nMouse: https://amzn.to/4yqlJ8W\nUSB Hub: https://amzn.to/450wNMa\nSoundbar: https://amzn.to/4vWE2Re\nHeadphones: https://amzn.to/44og2dP\n\nCamera Equipment:\nCamera: https://amzn.to/3TzDG4D\nCamera Lens: https://amzn.to/3TzeFqc\nCam Link 4k: https://amzn.to/4vWDUBe\n\nOther Equipment:\nPortable AC: https://amzn.to/4w42NLB\n\n________________________________________________________________________\n________________________________________________________________________\n\nRelevant Videos:\n\nHere's How I Use AI To Help With Backend Game Development - https://www.youtube.com/watch?v=UJliIwovMWM\nUE5's Built In Data Table Editor Isn't Great, So I Made My Own - https://youtu.be/8lqqQuZrAAc\nEpic Vibe Coded Their Launcher, So I Tried the BEST UE5 Alternatives - https://www.youtube.com/watch?v=v10fjK1ymVY\n\n________________________________________________________________________\n________________________________________________________________________\n\n00:00 - Intro\n00:33 - AAA Game Industry Costs\n01:49 - Indies and People Copying Games\n04:56 - Console Jailbreaks and Potential AI Preventative Measures\n07:35 - Epic Games and AI Forward Direction\n11:33 - My YouTube Channel and AI\n14:18 - PCG and Channel Content",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 33,
+      "title": "Intro"
+    },
+    {
+      "start": 33,
+      "end": 109,
+      "title": "AAA Game Industry Costs"
+    },
+    {
+      "start": 109,
+      "end": 296,
+      "title": "Indies and People Copying Games"
+    },
+    {
+      "start": 296,
+      "end": 455,
+      "title": "Console Jailbreaks and Potential AI Preventative Measures"
+    },
+    {
+      "start": 455,
+      "end": 693,
+      "title": "Epic Games and AI Forward Direction"
+    },
+    {
+      "start": 693,
+      "end": 858,
+      "title": "My YouTube Channel and AI"
+    },
+    {
+      "start": 858,
+      "end": 1020,
+      "title": "PCG and Channel Content"
+    }
+  ],
+  "captions": {
+    "language": "en-orig",
+    "kind": "automatic",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0,
+      "end": 5.4,
+      "text": "BioWare shuts down. Ubisoft shuts down"
+    },
+    {
+      "start": 3.08,
+      "end": 7.48,
+      "text": "studio. Liquid Swords CEO confirms"
+    },
+    {
+      "start": 5.4,
+      "end": 10.48,
+      "text": "studio closure. Brazilian developer"
+    },
+    {
+      "start": 7.48,
+      "end": 13.64,
+      "text": "Nerial closes. Mouse developer Polyarc"
+    },
+    {
+      "start": 10.48,
+      "end": 15.88,
+      "text": "Games announce closure. The industry is"
+    },
+    {
+      "start": 13.64,
+      "end": 18.2,
+      "text": "not in a great place right now. Let's be"
+    },
+    {
+      "start": 15.88,
+      "end": 20.2,
+      "text": "honest. And I kind of want to take a"
+    },
+    {
+      "start": 18.2,
+      "end": 22.56,
+      "text": "little bit of time today, chat with you"
+    },
+    {
+      "start": 20.2,
+      "end": 27.24,
+      "text": "guys about the industry, a little bit"
+    },
+    {
+      "start": 22.56,
+      "end": 30.64,
+      "text": "about AI, about Epic, the channel, and"
+    },
+    {
+      "start": 27.24,
+      "end": 33.28,
+      "text": "in general, what's going on. Where do I"
+    },
+    {
+      "start": 30.64,
+      "end": 35.56,
+      "text": "see things going for me? And just have a"
+    },
+    {
+      "start": 33.28,
+      "end": 37.8,
+      "text": "chat. And let's be honest. If you've"
+    },
+    {
+      "start": 35.56,
+      "end": 39.96,
+      "text": "been keeping up with the news in the"
+    },
+    {
+      "start": 37.8,
+      "end": 42.52,
+      "text": "game industry in general, the past few"
+    },
+    {
+      "start": 39.96,
+      "end": 44.28,
+      "text": "months have been turbulent to say the"
+    },
+    {
+      "start": 42.52,
+      "end": 45.68,
+      "text": "least. And the current industry is being"
+    },
+    {
+      "start": 44.28,
+      "end": 48.52,
+      "text": "affected on all fronts. Whether you're"
+    },
+    {
+      "start": 45.68,
+      "end": 51.28,
+      "text": "indie or you're big AAA size, cuz the"
+    },
+    {
+      "start": 48.52,
+      "end": 53.84,
+      "text": "AAA games right now are bombing left and"
+    },
+    {
+      "start": 51.28,
+      "end": 56.6,
+      "text": "right. They're costing half a million"
+    },
+    {
+      "start": 53.84,
+      "end": 59.24,
+      "text": "dollars to develop. I don't know why."
+    },
+    {
+      "start": 56.6,
+      "end": 62.76,
+      "text": "I'll be honest. I don't know why. For"
+    },
+    {
+      "start": 59.24,
+      "end": 65.8,
+      "text": "$500,000 to just regain it and nothing"
+    },
+    {
+      "start": 62.76,
+      "end": 67.8,
+      "text": "else. Let's just assume the AAA game is"
+    },
+    {
+      "start": 65.8,
+      "end": 70.4,
+      "text": "going to be $70. It's going to be a AAA"
+    },
+    {
+      "start": 67.8,
+      "end": 74.32,
+      "text": "priced $70 game. If you account for,"
+    },
+    {
+      "start": 70.4,
+      "end": 76.12,
+      "text": "let's say, 30% going to whoever, whether"
+    },
+    {
+      "start": 74.32,
+      "end": 77.6,
+      "text": "it's Steam, PlayStation, what right"
+    },
+    {
+      "start": 76.12,
+      "end": 80.64,
+      "text": "whatever you put it on, it's going to be"
+    },
+    {
+      "start": 77.6,
+      "end": 83.24,
+      "text": "a 30% cut most likely. Let's remove 30%."
+    },
+    {
+      "start": 80.64,
+      "end": 85.72,
+      "text": "That means you have to sell 10 million"
+    },
+    {
+      "start": 83.24,
+      "end": 87.32,
+      "text": "copies of the game. Now, for a AAA, that"
+    },
+    {
+      "start": 85.72,
+      "end": 90.2,
+      "text": "might be like, \"Okay, yeah, that's"
+    },
+    {
+      "start": 87.32,
+      "end": 92.08,
+      "text": "expected.\" But a lot of the ones that"
+    },
+    {
+      "start": 90.2,
+      "end": 94.68,
+      "text": "have been being released, they don't"
+    },
+    {
+      "start": 92.08,
+      "end": 96.96,
+      "text": "have a history of selling that many. So,"
+    },
+    {
+      "start": 94.68,
+      "end": 99.08,
+      "text": "if the history of the game has never"
+    },
+    {
+      "start": 96.96,
+      "end": 101.44,
+      "text": "made that much money, why is the budget"
+    },
+    {
+      "start": 99.08,
+      "end": 103,
+      "text": "for the game an unrealistic number?"
+    },
+    {
+      "start": 101.44,
+      "end": 105.28,
+      "text": "Maybe someone could let me know in the"
+    },
+    {
+      "start": 103,
+      "end": 108.92,
+      "text": "comments. But I feel like just games are"
+    },
+    {
+      "start": 105.28,
+      "end": 111.08,
+      "text": "just way over priced in the development"
+    },
+    {
+      "start": 108.92,
+      "end": 114.32,
+      "text": "part. Now, the indie side, on the other"
+    },
+    {
+      "start": 111.08,
+      "end": 118.12,
+      "text": "hand, has been doing uh okay in the"
+    },
+    {
+      "start": 114.32,
+      "end": 121.252,
+      "text": "monetary front, right? But because of AI"
+    },
+    {
+      "start": 118.12,
+      "end": 122.732,
+      "text": "recently, it's been real rough, hasn't"
+    },
+    {
+      "start": 121.252,
+      "end": 125.092,
+      "text": "And you really don't need to look any"
+    },
+    {
+      "start": 122.732,
+      "end": 127.612,
+      "text": "further than just needle in a haystack."
+    },
+    {
+      "start": 125.092,
+      "end": 129.892,
+      "text": "The original game isn't even out yet,"
+    },
+    {
+      "start": 127.612,
+      "end": 131.412,
+      "text": "but because the idea was simple, and"
+    },
+    {
+      "start": 129.892,
+      "end": 134.052,
+      "text": "when I say simple, I mean it was"
+    },
+    {
+      "start": 131.412,
+      "end": 135.772,
+      "text": "conveyed very simply, you just go"
+    },
+    {
+      "start": 134.052,
+      "end": 138.172,
+      "text": "through hay and until you find a needle,"
+    },
+    {
+      "start": 135.772,
+      "end": 140.292,
+      "text": "right? It's a very simple concept at"
+    },
+    {
+      "start": 138.172,
+      "end": 143.372,
+      "text": "that base. People have just ripped it"
+    },
+    {
+      "start": 140.292,
+      "end": 147.212,
+      "text": "off. And now there's copies all over the"
+    },
+    {
+      "start": 143.372,
+      "end": 149.972,
+      "text": "place and now actual Indies are pulling"
+    },
+    {
+      "start": 147.212,
+      "end": 153.092,
+      "text": "their demos and just being afraid to"
+    },
+    {
+      "start": 149.972,
+      "end": 155.172,
+      "text": "even release a demo on Steam because,"
+    },
+    {
+      "start": 153.092,
+      "end": 157.172,
+      "text": "well, they have a risk of being just"
+    },
+    {
+      "start": 155.172,
+      "end": 159.212,
+      "text": "entirely copied. So, it's not great for"
+    },
+    {
+      "start": 157.172,
+      "end": 162.332,
+      "text": "Indies right now, either. Now, there are"
+    },
+    {
+      "start": 159.212,
+      "end": 164.292,
+      "text": "some good news for Indie devs in that"
+    },
+    {
+      "start": 162.332,
+      "end": 168.092,
+      "text": "department, at least. If your game is"
+    },
+    {
+      "start": 164.292,
+      "end": 170.892,
+      "text": "just full on just ripped out and just"
+    },
+    {
+      "start": 168.092,
+      "end": 172.932,
+      "text": "taken code by code, Valve has need to do"
+    },
+    {
+      "start": 170.892,
+      "end": 175.812,
+      "text": "something. One of them that was copied"
+    },
+    {
+      "start": 172.932,
+      "end": 179.092,
+      "text": "code for code has been now kicked out by"
+    },
+    {
+      "start": 175.812,
+      "end": 181.452,
+      "text": "Valve. So, they are taking steps, but if"
+    },
+    {
+      "start": 179.092,
+      "end": 182.932,
+      "text": "the idea is what was taken, there's"
+    },
+    {
+      "start": 181.452,
+      "end": 185.772,
+      "text": "nothing that anyone can do. That's been"
+    },
+    {
+      "start": 182.932,
+      "end": 187.172,
+      "text": "a thing forever. If your idea is simple,"
+    },
+    {
+      "start": 185.772,
+      "end": 189.372,
+      "text": "people will be able to take and make"
+    },
+    {
+      "start": 187.172,
+      "end": 191.092,
+      "text": "copies of it. If not on Steam, then on"
+    },
+    {
+      "start": 189.372,
+      "end": 193.892,
+      "text": "Roblox. If not on Roblox, then somewhere"
+    },
+    {
+      "start": 191.092,
+      "end": 196.492,
+      "text": "else. So, it's now becoming a point"
+    },
+    {
+      "start": 193.892,
+      "end": 199.492,
+      "text": "where in the past, you can make a very"
+    },
+    {
+      "start": 196.492,
+      "end": 201.932,
+      "text": "simple game, put it on Steam, maybe make"
+    },
+    {
+      "start": 199.492,
+      "end": 203.732,
+      "text": "like a couple hundred bucks and if"
+    },
+    {
+      "start": 201.932,
+      "end": 205.252,
+      "text": "you're lucky, and then maybe use that"
+    },
+    {
+      "start": 203.732,
+      "end": 207.172,
+      "text": "money to fund the next game and then"
+    },
+    {
+      "start": 205.252,
+      "end": 210.332,
+      "text": "kind of build up build up build up, but"
+    },
+    {
+      "start": 207.172,
+      "end": 212.532,
+      "text": "now, while you can make a very simple"
+    },
+    {
+      "start": 210.332,
+      "end": 214.452,
+      "text": "game, put it on Steam and get a kind of"
+    },
+    {
+      "start": 212.532,
+      "end": 215.492,
+      "text": "exposure and things like that, it's no"
+    },
+    {
+      "start": 214.452,
+      "end": 217.572,
+      "text": "longer going to be ever going to be"
+    },
+    {
+      "start": 215.492,
+      "end": 219.332,
+      "text": "about the money for a simple game. It's"
+    },
+    {
+      "start": 217.572,
+      "end": 221.532,
+      "text": "going to be a good learning experience,"
+    },
+    {
+      "start": 219.332,
+      "end": 223.372,
+      "text": "and if you're really lucky, then it"
+    },
+    {
+      "start": 221.532,
+      "end": 226.612,
+      "text": "might still work, but I think going"
+    },
+    {
+      "start": 223.372,
+      "end": 228.732,
+      "text": "forward, simple ideas and simple games"
+    },
+    {
+      "start": 226.612,
+      "end": 230.692,
+      "text": "are going to be a lot less common if"
+    },
+    {
+      "start": 228.732,
+      "end": 232.332,
+      "text": "they're going to be expected to earn you"
+    },
+    {
+      "start": 230.692,
+      "end": 234.292,
+      "text": "money. Now, you're still going to be"
+    },
+    {
+      "start": 232.332,
+      "end": 236.972,
+      "text": "able to release simple games and just"
+    },
+    {
+      "start": 234.292,
+      "end": 238.412,
+      "text": "like do free or expect not make a return"
+    },
+    {
+      "start": 236.972,
+      "end": 240.852,
+      "text": "on it kind of thing, those of course"
+    },
+    {
+      "start": 238.412,
+      "end": 243.374,
+      "text": "exist, but I actually think that the age"
+    },
+    {
+      "start": 240.852,
+      "end": 245.454,
+      "text": "of just building up like bigger and"
+    },
+    {
+      "start": 243.374,
+      "end": 247.894,
+      "text": "bigger and bigger games, and starting"
+    },
+    {
+      "start": 245.454,
+      "end": 249.894,
+      "text": "out with a very simple concept, I don't"
+    },
+    {
+      "start": 247.894,
+      "end": 253.054,
+      "text": "think that's going to be around much"
+    },
+    {
+      "start": 249.894,
+      "end": 254.814,
+      "text": "longer if it's even possible these days."
+    },
+    {
+      "start": 253.054,
+      "end": 257.054,
+      "text": "And that's sad. I think that's really"
+    },
+    {
+      "start": 254.814,
+      "end": 259.774,
+      "text": "sad. Now, Steam has said that they, for"
+    },
+    {
+      "start": 257.054,
+      "end": 262.854,
+      "text": "example, don't want to force people to"
+    },
+    {
+      "start": 259.774,
+      "end": 264.974,
+      "text": "use or not use certain tools. That is"
+    },
+    {
+      "start": 262.854,
+      "end": 266.734,
+      "text": "completely fine. They are trying to go"
+    },
+    {
+      "start": 264.974,
+      "end": 268.854,
+      "text": "with the route of, like, here is your"
+    },
+    {
+      "start": 266.734,
+      "end": 271.814,
+      "text": "personal calendar, here's all these"
+    },
+    {
+      "start": 268.854,
+      "end": 273.414,
+      "text": "things to help push the good games"
+    },
+    {
+      "start": 271.814,
+      "end": 275.574,
+      "text": "towards you, or the games you want to"
+    },
+    {
+      "start": 273.414,
+      "end": 277.774,
+      "text": "see towards you. I foresee it actually"
+    },
+    {
+      "start": 275.574,
+      "end": 280.094,
+      "text": "ending up being a lot like YouTube"
+    },
+    {
+      "start": 277.774,
+      "end": 281.814,
+      "text": "homepage, where YouTube is pushing"
+    },
+    {
+      "start": 280.094,
+      "end": 284.614,
+      "text": "things that you want to watch towards"
+    },
+    {
+      "start": 281.814,
+      "end": 286.654,
+      "text": "you. So, it'll be very catered. I kind"
+    },
+    {
+      "start": 284.614,
+      "end": 288.734,
+      "text": "of foresee Steam doing the same thing in"
+    },
+    {
+      "start": 286.654,
+      "end": 291.174,
+      "text": "the long run. We'll see how that turns"
+    },
+    {
+      "start": 288.734,
+      "end": 293.574,
+      "text": "out. Maybe that will be exactly what we"
+    },
+    {
+      "start": 291.174,
+      "end": 295.614,
+      "text": "want, maybe we won't. Time will tell."
+    },
+    {
+      "start": 293.574,
+      "end": 297.174,
+      "text": "Right now, it's definitely a turbulent"
+    },
+    {
+      "start": 295.614,
+      "end": 299.414,
+      "text": "time. Maybe you haven't heard, by the"
+    },
+    {
+      "start": 297.174,
+      "end": 301.694,
+      "text": "way, it's not just indie games that are"
+    },
+    {
+      "start": 299.414,
+      "end": 304.454,
+      "text": "getting their games copied. PlayStation"
+    },
+    {
+      "start": 301.694,
+      "end": 306.254,
+      "text": "5 got a jailbreak. So, if you weren't"
+    },
+    {
+      "start": 304.454,
+      "end": 308.414,
+      "text": "updating, then you could actually play"
+    },
+    {
+      "start": 306.254,
+      "end": 310.094,
+      "text": "all their entire library for a while. It"
+    },
+    {
+      "start": 308.414,
+      "end": 312.734,
+      "text": "might still be possible on an older"
+    },
+    {
+      "start": 310.094,
+      "end": 314.494,
+      "text": "version. And the Switch, too, also took"
+    },
+    {
+      "start": 312.734,
+      "end": 317.094,
+      "text": "a big hit, and has also become"
+    },
+    {
+      "start": 314.494,
+      "end": 319.734,
+      "text": "jailbroken. And it's like, big companies"
+    },
+    {
+      "start": 317.094,
+      "end": 321.894,
+      "text": "aren't in a happy place right now. Indie"
+    },
+    {
+      "start": 319.734,
+      "end": 323.974,
+      "text": "games are not in a happy place to go."
+    },
+    {
+      "start": 321.894,
+      "end": 326.814,
+      "text": "Like I said, it is not in a great place"
+    },
+    {
+      "start": 323.974,
+      "end": 329.614,
+      "text": "right now, but it seems, again, there"
+    },
+    {
+      "start": 326.814,
+      "end": 331.734,
+      "text": "might be some good news, just maybe not"
+    },
+    {
+      "start": 329.614,
+      "end": 335.254,
+      "text": "the news you kind of want to hear. And"
+    },
+    {
+      "start": 331.734,
+      "end": 337.374,
+      "text": "Anthropic has told its AI to stop"
+    },
+    {
+      "start": 335.254,
+      "end": 340.334,
+      "text": "remaking video games, and it's been"
+    },
+    {
+      "start": 337.374,
+      "end": 343.614,
+      "text": "confirmed by one of the developers of"
+    },
+    {
+      "start": 340.334,
+      "end": 346.854,
+      "text": "Anthropic. Now, how good it is at"
+    },
+    {
+      "start": 343.614,
+      "end": 349.574,
+      "text": "stopping this kind of plagiarism remains"
+    },
+    {
+      "start": 346.854,
+      "end": 352.054,
+      "text": "to be seen, but the thing here is,"
+    },
+    {
+      "start": 349.574,
+      "end": 355.214,
+      "text": "that's just Anthropic. That's not every"
+    },
+    {
+      "start": 352.054,
+      "end": 357.454,
+      "text": "single AI company, that's just them. And"
+    },
+    {
+      "start": 355.214,
+      "end": 359.694,
+      "text": "let just say that theirs is perfect, and"
+    },
+    {
+      "start": 357.454,
+      "end": 361.654,
+      "text": "it never does this. Someone will just go"
+    },
+    {
+      "start": 359.694,
+      "end": 363.454,
+      "text": "to someone else. They'll just go to"
+    },
+    {
+      "start": 361.654,
+      "end": 364.975,
+      "text": "Astra, they'll go to another one. And"
+    },
+    {
+      "start": 363.454,
+      "end": 369.095,
+      "text": "assuming, let's say, all of the"
+    },
+    {
+      "start": 364.975,
+      "end": 371.295,
+      "text": "big-named AI companies put a stop to"
+    },
+    {
+      "start": 369.095,
+      "end": 373.295,
+      "text": "being able to plagiarize and steal, you"
+    },
+    {
+      "start": 371.295,
+      "end": 375.455,
+      "text": "know, companies' work, gamers' work,"
+    },
+    {
+      "start": 373.295,
+      "end": 378.375,
+      "text": "right? They'll stop it all. There's the"
+    },
+    {
+      "start": 375.455,
+      "end": 381.135,
+      "text": "local models. Local models don't have"
+    },
+    {
+      "start": 378.375,
+      "end": 383.175,
+      "text": "restrictions like this. And some that do"
+    },
+    {
+      "start": 381.135,
+      "end": 385.015,
+      "text": "don't have to be used specifically. And"
+    },
+    {
+      "start": 383.175,
+      "end": 387.335,
+      "text": "the ones that don't could end up getting"
+    },
+    {
+      "start": 385.015,
+      "end": 390.935,
+      "text": "better, and they will over time. So,"
+    },
+    {
+      "start": 387.335,
+      "end": 392.775,
+      "text": "this is a delay of the inevitable, I"
+    },
+    {
+      "start": 390.935,
+      "end": 394.735,
+      "text": "think, but it's still going to happen."
+    },
+    {
+      "start": 392.775,
+      "end": 396.535,
+      "text": "So, maybe it's going to be paused for"
+    },
+    {
+      "start": 394.735,
+      "end": 398.455,
+      "text": "now, so the next few years, or maybe a"
+    },
+    {
+      "start": 396.535,
+      "end": 401.295,
+      "text": "year, or whatever it is, is going to be"
+    },
+    {
+      "start": 398.455,
+      "end": 404.295,
+      "text": "a little bit better for uh indie devs"
+    },
+    {
+      "start": 401.295,
+      "end": 406.375,
+      "text": "and big companies again after like once"
+    },
+    {
+      "start": 404.295,
+      "end": 407.975,
+      "text": "more companies do this, assuming they"
+    },
+    {
+      "start": 406.375,
+      "end": 410.215,
+      "text": "do. But eventually, it'll go back to"
+    },
+    {
+      "start": 407.975,
+      "end": 411.695,
+      "text": "being a tug-of-war between people trying"
+    },
+    {
+      "start": 410.215,
+      "end": 413.055,
+      "text": "to jailbreak and people trying to stop"
+    },
+    {
+      "start": 411.695,
+      "end": 414.815,
+      "text": "the jailbreak. That's basically what"
+    },
+    {
+      "start": 413.055,
+      "end": 417.415,
+      "text": "it's going to become. Is that a great"
+    },
+    {
+      "start": 414.815,
+      "end": 420.135,
+      "text": "thing? I don't think so, but that's"
+    },
+    {
+      "start": 417.415,
+      "end": 422.935,
+      "text": "where we are. And I know many are hoping"
+    },
+    {
+      "start": 420.135,
+      "end": 424.535,
+      "text": "for that AI bubble to pop, and then"
+    },
+    {
+      "start": 422.935,
+      "end": 426.575,
+      "text": "everything's going to be better. I don't"
+    },
+    {
+      "start": 424.535,
+      "end": 429.495,
+      "text": "think that's going to be the case. Even"
+    },
+    {
+      "start": 426.575,
+      "end": 431.215,
+      "text": "if the AI bubble pops, in a sense, the"
+    },
+    {
+      "start": 429.495,
+      "end": 433.815,
+      "text": "local models are here to stay, right?"
+    },
+    {
+      "start": 431.215,
+      "end": 436.735,
+      "text": "They're not just going to evaporate. And"
+    },
+    {
+      "start": 433.815,
+      "end": 440.135,
+      "text": "they've gotten good. They're not at the"
+    },
+    {
+      "start": 436.735,
+      "end": 442.375,
+      "text": "fully recreate entire game level with"
+    },
+    {
+      "start": 440.135,
+      "end": 444.695,
+      "text": "one prompt good, but you can still use"
+    },
+    {
+      "start": 442.375,
+      "end": 446.855,
+      "text": "them, just slower, to do the same thing"
+    },
+    {
+      "start": 444.695,
+      "end": 449.095,
+      "text": "as the bigger guys. I don't think we can"
+    },
+    {
+      "start": 446.855,
+      "end": 452.215,
+      "text": "ever go back. That'll never happen. So,"
+    },
+    {
+      "start": 449.095,
+      "end": 454.455,
+      "text": "we can only work and plan around the"
+    },
+    {
+      "start": 452.215,
+      "end": 456.375,
+      "text": "current and the present, and kind of"
+    },
+    {
+      "start": 454.455,
+      "end": 458.135,
+      "text": "move forward with that. And because it's"
+    },
+    {
+      "start": 456.375,
+      "end": 460.415,
+      "text": "here to stay, we kind of have to make a"
+    },
+    {
+      "start": 458.135,
+      "end": 462.975,
+      "text": "choice. We have to make a choice in kind"
+    },
+    {
+      "start": 460.415,
+      "end": 465.695,
+      "text": "of two separate categories, personally"
+    },
+    {
+      "start": 462.975,
+      "end": 468.855,
+      "text": "and professionally. Because you can be"
+    },
+    {
+      "start": 465.695,
+      "end": 471.015,
+      "text": "personally, let's say, against AI use,"
+    },
+    {
+      "start": 468.855,
+      "end": 473.975,
+      "text": "but professionally be okay with AI use,"
+    },
+    {
+      "start": 471.015,
+      "end": 475.535,
+      "text": "or vice versa, or you're you're against"
+    },
+    {
+      "start": 473.975,
+      "end": 477.495,
+      "text": "it in both scenarios, or okay in both"
+    },
+    {
+      "start": 475.535,
+      "end": 479.415,
+      "text": "scenarios, right? And then, even within"
+    },
+    {
+      "start": 477.495,
+      "end": 480.855,
+      "text": "that, there's like you can be okay with"
+    },
+    {
+      "start": 479.415,
+      "end": 482.615,
+      "text": "certain things, not certain things. The"
+    },
+    {
+      "start": 480.855,
+      "end": 485.175,
+      "text": "main thing is, you have to be"
+    },
+    {
+      "start": 482.615,
+      "end": 487.095,
+      "text": "understanding that AI is here to stay."
+    },
+    {
+      "start": 485.175,
+      "end": 490.417,
+      "text": "This is the situation we're in. Now,"
+    },
+    {
+      "start": 487.095,
+      "end": 492.857,
+      "text": "let's go ahead and figure out what to do"
+    },
+    {
+      "start": 490.417,
+      "end": 495.537,
+      "text": "in this scenario. Cuz I want to also"
+    },
+    {
+      "start": 492.857,
+      "end": 497.217,
+      "text": "talk to you guys about, well, Epic Games"
+    },
+    {
+      "start": 495.537,
+      "end": 499.697,
+      "text": "announcing that they're going very much"
+    },
+    {
+      "start": 497.217,
+      "end": 501.657,
+      "text": "AI forward. Tim Sweeney has made a post"
+    },
+    {
+      "start": 499.697,
+      "end": 504.537,
+      "text": "saying they have pivoted Epic"
+    },
+    {
+      "start": 501.657,
+      "end": 507.057,
+      "text": "dramatically and basically maximum AI"
+    },
+    {
+      "start": 504.537,
+      "end": 510.897,
+      "text": "acceleration, as he says. And since I am"
+    },
+    {
+      "start": 507.057,
+      "end": 513.417,
+      "text": "a UE5 user, right, that impacts me. But,"
+    },
+    {
+      "start": 510.897,
+      "end": 516.497,
+      "text": "it impacts me differently professionally"
+    },
+    {
+      "start": 513.417,
+      "end": 518.297,
+      "text": "and kind of personally. And I kind of"
+    },
+    {
+      "start": 516.497,
+      "end": 520.657,
+      "text": "want to talk about from my point of view"
+    },
+    {
+      "start": 518.297,
+      "end": 523.377,
+      "text": "how I'm tackling this on a personal"
+    },
+    {
+      "start": 520.657,
+      "end": 524.817,
+      "text": "sense and and a professional sense. Now,"
+    },
+    {
+      "start": 523.377,
+      "end": 527.697,
+      "text": "let's start with the personal one."
+    },
+    {
+      "start": 524.817,
+      "end": 530.817,
+      "text": "Personally, I am not going to be using"
+    },
+    {
+      "start": 527.697,
+      "end": 533.617,
+      "text": "AI inside my game. I have no desire to."
+    },
+    {
+      "start": 530.817,
+      "end": 536.017,
+      "text": "The main thing is I like the AI as a"
+    },
+    {
+      "start": 533.617,
+      "end": 539.737,
+      "text": "tool to kind of help with some back-end"
+    },
+    {
+      "start": 536.017,
+      "end": 542.417,
+      "text": "stuff. So, I am using things like an AI"
+    },
+    {
+      "start": 539.737,
+      "end": 545.417,
+      "text": "to ask questions, look things up, help"
+    },
+    {
+      "start": 542.417,
+      "end": 547.377,
+      "text": "design a tool that just reads the data"
+    },
+    {
+      "start": 545.417,
+      "end": 549.817,
+      "text": "table, things like that. Something to"
+    },
+    {
+      "start": 547.377,
+      "end": 551.977,
+      "text": "manage my to-dos."
+    },
+    {
+      "start": 549.817,
+      "end": 553.937,
+      "text": "My personal I'm completely okay with"
+    },
+    {
+      "start": 551.977,
+      "end": 555.817,
+      "text": "doing that. But, I don't want to"
+    },
+    {
+      "start": 553.937,
+      "end": 558.377,
+      "text": "actually like, let's say, ingest it into"
+    },
+    {
+      "start": 555.817,
+      "end": 561.457,
+      "text": "Unreal in my case and then have it make"
+    },
+    {
+      "start": 558.377,
+      "end": 563.737,
+      "text": "stuff for me or have published AI"
+    },
+    {
+      "start": 561.457,
+      "end": 565.926,
+      "text": "finished art. Now, the reason for that"
+    },
+    {
+      "start": 563.737,
+      "end": 568.737,
+      "text": "is manifold. One, I enjoy"
+    },
+    {
+      "start": 565.926,
+      "end": 570.697,
+      "text": "[clears throat] the process of doing the"
+    },
+    {
+      "start": 568.737,
+      "end": 573.257,
+      "text": "blueprints. I enjoy the process of"
+    },
+    {
+      "start": 570.697,
+      "end": 575.297,
+      "text": "making the game. I feel like having AI"
+    },
+    {
+      "start": 573.257,
+      "end": 577.377,
+      "text": "do the stuff that I enjoy takes away"
+    },
+    {
+      "start": 575.297,
+      "end": 579.337,
+      "text": "from my fun. So, I don't want to take"
+    },
+    {
+      "start": 577.377,
+      "end": 581.377,
+      "text": "away from my fun. So, I will do that all"
+    },
+    {
+      "start": 579.337,
+      "end": 583.417,
+      "text": "myself. And the parts that I'm not very"
+    },
+    {
+      "start": 581.377,
+      "end": 585.297,
+      "text": "good with, I'll go find some artists cuz"
+    },
+    {
+      "start": 583.417,
+      "end": 587.537,
+      "text": "I think it'll be really nice to work"
+    },
+    {
+      "start": 585.297,
+      "end": 589.977,
+      "text": "with other people, make some contacts,"
+    },
+    {
+      "start": 587.537,
+      "end": 592.697,
+      "text": "and build up a game like that. That is"
+    },
+    {
+      "start": 589.977,
+      "end": 595.097,
+      "text": "going to be all human-made in my"
+    },
+    {
+      "start": 592.697,
+      "end": 598.697,
+      "text": "scenario. Professionally, though, if the"
+    },
+    {
+      "start": 595.097,
+      "end": 600.537,
+      "text": "job says I use AI, I will use AI. That's"
+    },
+    {
+      "start": 598.697,
+      "end": 602.017,
+      "text": "That to me is a no-brainer decision."
+    },
+    {
+      "start": 600.537,
+      "end": 604.377,
+      "text": "Because at the end of the day, to me, it"
+    },
+    {
+      "start": 602.017,
+      "end": 606.337,
+      "text": "is a job and the job is paying for me to"
+    },
+    {
+      "start": 604.377,
+      "end": 608.337,
+      "text": "do something, I will do that. Whether or"
+    },
+    {
+      "start": 606.337,
+      "end": 610.698,
+      "text": "not I like it or not, doesn't matter. If"
+    },
+    {
+      "start": 608.337,
+      "end": 612.938,
+      "text": "a job wants me to use it, I will use it,"
+    },
+    {
+      "start": 610.698,
+      "end": 615.938,
+      "text": "and it's simple as that. Now, in terms"
+    },
+    {
+      "start": 612.938,
+      "end": 617.458,
+      "text": "of UE6 dropping blueprints, for example,"
+    },
+    {
+      "start": 615.938,
+      "end": 618.978,
+      "text": "on a professional level, that is"
+    },
+    {
+      "start": 617.458,
+      "end": 621.338,
+      "text": "unfortunate for me as someone that"
+    },
+    {
+      "start": 618.978,
+      "end": 623.618,
+      "text": "doesn't actually write my own code. I've"
+    },
+    {
+      "start": 621.338,
+      "end": 626.138,
+      "text": "always struggled reading documentation,"
+    },
+    {
+      "start": 623.618,
+      "end": 628.618,
+      "text": "so I've never been able to go in full"
+    },
+    {
+      "start": 626.138,
+      "end": 631.098,
+      "text": "coding. It's why I've always been a kind"
+    },
+    {
+      "start": 628.618,
+      "end": 632.818,
+      "text": "of a artist technical artist versus a"
+    },
+    {
+      "start": 631.098,
+      "end": 634.818,
+      "text": "programmer technical artist, if that"
+    },
+    {
+      "start": 632.818,
+      "end": 636.138,
+      "text": "kind of makes sense. But, if AI is"
+    },
+    {
+      "start": 634.818,
+      "end": 638.578,
+      "text": "already going to be doing a lot of the"
+    },
+    {
+      "start": 636.138,
+      "end": 640.178,
+      "text": "AI coding stuff and a lot of it's going"
+    },
+    {
+      "start": 638.578,
+      "end": 642.858,
+      "text": "to be done, let's say, with Verse and"
+    },
+    {
+      "start": 640.178,
+      "end": 644.738,
+      "text": "UE6, I mean, I'm already good on the"
+    },
+    {
+      "start": 642.858,
+      "end": 646.498,
+      "text": "other part of it, and AI is going to"
+    },
+    {
+      "start": 644.738,
+      "end": 647.858,
+      "text": "take care of that. So, I feel like"
+    },
+    {
+      "start": 646.498,
+      "end": 650.058,
+      "text": "there's still going to be a spot for"
+    },
+    {
+      "start": 647.858,
+      "end": 652.698,
+      "text": "someone like me going forward in terms"
+    },
+    {
+      "start": 650.058,
+      "end": 656.218,
+      "text": "of a professional job market. As in, I"
+    },
+    {
+      "start": 652.698,
+      "end": 657.738,
+      "text": "don't think it's a 100% job is dead, no"
+    },
+    {
+      "start": 656.218,
+      "end": 659.938,
+      "text": "hope at all. I think there's still a"
+    },
+    {
+      "start": 657.738,
+      "end": 662.858,
+      "text": "chance. We'll have, of course, see. The"
+    },
+    {
+      "start": 659.938,
+      "end": 665.338,
+      "text": "job market right now is bad as it is."
+    },
+    {
+      "start": 662.858,
+      "end": 667.538,
+      "text": "So, where it'll be by the time UE6 comes"
+    },
+    {
+      "start": 665.338,
+      "end": 669.258,
+      "text": "out and all of that happens, remains to"
+    },
+    {
+      "start": 667.538,
+      "end": 671.378,
+      "text": "be seen. At the current moment, my"
+    },
+    {
+      "start": 669.258,
+      "end": 673.258,
+      "text": "current uh contract ends at the end of"
+    },
+    {
+      "start": 671.378,
+      "end": 675.538,
+      "text": "the month. So, it's very possible that,"
+    },
+    {
+      "start": 673.258,
+      "end": 677.138,
+      "text": "you know, I will be on the sidelines for"
+    },
+    {
+      "start": 675.538,
+      "end": 678.698,
+      "text": "a very long time. It's possible that"
+    },
+    {
+      "start": 677.138,
+      "end": 681.178,
+      "text": "I'll find maybe something in the"
+    },
+    {
+      "start": 678.698,
+      "end": 683.218,
+      "text": "meantime, kind of a in between. Time"
+    },
+    {
+      "start": 681.178,
+      "end": 685.458,
+      "text": "will tell, but professionally, I will"
+    },
+    {
+      "start": 683.218,
+      "end": 687.778,
+      "text": "use and learn whatever it is the job"
+    },
+    {
+      "start": 685.458,
+      "end": 689.738,
+      "text": "requires. And on the personal side, I"
+    },
+    {
+      "start": 687.778,
+      "end": 691.698,
+      "text": "will use what I enjoy and what I want"
+    },
+    {
+      "start": 689.738,
+      "end": 693.818,
+      "text": "to. I feel like those two are very"
+    },
+    {
+      "start": 691.698,
+      "end": 696.138,
+      "text": "separate things, at least for me. And"
+    },
+    {
+      "start": 693.818,
+      "end": 698.738,
+      "text": "lastly, I want to talk about the YouTube"
+    },
+    {
+      "start": 696.138,
+      "end": 700.578,
+      "text": "channel and just YouTube in general. As"
+    },
+    {
+      "start": 698.738,
+      "end": 703.858,
+      "text": "I'm sure you've noticed, there's been a"
+    },
+    {
+      "start": 700.578,
+      "end": 705.618,
+      "text": "ton and ton of Unreal channels that have"
+    },
+    {
+      "start": 703.858,
+      "end": 708.738,
+      "text": "been going like, here's how you make a"
+    },
+    {
+      "start": 705.618,
+      "end": 710.818,
+      "text": "game with AI, here's this thing with AI,"
+    },
+    {
+      "start": 708.738,
+      "end": 711.938,
+      "text": "and including me, by the way, right? I'm"
+    },
+    {
+      "start": 710.818,
+      "end": 714.578,
+      "text": "not saying I haven't done that. I've"
+    },
+    {
+      "start": 711.938,
+      "end": 717.658,
+      "text": "made two videos. That's like, hey, I've"
+    },
+    {
+      "start": 714.578,
+      "end": 721.258,
+      "text": "made this thing with AI, which was the"
+    },
+    {
+      "start": 717.658,
+      "end": 723.218,
+      "text": "kind of back-end using AI for back-end"
+    },
+    {
+      "start": 721.258,
+      "end": 724.418,
+      "text": "devving. And I've made one showing I've"
+    },
+    {
+      "start": 723.218,
+      "end": 726.698,
+      "text": "made the"
+    },
+    {
+      "start": 724.418,
+      "end": 729.618,
+      "text": "data table reader. I haven't made any"
+    },
+    {
+      "start": 726.698,
+      "end": 732.379,
+      "text": "that are like, let's use AI to make a"
+    },
+    {
+      "start": 729.618,
+      "end": 736.339,
+      "text": "game. And I I want to make those videos."
+    },
+    {
+      "start": 732.379,
+      "end": 738.299,
+      "text": "Now, I've gotten a lot of emails asking"
+    },
+    {
+      "start": 736.339,
+      "end": 741.179,
+      "text": "to collaborate for something like that."
+    },
+    {
+      "start": 738.299,
+      "end": 743.379,
+      "text": "I could probably be at the high four"
+    },
+    {
+      "start": 741.179,
+      "end": 745.259,
+      "text": "digits if not five digits range right"
+    },
+    {
+      "start": 743.379,
+      "end": 748.539,
+      "text": "now if I just took them all, but I"
+    },
+    {
+      "start": 745.259,
+      "end": 751.059,
+      "text": "really don't want to. Cuz like I said,"
+    },
+    {
+      "start": 748.539,
+      "end": 754.819,
+      "text": "on the personal side, I don't want to"
+    },
+    {
+      "start": 751.059,
+      "end": 758.339,
+      "text": "put AI into the part that I enjoy doing."
+    },
+    {
+      "start": 754.819,
+      "end": 760.459,
+      "text": "I don't want to make the AI 3D character"
+    },
+    {
+      "start": 758.339,
+      "end": 762.699,
+      "text": "for me because I think it's really cool"
+    },
+    {
+      "start": 760.459,
+      "end": 764.979,
+      "text": "having this handmade character. I think"
+    },
+    {
+      "start": 762.699,
+      "end": 767.099,
+      "text": "it's a fun process and helps someone"
+    },
+    {
+      "start": 764.979,
+      "end": 769.419,
+      "text": "else out. I don't want to take away the"
+    },
+    {
+      "start": 767.099,
+      "end": 771.979,
+      "text": "creative stuff. So, I've not taken a"
+    },
+    {
+      "start": 769.419,
+      "end": 773.579,
+      "text": "single AI sponsorship or collaboration"
+    },
+    {
+      "start": 771.979,
+      "end": 775.539,
+      "text": "or whatever you want to call it despite"
+    },
+    {
+      "start": 773.579,
+      "end": 777.419,
+      "text": "being offered tons of them just cuz I"
+    },
+    {
+      "start": 775.539,
+      "end": 780.179,
+      "text": "don't want to. Now, if something comes"
+    },
+    {
+      "start": 777.419,
+      "end": 784.019,
+      "text": "along and then it's like, \"Hey, we will"
+    },
+    {
+      "start": 780.179,
+      "end": 786.619,
+      "text": "give you $100,000 to like talk about"
+    },
+    {
+      "start": 784.019,
+      "end": 789.299,
+      "text": "this in a video.\" Am I going to say no?"
+    },
+    {
+      "start": 786.619,
+      "end": 792.259,
+      "text": "It's I'll be honest, when the number is"
+    },
+    {
+      "start": 789.299,
+      "end": 793.779,
+      "text": "insane enough, sure, we can talk. Is am"
+    },
+    {
+      "start": 792.259,
+      "end": 795.819,
+      "text": "I ever going to get that kind of number"
+    },
+    {
+      "start": 793.779,
+      "end": 797.579,
+      "text": "at my size? Absolutely not. So, I don't"
+    },
+    {
+      "start": 795.819,
+      "end": 800.899,
+      "text": "think that's a realistic thing to even"
+    },
+    {
+      "start": 797.579,
+      "end": 804.179,
+      "text": "consider. What I'm saying is am I"
+    },
+    {
+      "start": 800.899,
+      "end": 806.179,
+      "text": "this hard like unmovable object that"
+    },
+    {
+      "start": 804.179,
+      "end": 807.299,
+      "text": "will never accept it? There is a number"
+    },
+    {
+      "start": 806.179,
+      "end": 809.299,
+      "text": "that is going to be high enough and I"
+    },
+    {
+      "start": 807.299,
+      "end": 811.299,
+      "text": "feel like anyone that says there is no"
+    },
+    {
+      "start": 809.299,
+      "end": 814.979,
+      "text": "number high enough is not really"
+    },
+    {
+      "start": 811.299,
+      "end": 817.339,
+      "text": "thinking about their kind of future and"
+    },
+    {
+      "start": 814.979,
+      "end": 819.139,
+      "text": "right cuz at certain point you just have"
+    },
+    {
+      "start": 817.339,
+      "end": 821.059,
+      "text": "enough money to sustain you for another"
+    },
+    {
+      "start": 819.139,
+      "end": 822.539,
+      "text": "year or two and then it becomes a lot"
+    },
+    {
+      "start": 821.059,
+      "end": 824.819,
+      "text": "easier and you can do other things like"
+    },
+    {
+      "start": 822.539,
+      "end": 826.739,
+      "text": "working your own game. I digress. The"
+    },
+    {
+      "start": 824.819,
+      "end": 829.539,
+      "text": "point is I have no desire to take any"
+    },
+    {
+      "start": 826.739,
+      "end": 831.459,
+      "text": "sponsorships with AI in the anywhere in"
+    },
+    {
+      "start": 829.539,
+      "end": 833.539,
+      "text": "the year foreseeable future. And the"
+    },
+    {
+      "start": 831.459,
+      "end": 835.659,
+      "text": "only way that happens is some"
+    },
+    {
+      "start": 833.539,
+      "end": 837.139,
+      "text": "cataclysmic event or an insane amount of"
+    },
+    {
+      "start": 835.659,
+      "end": 839.179,
+      "text": "money. In which case you guys would know"
+    },
+    {
+      "start": 837.139,
+      "end": 841.819,
+      "text": "about it. Now, I will occasionally still"
+    },
+    {
+      "start": 839.179,
+      "end": 843.619,
+      "text": "probably make one or two videos here and"
+    },
+    {
+      "start": 841.819,
+      "end": 845.859,
+      "text": "there just showing how I maybe use some"
+    },
+    {
+      "start": 843.619,
+      "end": 848.059,
+      "text": "AI in the back end and kind of go from"
+    },
+    {
+      "start": 845.859,
+      "end": 851.099,
+      "text": "there. Although, I don't really use it"
+    },
+    {
+      "start": 848.059,
+      "end": 852.899,
+      "text": "that much these days. I've kind of made"
+    },
+    {
+      "start": 851.099,
+      "end": 854.619,
+      "text": "what I needed to and I've kind of shown"
+    },
+    {
+      "start": 852.899,
+      "end": 856.741,
+      "text": "that off. I don't really do much else"
+    },
+    {
+      "start": 854.619,
+      "end": 859.021,
+      "text": "beyond that. So, these days it's just"
+    },
+    {
+      "start": 856.741,
+      "end": 860.661,
+      "text": "all the same kind of workflow stuff. But"
+    },
+    {
+      "start": 859.021,
+      "end": 863.141,
+      "text": "AI I saw you probably also have noticed"
+    },
+    {
+      "start": 860.661,
+      "end": 865.941,
+      "text": "that I've been having a lot fewer PCG"
+    },
+    {
+      "start": 863.141,
+      "end": 867.741,
+      "text": "videos, to say the least. That's to do"
+    },
+    {
+      "start": 865.941,
+      "end": 871.501,
+      "text": "with the fact that there's no more PCG"
+    },
+    {
+      "start": 867.741,
+      "end": 875.221,
+      "text": "updates. Unreal 5 is done. There's"
+    },
+    {
+      "start": 871.501,
+      "end": 877.181,
+      "text": "5.9 coming out, I believe. But even that"
+    },
+    {
+      "start": 875.221,
+      "end": 879.301,
+      "text": "doesn't actually have any updates for my"
+    },
+    {
+      "start": 877.181,
+      "end": 881.341,
+      "text": "understanding from what's been announced"
+    },
+    {
+      "start": 879.301,
+      "end": 883.701,
+      "text": "except MCP. And in that regard, there's"
+    },
+    {
+      "start": 881.341,
+      "end": 885.981,
+      "text": "no PCG updates. So, I don't really have"
+    },
+    {
+      "start": 883.701,
+      "end": 887.021,
+      "text": "anything kind of new to teach you guys"
+    },
+    {
+      "start": 885.981,
+      "end": 887.741,
+      "text": "that I haven't already taught you. I"
+    },
+    {
+      "start": 887.021,
+      "end": 891.021,
+      "text": "have"
+    },
+    {
+      "start": 887.741,
+      "end": 893.381,
+      "text": "a giant catalog of videos about PCG. In"
+    },
+    {
+      "start": 891.021,
+      "end": 895.541,
+      "text": "terms of like what time I can dedicate"
+    },
+    {
+      "start": 893.381,
+      "end": 897.181,
+      "text": "to them every week, that's kind of where"
+    },
+    {
+      "start": 895.541,
+      "end": 899.261,
+      "text": "we are. So, that's why we haven't done"
+    },
+    {
+      "start": 897.181,
+      "end": 903.101,
+      "text": "of that. And that's why I've been doing"
+    },
+    {
+      "start": 899.261,
+      "end": 905.661,
+      "text": "kind of more general Unreal technical"
+    },
+    {
+      "start": 903.101,
+      "end": 907.941,
+      "text": "artist stuff where, you know, I show how"
+    },
+    {
+      "start": 905.661,
+      "end": 909.821,
+      "text": "to make like an editor utility widget or"
+    },
+    {
+      "start": 907.941,
+      "end": 911.901,
+      "text": "something else. It's going to be more"
+    },
+    {
+      "start": 909.821,
+      "end": 915.381,
+      "text": "general Unreal tech art versus"
+    },
+    {
+      "start": 911.901,
+      "end": 917.661,
+      "text": "specifically PCG. But if there is a fun"
+    },
+    {
+      "start": 915.381,
+      "end": 919.341,
+      "text": "PCG idea that I get, I will absolutely"
+    },
+    {
+      "start": 917.661,
+      "end": 921.461,
+      "text": "do it. Or something comes out that is"
+    },
+    {
+      "start": 919.341,
+      "end": 923.661,
+      "text": "absolutely cool and I have the time to"
+    },
+    {
+      "start": 921.461,
+      "end": 925.661,
+      "text": "kind of look into it and figure it out,"
+    },
+    {
+      "start": 923.661,
+      "end": 927.821,
+      "text": "I will absolutely make a video on it."
+    },
+    {
+      "start": 925.661,
+      "end": 929.941,
+      "text": "I'm not dropping PCG. It's just there's"
+    },
+    {
+      "start": 927.821,
+      "end": 932.061,
+      "text": "a little bit of a lull because there's"
+    },
+    {
+      "start": 929.941,
+      "end": 933.781,
+      "text": "no new updates. So, that kind of brings"
+    },
+    {
+      "start": 932.061,
+      "end": 936.301,
+      "text": "us to today. The gaming industry is in"
+    },
+    {
+      "start": 933.781,
+      "end": 938.461,
+      "text": "shambles. AI is changing everything"
+    },
+    {
+      "start": 936.301,
+      "end": 941.301,
+      "text": "everywhere and we got to figure out how"
+    },
+    {
+      "start": 938.461,
+      "end": 943.621,
+      "text": "we want to move forward. And I think the"
+    },
+    {
+      "start": 941.301,
+      "end": 945.541,
+      "text": "answer to how that happens is going to"
+    },
+    {
+      "start": 943.621,
+      "end": 947.421,
+      "text": "be very different for every person. Some"
+    },
+    {
+      "start": 945.541,
+      "end": 948.941,
+      "text": "people are going to embrace more or less"
+    },
+    {
+      "start": 947.421,
+      "end": 950.781,
+      "text": "and I think that's fine. There's no"
+    },
+    {
+      "start": 948.941,
+      "end": 952.581,
+      "text": "right answer here. Everyone's different."
+    },
+    {
+      "start": 950.781,
+      "end": 955.061,
+      "text": "Everyone values something differently."
+    },
+    {
+      "start": 952.581,
+      "end": 956.901,
+      "text": "And yes, I know that because I am this"
+    },
+    {
+      "start": 955.061,
+      "end": 958.501,
+      "text": "middle ground, I'm probably going to get"
+    },
+    {
+      "start": 956.901,
+      "end": 959.901,
+      "text": "on from both sides. I've been on"
+    },
+    {
+      "start": 958.501,
+      "end": 961.941,
+      "text": "the middle ground for pretty much"
+    },
+    {
+      "start": 959.901,
+      "end": 964.261,
+      "text": "everything across my entire life. I'm"
+    },
+    {
+      "start": 961.941,
+      "end": 965.621,
+      "text": "used to it, so it is what it is. But if"
+    },
+    {
+      "start": 964.261,
+      "end": 967.781,
+      "text": "you're still here at the end listening"
+    },
+    {
+      "start": 965.621,
+      "end": 969.901,
+      "text": "to this, I really appreciate it. I'm"
+    },
+    {
+      "start": 967.781,
+      "end": 973.101,
+      "text": "going to continue working on my game and"
+    },
+    {
+      "start": 969.901,
+      "end": 976.021,
+      "text": "trying to save up some money to hire"
+    },
+    {
+      "start": 973.101,
+      "end": 978.742,
+      "text": "some actual talent and some artists to"
+    },
+    {
+      "start": 976.021,
+      "end": 980.982,
+      "text": "actually do the full art and everything."
+    },
+    {
+      "start": 978.742,
+      "end": 983.342,
+      "text": "In fact, one person has uh already"
+    },
+    {
+      "start": 980.982,
+      "end": 985.942,
+      "text": "accepted the full proper character"
+    },
+    {
+      "start": 983.342,
+      "end": 986.902,
+      "text": "concept for the main character, and"
+    },
+    {
+      "start": 985.942,
+      "end": 988.742,
+      "text": "they're going to be doing that this"
+    },
+    {
+      "start": 986.902,
+      "end": 991.262,
+      "text": "month. So, I'm looking forward to seeing"
+    },
+    {
+      "start": 988.742,
+      "end": 993.302,
+      "text": "the official concept art for the main"
+    },
+    {
+      "start": 991.262,
+      "end": 995.662,
+      "text": "character. Hopefully, it's going to be"
+    },
+    {
+      "start": 993.302,
+      "end": 998.302,
+      "text": "great. And if you'd like to support the"
+    },
+    {
+      "start": 995.662,
+      "end": 1000.302,
+      "text": "development of my game, consider joining"
+    },
+    {
+      "start": 998.302,
+      "end": 1002.902,
+      "text": "the Patreon. And these wonderful members"
+    },
+    {
+      "start": 1000.302,
+      "end": 1004.342,
+      "text": "here have helped support what I do. It"
+    },
+    {
+      "start": 1002.902,
+      "end": 1005.782,
+      "text": "really means a lot. If you'd like to"
+    },
+    {
+      "start": 1004.342,
+      "end": 1006.822,
+      "text": "join the community, link to the Discord"
+    },
+    {
+      "start": 1005.782,
+      "end": 1008.902,
+      "text": "and everything else is in the"
+    },
+    {
+      "start": 1006.822,
+      "end": 1010.502,
+      "text": "description below, as always. And let me"
+    },
+    {
+      "start": 1008.902,
+      "end": 1012.862,
+      "text": "know what you thought of this talk, as"
+    },
+    {
+      "start": 1010.502,
+      "end": 1015.222,
+      "text": "well as consider checking out these"
+    },
+    {
+      "start": 1012.862,
+      "end": 1018.102,
+      "text": "videos here for some more things to"
+    },
+    {
+      "start": 1015.222,
+      "end": 1020,
+      "text": "watch on the channel."
+    },
+    {
+      "start": 1018.102,
+      "end": 1020,
+      "text": "Thanks for listening."
+    }
+  ]
+}

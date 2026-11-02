@@ -1,0 +1,206 @@
+{
+  "videoId": "WDdsdeyGFIE",
+  "title": "Building a Game Marketing Strategy from Goals to Feedback",
+  "slug": "building-a-game-marketing-strategy-from-goals-to-feedback",
+  "basis": "captions-and-frames",
+  "dek": "Daria Vlasova walks through a complete beginner marketing process using a fictional indie space shooter.",
+  "overview": [
+    "Daria Vlasova presents marketing as an ongoing exchange between a studio and the people it hopes to serve. Her process moves from business and project goals through segmentation, environment and audience research, strategy, practical tactics, execution, and revision. A fictional three-person studio developing Alien Space Kill makes the steps concrete. The important connection is between them: choosing a post format or event only makes sense after understanding what the team wants to achieve and what its audience values."
+  ],
+  "takeaways": [
+    {
+      "title": "Start with the purpose of the business and project",
+      "text": "Studio recognition, finding partners, building a community, and selling a game can call for different marketing work."
+    },
+    {
+      "title": "Research the audience before choosing activities",
+      "text": "Relevant segments, context, player habits, and available team resources determine which tactics are plausible."
+    },
+    {
+      "title": "Treat execution as the start of a learning loop",
+      "text": "Feedback should change the schedule, content, and activities rather than merely confirm that a plan was completed."
+    }
+  ],
+  "sections": [
+    {
+      "id": "market-and-value",
+      "title": "Marketing connects a studio with a market through a two-way exchange",
+      "start": 0,
+      "end": 430,
+      "paragraphs": [
+        "Vlasova begins by defining the market itself. Like a familiar physical market, the games market connects producers and customers, with other interested parties around them. Studios supply games, players choose what to play, and publishers, investors, and agencies may also affect the exchange. Different types of games and platforms create different markets within that broad picture.",
+        "In this framing, marketing is the process of positioning a studio or project among the alternatives available to those customers. It is larger than creating an account, publishing a trailer, or buying an advertisement. Those can be activities within the process, but they are useful only insofar as they help the project reach people for whom it is relevant.",
+        "The key idea is circulation of value. A studio offers something beneficial through its game, but the relationship should not stop at sending a product outward and hoping people buy. Players return information through their reactions and feedback. A team can use that information to improve the game, adjust its communication, and become more relevant. Value here includes the experience people receive, rather than being only another name for revenue.",
+        "Her running example is a fictional game, Alien Space Kill: an independent game about shooting aliens in space. Even that simple description suggests several possible markets, including indie games, alien-themed games, science fiction, and space games. The rest of the talk expands this example to show how the same project can fit several overlapping audiences."
+      ]
+    },
+    {
+      "id": "why-marketing",
+      "title": "Why understanding a particular player matters",
+      "start": 430,
+      "end": 559,
+      "paragraphs": [
+        "The popularity of marketing courses, social media advice, and unfamiliar terms can make the subject appear overcomplicated or overrated. Vlasova argues that its prominence reflects the ability to understand individual customers more closely. Instead of assuming a single general public will want the same thing, a team asks how particular people live, what devices they use, and what they already play.",
+        "The questions can be concrete: does this person use a phone, a console, or a PC? Which games interest them? If they do not play, what keeps them from doing so? That knowledge may reveal an approach that generic advertising misses. Technology and social platforms make these differences more visible, which is part of why modern marketing contains so many specialized activities.",
+        "The purpose of research is therefore practical. It helps a team choose communication that fits someone's actual behavior and interests. The fact that a platform offers a tactic does not itself explain why that tactic belongs in this game's plan."
+      ]
+    },
+    {
+      "id": "goals",
+      "title": "Build the foundation from business goals and project goals",
+      "start": 559,
+      "end": 952,
+      "paragraphs": [
+        "Before defining a marketing goal, Vlasova asks what the business and the project are trying to achieve. Even a solo developer benefits from this distinction. Releasing the game may be the immediate objective, but the studio may also need recognition, investment, a publisher, collaborators, or enough staff to complete the work at an acceptable quality. Those needs can lead to different audiences and activities.",
+        "She gives the fictional studio three founders: Natasha, Denis, and Konstantine. Their initials form NDK Interactive, as the inspected team slide confirms. The example business goal is to become better known in developer communities connected to science fiction. That visibility could create opportunities for exchanging knowledge, getting feedback, meeting collaborators, and encountering media interested in new studios. It is a business goal with potential value even before the game is sold.",
+        "The project has its own situation: Alien Space Kill is meant to launch in about a year, and the team has already set up a Facebook page. Its example goals are to build a strong community around the game and strengthen awareness of the game's brand. A studio brand and a game brand are related, but they are not identical. A person may recognize the game without knowing the company, or know the company without following this particular project.",
+        "The resulting marketing goals bring those business and project intentions together. In the example, the team wants stronger recognition in relevant developer communities as well as a larger, more engaged audience for Alien Space Kill. This foundation gives later choices a test: does this proposed activity help achieve one of those goals?",
+        "Vlasova encourages spending time on this stage because every later step depends on it. A team that begins by imitating another studio's posting schedule may stay busy without knowing whether the work serves its own needs. Clear goals also provide a reference when the growing number of options becomes confusing."
+      ]
+    },
+    {
+      "id": "segmentation",
+      "title": "Split a broad market into relevant, viable segments",
+      "start": 952,
+      "end": 1303,
+      "paragraphs": [
+        "Segmentation is her first analysis step. She compares a market to a pie divided into pieces: each piece belongs to the larger whole but has characteristics of its own. The aim is not to invent as many labels as possible. It is to identify groups that have a plausible reason to care about this game.",
+        "The fictional product now gains more detail. It is a 2D indie space shooter focused on attractive art and environments, made by a team in Germany, intended for German and English release on Steam. The inspected segmentation slide maps those details to categories such as science fiction, space, indie games, alien-killing games, 2D games, the two languages, and game-art enthusiasts. Some of these categories overlap rather than dividing people into exclusive boxes.",
+        "Relevance is the filter. A language or theme may describe the game correctly but still provide too little information to identify a useful audience. Vlasova asks whether a segment contains enough people who could want the game and whether they could actually buy it. A group of young children interested only in free games, for example, might not support the intended product even if some thematic interests match.",
+        "She recommends beginning with one or a few especially relevant segments, testing the approach, and then using the results to consider others. The example settles on German sci-fi indie-game enthusiasts. That is a narrow market, but narrowness is not automatically a problem if the group is large enough for the team's goals and the economics make sense.",
+        "The useful distinction is between a small audience that fits and an enormous audience with little reason to respond. A niche lets a team be specific about the benefit it offers. It still needs evaluation; being specialized is not evidence by itself that the niche can sustain a project."
+      ],
+      "figures": [
+        {
+          "time": 1110,
+          "caption": "Product details lead to overlapping audience segments. The example begins with the game rather than choosing a promotional channel first."
+        }
+      ]
+    },
+    {
+      "id": "environments",
+      "title": "Examine wider conditions, the industry, and the studio’s own capacity",
+      "start": 1303,
+      "end": 1687,
+      "paragraphs": [
+        "Each chosen segment sits within an environment. Vlasova separates the wider context, the surrounding industry relationships, and the internal conditions of the studio. The inspected concentric diagram is particularly helpful because the automatic captions initially confuse the macro and micro labels. The outer ring is the macroenvironment, the middle ring the microenvironment, and the centre the inner environment.",
+        "The macroenvironment includes economic, political, legal, social, cultural, demographic, technological, and environmental factors. These can affect how a game is released or communicated even though the studio does not control them. She uses differing national requirements and cultural expectations as examples of why the same approach may not transfer unchanged from one country to another. The talk does not provide a country-specific compliance procedure.",
+        "The microenvironment is closer to the actual industry: customers, competing studios, suppliers, and intermediaries such as outsourced art providers. Research should look for opportunities as well as threats. Other studios can teach useful approaches, conferences can connect professionals, and players can reveal emerging interests or ways to communicate.",
+        "The inner environment is the team's real ability to execute. Does it have enough people, equipment, workspace, and time? Producing beautiful alien short films might seem like a strong promotional idea, but it may be unrealistic for one or two people already fully occupied by development. An attractive tactic is still unsuitable if it consumes resources the project does not have.",
+        "For Alien Space Kill, she supplies illustrative opportunities rather than documented research findings. A hypothetical German government space-awareness initiative might be interested in projects reaching young people. Looking at neighboring studios might suggest that beautiful space imagery receives strong reactions. The first is a potential partnership in the wider context; the second is an industry observation that could shape content. Both become useful only when connected to the chosen audience and the team's goals."
+      ],
+      "figures": [
+        {
+          "time": 1330,
+          "caption": "The slide distinguishes the wider macroenvironment, industry microenvironment, and the studio’s internal conditions."
+        }
+      ]
+    },
+    {
+      "id": "audience",
+      "title": "Turn a segment into a usable picture of the audience",
+      "start": 1687,
+      "end": 1861,
+      "paragraphs": [
+        "A target audience is simply the audience the team intends to address. Vlasova analyzes it through four kinds of characteristics. Geographic information asks where people are. Psychographic information asks about values, beliefs, and lifestyle. Behavioral information concerns habits such as when someone uses a phone or how they engage with games. Demographic information includes age, gender, and income where those details affect the decision.",
+        "The Alien Space Kill slide presents a deliberately specific hypothetical profile: German players aged 16–25, with a 70% male and 30% female split, mostly students who are not employed. They use mobile devices especially in the morning and before bed, like science fiction, participate in a relevant Facebook group, enjoy virtual space photography, and favor inexpensive indie games on Steam. These details belong to the invented teaching example; they are not measurements of all German science-fiction players.",
+        "The purpose of that profile is to guide choices. An audience interested in space photography gives beautiful environments a plausible role in the content plan. A preference for inexpensive games matters to the commercial proposition. A known community and device habit help identify where and how the team might reach people. The research only becomes actionable when the characteristics are connected to decisions rather than collected as trivia."
+      ]
+    },
+    {
+      "id": "strategy-and-value",
+      "title": "Translate goals into a strategy, then make the tactics earn attention",
+      "start": 1861,
+      "end": 2200,
+      "paragraphs": [
+        "Strategy and tactics are where the research becomes a plan. Vlasova asks: how can the team approach its selected audience in order to achieve its marketing goals? Broad intentions become more precise objectives, and tactics are the actions chosen to reach them. The terminology can sound repetitive, so her example keeps returning to the distinction between a studio brand, the game's community, and the particular work needed to develop each.",
+        "The resulting strategy for NDK Interactive includes establishing and developing the studio's brand in relevant communities, earning loyal fans for both the studio and the game, developing Alien Space Kill's own community, and increasing recognition of the game in places where interested people already gather. A tactic should have a traceable role within that strategy.",
+        "Her recurring test is value and relevance. Posting simply because it is Tuesday or because everyone else posts is not enough. People have limited attention and lives outside the game. Useful content gives them something they want, such as an interesting topic, an appealing experience, a chance to discuss something, or a meaningful connection.",
+        "Respecting that attention also supports the two-way relationship introduced at the beginning. A community is more likely to provide useful reactions when it feels the studio is offering something worthwhile. Repeated empty promotion can consume the same team effort while teaching little and giving players no reason to stay."
+      ]
+    },
+    {
+      "id": "offline-tactics",
+      "title": "Offline examples: match each event to a specific purpose",
+      "start": 2200,
+      "end": 2408,
+      "paragraphs": [
+        "The fictional team considers networking at Berlin Games Week because that activity fits its goal of recognition among developers. An event can be useful without supplying a large number of immediate customers if the desired result is a professional relationship, exchange of expertise, or connection to a partner. The purpose determines how the team should judge it.",
+        "Another idea is to cosplay aliens at Berlin Comic Con and give out brochures. Vlasova looks beyond the immediate handout: attendees might ask for photographs, post them, and use a recognizable hashtag. A physical encounter could therefore create additional online exposure. This is a possible secondary effect to plan for, not a guaranteed outcome from dressing up.",
+        "A stall at the hypothetical space-awareness convention connects directly to the earlier environment analysis. The tactic has a reason to exist because the theme and audience overlap with the game. Without that connection, “attend a convention” would be a much less useful recommendation.",
+        "She also imagines renting a computer club, inviting science-fiction fans, and offering tea and cookies while they play. People arriving from different communities could meet and continue talking afterward. The game would become the shared experience that brought them together. Her interest is not merely getting a build in front of strangers but creating conditions in which a community could begin.",
+        "These examples illustrate how one activity may support several goals. A team should look for such opportunities, while still considering whether it has the time, people, and money to carry them out."
+      ]
+    },
+    {
+      "id": "online-tactics",
+      "title": "Online examples: use audience interests and platform formats",
+      "start": 2408,
+      "end": 2770,
+      "paragraphs": [
+        "For simplicity, the online portion focuses on Facebook pages and groups. Vlasova recommends understanding the platform's own guidance and presentation conventions. The inspected slide lists short-to-medium text, relevant hashtags, square videos of at least three minutes, native posts, cross-linking with Instagram, partner content, and one to three images. These are the specific suggestions in the recording, not a current specification or universal recipe for reach.",
+        "Content ideas come from the product and audience research. Alien-related discoveries could start relevant conversations; videos of planets or beautiful sci-fi environments could showcase the game's visual strengths. A development diary deconstructing concept art would offer an interested viewer something more substantial than another demand to buy.",
+        "Stories, questions, and polls can open a discussion rather than only broadcast an announcement. The team supplies a place to talk about something the audience enjoys and receives feedback about what people think. This is the circulation of value expressed as an everyday community activity. The tool matters because of the interaction it enables.",
+        "Operational arrangements follow from the same research. The example initially chooses Tuesday and Friday at 5 p.m. because those are assumed to be active times for the audience. The exact days and hour are not Vlasova's recommendation for every project. They show how research becomes a practical schedule that can later be tested.",
+        "The hypothetical space-awareness partnership also creates a timing opportunity. If a larger organization announces its initiative and the studio participates, coordinated posting could connect the game to that existing attention. The relationship has to be relevant; attaching unrelated content to a trending subject would not fulfill the same purpose.",
+        "Vlasova encourages creative ideas, including ones that initially seem unusual, but keeps the goal-based filter. An idea deserves a trial when research gives the team a reason to think it can reach the intended people and provide something useful. Copying a popular tactic without that reasoning is not the same as experimenting deliberately."
+      ]
+    },
+    {
+      "id": "execution-and-revision",
+      "title": "Execute, interpret the response, and revise the plan",
+      "start": 2770,
+      "end": 3126,
+      "paragraphs": [
+        "Once the foundation, analysis, strategy, and tactics are connected, execution means carrying out the planned work and observing what happens. Results may be better or worse than expected. Either way, Vlasova treats them as feedback to interpret, rather than simply a verdict on whether marketing works.",
+        "Her term for the next step is re-strategizing. The Alien Space Kill example learns that Thursday at 5 p.m., rather than Tuesday, produces the strongest activity. It also finds the sci-fi convention stall less effective than the Comic Con cosplay. The inspected slide states both changes. A team should adjust its effort to what actually happened instead of preserving the original plan because it took work to make.",
+        "This is a continuing cycle: revise, execute again, read the new response, and revise further. A tactic that worked for five years does not automatically fit a changing audience, platform, or industry. The team needs enough flexibility to keep delivering value under the conditions it faces now.",
+        "Her closing practical advice follows that logic. Do not skip research because an idea feels obviously right. Learn from experience and from strong examples, listen to players, experiment when there is a reason, and avoid doing something only because other teams do it. Results can take time, so early disappointment is a reason to learn rather than an automatic reason to stop. When uncertain, return to the original marketing goals and ask which action serves them."
+      ],
+      "figures": [
+        {
+          "time": 2850,
+          "caption": "The example revises both its posting time and its assessment of offline events after seeing the response."
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "title": "Q&A: accessible research, memorable campaigns, and budget choices",
+      "start": 3126,
+      "end": 3599,
+      "paragraphs": [
+        "Asked how to research an audience, Vlasova starts with places where that audience already talks. In the fictional case, these include communities about space, space-themed games, and related game art. Observe what people post, what earns reactions, what they comment on, and what they ask to see. Reddit and Discord can provide further discussion of genre-specific interests and expectations. The point is to begin with real audience behavior rather than invent a persona entirely from the team's preferences.",
+        "Her favorite campaign example is Red Dead Redemption 2's physical advertising in Berlin. She recalls repeatedly encountering recognizable red posters and character images at transit stops. Over time, those faces became familiar and the campaign seemed part of her daily environment. She ultimately bought the game and remembers missing the posters after they disappeared. This is her personal account of a memorable campaign, not a measured estimate of its conversion rate or proof that an indie team should buy comparable advertising.",
+        "On minimum marketing budgets, she declines to name a universal amount. The budget follows the activities needed to meet the goal. Relevant community participation and some online events may require little direct cash, while paid creators differ in audience, reach, and price. Ad configurations likewise affect the estimate a platform supplies. Her broad claim about more precise targeting costing more belongs to the talk and is not a universal rule for every advertising auction.",
+        "She recommends exploring suitable free opportunities first and using the same creativity that developers bring to games. A team considering paid media can use a platform's campaign setup to obtain an estimate before deciding what to spend. The useful answer is a method for making the budget specific to a project, rather than a single minimum supposedly valid for every new studio.",
+        "Across the questions, the process remains the same: identify the audience, understand what it values, choose an activity with a clear purpose, and learn from the result. The worked example is intentionally simple, but the links between its steps are the substance of the method."
+      ]
+    }
+  ],
+  "visualEvidence": [
+    285,
+    700,
+    845,
+    1110,
+    1330,
+    1570,
+    1800,
+    2110,
+    2480,
+    2850
+  ],
+  "limitations": [
+    "Based on the complete English automatic captions and 10 inspected snapshots selected around the talk's substantive slides. These stills support the named examples; the intervening video, animations, and demonstrations were not exhaustively reviewed.",
+    "Platform behavior, commercial figures, tool descriptions, and industry examples are presented as the speaker's claims at the time of the recording, not independently verified current guidance."
+  ],
+  "visualSummary": [
+    "Slides confirm the fictional game and team names, the audience profile, and the three layers of environment analysis.",
+    "The final feedback example shows specific changes rather than merely telling the team to be flexible."
+  ],
+  "topics": [
+    "Game marketing",
+    "Strategy"
+  ],
+  "generatedMonth": "2026-11"
+}

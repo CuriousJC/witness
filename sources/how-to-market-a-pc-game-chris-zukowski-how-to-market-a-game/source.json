@@ -1,0 +1,7744 @@
+{
+  "videoId": "Oh9CBk0FHSM",
+  "slug": "how-to-market-a-pc-game-chris-zukowski-how-to-market-a-game",
+  "url": "https://www.youtube.com/watch?v=Oh9CBk0FHSM",
+  "title": "How to Market A PC Game / Chris Zukowski (How To Market A Game)",
+  "channel": "DevGAMM",
+  "published": "2022-04-18",
+  "duration": 3137,
+  "description": "Marketing your PC game on Steam is very tricky. There are lots of other games competing with you and fans are very picky. In this talk Chris Zukowski, Creative Director of How To Market A Game, shows you the techniques used by the top publishers to get wishlists, make fans excited, and sell more copies of your game.\n#DevGAMM #gamedev #marketing\n\nSlides – https://www.dropbox.com/s/x690m15jnm70nny/Chris%20Zukowski.pdf?dl=0\n\nContents:\n0:00 – Intro\n0:29 – Brief history of Steam\n5:23 – About Chris\n7:14 – Games & Genre\n13:08 – Wishlists\n16:57 – Boring daily growth\n20:46 – Exciting promotions\n33:00 – Example of Valheim\n42:22 – Q&A session\n\n\nSupported by Belka Games. The company is among Top 20 publishers by revenues in EMEA according to App Annie and keeps growing and developing.\nJoin us – https://belka-games.com/careers/\n\n\nDevGAMM is the biggest game developers conference in Eastern Europe. DevGAMM gives gaming experts a chance to keep up with the latest thinking and developments in making games as well as share their knowledge and experience with each other.\n\nLearn more about DevGAMM – https://devgamm.com/\nSubscribe to our newsletter – http://eepurl.com/dpj3Sz\nMore about games and developers participating in DevGAMM – https://games.devgamm.com/ \nBecome a speaker – https://bit.ly/3isHdJP\n\nJoin our community:\nFacebook – https://www.facebook.com/devgamm/\nTwitter – https://twitter.com/devgamm/\nDiscord (for developers) – https://discord.gg/dtDHa6F\n\nContact us via email – contact@devgamm.com",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 29,
+      "title": "Intro"
+    },
+    {
+      "start": 29,
+      "end": 323,
+      "title": "Brief history of Steam"
+    },
+    {
+      "start": 323,
+      "end": 434,
+      "title": "About Chris"
+    },
+    {
+      "start": 434,
+      "end": 788,
+      "title": "Games & Genre"
+    },
+    {
+      "start": 788,
+      "end": 1017,
+      "title": "Wishlists"
+    },
+    {
+      "start": 1017,
+      "end": 1246,
+      "title": "Boring daily growth"
+    },
+    {
+      "start": 1246,
+      "end": 1980,
+      "title": "Exciting promotions"
+    },
+    {
+      "start": 1980,
+      "end": 2542,
+      "title": "Example of Valheim"
+    },
+    {
+      "start": 2542,
+      "end": 3137,
+      "title": "Q&A session"
+    }
+  ],
+  "captions": {
+    "language": "en-orig",
+    "kind": "automatic",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 3.439,
+      "text": "hi"
+    },
+    {
+      "start": 1.199,
+      "end": 6,
+      "text": "hey folks this is chris sukowski thank"
+    },
+    {
+      "start": 3.439,
+      "end": 7.359,
+      "text": "you so much for having me on devgamm i'm"
+    },
+    {
+      "start": 6,
+      "end": 9.44,
+      "text": "ready to give you a talk about how to"
+    },
+    {
+      "start": 7.359,
+      "end": 12.799,
+      "text": "market a game in 2021 it's almost over"
+    },
+    {
+      "start": 9.44,
+      "end": 14.08,
+      "text": "though so uh let's get started uh you"
+    },
+    {
+      "start": 12.799,
+      "end": 16.72,
+      "text": "know so i'm gonna have to update this"
+    },
+    {
+      "start": 14.08,
+      "end": 19.84,
+      "text": "presentation uh 2022 but we're still in"
+    },
+    {
+      "start": 16.72,
+      "end": 19.84,
+      "text": "21 so let's get"
+    },
+    {
+      "start": 20.57,
+      "end": 31.679,
+      "text": "[Music]"
+    },
+    {
+      "start": 28.84,
+      "end": 33.68,
+      "text": "started if you're new to steam and"
+    },
+    {
+      "start": 31.679,
+      "end": 35.6,
+      "text": "selling a game this is what steam"
+    },
+    {
+      "start": 33.68,
+      "end": 38,
+      "text": "originally looked like look at that list"
+    },
+    {
+      "start": 35.6,
+      "end": 40.079,
+      "text": "of games in the bottom corner here you"
+    },
+    {
+      "start": 38,
+      "end": 41.52,
+      "text": "didn't even need a scroll bar to show"
+    },
+    {
+      "start": 40.079,
+      "end": 44.079,
+      "text": "all the games there were that few it was"
+    },
+    {
+      "start": 41.52,
+      "end": 46.239,
+      "text": "just the games that valve made um and"
+    },
+    {
+      "start": 44.079,
+      "end": 47.76,
+      "text": "this is what steam looked like very"
+    },
+    {
+      "start": 46.239,
+      "end": 49.84,
+      "text": "simple but"
+    },
+    {
+      "start": 47.76,
+      "end": 52.48,
+      "text": "in 2005"
+    },
+    {
+      "start": 49.84,
+      "end": 54.719,
+      "text": "valve allowed the first non-valve game"
+    },
+    {
+      "start": 52.48,
+      "end": 56.64,
+      "text": "on steam it's called ragdoll kung fu you"
+    },
+    {
+      "start": 54.719,
+      "end": 58.239,
+      "text": "can still buy it it's only a dollar you"
+    },
+    {
+      "start": 56.64,
+      "end": 60.559,
+      "text": "should probably buy just to like support"
+    },
+    {
+      "start": 58.239,
+      "end": 63.52,
+      "text": "the first game ever made on steam"
+    },
+    {
+      "start": 60.559,
+      "end": 66.56,
+      "text": "but that was just the start"
+    },
+    {
+      "start": 63.52,
+      "end": 68.64,
+      "text": "from 2005 to 2012"
+    },
+    {
+      "start": 66.56,
+      "end": 71.04,
+      "text": "valve actually let more and more games"
+    },
+    {
+      "start": 68.64,
+      "end": 73.439,
+      "text": "on but valve had to approve you would"
+    },
+    {
+      "start": 71.04,
+      "end": 75.28,
+      "text": "apply you'd show your game to them and"
+    },
+    {
+      "start": 73.439,
+      "end": 77.36,
+      "text": "valve would say"
+    },
+    {
+      "start": 75.28,
+      "end": 80.32,
+      "text": "in or out they were like the bouncer of"
+    },
+    {
+      "start": 77.36,
+      "end": 81.92,
+      "text": "a club they were like very strict"
+    },
+    {
+      "start": 80.32,
+      "end": 84.32,
+      "text": "keeping people out"
+    },
+    {
+      "start": 81.92,
+      "end": 86.96,
+      "text": "it's what we call gatekeeping okay so"
+    },
+    {
+      "start": 84.32,
+      "end": 88.64,
+      "text": "what happened at 2012 to 2017 valve"
+    },
+    {
+      "start": 86.96,
+      "end": 90.32,
+      "text": "transition then went to green light the"
+    },
+    {
+      "start": 88.64,
+      "end": 92.72,
+      "text": "green light system was basically upvotes"
+    },
+    {
+      "start": 90.32,
+      "end": 93.84,
+      "text": "it was kind of like um almost like i"
+    },
+    {
+      "start": 92.72,
+      "end": 95.68,
+      "text": "don't know i would say it's kind of like"
+    },
+    {
+      "start": 93.84,
+      "end": 96.88,
+      "text": "a kickstarter model where you had to get"
+    },
+    {
+      "start": 95.68,
+      "end": 98.96,
+      "text": "people upvoted if you got enough up"
+    },
+    {
+      "start": 96.88,
+      "end": 102.799,
+      "text": "votes your game was on steam"
+    },
+    {
+      "start": 98.96,
+      "end": 105.92,
+      "text": "so but gabe uh founder of valve and a"
+    },
+    {
+      "start": 102.799,
+      "end": 107.52,
+      "text": "ceo he said we're gonna get rid of uh"
+    },
+    {
+      "start": 105.92,
+      "end": 108.799,
+      "text": "green lights it's not doing its purpose"
+    },
+    {
+      "start": 107.52,
+      "end": 112.56,
+      "text": "i don't know why they didn't it's"
+    },
+    {
+      "start": 108.799,
+      "end": 114.479,
+      "text": "corporate thing um and then we went into"
+    },
+    {
+      "start": 112.56,
+      "end": 116,
+      "text": "steam direct where anybody with a"
+    },
+    {
+      "start": 114.479,
+      "end": 118.399,
+      "text": "hundred dollars"
+    },
+    {
+      "start": 116,
+      "end": 119.84,
+      "text": "could just contribute and all of a"
+    },
+    {
+      "start": 118.399,
+      "end": 121.84,
+      "text": "sudden their game is on steam that's"
+    },
+    {
+      "start": 119.84,
+      "end": 123.2,
+      "text": "kind of where we are now and this is"
+    },
+    {
+      "start": 121.84,
+      "end": 124.399,
+      "text": "kind of where people started saying oh"
+    },
+    {
+      "start": 123.2,
+      "end": 126.88,
+      "text": "this is the indie apocalypse you can see"
+    },
+    {
+      "start": 124.399,
+      "end": 129.119,
+      "text": "the number of games skyrocketing up"
+    },
+    {
+      "start": 126.88,
+      "end": 131.92,
+      "text": "um and weird stuff was happening there"
+    },
+    {
+      "start": 129.119,
+      "end": 133.28,
+      "text": "were games for like 200 and 129 that"
+    },
+    {
+      "start": 131.92,
+      "end": 135.28,
+      "text": "looked like this people thought it was"
+    },
+    {
+      "start": 133.28,
+      "end": 137.599,
+      "text": "some illegal activities were happening"
+    },
+    {
+      "start": 135.28,
+      "end": 139.84,
+      "text": "who knows it was the wild wild west of"
+    },
+    {
+      "start": 137.599,
+      "end": 142,
+      "text": "games on steam now this is when the"
+    },
+    {
+      "start": 139.84,
+      "end": 144.16,
+      "text": "indies really started saying this is the"
+    },
+    {
+      "start": 142,
+      "end": 147.28,
+      "text": "apocalypse way too many key"
+    },
+    {
+      "start": 144.16,
+      "end": 149.68,
+      "text": "too many games uh we want curation"
+    },
+    {
+      "start": 147.28,
+      "end": 150.959,
+      "text": "and you know what curation is"
+    },
+    {
+      "start": 149.68,
+      "end": 152.64,
+      "text": "it's actually just the gatekeeper to"
+    },
+    {
+      "start": 150.959,
+      "end": 154.48,
+      "text": "bring back the gatekeeper but that's not"
+    },
+    {
+      "start": 152.64,
+      "end": 156.64,
+      "text": "a happening gate steam already said"
+    },
+    {
+      "start": 154.48,
+      "end": 158.56,
+      "text": "we're done with curation so we don't"
+    },
+    {
+      "start": 156.64,
+      "end": 159.36,
+      "text": "have curation and we're not going to get"
+    },
+    {
+      "start": 158.56,
+      "end": 161.44,
+      "text": "it"
+    },
+    {
+      "start": 159.36,
+      "end": 162.8,
+      "text": "but then kind of after these complaints"
+    },
+    {
+      "start": 161.44,
+      "end": 165.76,
+      "text": "and all these weird games started"
+    },
+    {
+      "start": 162.8,
+      "end": 167.12,
+      "text": "showing up weird stuff happened on steam"
+    },
+    {
+      "start": 165.76,
+      "end": 168.8,
+      "text": "we could tell valve was kind of poking"
+    },
+    {
+      "start": 167.12,
+      "end": 171.28,
+      "text": "around that stuff there was something"
+    },
+    {
+      "start": 168.8,
+      "end": 172.879,
+      "text": "called the october event and this is uh"
+    },
+    {
+      "start": 171.28,
+      "end": 174.64,
+      "text": "an indie named jake burkett kind of"
+    },
+    {
+      "start": 172.879,
+      "end": 176.8,
+      "text": "noticed his sales took this real quick"
+    },
+    {
+      "start": 174.64,
+      "end": 179.599,
+      "text": "dive you see how they just that blue bar"
+    },
+    {
+      "start": 176.8,
+      "end": 180.959,
+      "text": "just chopped off right there in october"
+    },
+    {
+      "start": 179.599,
+      "end": 183.28,
+      "text": "this is what we call the october event"
+    },
+    {
+      "start": 180.959,
+      "end": 185.04,
+      "text": "that was this disturbance"
+    },
+    {
+      "start": 183.28,
+      "end": 187.2,
+      "text": "and valve noticed it and they heard us"
+    },
+    {
+      "start": 185.04,
+      "end": 188.959,
+      "text": "complaining of indeed saying wait what"
+    },
+    {
+      "start": 187.2,
+      "end": 190.879,
+      "text": "will our numbers go down in october and"
+    },
+    {
+      "start": 188.959,
+      "end": 192.8,
+      "text": "they said don't worry don't worry we"
+    },
+    {
+      "start": 190.879,
+      "end": 195.12,
+      "text": "fixed it it was just a slight bip we"
+    },
+    {
+      "start": 192.8,
+      "end": 197.36,
+      "text": "were trying some algorithm changes don't"
+    },
+    {
+      "start": 195.12,
+      "end": 198.72,
+      "text": "worry don't worry but then if you got"
+    },
+    {
+      "start": 197.36,
+      "end": 200.56,
+      "text": "deep down you can see this is the blog"
+    },
+    {
+      "start": 198.72,
+      "end": 201.76,
+      "text": "post the url is at the bottom just go"
+    },
+    {
+      "start": 200.56,
+      "end": 203.68,
+      "text": "all the way down"
+    },
+    {
+      "start": 201.76,
+      "end": 205.76,
+      "text": "hidden there's one line in the middle of"
+    },
+    {
+      "start": 203.68,
+      "end": 208.08,
+      "text": "the paragraph nobody read it except for"
+    },
+    {
+      "start": 205.76,
+      "end": 210,
+      "text": "me i always read these things said"
+    },
+    {
+      "start": 208.08,
+      "end": 211.76,
+      "text": "however we still kept a part of the"
+    },
+    {
+      "start": 210,
+      "end": 213.76,
+      "text": "changes that factored in sales and"
+    },
+    {
+      "start": 211.76,
+      "end": 215.599,
+      "text": "wishlist popularity into our"
+    },
+    {
+      "start": 213.76,
+      "end": 218.879,
+      "text": "into our algorithm change"
+    },
+    {
+      "start": 215.599,
+      "end": 219.599,
+      "text": "that right there says everything"
+    },
+    {
+      "start": 218.879,
+      "end": 222.08,
+      "text": "so"
+    },
+    {
+      "start": 219.599,
+      "end": 223.599,
+      "text": "what that means is that they change the"
+    },
+    {
+      "start": 222.08,
+      "end": 225.519,
+      "text": "algorithm to kind of"
+    },
+    {
+      "start": 223.599,
+      "end": 228.08,
+      "text": "kind of boost people who"
+    },
+    {
+      "start": 225.519,
+      "end": 229.36,
+      "text": "are you know making a lot of money um"
+    },
+    {
+      "start": 228.08,
+      "end": 231.28,
+      "text": "and so here"
+    },
+    {
+      "start": 229.36,
+      "end": 233.84,
+      "text": "about a year after that"
+    },
+    {
+      "start": 231.28,
+      "end": 235.76,
+      "text": "this is 2019 the end of 2019 valve"
+    },
+    {
+      "start": 233.84,
+      "end": 237.84,
+      "text": "released this blog post and the url is"
+    },
+    {
+      "start": 235.76,
+      "end": 241.28,
+      "text": "at the bottom there and in this blog"
+    },
+    {
+      "start": 237.84,
+      "end": 243.519,
+      "text": "post they said we analyzed the data of"
+    },
+    {
+      "start": 241.28,
+      "end": 245.519,
+      "text": "all games released in 2019 and all the"
+    },
+    {
+      "start": 243.519,
+      "end": 247.12,
+      "text": "games released in 2018 and we compared"
+    },
+    {
+      "start": 245.519,
+      "end": 249.12,
+      "text": "the difference between them what you're"
+    },
+    {
+      "start": 247.12,
+      "end": 250.08,
+      "text": "looking at is this difference chart and"
+    },
+    {
+      "start": 249.12,
+      "end": 253.28,
+      "text": "so"
+    },
+    {
+      "start": 250.08,
+      "end": 255.519,
+      "text": "if you released a game in 2019 you"
+    },
+    {
+      "start": 253.28,
+      "end": 257.84,
+      "text": "if you made like in the top"
+    },
+    {
+      "start": 255.519,
+      "end": 259.28,
+      "text": "third you made so much more more money"
+    },
+    {
+      "start": 257.84,
+      "end": 260.72,
+      "text": "than the games released in 2018 that's"
+    },
+    {
+      "start": 259.28,
+      "end": 263.12,
+      "text": "what that big green section is it's"
+    },
+    {
+      "start": 260.72,
+      "end": 265.12,
+      "text": "saying look at all this extra"
+    },
+    {
+      "start": 263.12,
+      "end": 266.8,
+      "text": "money you would earn because of our new"
+    },
+    {
+      "start": 265.12,
+      "end": 269.04,
+      "text": "algorithm changes"
+    },
+    {
+      "start": 266.8,
+      "end": 270.72,
+      "text": "now that's great valve is like doo doo"
+    },
+    {
+      "start": 269.04,
+      "end": 273.04,
+      "text": "the green section we love the green"
+    },
+    {
+      "start": 270.72,
+      "end": 275.68,
+      "text": "section but me being mr curious here"
+    },
+    {
+      "start": 273.04,
+      "end": 277.919,
+      "text": "said well what about this orange section"
+    },
+    {
+      "start": 275.68,
+      "end": 280.24,
+      "text": "you are saying here valve"
+    },
+    {
+      "start": 277.919,
+      "end": 282.4,
+      "text": "that in 2019"
+    },
+    {
+      "start": 280.24,
+      "end": 284.32,
+      "text": "games that kind of earned on the lower"
+    },
+    {
+      "start": 282.4,
+      "end": 286.88,
+      "text": "end of the scale you know this is the"
+    },
+    {
+      "start": 284.32,
+      "end": 288.88,
+      "text": "zero to 30th percentile of games that"
+    },
+    {
+      "start": 286.88,
+      "end": 290.32,
+      "text": "don't earn a lot of money actually made"
+    },
+    {
+      "start": 288.88,
+      "end": 292.8,
+      "text": "less money"
+    },
+    {
+      "start": 290.32,
+      "end": 294.639,
+      "text": "in 2019 than they did 2018. and"
+    },
+    {
+      "start": 292.8,
+      "end": 297.759,
+      "text": "essentially what this algorithm change"
+    },
+    {
+      "start": 294.639,
+      "end": 300,
+      "text": "did was it kind of boosted games it made"
+    },
+    {
+      "start": 297.759,
+      "end": 302.08,
+      "text": "a lot and kind of pushed down the games"
+    },
+    {
+      "start": 300,
+      "end": 304.24,
+      "text": "that didn't make much money"
+    },
+    {
+      "start": 302.08,
+      "end": 306.96,
+      "text": "and what i consider this is an"
+    },
+    {
+      "start": 304.24,
+      "end": 308.639,
+      "text": "algorithmic change to hide a bouncer"
+    },
+    {
+      "start": 306.96,
+      "end": 310.88,
+      "text": "right in there that little inflection"
+    },
+    {
+      "start": 308.639,
+      "end": 313.6,
+      "text": "point is where kind of the gatekeeping"
+    },
+    {
+      "start": 310.88,
+      "end": 316.56,
+      "text": "happens now and it's the algorithm doing"
+    },
+    {
+      "start": 313.6,
+      "end": 318.479,
+      "text": "it so if you don't earn enough valve is"
+    },
+    {
+      "start": 316.56,
+      "end": 320.32,
+      "text": "going to push you down and once you earn"
+    },
+    {
+      "start": 318.479,
+      "end": 321.759,
+      "text": "a lot valve is going to start pushing"
+    },
+    {
+      "start": 320.32,
+      "end": 324.08,
+      "text": "you up and i'm going to show you how to"
+    },
+    {
+      "start": 321.759,
+      "end": 326.32,
+      "text": "get on the right side of that bouncer"
+    },
+    {
+      "start": 324.08,
+      "end": 328.24,
+      "text": "all right so that that's me big picture"
+    },
+    {
+      "start": 326.32,
+      "end": 329.759,
+      "text": "of me standing up i'm sitting down but"
+    },
+    {
+      "start": 328.24,
+      "end": 332.16,
+      "text": "that's stan and chris"
+    },
+    {
+      "start": 329.759,
+      "end": 334.479,
+      "text": "right there the i work with a lot of uh"
+    },
+    {
+      "start": 332.16,
+      "end": 336,
+      "text": "publishers and indies i help them get"
+    },
+    {
+      "start": 334.479,
+      "end": 337.28,
+      "text": "their games so that they work with the"
+    },
+    {
+      "start": 336,
+      "end": 338.639,
+      "text": "algorithm"
+    },
+    {
+      "start": 337.28,
+      "end": 340.479,
+      "text": "look for marketing"
+    },
+    {
+      "start": 338.639,
+      "end": 341.759,
+      "text": "opportunities kind of strategize with"
+    },
+    {
+      "start": 340.479,
+      "end": 344.16,
+      "text": "them trying to figure out how to get"
+    },
+    {
+      "start": 341.759,
+      "end": 345.28,
+      "text": "their game seen the most on steam so"
+    },
+    {
+      "start": 344.16,
+      "end": 346.96,
+      "text": "those are some of the games that i've"
+    },
+    {
+      "start": 345.28,
+      "end": 350.08,
+      "text": "worked on"
+    },
+    {
+      "start": 346.96,
+      "end": 352.88,
+      "text": "i also created a free"
+    },
+    {
+      "start": 350.08,
+      "end": 354.96,
+      "text": "steam course uh i teach you how to make"
+    },
+    {
+      "start": 352.88,
+      "end": 356.639,
+      "text": "a steam page it's very important to make"
+    },
+    {
+      "start": 354.96,
+      "end": 358.4,
+      "text": "a good steam page i think everybody"
+    },
+    {
+      "start": 356.639,
+      "end": 360.16,
+      "text": "deserves a good steam page so i made"
+    },
+    {
+      "start": 358.4,
+      "end": 361.68,
+      "text": "this class just google how to make a"
+    },
+    {
+      "start": 360.16,
+      "end": 363.52,
+      "text": "steam page"
+    },
+    {
+      "start": 361.68,
+      "end": 365.44,
+      "text": "or go to how to make a steampage.com"
+    },
+    {
+      "start": 363.52,
+      "end": 367.6,
+      "text": "it's a free class you can just take it"
+    },
+    {
+      "start": 365.44,
+      "end": 369.919,
+      "text": "um i i recommend it because i made it"
+    },
+    {
+      "start": 367.6,
+      "end": 371.199,
+      "text": "but um if you've got a steam page even"
+    },
+    {
+      "start": 369.919,
+      "end": 373.28,
+      "text": "if you've released a game like a year or"
+    },
+    {
+      "start": 371.199,
+      "end": 374.72,
+      "text": "two years or three years ago take this"
+    },
+    {
+      "start": 373.28,
+      "end": 376.96,
+      "text": "class it tells you all the little tricks"
+    },
+    {
+      "start": 374.72,
+      "end": 379.199,
+      "text": "and stuff so um much more than i can go"
+    },
+    {
+      "start": 376.96,
+      "end": 381.28,
+      "text": "into depth in my one hour here"
+    },
+    {
+      "start": 379.199,
+      "end": 382.56,
+      "text": "so i also uh based all that research"
+    },
+    {
+      "start": 381.28,
+      "end": 384.4,
+      "text": "because i did this study where i've"
+    },
+    {
+      "start": 382.56,
+      "end": 386.56,
+      "text": "studied people browsing on steam how"
+    },
+    {
+      "start": 384.4,
+      "end": 389.36,
+      "text": "they shopped i just observed regular"
+    },
+    {
+      "start": 386.56,
+      "end": 390.72,
+      "text": "customers do their daily steam shopping"
+    },
+    {
+      "start": 389.36,
+      "end": 393.28,
+      "text": "and i learned a lot of stuff by doing"
+    },
+    {
+      "start": 390.72,
+      "end": 395.199,
+      "text": "that you can look at my gdc talk there"
+    },
+    {
+      "start": 393.28,
+      "end": 397.199,
+      "text": "okay i also make games that's how i kind"
+    },
+    {
+      "start": 395.199,
+      "end": 398.479,
+      "text": "of know you know what it feels like to"
+    },
+    {
+      "start": 397.199,
+      "end": 399.84,
+      "text": "be a developer and now have your game"
+    },
+    {
+      "start": 398.479,
+      "end": 402,
+      "text": "sell i made a game that didn't sell very"
+    },
+    {
+      "start": 399.84,
+      "end": 403.6,
+      "text": "well one screen platformer it's a pixel"
+    },
+    {
+      "start": 402,
+      "end": 405.44,
+      "text": "platformer we'll talk about that what"
+    },
+    {
+      "start": 403.6,
+      "end": 406.24,
+      "text": "happens with pixel platformers"
+    },
+    {
+      "start": 405.44,
+      "end": 407.28,
+      "text": "but"
+    },
+    {
+      "start": 406.24,
+      "end": 409.36,
+      "text": "what i'm going to talk to you about"
+    },
+    {
+      "start": 407.28,
+      "end": 411.759,
+      "text": "today is how to optimize your game so"
+    },
+    {
+      "start": 409.36,
+      "end": 413.44,
+      "text": "you get past this invisible"
+    },
+    {
+      "start": 411.759,
+      "end": 415.12,
+      "text": "bouncer that's kind of in the algorithm"
+    },
+    {
+      "start": 413.44,
+      "end": 417.199,
+      "text": "so we're going to talk about four big"
+    },
+    {
+      "start": 415.12,
+      "end": 420.319,
+      "text": "things that will help you get past this"
+    },
+    {
+      "start": 417.199,
+      "end": 421.919,
+      "text": "big guy here um the game and the genre"
+    },
+    {
+      "start": 420.319,
+      "end": 424.319,
+      "text": "the game that you're making how to get"
+    },
+    {
+      "start": 421.919,
+      "end": 426,
+      "text": "those wish lists with and the importance"
+    },
+    {
+      "start": 424.319,
+      "end": 428,
+      "text": "of them and then finally how to get"
+    },
+    {
+      "start": 426,
+      "end": 429.759,
+      "text": "boring daily growth and then how to do"
+    },
+    {
+      "start": 428,
+      "end": 431.84,
+      "text": "these exciting promotions that bring in"
+    },
+    {
+      "start": 429.759,
+      "end": 434.08,
+      "text": "all these wish lists and get you really"
+    },
+    {
+      "start": 431.84,
+      "end": 436.08,
+      "text": "uh up there so let's talk about it let's"
+    },
+    {
+      "start": 434.08,
+      "end": 437.84,
+      "text": "get started we're to be talking games"
+    },
+    {
+      "start": 436.08,
+      "end": 438.96,
+      "text": "and genre here"
+    },
+    {
+      "start": 437.84,
+      "end": 440.24,
+      "text": "so"
+    },
+    {
+      "start": 438.96,
+      "end": 443.12,
+      "text": "this is frustrating to a lot of"
+    },
+    {
+      "start": 440.24,
+      "end": 445.759,
+      "text": "developers they think i made a good game"
+    },
+    {
+      "start": 443.12,
+      "end": 447.68,
+      "text": "and it didn't sell there's no bugs i"
+    },
+    {
+      "start": 445.759,
+      "end": 450.479,
+      "text": "have zero bugs what's the deal why isn't"
+    },
+    {
+      "start": 447.68,
+      "end": 454.08,
+      "text": "my game not selling um it is genre genre"
+    },
+    {
+      "start": 450.479,
+      "end": 455.759,
+      "text": "genre genre genre genre that matters so"
+    },
+    {
+      "start": 454.08,
+      "end": 457.44,
+      "text": "much for steam not until i've made my"
+    },
+    {
+      "start": 455.759,
+      "end": 459.759,
+      "text": "game and i've actually marked a bunch do"
+    },
+    {
+      "start": 457.44,
+      "end": 461.919,
+      "text": "i realize how important genre is let me"
+    },
+    {
+      "start": 459.759,
+      "end": 464.319,
+      "text": "explain what i mean this right here is"
+    },
+    {
+      "start": 461.919,
+      "end": 466.639,
+      "text": "every game on steam i i just went i"
+    },
+    {
+      "start": 464.319,
+      "end": 468.16,
+      "text": "downloaded a list of every game on steam"
+    },
+    {
+      "start": 466.639,
+      "end": 469.919,
+      "text": "and the tags they have and then i"
+    },
+    {
+      "start": 468.16,
+      "end": 471.84,
+      "text": "counted up how many tags i didn't i used"
+    },
+    {
+      "start": 469.919,
+      "end": 474.4,
+      "text": "an excel function to count up how many"
+    },
+    {
+      "start": 471.84,
+      "end": 477.36,
+      "text": "games have each type of tag guess what"
+    },
+    {
+      "start": 474.4,
+      "end": 478.96,
+      "text": "top two tags puzzle and platformer more"
+    },
+    {
+      "start": 477.36,
+      "end": 480.8,
+      "text": "games have puzzle and platformer tags in"
+    },
+    {
+      "start": 478.96,
+      "end": 482.8,
+      "text": "them than any other genre"
+    },
+    {
+      "start": 480.8,
+      "end": 484.16,
+      "text": "then i graphed how many reviews they got"
+    },
+    {
+      "start": 482.8,
+      "end": 485.52,
+      "text": "in estimated sales you can do this"
+    },
+    {
+      "start": 484.16,
+      "end": 487.919,
+      "text": "calculation"
+    },
+    {
+      "start": 485.52,
+      "end": 490.4,
+      "text": "and i graph the number of sales that"
+    },
+    {
+      "start": 487.919,
+      "end": 493.28,
+      "text": "games have against the same graph look"
+    },
+    {
+      "start": 490.4,
+      "end": 495.52,
+      "text": "at this although puzzle platformers are"
+    },
+    {
+      "start": 493.28,
+      "end": 496.96,
+      "text": "very very popular with indies"
+    },
+    {
+      "start": 495.52,
+      "end": 500.24,
+      "text": "nobody buys them"
+    },
+    {
+      "start": 496.96,
+      "end": 504.24,
+      "text": "and other genres like forex buildings"
+    },
+    {
+      "start": 500.24,
+      "end": 506.479,
+      "text": "city builders rpgs they don't have many"
+    },
+    {
+      "start": 504.24,
+      "end": 509.52,
+      "text": "games on steam but a lot of people buy"
+    },
+    {
+      "start": 506.479,
+      "end": 511.919,
+      "text": "them so there's kind of this influx"
+    },
+    {
+      "start": 509.52,
+      "end": 513.44,
+      "text": "inflection i don't know i just made up a"
+    },
+    {
+      "start": 511.919,
+      "end": 514.8,
+      "text": "word but anyway"
+    },
+    {
+      "start": 513.44,
+      "end": 517.279,
+      "text": "sorry translator"
+    },
+    {
+      "start": 514.8,
+      "end": 519.519,
+      "text": "don't even translate that word um what"
+    },
+    {
+      "start": 517.279,
+      "end": 521.279,
+      "text": "we've got to do is figure out what"
+    },
+    {
+      "start": 519.519,
+      "end": 524.32,
+      "text": "genres people like and what people's"
+    },
+    {
+      "start": 521.279,
+      "end": 526.64,
+      "text": "genres don't like um and so here's kind"
+    },
+    {
+      "start": 524.32,
+      "end": 528.08,
+      "text": "of all their data points like uh if you"
+    },
+    {
+      "start": 526.64,
+      "end": 529.92,
+      "text": "have a steam festival how many people"
+    },
+    {
+      "start": 528.08,
+      "end": 532.16,
+      "text": "watch these streams not a lot of people"
+    },
+    {
+      "start": 529.92,
+      "end": 535.6,
+      "text": "watch the pixel art streams uh the"
+    },
+    {
+      "start": 532.16,
+      "end": 537.36,
+      "text": "puzzle platformer streams on steam okay"
+    },
+    {
+      "start": 535.6,
+      "end": 538.8,
+      "text": "well you might say i'm still going to"
+    },
+    {
+      "start": 537.36,
+      "end": 540.48,
+      "text": "make my puzzle platformer i'm just going"
+    },
+    {
+      "start": 538.8,
+      "end": 542.08,
+      "text": "to tweet so much harder i'm going to"
+    },
+    {
+      "start": 540.48,
+      "end": 543.68,
+      "text": "tweet as much as i can about my game i'm"
+    },
+    {
+      "start": 542.08,
+      "end": 545.279,
+      "text": "going to tweet so much harder than those"
+    },
+    {
+      "start": 543.68,
+      "end": 546.88,
+      "text": "people making those city builders all"
+    },
+    {
+      "start": 545.279,
+      "end": 548.56,
+      "text": "right that makes sense that makes sense"
+    },
+    {
+      "start": 546.88,
+      "end": 549.92,
+      "text": "but let me show you this let me give you"
+    },
+    {
+      "start": 548.56,
+      "end": 551.44,
+      "text": "an explanation before you start tweeting"
+    },
+    {
+      "start": 549.92,
+      "end": 552.8,
+      "text": "all that stuff okay here's where i live"
+    },
+    {
+      "start": 551.44,
+      "end": 554.48,
+      "text": "i live in the united states down at the"
+    },
+    {
+      "start": 552.8,
+      "end": 557.2,
+      "text": "bottom this is the deserts we're right"
+    },
+    {
+      "start": 554.48,
+      "end": 558.399,
+      "text": "above mexico here this is the deserts of"
+    },
+    {
+      "start": 557.2,
+      "end": 560.16,
+      "text": "america"
+    },
+    {
+      "start": 558.399,
+      "end": 563.04,
+      "text": "this is my childhood home this is where"
+    },
+    {
+      "start": 560.16,
+      "end": 565.92,
+      "text": "i grew up look at right there cactuses i"
+    },
+    {
+      "start": 563.04,
+      "end": 568.88,
+      "text": "literally had cactuses in my front yard"
+    },
+    {
+      "start": 565.92,
+      "end": 570.72,
+      "text": "um and whenever bugs bunny wanted to"
+    },
+    {
+      "start": 568.88,
+      "end": 573.04,
+      "text": "show that they were in the desert they"
+    },
+    {
+      "start": 570.72,
+      "end": 575.36,
+      "text": "showed saguaro cactuses i literally had"
+    },
+    {
+      "start": 573.04,
+      "end": 576.64,
+      "text": "the sorrow cactus in my front yard"
+    },
+    {
+      "start": 575.36,
+      "end": 580.16,
+      "text": "that's where i lived i grew up in the"
+    },
+    {
+      "start": 576.64,
+      "end": 582.32,
+      "text": "desert um now you might say chris i"
+    },
+    {
+      "start": 580.16,
+      "end": 584.56,
+      "text": "noticed there's no ski shots in tucson"
+    },
+    {
+      "start": 582.32,
+      "end": 586.16,
+      "text": "i'm going to be an indie ski shop seller"
+    },
+    {
+      "start": 584.56,
+      "end": 588.24,
+      "text": "in tucson"
+    },
+    {
+      "start": 586.16,
+      "end": 590.08,
+      "text": "and i actually googled in tucson and i"
+    },
+    {
+      "start": 588.24,
+      "end": 592.64,
+      "text": "looked how many ski shops there are i"
+    },
+    {
+      "start": 590.08,
+      "end": 594.24,
+      "text": "found one that's called skis and atvs"
+    },
+    {
+      "start": 592.64,
+      "end": 595.76,
+      "text": "and i called them up i literally called"
+    },
+    {
+      "start": 594.24,
+      "end": 597.92,
+      "text": "them up and i said how's the skis and"
+    },
+    {
+      "start": 595.76,
+      "end": 600.32,
+      "text": "they said we don't sell skis we sell jet"
+    },
+    {
+      "start": 597.92,
+      "end": 602.32,
+      "text": "skis you know on the water not snow skis"
+    },
+    {
+      "start": 600.32,
+      "end": 604.32,
+      "text": "why would we sell snow skis"
+    },
+    {
+      "start": 602.32,
+      "end": 606.32,
+      "text": "and but you're like no i'm still going"
+    },
+    {
+      "start": 604.32,
+      "end": 608.32,
+      "text": "to release it we're going to tweet"
+    },
+    {
+      "start": 606.32,
+      "end": 610.16,
+      "text": "pool ski memes we're going to get this"
+    },
+    {
+      "start": 608.32,
+      "end": 612.64,
+      "text": "artisanal craftsman who can make the"
+    },
+    {
+      "start": 610.16,
+      "end": 614.8,
+      "text": "best skis and we're going to hire ski"
+    },
+    {
+      "start": 612.64,
+      "end": 618.64,
+      "text": "influencers and they're going to promote"
+    },
+    {
+      "start": 614.8,
+      "end": 620.32,
+      "text": "skis in tucson and it but to that i say"
+    },
+    {
+      "start": 618.64,
+      "end": 622,
+      "text": "it doesn't matter what you do it doesn't"
+    },
+    {
+      "start": 620.32,
+      "end": 623.36,
+      "text": "matter what type of tweets you do what"
+    },
+    {
+      "start": 622,
+      "end": 625.04,
+      "text": "type of promotions"
+    },
+    {
+      "start": 623.36,
+      "end": 626.56,
+      "text": "nobody buys skis in tucson's we're a"
+    },
+    {
+      "start": 625.04,
+      "end": 630.32,
+      "text": "desert people we love the desert we"
+    },
+    {
+      "start": 626.56,
+      "end": 632.079,
+      "text": "don't love snow so it doesn't matter on"
+    },
+    {
+      "start": 630.32,
+      "end": 634.399,
+      "text": "steam it's like trying to sell skis in"
+    },
+    {
+      "start": 632.079,
+      "end": 636.8,
+      "text": "tucson in a desert"
+    },
+    {
+      "start": 634.399,
+      "end": 638.72,
+      "text": "whatever the genre is matters more than"
+    },
+    {
+      "start": 636.8,
+      "end": 640.8,
+      "text": "the promotion you do you have to pick"
+    },
+    {
+      "start": 638.72,
+      "end": 642.72,
+      "text": "the right genre on steam i cannot"
+    },
+    {
+      "start": 640.8,
+      "end": 645.279,
+      "text": "emphasize this enough all the marketing"
+    },
+    {
+      "start": 642.72,
+      "end": 646.88,
+      "text": "advice i give anything else stops at"
+    },
+    {
+      "start": 645.279,
+      "end": 648.8,
+      "text": "genre you got to pick the right type of"
+    },
+    {
+      "start": 646.88,
+      "end": 649.6,
+      "text": "game for steam okay"
+    },
+    {
+      "start": 648.8,
+      "end": 650.64,
+      "text": "this"
+    },
+    {
+      "start": 649.6,
+      "end": 652.32,
+      "text": "depends"
+    },
+    {
+      "start": 650.64,
+      "end": 654.56,
+      "text": "more on your success"
+    },
+    {
+      "start": 652.32,
+      "end": 656.64,
+      "text": "than anything else is genre and the type"
+    },
+    {
+      "start": 654.56,
+      "end": 658.88,
+      "text": "of game that you make"
+    },
+    {
+      "start": 656.64,
+      "end": 661.76,
+      "text": "okay if we go to this website uh i love"
+    },
+    {
+      "start": 658.88,
+      "end": 663.92,
+      "text": "this site game stats stat steam tags you"
+    },
+    {
+      "start": 661.76,
+      "end": 666.48,
+      "text": "can look the the estimated earnings for"
+    },
+    {
+      "start": 663.92,
+      "end": 668.48,
+      "text": "every single tag on steam if you go down"
+    },
+    {
+      "start": 666.48,
+      "end": 671.2,
+      "text": "and you look at something like median uh"
+    },
+    {
+      "start": 668.48,
+      "end": 674.32,
+      "text": "number of sales uh for a median call for"
+    },
+    {
+      "start": 671.2,
+      "end": 676.079,
+      "text": "a a colony sim versus a platformer like"
+    },
+    {
+      "start": 674.32,
+      "end": 677.6,
+      "text": "my game you can see the difference"
+    },
+    {
+      "start": 676.079,
+      "end": 680.8,
+      "text": "colony sims earn like forty four"
+    },
+    {
+      "start": 677.6,
+      "end": 683.279,
+      "text": "thousand dollars on median uh and uh"
+    },
+    {
+      "start": 680.8,
+      "end": 685.12,
+      "text": "platformers earn about twelve hundred"
+    },
+    {
+      "start": 683.279,
+      "end": 686.399,
+      "text": "big difference between just based on the"
+    },
+    {
+      "start": 685.12,
+      "end": 688.16,
+      "text": "genre"
+    },
+    {
+      "start": 686.399,
+      "end": 690.079,
+      "text": "so what kind of games does seem like"
+    },
+    {
+      "start": 688.16,
+      "end": 691.92,
+      "text": "what are the genres they like dark"
+    },
+    {
+      "start": 690.079,
+      "end": 693.44,
+      "text": "settings kind of like grimdark you know"
+    },
+    {
+      "start": 691.92,
+      "end": 695.36,
+      "text": "medieval"
+    },
+    {
+      "start": 693.44,
+      "end": 697.36,
+      "text": "deep gameplay they like to have a lot of"
+    },
+    {
+      "start": 695.36,
+      "end": 698.88,
+      "text": "systems that they can tweak and play"
+    },
+    {
+      "start": 697.36,
+      "end": 700.959,
+      "text": "that and have endless thing like"
+    },
+    {
+      "start": 698.88,
+      "end": 702.56,
+      "text": "crafting games card builders and they"
+    },
+    {
+      "start": 700.959,
+      "end": 705.44,
+      "text": "like endless content they don't really"
+    },
+    {
+      "start": 702.56,
+      "end": 707.04,
+      "text": "like a narrative game as much but they"
+    },
+    {
+      "start": 705.44,
+      "end": 708.72,
+      "text": "really like"
+    },
+    {
+      "start": 707.04,
+      "end": 710.24,
+      "text": "roguelikes and colony scenes where they"
+    },
+    {
+      "start": 708.72,
+      "end": 712.32,
+      "text": "can keep replaying and replaying it's"
+    },
+    {
+      "start": 710.24,
+      "end": 714.88,
+      "text": "almost got endless content those kind of"
+    },
+    {
+      "start": 712.32,
+      "end": 715.92,
+      "text": "things do very well on steam now i'm"
+    },
+    {
+      "start": 714.88,
+      "end": 717.92,
+      "text": "just telling you this so that you"
+    },
+    {
+      "start": 715.92,
+      "end": 719.04,
+      "text": "understand the odds there are games that"
+    },
+    {
+      "start": 717.92,
+      "end": 720.56,
+      "text": "break through and you might say well i"
+    },
+    {
+      "start": 719.04,
+      "end": 722.32,
+      "text": "know this one game it was a pixel art"
+    },
+    {
+      "start": 720.56,
+      "end": 724.079,
+      "text": "platformer that sold very well yes it"
+    },
+    {
+      "start": 722.32,
+      "end": 726.56,
+      "text": "happens it does happen sometimes but"
+    },
+    {
+      "start": 724.079,
+      "end": 729.519,
+      "text": "we're talking odds on average you're"
+    },
+    {
+      "start": 726.56,
+      "end": 731.44,
+      "text": "going to earn a lot more with if you"
+    },
+    {
+      "start": 729.519,
+      "end": 734,
+      "text": "target the genres that steam like it's a"
+    },
+    {
+      "start": 731.44,
+      "end": 736.8,
+      "text": "very risky thing like a lottery ticket"
+    },
+    {
+      "start": 734,
+      "end": 738.8,
+      "text": "to uh to do a puzzle platformer and try"
+    },
+    {
+      "start": 736.8,
+      "end": 741.04,
+      "text": "and and beat the algorithm it's just so"
+    },
+    {
+      "start": 738.8,
+      "end": 743.04,
+      "text": "hard to get past that"
+    },
+    {
+      "start": 741.04,
+      "end": 745.12,
+      "text": "now if you're making an art game or a"
+    },
+    {
+      "start": 743.04,
+      "end": 746.72,
+      "text": "game for the love of game design or"
+    },
+    {
+      "start": 745.12,
+      "end": 748.72,
+      "text": "something you don't care about profits"
+    },
+    {
+      "start": 746.72,
+      "end": 751.519,
+      "text": "don't listen to me but do your own"
+    },
+    {
+      "start": 748.72,
+      "end": 753.68,
+      "text": "course i i love you you are what's"
+    },
+    {
+      "start": 751.519,
+      "end": 754.959,
+      "text": "pushing the industry forward um but for"
+    },
+    {
+      "start": 753.68,
+      "end": 756.959,
+      "text": "everybody else who's you know trying to"
+    },
+    {
+      "start": 754.959,
+      "end": 759.68,
+      "text": "make a little bit of the money um it's"
+    },
+    {
+      "start": 756.959,
+      "end": 761.36,
+      "text": "actually pretty good you do you should"
+    },
+    {
+      "start": 759.68,
+      "end": 764.079,
+      "text": "very much care about what type of games"
+    },
+    {
+      "start": 761.36,
+      "end": 766.079,
+      "text": "you're selling on steam okay so let's"
+    },
+    {
+      "start": 764.079,
+      "end": 767.2,
+      "text": "say you heard my voice you said advice"
+    },
+    {
+      "start": 766.079,
+      "end": 769.279,
+      "text": "you said you know what the number one"
+    },
+    {
+      "start": 767.2,
+      "end": 770.959,
+      "text": "genre is it's call an extent we can make"
+    },
+    {
+      "start": 769.279,
+      "end": 772.72,
+      "text": "that and then i'm just gonna drop it"
+    },
+    {
+      "start": 770.959,
+      "end": 774.959,
+      "text": "with no marketing like beyonce drops her"
+    },
+    {
+      "start": 772.72,
+      "end": 777.44,
+      "text": "albums uh and just out of the blue drop"
+    },
+    {
+      "start": 774.959,
+      "end": 779.68,
+      "text": "my album without any marketing"
+    },
+    {
+      "start": 777.44,
+      "end": 782.32,
+      "text": "you can't do that because of this guy"
+    },
+    {
+      "start": 779.68,
+      "end": 784.639,
+      "text": "the bouncer who prevents these games"
+    },
+    {
+      "start": 782.32,
+      "end": 786.639,
+      "text": "from getting too big on steam without"
+    },
+    {
+      "start": 784.639,
+      "end": 789.12,
+      "text": "going to proper channels and the thing"
+    },
+    {
+      "start": 786.639,
+      "end": 790.959,
+      "text": "that kind of keys it up are wish lists"
+    },
+    {
+      "start": 789.12,
+      "end": 792.8,
+      "text": "so i'm going to talk about wishlist"
+    },
+    {
+      "start": 790.959,
+      "end": 794.56,
+      "text": "wishlist wishlist"
+    },
+    {
+      "start": 792.8,
+      "end": 797.2,
+      "text": "and this is what we're going to have to"
+    },
+    {
+      "start": 794.56,
+      "end": 798.399,
+      "text": "come up against which is people that say"
+    },
+    {
+      "start": 797.2,
+      "end": 800,
+      "text": "i'm just going to go viral i'm going to"
+    },
+    {
+      "start": 798.399,
+      "end": 801.36,
+      "text": "release my game and i hope to go viral i"
+    },
+    {
+      "start": 800,
+      "end": 802.8,
+      "text": "don't need to do like a bunch of"
+    },
+    {
+      "start": 801.36,
+      "end": 804.48,
+      "text": "marketing"
+    },
+    {
+      "start": 802.8,
+      "end": 805.92,
+      "text": "but this guy is what prevents that from"
+    },
+    {
+      "start": 804.48,
+      "end": 808.399,
+      "text": "happening this guy keeps things from"
+    },
+    {
+      "start": 805.92,
+      "end": 810,
+      "text": "like just going viral okay"
+    },
+    {
+      "start": 808.399,
+      "end": 811.36,
+      "text": "so in steam let me give a little"
+    },
+    {
+      "start": 810,
+      "end": 814.16,
+      "text": "background here in steam there's this"
+    },
+    {
+      "start": 811.36,
+      "end": 815.6,
+      "text": "button called add to wishlist okay if"
+    },
+    {
+      "start": 814.16,
+      "end": 817.04,
+      "text": "somebody likes a game they usually hit"
+    },
+    {
+      "start": 815.6,
+      "end": 818.639,
+      "text": "add to wishlist if they're interested in"
+    },
+    {
+      "start": 817.04,
+      "end": 821.36,
+      "text": "it because they want to hear about it"
+    },
+    {
+      "start": 818.639,
+      "end": 823.44,
+      "text": "now when they hit add to wishlist"
+    },
+    {
+      "start": 821.36,
+      "end": 825.44,
+      "text": "a few when the game launches or goes on"
+    },
+    {
+      "start": 823.44,
+      "end": 827.519,
+      "text": "sale they will get an email from valve"
+    },
+    {
+      "start": 825.44,
+      "end": 830,
+      "text": "that says hey this game that you wish"
+    },
+    {
+      "start": 827.519,
+      "end": 832,
+      "text": "listed is on sale now"
+    },
+    {
+      "start": 830,
+      "end": 834.639,
+      "text": "this email converts better than anything"
+    },
+    {
+      "start": 832,
+      "end": 837.12,
+      "text": "else on steam better than uh streamers"
+    },
+    {
+      "start": 834.639,
+      "end": 839.92,
+      "text": "better than twitter tick tock anything"
+    },
+    {
+      "start": 837.12,
+      "end": 841.6,
+      "text": "this email from valve is the best so"
+    },
+    {
+      "start": 839.92,
+      "end": 842.88,
+      "text": "what we're trying to do is get as many"
+    },
+    {
+      "start": 841.6,
+      "end": 844.8,
+      "text": "people to sign up so that they get this"
+    },
+    {
+      "start": 842.88,
+      "end": 845.92,
+      "text": "email than anything else that's the name"
+    },
+    {
+      "start": 844.8,
+      "end": 847.92,
+      "text": "of the game"
+    },
+    {
+      "start": 845.92,
+      "end": 849.12,
+      "text": "so when your game launches if you've"
+    },
+    {
+      "start": 847.92,
+      "end": 850.959,
+      "text": "done the right marketing and your game"
+    },
+    {
+      "start": 849.12,
+      "end": 853.12,
+      "text": "is not like buggy or actually hits the"
+    },
+    {
+      "start": 850.959,
+      "end": 854.88,
+      "text": "market what they want you can expect"
+    },
+    {
+      "start": 853.12,
+      "end": 856.88,
+      "text": "about five to twenty percent of people"
+    },
+    {
+      "start": 854.88,
+      "end": 859.36,
+      "text": "of these wish lists that you gather from"
+    },
+    {
+      "start": 856.88,
+      "end": 860.399,
+      "text": "steam to convert to sales it's kind of"
+    },
+    {
+      "start": 859.36,
+      "end": 861.519,
+      "text": "rough"
+    },
+    {
+      "start": 860.399,
+      "end": 863.12,
+      "text": "estimate depends on what kind of"
+    },
+    {
+      "start": 861.519,
+      "end": 865.68,
+      "text": "marketing you do but about five to"
+    },
+    {
+      "start": 863.12,
+      "end": 867.519,
+      "text": "twenty percent so"
+    },
+    {
+      "start": 865.68,
+      "end": 869.92,
+      "text": "there's this sort of thing it's and i'll"
+    },
+    {
+      "start": 867.519,
+      "end": 871.6,
+      "text": "tell you tell you what but"
+    },
+    {
+      "start": 869.92,
+      "end": 873.12,
+      "text": "it's about ten thousand wishlists i"
+    },
+    {
+      "start": 871.6,
+      "end": 874.48,
+      "text": "would recommend for a game that's really"
+    },
+    {
+      "start": 873.12,
+      "end": 875.76,
+      "text": "trying to sell itself you know you can"
+    },
+    {
+      "start": 874.48,
+      "end": 877.279,
+      "text": "do less but if you're just a small"
+    },
+    {
+      "start": 875.76,
+      "end": 878.72,
+      "text": "hobbyist you don't need to get all those"
+    },
+    {
+      "start": 877.279,
+      "end": 880.72,
+      "text": "businesses but if you're really trying"
+    },
+    {
+      "start": 878.72,
+      "end": 882.8,
+      "text": "to make money at this i'd advise at"
+    },
+    {
+      "start": 880.72,
+      "end": 884.24,
+      "text": "least ten thousand there's no magic"
+    },
+    {
+      "start": 882.8,
+      "end": 886.56,
+      "text": "number like steam looks at the algorithm"
+    },
+    {
+      "start": 884.24,
+      "end": 888.079,
+      "text": "that says if less than 10 000 do this if"
+    },
+    {
+      "start": 886.56,
+      "end": 890.8,
+      "text": "not do this but let me show you it's"
+    },
+    {
+      "start": 888.079,
+      "end": 893.04,
+      "text": "just kind of being safe um"
+    },
+    {
+      "start": 890.8,
+      "end": 894.399,
+      "text": "there's this chart here where it ranks"
+    },
+    {
+      "start": 893.04,
+      "end": 896.24,
+      "text": "all the games it's called popular"
+    },
+    {
+      "start": 894.399,
+      "end": 898,
+      "text": "upcoming and before a game releases like"
+    },
+    {
+      "start": 896.24,
+      "end": 900.24,
+      "text": "a week to a week and a half before a"
+    },
+    {
+      "start": 898,
+      "end": 902.72,
+      "text": "game launches you end up on this chart"
+    },
+    {
+      "start": 900.24,
+      "end": 904.079,
+      "text": "if you get about 10 000 wishlists you're"
+    },
+    {
+      "start": 902.72,
+      "end": 904.88,
+      "text": "pretty much guaranteed to be on this"
+    },
+    {
+      "start": 904.079,
+      "end": 907.519,
+      "text": "list"
+    },
+    {
+      "start": 904.88,
+      "end": 910,
+      "text": "this list is the first kind of"
+    },
+    {
+      "start": 907.519,
+      "end": 911.199,
+      "text": "support that valve does for you they"
+    },
+    {
+      "start": 910,
+      "end": 912.399,
+      "text": "will kind of boost your game and when"
+    },
+    {
+      "start": 911.199,
+      "end": 914.88,
+      "text": "you're on this list you get about a"
+    },
+    {
+      "start": 912.399,
+      "end": 916.959,
+      "text": "thousand wishlists a day it's very"
+    },
+    {
+      "start": 914.88,
+      "end": 918.8,
+      "text": "helpful just before your game launches"
+    },
+    {
+      "start": 916.959,
+      "end": 921.12,
+      "text": "and a lot of steam shoppers look at this"
+    },
+    {
+      "start": 918.8,
+      "end": 922.48,
+      "text": "thing so i consider it the first sign"
+    },
+    {
+      "start": 921.12,
+      "end": 924.72,
+      "text": "when you get about ten thousand wish"
+    },
+    {
+      "start": 922.48,
+      "end": 926.959,
+      "text": "lists that the um"
+    },
+    {
+      "start": 924.72,
+      "end": 928.24,
+      "text": "uh guy is going to lower the rope just a"
+    },
+    {
+      "start": 926.959,
+      "end": 929.92,
+      "text": "little bit the balance is going to kind"
+    },
+    {
+      "start": 928.24,
+      "end": 932.079,
+      "text": "of let you into the club just a little"
+    },
+    {
+      "start": 929.92,
+      "end": 934.32,
+      "text": "bit not a lot he's just testing out he's"
+    },
+    {
+      "start": 932.079,
+      "end": 936.32,
+      "text": "he's kind of interested in you okay"
+    },
+    {
+      "start": 934.32,
+      "end": 938.32,
+      "text": "so here's the reason okay assuming 10"
+    },
+    {
+      "start": 936.32,
+      "end": 940.639,
+      "text": "000 is the number"
+    },
+    {
+      "start": 938.32,
+      "end": 942.399,
+      "text": "a big influencer covering your game"
+    },
+    {
+      "start": 940.639,
+      "end": 944.399,
+      "text": "cannot get you more than a thousand"
+    },
+    {
+      "start": 942.399,
+      "end": 947.12,
+      "text": "wishlists they just don't i've seen some"
+    },
+    {
+      "start": 944.399,
+      "end": 948.8,
+      "text": "really popular uh streamers play"
+    },
+    {
+      "start": 947.12,
+      "end": 951.04,
+      "text": "at most you get maybe two to four"
+    },
+    {
+      "start": 948.8,
+      "end": 952.639,
+      "text": "thousand most but even a top tier"
+    },
+    {
+      "start": 951.04,
+      "end": 954.48,
+      "text": "influencer can't get you ten thousand"
+    },
+    {
+      "start": 952.639,
+      "end": 958,
+      "text": "wishlists in one shot it just doesn't"
+    },
+    {
+      "start": 954.48,
+      "end": 960.079,
+      "text": "happen that way so if let's say here"
+    },
+    {
+      "start": 958,
+      "end": 962.48,
+      "text": "um you try and get that influencer it's"
+    },
+    {
+      "start": 960.079,
+      "end": 964,
+      "text": "not gonna work so the pre-launch is"
+    },
+    {
+      "start": 962.48,
+      "end": 966.24,
+      "text": "actually a marathon you're building up"
+    },
+    {
+      "start": 964,
+      "end": 967.68,
+      "text": "over several things it's not just one"
+    },
+    {
+      "start": 966.24,
+      "end": 969.36,
+      "text": "crazy influencer that'll do it for you"
+    },
+    {
+      "start": 967.68,
+      "end": 971.199,
+      "text": "you have to build these up over time and"
+    },
+    {
+      "start": 969.36,
+      "end": 973.279,
+      "text": "collect these wish loss over a long"
+    },
+    {
+      "start": 971.199,
+      "end": 975.44,
+      "text": "period of time constantly marketing"
+    },
+    {
+      "start": 973.279,
+      "end": 977.36,
+      "text": "i actually like this system because it"
+    },
+    {
+      "start": 975.44,
+      "end": 978.88,
+      "text": "gives you a lot of shots on goal it"
+    },
+    {
+      "start": 977.36,
+      "end": 980.48,
+      "text": "gives you a lot of time to kind of test"
+    },
+    {
+      "start": 978.88,
+      "end": 982.16,
+      "text": "out your marketing figure out what works"
+    },
+    {
+      "start": 980.48,
+      "end": 984.56,
+      "text": "what doesn't you really get to"
+    },
+    {
+      "start": 982.16,
+      "end": 985.36,
+      "text": "experiment okay"
+    },
+    {
+      "start": 984.56,
+      "end": 987.12,
+      "text": "so"
+    },
+    {
+      "start": 985.36,
+      "end": 988.399,
+      "text": "this is what a really good"
+    },
+    {
+      "start": 987.12,
+      "end": 990,
+      "text": "campaign looks like this is called the"
+    },
+    {
+      "start": 988.399,
+      "end": 991.519,
+      "text": "follower chart this is just for some"
+    },
+    {
+      "start": 990,
+      "end": 992.72,
+      "text": "random game that i thought looked good"
+    },
+    {
+      "start": 991.519,
+      "end": 995.04,
+      "text": "but as you can see they have these kind"
+    },
+    {
+      "start": 992.72,
+      "end": 996.88,
+      "text": "of like steady up steps this is"
+    },
+    {
+      "start": 995.04,
+      "end": 998.959,
+      "text": "basically their number of wish lists as"
+    },
+    {
+      "start": 996.88,
+      "end": 1001.44,
+      "text": "you can see it's a good steady increase"
+    },
+    {
+      "start": 998.959,
+      "end": 1002.88,
+      "text": "throughout time this is what a good"
+    },
+    {
+      "start": 1001.44,
+      "end": 1004.48,
+      "text": "marketing campaign looks like your"
+    },
+    {
+      "start": 1002.88,
+      "end": 1006.56,
+      "text": "wishlist account will slowly go up it's"
+    },
+    {
+      "start": 1004.48,
+      "end": 1009.519,
+      "text": "not just a huge spike and that's it it's"
+    },
+    {
+      "start": 1006.56,
+      "end": 1010.56,
+      "text": "it's several little stair steps okay"
+    },
+    {
+      "start": 1009.519,
+      "end": 1012.079,
+      "text": "so we're going to talk about this"
+    },
+    {
+      "start": 1010.56,
+      "end": 1014.079,
+      "text": "there's two parts to any campaign"
+    },
+    {
+      "start": 1012.079,
+      "end": 1015.759,
+      "text": "there's the slow steady growth and"
+    },
+    {
+      "start": 1014.079,
+      "end": 1017.68,
+      "text": "there's the sharp spikes i kind of"
+    },
+    {
+      "start": 1015.759,
+      "end": 1018.56,
+      "text": "underlined them there for you okay and"
+    },
+    {
+      "start": 1017.68,
+      "end": 1020.48,
+      "text": "we're going to talk about this there's"
+    },
+    {
+      "start": 1018.56,
+      "end": 1022.24,
+      "text": "two types boring daily growth and"
+    },
+    {
+      "start": 1020.48,
+      "end": 1023.92,
+      "text": "exciting promotions so let's talk about"
+    },
+    {
+      "start": 1022.24,
+      "end": 1026.559,
+      "text": "boring stuff because i like boring stuff"
+    },
+    {
+      "start": 1023.92,
+      "end": 1028.24,
+      "text": "okay so every day steam actually gives"
+    },
+    {
+      "start": 1026.559,
+      "end": 1030.88,
+      "text": "you quite a bit of visibility they"
+    },
+    {
+      "start": 1028.24,
+      "end": 1032,
+      "text": "expose your game and people decide by"
+    },
+    {
+      "start": 1030.88,
+      "end": 1033.12,
+      "text": "looking at it you know steam will show"
+    },
+    {
+      "start": 1032,
+      "end": 1034.72,
+      "text": "you what's called your capsule which is"
+    },
+    {
+      "start": 1033.12,
+      "end": 1036.64,
+      "text": "your image they'll decide i like that"
+    },
+    {
+      "start": 1034.72,
+      "end": 1038.319,
+      "text": "game already i don't i'm going to show"
+    },
+    {
+      "start": 1036.64,
+      "end": 1039.679,
+      "text": "you an example of this so here's a"
+    },
+    {
+      "start": 1038.319,
+      "end": 1041.199,
+      "text": "capsule on the left for a game called"
+    },
+    {
+      "start": 1039.679,
+      "end": 1042.88,
+      "text": "low five ping pong on the right is omen"
+    },
+    {
+      "start": 1041.199,
+      "end": 1044.24,
+      "text": "exoto now"
+    },
+    {
+      "start": 1042.88,
+      "end": 1047.199,
+      "text": "both of these games get about the same"
+    },
+    {
+      "start": 1044.24,
+      "end": 1049.44,
+      "text": "exposure from steam right around 35 000"
+    },
+    {
+      "start": 1047.199,
+      "end": 1051.6,
+      "text": "exposures per week this is over a seven"
+    },
+    {
+      "start": 1049.44,
+      "end": 1052.96,
+      "text": "day period okay this is real data from"
+    },
+    {
+      "start": 1051.6,
+      "end": 1053.76,
+      "text": "two real games that they shared with me"
+    },
+    {
+      "start": 1052.96,
+      "end": 1055.919,
+      "text": "okay"
+    },
+    {
+      "start": 1053.76,
+      "end": 1057.28,
+      "text": "now the number of people who see that"
+    },
+    {
+      "start": 1055.919,
+      "end": 1059.679,
+      "text": "and then click on it is called a"
+    },
+    {
+      "start": 1057.28,
+      "end": 1061.039,
+      "text": "conversion and they go to visit so when"
+    },
+    {
+      "start": 1059.679,
+      "end": 1062.96,
+      "text": "they visit your same page it's called a"
+    },
+    {
+      "start": 1061.039,
+      "end": 1065.28,
+      "text": "visit as you can see lo-fi ping-pong"
+    },
+    {
+      "start": 1062.96,
+      "end": 1067.84,
+      "text": "converted nine percent of the views or"
+    },
+    {
+      "start": 1065.28,
+      "end": 1070.16,
+      "text": "the impressions to a view oman exoto"
+    },
+    {
+      "start": 1067.84,
+      "end": 1072.16,
+      "text": "converted 6.7 and then it goes down from"
+    },
+    {
+      "start": 1070.16,
+      "end": 1073.76,
+      "text": "there if they view the steam page they"
+    },
+    {
+      "start": 1072.16,
+      "end": 1075.76,
+      "text": "wish listed if they like it or they"
+    },
+    {
+      "start": 1073.76,
+      "end": 1077.679,
+      "text": "don't over a seven day period lo-fi"
+    },
+    {
+      "start": 1075.76,
+      "end": 1080.799,
+      "text": "ping-pong got 4.7"
+    },
+    {
+      "start": 1077.679,
+      "end": 1082.72,
+      "text": "wish listed it 2.7 seven of moments to"
+    },
+    {
+      "start": 1080.799,
+      "end": 1086.64,
+      "text": "uh converted to wishlist now you might"
+    },
+    {
+      "start": 1082.72,
+      "end": 1089.12,
+      "text": "say oh that's pretty similar 9.6 6.7 4.7"
+    },
+    {
+      "start": 1086.64,
+      "end": 1090.96,
+      "text": "to 2.7 that's not a lot of difference"
+    },
+    {
+      "start": 1089.12,
+      "end": 1092.559,
+      "text": "but this is just over a seven day period"
+    },
+    {
+      "start": 1090.96,
+      "end": 1094.08,
+      "text": "if you just continue they didn't do any"
+    },
+    {
+      "start": 1092.559,
+      "end": 1096.48,
+      "text": "extra promotion you just did this week"
+    },
+    {
+      "start": 1094.08,
+      "end": 1098.16,
+      "text": "after week every seven day at the end of"
+    },
+    {
+      "start": 1096.48,
+      "end": 1100.64,
+      "text": "the year oman exoto will get eight"
+    },
+    {
+      "start": 1098.16,
+      "end": 1102.96,
+      "text": "thousand wish lists omen exito we'll get"
+    },
+    {
+      "start": 1100.64,
+      "end": 1105.12,
+      "text": "3 000 wishes as you can see that stuff"
+    },
+    {
+      "start": 1102.96,
+      "end": 1106.96,
+      "text": "compounds like interest and it just"
+    },
+    {
+      "start": 1105.12,
+      "end": 1108.32,
+      "text": "grows and grows and grows so it's very"
+    },
+    {
+      "start": 1106.96,
+      "end": 1110.559,
+      "text": "important that you kind of optimize your"
+    },
+    {
+      "start": 1108.32,
+      "end": 1112,
+      "text": "steam page get it ready for the slow"
+    },
+    {
+      "start": 1110.559,
+      "end": 1113.84,
+      "text": "boring growth"
+    },
+    {
+      "start": 1112,
+      "end": 1116,
+      "text": "and one of the best things you can do is"
+    },
+    {
+      "start": 1113.84,
+      "end": 1118.24,
+      "text": "improve your capsule this is an example"
+    },
+    {
+      "start": 1116,
+      "end": 1119.84,
+      "text": "of a game that um i saw they shared"
+    },
+    {
+      "start": 1118.24,
+      "end": 1121.6,
+      "text": "their data with me uh it's called"
+    },
+    {
+      "start": 1119.84,
+      "end": 1123.36,
+      "text": "dwarven valley they had a capsule that"
+    },
+    {
+      "start": 1121.6,
+      "end": 1125.12,
+      "text": "was just a screenshot of the game they"
+    },
+    {
+      "start": 1123.36,
+      "end": 1126.96,
+      "text": "went and changed upgraded the capsule to"
+    },
+    {
+      "start": 1125.12,
+      "end": 1128.48,
+      "text": "a fine illustration really good looking"
+    },
+    {
+      "start": 1126.96,
+      "end": 1129.44,
+      "text": "really good text that says dwarven"
+    },
+    {
+      "start": 1128.48,
+      "end": 1132,
+      "text": "valley"
+    },
+    {
+      "start": 1129.44,
+      "end": 1134.4,
+      "text": "and you can see the graph pop up right"
+    },
+    {
+      "start": 1132,
+      "end": 1136.559,
+      "text": "when they change that capsule good"
+    },
+    {
+      "start": 1134.4,
+      "end": 1138.799,
+      "text": "capsule art makes people think this is a"
+    },
+    {
+      "start": 1136.559,
+      "end": 1140.799,
+      "text": "quality game it's interesting it matches"
+    },
+    {
+      "start": 1138.799,
+      "end": 1143.039,
+      "text": "my taste you've got to get a good"
+    },
+    {
+      "start": 1140.799,
+      "end": 1144.559,
+      "text": "capsule it is very important one of the"
+    },
+    {
+      "start": 1143.039,
+      "end": 1145.919,
+      "text": "things is like people who like crafting"
+    },
+    {
+      "start": 1144.559,
+      "end": 1148.16,
+      "text": "games want to see that it's a crafting"
+    },
+    {
+      "start": 1145.919,
+      "end": 1150.24,
+      "text": "game you'll notice that crafting games"
+    },
+    {
+      "start": 1148.16,
+      "end": 1152.16,
+      "text": "typically put a hammer this game uh"
+    },
+    {
+      "start": 1150.24,
+      "end": 1153.76,
+      "text": "crafting idle clicker put two hammers"
+    },
+    {
+      "start": 1152.16,
+      "end": 1155.28,
+      "text": "they're double the crafting of everybody"
+    },
+    {
+      "start": 1153.76,
+      "end": 1157.28,
+      "text": "else so if you're making a crafting game"
+    },
+    {
+      "start": 1155.28,
+      "end": 1159.76,
+      "text": "put a hammer in your capsule it tells"
+    },
+    {
+      "start": 1157.28,
+      "end": 1160.799,
+      "text": "shoppers who like uh crafting games that"
+    },
+    {
+      "start": 1159.76,
+      "end": 1162.16,
+      "text": "yours is a crafting game and they're"
+    },
+    {
+      "start": 1160.799,
+      "end": 1163.6,
+      "text": "more likely to click it it's little"
+    },
+    {
+      "start": 1162.16,
+      "end": 1164.559,
+      "text": "things like this that just help the"
+    },
+    {
+      "start": 1163.6,
+      "end": 1166.24,
+      "text": "algorithm"
+    },
+    {
+      "start": 1164.559,
+      "end": 1169.6,
+      "text": "support your game"
+    },
+    {
+      "start": 1166.24,
+      "end": 1171.52,
+      "text": "okay so you want to get your um you you"
+    },
+    {
+      "start": 1169.6,
+      "end": 1172.96,
+      "text": "want to tag correctly because tags show"
+    },
+    {
+      "start": 1171.52,
+      "end": 1174.16,
+      "text": "your game to the right people like i"
+    },
+    {
+      "start": 1172.96,
+      "end": 1176,
+      "text": "said people who like crafting games are"
+    },
+    {
+      "start": 1174.16,
+      "end": 1178.4,
+      "text": "going to get supported valve is all"
+    },
+    {
+      "start": 1176,
+      "end": 1180.24,
+      "text": "about the type of game so if you tag"
+    },
+    {
+      "start": 1178.4,
+      "end": 1181.6,
+      "text": "your game correctly the right audience"
+    },
+    {
+      "start": 1180.24,
+      "end": 1184.16,
+      "text": "is going to see it"
+    },
+    {
+      "start": 1181.6,
+      "end": 1185.6,
+      "text": "so different genres do better on steam i"
+    },
+    {
+      "start": 1184.16,
+      "end": 1187.919,
+      "text": "told you about this here are some"
+    },
+    {
+      "start": 1185.6,
+      "end": 1190.08,
+      "text": "examples you know like city builders"
+    },
+    {
+      "start": 1187.919,
+      "end": 1192.88,
+      "text": "they get about 50 wishlists per day and"
+    },
+    {
+      "start": 1190.08,
+      "end": 1194.4,
+      "text": "fbs 30 a day puzzle platformers about"
+    },
+    {
+      "start": 1192.88,
+      "end": 1196.799,
+      "text": "two a day"
+    },
+    {
+      "start": 1194.4,
+      "end": 1198.64,
+      "text": "that's just the way the genres work okay"
+    },
+    {
+      "start": 1196.799,
+      "end": 1200.64,
+      "text": "um now you might say you're making a"
+    },
+    {
+      "start": 1198.64,
+      "end": 1202.799,
+      "text": "puzzle platformer why don't i just tag"
+    },
+    {
+      "start": 1200.64,
+      "end": 1204.24,
+      "text": "it as a city builder and then i'll get"
+    },
+    {
+      "start": 1202.799,
+      "end": 1205.679,
+      "text": "all these wishlists doesn't work that"
+    },
+    {
+      "start": 1204.24,
+      "end": 1207.2,
+      "text": "way because if they if you tag your"
+    },
+    {
+      "start": 1205.679,
+      "end": 1208.4,
+      "text": "gaming correctly all these people who"
+    },
+    {
+      "start": 1207.2,
+      "end": 1210,
+      "text": "really like city builders are like"
+    },
+    {
+      "start": 1208.4,
+      "end": 1212.24,
+      "text": "what's this puzzle platformer doing in"
+    },
+    {
+      "start": 1210,
+      "end": 1214.159,
+      "text": "here get out of here um you can't fool"
+    },
+    {
+      "start": 1212.24,
+      "end": 1215.84,
+      "text": "this steam algorithm with your genre it"
+    },
+    {
+      "start": 1214.159,
+      "end": 1218.559,
+      "text": "optimizes even though some are more"
+    },
+    {
+      "start": 1215.84,
+      "end": 1220.32,
+      "text": "popular they really want you to tag it"
+    },
+    {
+      "start": 1218.559,
+      "end": 1221.919,
+      "text": "correctly because then you'll be shown"
+    },
+    {
+      "start": 1220.32,
+      "end": 1223.6,
+      "text": "to the few people on steam who actually"
+    },
+    {
+      "start": 1221.919,
+      "end": 1225.2,
+      "text": "like puzzle platformers that's the name"
+    },
+    {
+      "start": 1223.6,
+      "end": 1226,
+      "text": "of the game okay"
+    },
+    {
+      "start": 1225.2,
+      "end": 1227.6,
+      "text": "so"
+    },
+    {
+      "start": 1226,
+      "end": 1229.679,
+      "text": "that is how you get that good slow"
+    },
+    {
+      "start": 1227.6,
+      "end": 1231.52,
+      "text": "boring growth because day after day it"
+    },
+    {
+      "start": 1229.679,
+      "end": 1233.6,
+      "text": "shows your game to the right people and"
+    },
+    {
+      "start": 1231.52,
+      "end": 1235.52,
+      "text": "then they wish list it if you've really"
+    },
+    {
+      "start": 1233.6,
+      "end": 1237.84,
+      "text": "emphasized your genre and added the"
+    },
+    {
+      "start": 1235.52,
+      "end": 1240,
+      "text": "right tags i show you how to do all of"
+    },
+    {
+      "start": 1237.84,
+      "end": 1242.24,
+      "text": "this slow boring stuff on my thing how"
+    },
+    {
+      "start": 1240,
+      "end": 1244.08,
+      "text": "to make my class my free class how to"
+    },
+    {
+      "start": 1242.24,
+      "end": 1246.4,
+      "text": "make a steampage.com i recommend you"
+    },
+    {
+      "start": 1244.08,
+      "end": 1247.6,
+      "text": "sign up it goes into great detail okay"
+    },
+    {
+      "start": 1246.4,
+      "end": 1250.88,
+      "text": "let's talk about the last part which is"
+    },
+    {
+      "start": 1247.6,
+      "end": 1252.799,
+      "text": "exciting promotions okay"
+    },
+    {
+      "start": 1250.88,
+      "end": 1255.679,
+      "text": "this is what a lot of people call going"
+    },
+    {
+      "start": 1252.799,
+      "end": 1257.679,
+      "text": "viral um it's like how to really boost"
+    },
+    {
+      "start": 1255.679,
+      "end": 1259.36,
+      "text": "up your numbers really expose your game"
+    },
+    {
+      "start": 1257.679,
+      "end": 1261.52,
+      "text": "and if you look at this my example game"
+    },
+    {
+      "start": 1259.36,
+      "end": 1263.28,
+      "text": "with lots of good promotion events"
+    },
+    {
+      "start": 1261.52,
+      "end": 1266.48,
+      "text": "you'll notice all these little spikes"
+    },
+    {
+      "start": 1263.28,
+      "end": 1268,
+      "text": "all throughout the line um just straight"
+    },
+    {
+      "start": 1266.48,
+      "end": 1271.039,
+      "text": "shoots up this means they were in some"
+    },
+    {
+      "start": 1268,
+      "end": 1272.159,
+      "text": "sort of big promotion event um i"
+    },
+    {
+      "start": 1271.039,
+      "end": 1274.159,
+      "text": "underlined them here i'm going to tell"
+    },
+    {
+      "start": 1272.159,
+      "end": 1276.08,
+      "text": "you how to get these okay"
+    },
+    {
+      "start": 1274.159,
+      "end": 1278.48,
+      "text": "now i'm going to talk about them in"
+    },
+    {
+      "start": 1276.08,
+      "end": 1280.4,
+      "text": "order of how they appear uh like what's"
+    },
+    {
+      "start": 1278.48,
+      "end": 1282.96,
+      "text": "the most popular what's the best way to"
+    },
+    {
+      "start": 1280.4,
+      "end": 1285.76,
+      "text": "get your game seen and then um all the"
+    },
+    {
+      "start": 1282.96,
+      "end": 1288.4,
+      "text": "way down to the least likely okay"
+    },
+    {
+      "start": 1285.76,
+      "end": 1290.159,
+      "text": "the number one is festivals right now"
+    },
+    {
+      "start": 1288.4,
+      "end": 1292.08,
+      "text": "because of the times we're in a lot of"
+    },
+    {
+      "start": 1290.159,
+      "end": 1294.159,
+      "text": "vessels have gone virtual this has"
+    },
+    {
+      "start": 1292.08,
+      "end": 1295.76,
+      "text": "actually been very good for marketing"
+    },
+    {
+      "start": 1294.159,
+      "end": 1297.44,
+      "text": "because before you had to go to a"
+    },
+    {
+      "start": 1295.76,
+      "end": 1299.76,
+      "text": "festival you had to get in an airplane"
+    },
+    {
+      "start": 1297.44,
+      "end": 1301.76,
+      "text": "go to some convention center set up a"
+    },
+    {
+      "start": 1299.76,
+      "end": 1303.36,
+      "text": "booth with physical media get your team"
+    },
+    {
+      "start": 1301.76,
+      "end": 1304.96,
+      "text": "to come with you had to put on special"
+    },
+    {
+      "start": 1303.36,
+      "end": 1306.559,
+      "text": "shirts you know they always had the same"
+    },
+    {
+      "start": 1304.96,
+      "end": 1307.919,
+      "text": "shirt with your logo and stuff you don't"
+    },
+    {
+      "start": 1306.559,
+      "end": 1310.159,
+      "text": "even have to put on shirts anymore you"
+    },
+    {
+      "start": 1307.919,
+      "end": 1312.32,
+      "text": "can be in your pajamas because these"
+    },
+    {
+      "start": 1310.159,
+      "end": 1316.24,
+      "text": "festivals are all online and the best"
+    },
+    {
+      "start": 1312.32,
+      "end": 1318.559,
+      "text": "ones are the ones where you are um"
+    },
+    {
+      "start": 1316.24,
+      "end": 1320.08,
+      "text": "just like on the front page of steam"
+    },
+    {
+      "start": 1318.559,
+      "end": 1322.159,
+      "text": "so steam has been featuring these"
+    },
+    {
+      "start": 1320.08,
+      "end": 1323.679,
+      "text": "festivals and"
+    },
+    {
+      "start": 1322.159,
+      "end": 1325.84,
+      "text": "thousands and thousands of people come"
+    },
+    {
+      "start": 1323.679,
+      "end": 1328.32,
+      "text": "to see these okay"
+    },
+    {
+      "start": 1325.84,
+      "end": 1330.24,
+      "text": "uh they they are on steam so we know"
+    },
+    {
+      "start": 1328.32,
+      "end": 1331.12,
+      "text": "they're steam shoppers we know they like"
+    },
+    {
+      "start": 1330.24,
+      "end": 1334.24,
+      "text": "games"
+    },
+    {
+      "start": 1331.12,
+      "end": 1336.159,
+      "text": "and so they go to these um online"
+    },
+    {
+      "start": 1334.24,
+      "end": 1338,
+      "text": "takeovers we call them steam takeovers"
+    },
+    {
+      "start": 1336.159,
+      "end": 1340.159,
+      "text": "where the front page of steam says like"
+    },
+    {
+      "start": 1338,
+      "end": 1342.48,
+      "text": "games from quebec and you can go and you"
+    },
+    {
+      "start": 1340.159,
+      "end": 1344.48,
+      "text": "can see all these games from quebec now"
+    },
+    {
+      "start": 1342.48,
+      "end": 1346.72,
+      "text": "steam also runs a festival of their own"
+    },
+    {
+      "start": 1344.48,
+      "end": 1349.36,
+      "text": "they run it about three times a year"
+    },
+    {
+      "start": 1346.72,
+      "end": 1351.12,
+      "text": "and these festivals um are called the"
+    },
+    {
+      "start": 1349.36,
+      "end": 1353.84,
+      "text": "steam next fest"
+    },
+    {
+      "start": 1351.12,
+      "end": 1355.52,
+      "text": "and um you should opt into them"
+    },
+    {
+      "start": 1353.84,
+      "end": 1357.52,
+      "text": "everybody can get into them"
+    },
+    {
+      "start": 1355.52,
+      "end": 1359.44,
+      "text": "ones for like games from quebec you have"
+    },
+    {
+      "start": 1357.52,
+      "end": 1361.36,
+      "text": "to live in quebec so unless you're ready"
+    },
+    {
+      "start": 1359.44,
+      "end": 1364.08,
+      "text": "to move um you have to be right there"
+    },
+    {
+      "start": 1361.36,
+      "end": 1366.4,
+      "text": "but you know that you can um organize"
+    },
+    {
+      "start": 1364.08,
+      "end": 1369.52,
+      "text": "these events you know uh for your own"
+    },
+    {
+      "start": 1366.4,
+      "end": 1371.679,
+      "text": "regions and then have them uh talk to"
+    },
+    {
+      "start": 1369.52,
+      "end": 1373.919,
+      "text": "steam say hey can you feature us we've"
+    },
+    {
+      "start": 1371.679,
+      "end": 1376.4,
+      "text": "got a lot of games from our region we'd"
+    },
+    {
+      "start": 1373.919,
+      "end": 1378.48,
+      "text": "like to have a special sales page"
+    },
+    {
+      "start": 1376.4,
+      "end": 1379.84,
+      "text": "featuring all our games and if steam"
+    },
+    {
+      "start": 1378.48,
+      "end": 1381.52,
+      "text": "sees that you have some games that are"
+    },
+    {
+      "start": 1379.84,
+      "end": 1383.2,
+      "text": "really good i mean like million dollar"
+    },
+    {
+      "start": 1381.52,
+      "end": 1384.96,
+      "text": "sellers in your lot that you're going"
+    },
+    {
+      "start": 1383.2,
+      "end": 1387.44,
+      "text": "for uh you know saying we're promoting"
+    },
+    {
+      "start": 1384.96,
+      "end": 1389.36,
+      "text": "with this this this game they'll opt you"
+    },
+    {
+      "start": 1387.44,
+      "end": 1390.08,
+      "text": "in um but"
+    },
+    {
+      "start": 1389.36,
+      "end": 1392.799,
+      "text": "so"
+    },
+    {
+      "start": 1390.08,
+      "end": 1394.96,
+      "text": "festivals are the best way right now to"
+    },
+    {
+      "start": 1392.799,
+      "end": 1397.28,
+      "text": "get wishlists we're talking thousands of"
+    },
+    {
+      "start": 1394.96,
+      "end": 1398.88,
+      "text": "wishlists on these median is about 750"
+    },
+    {
+      "start": 1397.28,
+      "end": 1402.159,
+      "text": "but some of these festivals can bring in"
+    },
+    {
+      "start": 1398.88,
+      "end": 1405.52,
+      "text": "3 000 4 000 wishlists"
+    },
+    {
+      "start": 1402.159,
+      "end": 1407.2,
+      "text": "over like a weekend so very powerful um"
+    },
+    {
+      "start": 1405.52,
+      "end": 1409.36,
+      "text": "on my discord server which if you go to"
+    },
+    {
+      "start": 1407.2,
+      "end": 1411.52,
+      "text": "howtomakethegame.com there's a discord"
+    },
+    {
+      "start": 1409.36,
+      "end": 1413.36,
+      "text": "server i have a special widget in there"
+    },
+    {
+      "start": 1411.52,
+      "end": 1414.88,
+      "text": "where i list all the different festivals"
+    },
+    {
+      "start": 1413.36,
+      "end": 1416.72,
+      "text": "you should apply to there's a new one"
+    },
+    {
+      "start": 1414.88,
+      "end": 1418.4,
+      "text": "every week kind of ramping down for the"
+    },
+    {
+      "start": 1416.72,
+      "end": 1420.24,
+      "text": "winter but they'll be back in january"
+    },
+    {
+      "start": 1418.4,
+      "end": 1421.6,
+      "text": "and just apply for every single one you"
+    },
+    {
+      "start": 1420.24,
+      "end": 1423.52,
+      "text": "can get your game into and if you get"
+    },
+    {
+      "start": 1421.6,
+      "end": 1426,
+      "text": "accepted get ready for wishlist town"
+    },
+    {
+      "start": 1423.52,
+      "end": 1428.08,
+      "text": "because the train's coming okay"
+    },
+    {
+      "start": 1426,
+      "end": 1429.679,
+      "text": "next one down the next best way to get"
+    },
+    {
+      "start": 1428.08,
+      "end": 1431.279,
+      "text": "wishlist and get your game seen are"
+    },
+    {
+      "start": 1429.679,
+      "end": 1434.32,
+      "text": "streamers"
+    },
+    {
+      "start": 1431.279,
+      "end": 1436.48,
+      "text": "a a good streamer uh top tier we're"
+    },
+    {
+      "start": 1434.32,
+      "end": 1439.36,
+      "text": "talking like a million followers on"
+    },
+    {
+      "start": 1436.48,
+      "end": 1442.64,
+      "text": "twitch or youtube um can get you about"
+    },
+    {
+      "start": 1439.36,
+      "end": 1444.4,
+      "text": "1500 wishlists if they cover your game"
+    },
+    {
+      "start": 1442.64,
+      "end": 1445.76,
+      "text": "so it's very good to get covered by some"
+    },
+    {
+      "start": 1444.4,
+      "end": 1447.52,
+      "text": "of these streamers and the way you do it"
+    },
+    {
+      "start": 1445.76,
+      "end": 1449.44,
+      "text": "is you have a demo gotta have your demo"
+    },
+    {
+      "start": 1447.52,
+      "end": 1451.84,
+      "text": "ready and you just start reaching out to"
+    },
+    {
+      "start": 1449.44,
+      "end": 1454,
+      "text": "them um you find ones that like your"
+    },
+    {
+      "start": 1451.84,
+      "end": 1456.24,
+      "text": "type of game that have your genre your"
+    },
+    {
+      "start": 1454,
+      "end": 1458.96,
+      "text": "tastes and you just start communicating"
+    },
+    {
+      "start": 1456.24,
+      "end": 1460.799,
+      "text": "with them reach out you can pay some but"
+    },
+    {
+      "start": 1458.96,
+      "end": 1462.559,
+      "text": "i find that the organic ones where they"
+    },
+    {
+      "start": 1460.799,
+      "end": 1464.72,
+      "text": "just like your game work better than the"
+    },
+    {
+      "start": 1462.559,
+      "end": 1466.08,
+      "text": "paid ones but if you can't get anybody"
+    },
+    {
+      "start": 1464.72,
+      "end": 1468.24,
+      "text": "like your game you're gonna have to just"
+    },
+    {
+      "start": 1466.08,
+      "end": 1469.919,
+      "text": "pay for it but they do very well for"
+    },
+    {
+      "start": 1468.24,
+      "end": 1472.64,
+      "text": "getting your game and it works even"
+    },
+    {
+      "start": 1469.919,
+      "end": 1474.159,
+      "text": "better if they um cover your game"
+    },
+    {
+      "start": 1472.64,
+      "end": 1475.76,
+      "text": "multiple times that means they really"
+    },
+    {
+      "start": 1474.159,
+      "end": 1477.76,
+      "text": "like it and their audience is also going"
+    },
+    {
+      "start": 1475.76,
+      "end": 1479.919,
+      "text": "to like it so"
+    },
+    {
+      "start": 1477.76,
+      "end": 1482.96,
+      "text": "that's your hope get to coverage of a"
+    },
+    {
+      "start": 1479.919,
+      "end": 1484.4,
+      "text": "game um uh so you just got to play the"
+    },
+    {
+      "start": 1482.96,
+      "end": 1486.48,
+      "text": "numbers and that's why i say it's a long"
+    },
+    {
+      "start": 1484.4,
+      "end": 1488.08,
+      "text": "campaign once you get your demo up which"
+    },
+    {
+      "start": 1486.48,
+      "end": 1490,
+      "text": "they can play they'll play a demo for no"
+    },
+    {
+      "start": 1488.08,
+      "end": 1491.279,
+      "text": "problem so get a demo up of your game"
+    },
+    {
+      "start": 1490,
+      "end": 1493.279,
+      "text": "and just start contacting as many"
+    },
+    {
+      "start": 1491.279,
+      "end": 1495.2,
+      "text": "streamers as you can again it's a long"
+    },
+    {
+      "start": 1493.279,
+      "end": 1498.64,
+      "text": "campaign it's going to take a long time"
+    },
+    {
+      "start": 1495.2,
+      "end": 1498.64,
+      "text": "but you should just do it okay"
+    },
+    {
+      "start": 1498.72,
+      "end": 1502.08,
+      "text": "next thing that works really well is"
+    },
+    {
+      "start": 1500.159,
+      "end": 1505.12,
+      "text": "running a public beta betas are"
+    },
+    {
+      "start": 1502.08,
+      "end": 1507.279,
+      "text": "basically you put up a site and it says"
+    },
+    {
+      "start": 1505.12,
+      "end": 1509.52,
+      "text": "hey if you want a beta we're doing it"
+    },
+    {
+      "start": 1507.279,
+      "end": 1510.4,
+      "text": "next month uh sign up for our beta you"
+    },
+    {
+      "start": 1509.52,
+      "end": 1511.919,
+      "text": "know you can either do it through your"
+    },
+    {
+      "start": 1510.4,
+      "end": 1513.76,
+      "text": "discord server or a mailing list which"
+    },
+    {
+      "start": 1511.919,
+      "end": 1515.6,
+      "text": "is my favorite and then you promote your"
+    },
+    {
+      "start": 1513.76,
+      "end": 1518.32,
+      "text": "beta you can reach out to streamers"
+    },
+    {
+      "start": 1515.6,
+      "end": 1520.48,
+      "text": "called like alpha beta gamer um and just"
+    },
+    {
+      "start": 1518.32,
+      "end": 1522.32,
+      "text": "say hey we're running a beta and then"
+    },
+    {
+      "start": 1520.48,
+      "end": 1524.64,
+      "text": "when people join your beta you say by"
+    },
+    {
+      "start": 1522.32,
+      "end": 1526.96,
+      "text": "the way why don't you wishlist it and so"
+    },
+    {
+      "start": 1524.64,
+      "end": 1528.48,
+      "text": "that free game for a beta it's a very"
+    },
+    {
+      "start": 1526.96,
+      "end": 1530.559,
+      "text": "limited beta where you just give a"
+    },
+    {
+      "start": 1528.48,
+      "end": 1533.76,
+      "text": "section of your game up for people to"
+    },
+    {
+      "start": 1530.559,
+      "end": 1535.12,
+      "text": "play for like a weekend or a week um you"
+    },
+    {
+      "start": 1533.76,
+      "end": 1536.88,
+      "text": "encourage them to wishlist you can get"
+    },
+    {
+      "start": 1535.12,
+      "end": 1538.96,
+      "text": "about a thousand wishes for a beta it's"
+    },
+    {
+      "start": 1536.88,
+      "end": 1540.32,
+      "text": "a very good way very good system to do"
+    },
+    {
+      "start": 1538.96,
+      "end": 1542.24,
+      "text": "that um"
+    },
+    {
+      "start": 1540.32,
+      "end": 1543.679,
+      "text": "and that's how you run a beta um it"
+    },
+    {
+      "start": 1542.24,
+      "end": 1544.96,
+      "text": "works best for games that are like i"
+    },
+    {
+      "start": 1543.679,
+      "end": 1547.2,
+      "text": "said those kind of steam games where"
+    },
+    {
+      "start": 1544.96,
+      "end": 1548.96,
+      "text": "they're endless content but even"
+    },
+    {
+      "start": 1547.2,
+      "end": 1550.96,
+      "text": "narrative games work and it also you"
+    },
+    {
+      "start": 1548.96,
+      "end": 1552.48,
+      "text": "know you find bugs you find problems you"
+    },
+    {
+      "start": 1550.96,
+      "end": 1554,
+      "text": "get feedback from the users but it's"
+    },
+    {
+      "start": 1552.48,
+      "end": 1555.52,
+      "text": "really a good way to kind of promote"
+    },
+    {
+      "start": 1554,
+      "end": 1557.279,
+      "text": "your game it's mostly i'd say a"
+    },
+    {
+      "start": 1555.52,
+      "end": 1559.679,
+      "text": "marketing activity but it does have"
+    },
+    {
+      "start": 1557.279,
+      "end": 1562.32,
+      "text": "benefits okay"
+    },
+    {
+      "start": 1559.679,
+      "end": 1564.799,
+      "text": "next one is a reddit post"
+    },
+    {
+      "start": 1562.32,
+      "end": 1567.279,
+      "text": "reddit is a very good network for gamers"
+    },
+    {
+      "start": 1564.799,
+      "end": 1569.919,
+      "text": "gamers love to be on reddit um"
+    },
+    {
+      "start": 1567.279,
+      "end": 1571.76,
+      "text": "some of the top tier subreddits are pc"
+    },
+    {
+      "start": 1569.919,
+      "end": 1574.48,
+      "text": "master race"
+    },
+    {
+      "start": 1571.76,
+      "end": 1576.48,
+      "text": "our games are gamer or"
+    },
+    {
+      "start": 1574.48,
+      "end": 1578.559,
+      "text": "gaming or gaming"
+    },
+    {
+      "start": 1576.48,
+      "end": 1580.32,
+      "text": "indie games is a little bit smaller"
+    },
+    {
+      "start": 1578.559,
+      "end": 1582,
+      "text": "it doesn't have as many followers and"
+    },
+    {
+      "start": 1580.32,
+      "end": 1584.4,
+      "text": "they don't upvote us stuff as much and"
+    },
+    {
+      "start": 1582,
+      "end": 1586.32,
+      "text": "then our game dev is really low um you"
+    },
+    {
+      "start": 1584.4,
+      "end": 1588.559,
+      "text": "can go viral on our"
+    },
+    {
+      "start": 1586.32,
+      "end": 1590.559,
+      "text": "uh game dev but most of the people on"
+    },
+    {
+      "start": 1588.559,
+      "end": 1592.159,
+      "text": "our game dev are"
+    },
+    {
+      "start": 1590.559,
+      "end": 1593.84,
+      "text": "fellow developers and we don't have time"
+    },
+    {
+      "start": 1592.159,
+      "end": 1596.88,
+      "text": "to play games we're making them so a lot"
+    },
+    {
+      "start": 1593.84,
+      "end": 1598.559,
+      "text": "of our game dev um just if you go viral"
+    },
+    {
+      "start": 1596.88,
+      "end": 1600.96,
+      "text": "there it doesn't work very well so i"
+    },
+    {
+      "start": 1598.559,
+      "end": 1602.48,
+      "text": "would say you gotta really learn the"
+    },
+    {
+      "start": 1600.96,
+      "end": 1604.48,
+      "text": "language of how reddit works you can't"
+    },
+    {
+      "start": 1602.48,
+      "end": 1606.64,
+      "text": "promote your game all the time you also"
+    },
+    {
+      "start": 1604.48,
+      "end": 1608.32,
+      "text": "have to post uh things about your"
+    },
+    {
+      "start": 1606.64,
+      "end": 1610.4,
+      "text": "personal life you know like uh what your"
+    },
+    {
+      "start": 1608.32,
+      "end": 1612,
+      "text": "hobbies are in other subreddits so it"
+    },
+    {
+      "start": 1610.4,
+      "end": 1614.159,
+      "text": "doesn't look like you're just spamming"
+    },
+    {
+      "start": 1612,
+      "end": 1616.4,
+      "text": "uh reddit with your game like what your"
+    },
+    {
+      "start": 1614.159,
+      "end": 1617.279,
+      "text": "game is um you got to kind of mix it up"
+    },
+    {
+      "start": 1616.4,
+      "end": 1619.76,
+      "text": "so"
+    },
+    {
+      "start": 1617.279,
+      "end": 1621.279,
+      "text": "post some post some pictures of your pet"
+    },
+    {
+      "start": 1619.76,
+      "end": 1623.52,
+      "text": "if you're into gardening post pictures"
+    },
+    {
+      "start": 1621.279,
+      "end": 1625.12,
+      "text": "of your garden uh and then post about"
+    },
+    {
+      "start": 1623.52,
+      "end": 1628.72,
+      "text": "your game uh so you have to have a good"
+    },
+    {
+      "start": 1625.12,
+      "end": 1630.96,
+      "text": "ratio of about ten to one ten non self"
+    },
+    {
+      "start": 1628.72,
+      "end": 1633.44,
+      "text": "promotion to one promotion um other than"
+    },
+    {
+      "start": 1630.96,
+      "end": 1635.679,
+      "text": "that uh but red is worth the effort"
+    },
+    {
+      "start": 1633.44,
+      "end": 1637.44,
+      "text": "because a good post can get thousands"
+    },
+    {
+      "start": 1635.679,
+      "end": 1639.76,
+      "text": "and thousands of wish lists and get your"
+    },
+    {
+      "start": 1637.44,
+      "end": 1641.6,
+      "text": "game good visibility"
+    },
+    {
+      "start": 1639.76,
+      "end": 1644.159,
+      "text": "imager i kept this one in it's much"
+    },
+    {
+      "start": 1641.6,
+      "end": 1646.72,
+      "text": "harder now it's not as powerful as it"
+    },
+    {
+      "start": 1644.159,
+      "end": 1648.24,
+      "text": "used to be um but when you got onto"
+    },
+    {
+      "start": 1646.72,
+      "end": 1650.08,
+      "text": "imagery you would post a gif of your"
+    },
+    {
+      "start": 1648.24,
+      "end": 1651.919,
+      "text": "game um it was a site where you could"
+    },
+    {
+      "start": 1650.08,
+      "end": 1653.36,
+      "text": "get about 400 wishlist if you went to"
+    },
+    {
+      "start": 1651.919,
+      "end": 1654.88,
+      "text": "the front page like enough people upload"
+    },
+    {
+      "start": 1653.36,
+      "end": 1655.919,
+      "text": "it to the front but i don't really"
+    },
+    {
+      "start": 1654.88,
+      "end": 1657.36,
+      "text": "recommend spending too much time in"
+    },
+    {
+      "start": 1655.919,
+      "end": 1659.2,
+      "text": "imager it doesn't work as well anymore"
+    },
+    {
+      "start": 1657.36,
+      "end": 1661.279,
+      "text": "so it's much harder but you can try it"
+    },
+    {
+      "start": 1659.2,
+      "end": 1663.12,
+      "text": "and see if it works um"
+    },
+    {
+      "start": 1661.279,
+      "end": 1665.039,
+      "text": "press you know the press coverage where"
+    },
+    {
+      "start": 1663.12,
+      "end": 1667.12,
+      "text": "you email a journalist get them to cover"
+    },
+    {
+      "start": 1665.039,
+      "end": 1669.039,
+      "text": "your game it's very time consuming and"
+    },
+    {
+      "start": 1667.12,
+      "end": 1671.12,
+      "text": "most gamers don't read it as much"
+    },
+    {
+      "start": 1669.039,
+      "end": 1672.48,
+      "text": "anymore so if you get a good story on"
+    },
+    {
+      "start": 1671.12,
+      "end": 1675.919,
+      "text": "like kotaku"
+    },
+    {
+      "start": 1672.48,
+      "end": 1678.159,
+      "text": "or pc gamer or ign or gamespot those are"
+    },
+    {
+      "start": 1675.919,
+      "end": 1681.279,
+      "text": "the kind of top sites for this you're"
+    },
+    {
+      "start": 1678.159,
+      "end": 1684.08,
+      "text": "looking at about 150 wishlists per story"
+    },
+    {
+      "start": 1681.279,
+      "end": 1686.08,
+      "text": "that goes live there so um you know it's"
+    },
+    {
+      "start": 1684.08,
+      "end": 1688.32,
+      "text": "not bad i would take 150 wish list but"
+    },
+    {
+      "start": 1686.08,
+      "end": 1689.84,
+      "text": "that takes a lot of work so um reaching"
+    },
+    {
+      "start": 1688.32,
+      "end": 1690.72,
+      "text": "out to the press doesn't work as well as"
+    },
+    {
+      "start": 1689.84,
+      "end": 1692.399,
+      "text": "some of the other ones that i was"
+    },
+    {
+      "start": 1690.72,
+      "end": 1694.48,
+      "text": "talking about"
+    },
+    {
+      "start": 1692.399,
+      "end": 1696.399,
+      "text": "social media now a lot of people think"
+    },
+    {
+      "start": 1694.48,
+      "end": 1698.72,
+      "text": "marketing equals social media"
+    },
+    {
+      "start": 1696.399,
+      "end": 1700.96,
+      "text": "social media actually doesn't work that"
+    },
+    {
+      "start": 1698.72,
+      "end": 1702.64,
+      "text": "well for promoting your game i know it"
+    },
+    {
+      "start": 1700.96,
+      "end": 1704.399,
+      "text": "sounds strange but those other ones"
+    },
+    {
+      "start": 1702.64,
+      "end": 1707.279,
+      "text": "those other ways i was just talking"
+    },
+    {
+      "start": 1704.399,
+      "end": 1709.52,
+      "text": "about do much better than social media"
+    },
+    {
+      "start": 1707.279,
+      "end": 1711.52,
+      "text": "social media it depends like if you have"
+    },
+    {
+      "start": 1709.52,
+      "end": 1713.76,
+      "text": "a really cute game with a cute animal"
+    },
+    {
+      "start": 1711.52,
+      "end": 1717.039,
+      "text": "with big old cute eyes doing something"
+    },
+    {
+      "start": 1713.76,
+      "end": 1718.96,
+      "text": "cute um you can do very well on twitter"
+    },
+    {
+      "start": 1717.039,
+      "end": 1721.84,
+      "text": "twitter will very much rank a game that"
+    },
+    {
+      "start": 1718.96,
+      "end": 1724.399,
+      "text": "has those big adorable eyes uh up or if"
+    },
+    {
+      "start": 1721.84,
+      "end": 1727.279,
+      "text": "it's like super good graphics like so"
+    },
+    {
+      "start": 1724.399,
+      "end": 1729.6,
+      "text": "amazingly good graphics you can do well"
+    },
+    {
+      "start": 1727.279,
+      "end": 1731.44,
+      "text": "on twitter um you can go viral get a"
+    },
+    {
+      "start": 1729.6,
+      "end": 1732.96,
+      "text": "couple thousand wishlists from that but"
+    },
+    {
+      "start": 1731.44,
+      "end": 1733.919,
+      "text": "if you don't have a twitter friendly"
+    },
+    {
+      "start": 1732.96,
+      "end": 1735.76,
+      "text": "game"
+    },
+    {
+      "start": 1733.919,
+      "end": 1738.08,
+      "text": "twitter doesn't work very well um it's"
+    },
+    {
+      "start": 1735.76,
+      "end": 1740,
+      "text": "pretty good for networking and other"
+    },
+    {
+      "start": 1738.08,
+      "end": 1742.399,
+      "text": "than that uh twitter is just good for"
+    },
+    {
+      "start": 1740,
+      "end": 1745.039,
+      "text": "complaining about stuff so um"
+    },
+    {
+      "start": 1742.399,
+      "end": 1746.96,
+      "text": "other networks like instagram"
+    },
+    {
+      "start": 1745.039,
+      "end": 1749.039,
+      "text": "what other other ones uh it doesn't"
+    },
+    {
+      "start": 1746.96,
+      "end": 1751.12,
+      "text": "matter instagram they don't work"
+    },
+    {
+      "start": 1749.039,
+      "end": 1753.44,
+      "text": "twitter's the best oh facebook uh"
+    },
+    {
+      "start": 1751.12,
+      "end": 1754.64,
+      "text": "instagram facebook they just don't work"
+    },
+    {
+      "start": 1753.44,
+      "end": 1756.72,
+      "text": "you know you can spend all this time"
+    },
+    {
+      "start": 1754.64,
+      "end": 1758,
+      "text": "they just don't convert so i would i"
+    },
+    {
+      "start": 1756.72,
+      "end": 1759.6,
+      "text": "wouldn't even have a facebook or an"
+    },
+    {
+      "start": 1758,
+      "end": 1761.679,
+      "text": "instagram account for your gaming site"
+    },
+    {
+      "start": 1759.6,
+      "end": 1764.799,
+      "text": "possibly a twitter just to communicate"
+    },
+    {
+      "start": 1761.679,
+      "end": 1767.039,
+      "text": "with other game developers but um unless"
+    },
+    {
+      "start": 1764.799,
+      "end": 1768.88,
+      "text": "you have a big cute animal game um"
+    },
+    {
+      "start": 1767.039,
+      "end": 1770.24,
+      "text": "twitter's not gonna do much for you for"
+    },
+    {
+      "start": 1768.88,
+      "end": 1772.24,
+      "text": "your game"
+    },
+    {
+      "start": 1770.24,
+      "end": 1774.559,
+      "text": "okay tick tock this is the new one i"
+    },
+    {
+      "start": 1772.24,
+      "end": 1776.24,
+      "text": "kind of broke this one off social media"
+    },
+    {
+      "start": 1774.559,
+      "end": 1778.32,
+      "text": "from the rest because it actually does"
+    },
+    {
+      "start": 1776.24,
+      "end": 1781.52,
+      "text": "pretty well we're looking at if you get"
+    },
+    {
+      "start": 1778.32,
+      "end": 1783.679,
+      "text": "really viral posts uh 200 to 1500 wish"
+    },
+    {
+      "start": 1781.52,
+      "end": 1784.88,
+      "text": "lists and the conversion isn't great"
+    },
+    {
+      "start": 1783.679,
+      "end": 1787.52,
+      "text": "like you got to get a post that gets"
+    },
+    {
+      "start": 1784.88,
+      "end": 1790.399,
+      "text": "like a million views to get about 2 000"
+    },
+    {
+      "start": 1787.52,
+      "end": 1792.72,
+      "text": "wish lists it's a very it's like your"
+    },
+    {
+      "start": 1790.399,
+      "end": 1794.24,
+      "text": "mining ore that is like deep in the rock"
+    },
+    {
+      "start": 1792.72,
+      "end": 1798,
+      "text": "and you got to grind up a lot of rock to"
+    },
+    {
+      "start": 1794.24,
+      "end": 1800.24,
+      "text": "get those few nuggets of ore um but um"
+    },
+    {
+      "start": 1798,
+      "end": 1801.52,
+      "text": "it does it does okay i mean it is one of"
+    },
+    {
+      "start": 1800.24,
+      "end": 1803.12,
+      "text": "the things now if you've got a really"
+    },
+    {
+      "start": 1801.52,
+      "end": 1805.919,
+      "text": "pretty game tick tock does better if"
+    },
+    {
+      "start": 1803.12,
+      "end": 1807.919,
+      "text": "your game is very visually attractive um"
+    },
+    {
+      "start": 1805.919,
+      "end": 1810.72,
+      "text": "also big cute animalized will do very"
+    },
+    {
+      "start": 1807.919,
+      "end": 1812.48,
+      "text": "well on tick tock but um"
+    },
+    {
+      "start": 1810.72,
+      "end": 1813.919,
+      "text": "also have to have a very visually"
+    },
+    {
+      "start": 1812.48,
+      "end": 1815.84,
+      "text": "interesting game and you can do well on"
+    },
+    {
+      "start": 1813.919,
+      "end": 1817.52,
+      "text": "tick tock so all those will help but"
+    },
+    {
+      "start": 1815.84,
+      "end": 1818.48,
+      "text": "again we're looking at 200 to 1500"
+    },
+    {
+      "start": 1817.52,
+      "end": 1819.84,
+      "text": "wishes"
+    },
+    {
+      "start": 1818.48,
+      "end": 1822.159,
+      "text": "so"
+    },
+    {
+      "start": 1819.84,
+      "end": 1823.6,
+      "text": "those are the main ways to get your game"
+    },
+    {
+      "start": 1822.159,
+      "end": 1825.84,
+      "text": "scene to get those wishes so those are"
+    },
+    {
+      "start": 1823.6,
+      "end": 1828.32,
+      "text": "what will get you the spike now here's"
+    },
+    {
+      "start": 1825.84,
+      "end": 1830.72,
+      "text": "what i recommend is taking those numbers"
+    },
+    {
+      "start": 1828.32,
+      "end": 1832.08,
+      "text": "you can kind of estimate"
+    },
+    {
+      "start": 1830.72,
+      "end": 1833.279,
+      "text": "how well your game is going to do you"
+    },
+    {
+      "start": 1832.08,
+      "end": 1835.919,
+      "text": "just kind of look at all these different"
+    },
+    {
+      "start": 1833.279,
+      "end": 1837.52,
+      "text": "things that you're doing so for example"
+    },
+    {
+      "start": 1835.919,
+      "end": 1839.44,
+      "text": "you take your daily wish list rate you"
+    },
+    {
+      "start": 1837.52,
+      "end": 1841.12,
+      "text": "calculate for a week when you're not"
+    },
+    {
+      "start": 1839.44,
+      "end": 1842.88,
+      "text": "doing any promotions just see how many"
+    },
+    {
+      "start": 1841.12,
+      "end": 1844.32,
+      "text": "wishlists you get per week"
+    },
+    {
+      "start": 1842.88,
+      "end": 1845.36,
+      "text": "and then you multiply it out how long"
+    },
+    {
+      "start": 1844.32,
+      "end": 1846.32,
+      "text": "your game is going to be in development"
+    },
+    {
+      "start": 1845.36,
+      "end": 1849.44,
+      "text": "you're going to do it for a year"
+    },
+    {
+      "start": 1846.32,
+      "end": 1851.039,
+      "text": "multiply by 52k 52 to get you know your"
+    },
+    {
+      "start": 1849.44,
+      "end": 1852.96,
+      "text": "total wishes"
+    },
+    {
+      "start": 1851.039,
+      "end": 1854.799,
+      "text": "say tell yourself we're going to try for"
+    },
+    {
+      "start": 1852.96,
+      "end": 1857.12,
+      "text": "at least three festivals so each"
+    },
+    {
+      "start": 1854.799,
+      "end": 1859.2,
+      "text": "festival you know get you about 750 per"
+    },
+    {
+      "start": 1857.12,
+      "end": 1861.12,
+      "text": "day multiply that by three you're going"
+    },
+    {
+      "start": 1859.2,
+      "end": 1862.399,
+      "text": "to try your best for a couple streamers"
+    },
+    {
+      "start": 1861.12,
+      "end": 1864.88,
+      "text": "you know how they're going to go so"
+    },
+    {
+      "start": 1862.399,
+      "end": 1866.32,
+      "text": "let's say 30 000 for those we're going"
+    },
+    {
+      "start": 1864.88,
+      "end": 1868.72,
+      "text": "to try for the front page reddit that's"
+    },
+    {
+      "start": 1866.32,
+      "end": 1870.24,
+      "text": "1500 and as you can see after a year of"
+    },
+    {
+      "start": 1868.72,
+      "end": 1872.159,
+      "text": "promotion you're going to get about 1200"
+    },
+    {
+      "start": 1870.24,
+      "end": 1873.44,
+      "text": "wish lists that's the kind of math that"
+    },
+    {
+      "start": 1872.159,
+      "end": 1874.72,
+      "text": "you do now if your game's really"
+    },
+    {
+      "start": 1873.44,
+      "end": 1876.32,
+      "text": "beautiful you might get into every"
+    },
+    {
+      "start": 1874.72,
+      "end": 1878.159,
+      "text": "festival you apply to then you can"
+    },
+    {
+      "start": 1876.32,
+      "end": 1879.679,
+      "text": "change your calculations but this is"
+    },
+    {
+      "start": 1878.159,
+      "end": 1881.76,
+      "text": "kind of how you estimate your marketing"
+    },
+    {
+      "start": 1879.679,
+      "end": 1884.32,
+      "text": "to figure out how are we gonna get"
+    },
+    {
+      "start": 1881.76,
+      "end": 1885.76,
+      "text": "over the at least twelve thousand i say"
+    },
+    {
+      "start": 1884.32,
+      "end": 1887.039,
+      "text": "even if you can get to thirty thousand"
+    },
+    {
+      "start": 1885.76,
+      "end": 1888.399,
+      "text": "you're a big company and you've got a"
+    },
+    {
+      "start": 1887.039,
+      "end": 1889.679,
+      "text": "lot of games you gotta get even higher"
+    },
+    {
+      "start": 1888.399,
+      "end": 1891.12,
+      "text": "than that"
+    },
+    {
+      "start": 1889.679,
+      "end": 1894.159,
+      "text": "but this is the kind of math you're"
+    },
+    {
+      "start": 1891.12,
+      "end": 1896.559,
+      "text": "doing to get to those kind of marketing"
+    },
+    {
+      "start": 1894.159,
+      "end": 1897.919,
+      "text": "goals okay"
+    },
+    {
+      "start": 1896.559,
+      "end": 1899.519,
+      "text": "so"
+    },
+    {
+      "start": 1897.919,
+      "end": 1901.44,
+      "text": "i hope you've learned that you can't"
+    },
+    {
+      "start": 1899.519,
+      "end": 1903.039,
+      "text": "just go viral just by like dropping your"
+    },
+    {
+      "start": 1901.44,
+      "end": 1904.64,
+      "text": "game out of nowhere and just releasing"
+    },
+    {
+      "start": 1903.039,
+      "end": 1906.32,
+      "text": "it you can't just pull beyonce and just"
+    },
+    {
+      "start": 1904.64,
+      "end": 1908.799,
+      "text": "launch your game out of nowhere you have"
+    },
+    {
+      "start": 1906.32,
+      "end": 1910.399,
+      "text": "to build up the marketing to it"
+    },
+    {
+      "start": 1908.799,
+      "end": 1913.039,
+      "text": "you have to do a lot you have to work"
+    },
+    {
+      "start": 1910.399,
+      "end": 1914.96,
+      "text": "very hard at this um"
+    },
+    {
+      "start": 1913.039,
+      "end": 1917.12,
+      "text": "this is how we optimize for steam and"
+    },
+    {
+      "start": 1914.96,
+      "end": 1919.039,
+      "text": "get past this invisible gatekeeper who"
+    },
+    {
+      "start": 1917.12,
+      "end": 1920.96,
+      "text": "is hiding in the algorithm trying to"
+    },
+    {
+      "start": 1919.039,
+      "end": 1922.799,
+      "text": "keep your game down versus getting you"
+    },
+    {
+      "start": 1920.96,
+      "end": 1924.48,
+      "text": "into the upper tiers of steam where they"
+    },
+    {
+      "start": 1922.799,
+      "end": 1925.6,
+      "text": "start promoting your game a lot more"
+    },
+    {
+      "start": 1924.48,
+      "end": 1926.399,
+      "text": "okay"
+    },
+    {
+      "start": 1925.6,
+      "end": 1928.72,
+      "text": "so"
+    },
+    {
+      "start": 1926.399,
+      "end": 1930.24,
+      "text": "i know we want the curators to come back"
+    },
+    {
+      "start": 1928.72,
+      "end": 1932.08,
+      "text": "we're like i wish valve just had a"
+    },
+    {
+      "start": 1930.24,
+      "end": 1933.76,
+      "text": "curator that said my game is in or out"
+    },
+    {
+      "start": 1932.08,
+      "end": 1935.36,
+      "text": "and kept all those low performing games"
+    },
+    {
+      "start": 1933.76,
+      "end": 1936.96,
+      "text": "out but guess what we still have"
+    },
+    {
+      "start": 1935.36,
+      "end": 1938,
+      "text": "curators it's just they've been"
+    },
+    {
+      "start": 1936.96,
+      "end": 1940.24,
+      "text": "shattered"
+    },
+    {
+      "start": 1938,
+      "end": 1942.559,
+      "text": "and all these uh gatekeepers are all"
+    },
+    {
+      "start": 1940.24,
+      "end": 1944.24,
+      "text": "over the place for example festivals to"
+    },
+    {
+      "start": 1942.559,
+      "end": 1947.36,
+      "text": "get into the festival you have to apply"
+    },
+    {
+      "start": 1944.24,
+      "end": 1949.279,
+      "text": "those are gatekeepers to get into major"
+    },
+    {
+      "start": 1947.36,
+      "end": 1950.72,
+      "text": "streamers the streamers are gatekeeping"
+    },
+    {
+      "start": 1949.279,
+      "end": 1952.559,
+      "text": "they're the ones that are kind of"
+    },
+    {
+      "start": 1950.72,
+      "end": 1954.24,
+      "text": "curating your game and the to get to the"
+    },
+    {
+      "start": 1952.559,
+      "end": 1956.08,
+      "text": "front page of reddit are millions of"
+    },
+    {
+      "start": 1954.24,
+      "end": 1958,
+      "text": "little curators all out there saying yes"
+    },
+    {
+      "start": 1956.08,
+      "end": 1959.84,
+      "text": "this game is good this game's not so"
+    },
+    {
+      "start": 1958,
+      "end": 1961.76,
+      "text": "basically all all that's happened is we"
+    },
+    {
+      "start": 1959.84,
+      "end": 1963.84,
+      "text": "still have curation it's just been"
+    },
+    {
+      "start": 1961.76,
+      "end": 1966.48,
+      "text": "scattered and democratized and spread"
+    },
+    {
+      "start": 1963.84,
+      "end": 1968.399,
+      "text": "around all these different sites and so"
+    },
+    {
+      "start": 1966.48,
+      "end": 1970.559,
+      "text": "you're just trying to reach out to all"
+    },
+    {
+      "start": 1968.399,
+      "end": 1973.2,
+      "text": "these little curators who have their own"
+    },
+    {
+      "start": 1970.559,
+      "end": 1974.64,
+      "text": "smaller audience and getting past them"
+    },
+    {
+      "start": 1973.2,
+      "end": 1976.08,
+      "text": "to share it with their audience so"
+    },
+    {
+      "start": 1974.64,
+      "end": 1978,
+      "text": "that's essentially what has happened"
+    },
+    {
+      "start": 1976.08,
+      "end": 1980.24,
+      "text": "with curation it's just it's just been"
+    },
+    {
+      "start": 1978,
+      "end": 1981.12,
+      "text": "shattered okay"
+    },
+    {
+      "start": 1980.24,
+      "end": 1982.72,
+      "text": "now"
+    },
+    {
+      "start": 1981.12,
+      "end": 1984.399,
+      "text": "let me show you an example valheim is a"
+    },
+    {
+      "start": 1982.72,
+      "end": 1987.039,
+      "text": "very popular game and i think it is the"
+    },
+    {
+      "start": 1984.399,
+      "end": 1989.279,
+      "text": "perfect example of steam marketing done"
+    },
+    {
+      "start": 1987.039,
+      "end": 1991.039,
+      "text": "right okay now a lot of people think"
+    },
+    {
+      "start": 1989.279,
+      "end": 1992.96,
+      "text": "this game came out of nowhere i don't"
+    },
+    {
+      "start": 1991.039,
+      "end": 1994.96,
+      "text": "even know where it came from um let me"
+    },
+    {
+      "start": 1992.96,
+      "end": 1997.039,
+      "text": "tell you it's a very detailed campaign"
+    },
+    {
+      "start": 1994.96,
+      "end": 1999.6,
+      "text": "that they did and it's very cool so let"
+    },
+    {
+      "start": 1997.039,
+      "end": 2001.44,
+      "text": "me show you step by step how valheim got"
+    },
+    {
+      "start": 1999.6,
+      "end": 2002.88,
+      "text": "to where they were and what they did"
+    },
+    {
+      "start": 2001.44,
+      "end": 2003.679,
+      "text": "okay"
+    },
+    {
+      "start": 2002.88,
+      "end": 2004.96,
+      "text": "so"
+    },
+    {
+      "start": 2003.679,
+      "end": 2006.399,
+      "text": "if you have never heard of valheim i"
+    },
+    {
+      "start": 2004.96,
+      "end": 2007.84,
+      "text": "don't know what you're doing uh it's a"
+    },
+    {
+      "start": 2006.399,
+      "end": 2010.159,
+      "text": "really cool game and look at all these"
+    },
+    {
+      "start": 2007.84,
+      "end": 2011.679,
+      "text": "uh posts like every month they were"
+    },
+    {
+      "start": 2010.159,
+      "end": 2013.84,
+      "text": "posting that they earned another million"
+    },
+    {
+      "start": 2011.679,
+      "end": 2015.039,
+      "text": "sales so they're like"
+    },
+    {
+      "start": 2013.84,
+      "end": 2016.72,
+      "text": "just look at their updates on their"
+    },
+    {
+      "start": 2015.039,
+      "end": 2019.279,
+      "text": "steam pages like we had three million"
+    },
+    {
+      "start": 2016.72,
+      "end": 2021.2,
+      "text": "new players four million new players"
+    },
+    {
+      "start": 2019.279,
+      "end": 2023.519,
+      "text": "five million players like"
+    },
+    {
+      "start": 2021.2,
+      "end": 2025.36,
+      "text": "they just just grew like crazy it's"
+    },
+    {
+      "start": 2023.519,
+      "end": 2027.559,
+      "text": "amazing if you look at their chart you"
+    },
+    {
+      "start": 2025.36,
+      "end": 2029.84,
+      "text": "know this is from a site called"
+    },
+    {
+      "start": 2027.559,
+      "end": 2031.919,
+      "text": "steamdb.com you can look up games to see"
+    },
+    {
+      "start": 2029.84,
+      "end": 2034,
+      "text": "when their follower charts went up it's"
+    },
+    {
+      "start": 2031.919,
+      "end": 2035.279,
+      "text": "insane you can see these numbers are"
+    },
+    {
+      "start": 2034,
+      "end": 2036.88,
+      "text": "just"
+    },
+    {
+      "start": 2035.279,
+      "end": 2038.72,
+      "text": "astronomical there's a number of people"
+    },
+    {
+      "start": 2036.88,
+      "end": 2040.559,
+      "text": "who are following the game"
+    },
+    {
+      "start": 2038.72,
+      "end": 2042.72,
+      "text": "and um it's you almost need a"
+    },
+    {
+      "start": 2040.559,
+      "end": 2045.279,
+      "text": "logarithmic scale to to be able to"
+    },
+    {
+      "start": 2042.72,
+      "end": 2048,
+      "text": "capture what's going on here"
+    },
+    {
+      "start": 2045.279,
+      "end": 2049.839,
+      "text": "so let's talk about the launch basics"
+    },
+    {
+      "start": 2048,
+      "end": 2052.28,
+      "text": "when i estimate based on doing my"
+    },
+    {
+      "start": 2049.839,
+      "end": 2055.52,
+      "text": "research that they launched with about"
+    },
+    {
+      "start": 2052.28,
+      "end": 2057.52,
+      "text": "1600 followers now if you do the math"
+    },
+    {
+      "start": 2055.52,
+      "end": 2059.839,
+      "text": "for every one follower followers are"
+    },
+    {
+      "start": 2057.52,
+      "end": 2061.04,
+      "text": "public numbers so i can see those wish"
+    },
+    {
+      "start": 2059.839,
+      "end": 2062.96,
+      "text": "lists are not public so i don't know how"
+    },
+    {
+      "start": 2061.04,
+      "end": 2064.32,
+      "text": "many wishes they got but it's typically"
+    },
+    {
+      "start": 2062.96,
+      "end": 2067.359,
+      "text": "about 10"
+    },
+    {
+      "start": 2064.32,
+      "end": 2069.44,
+      "text": "followers per one wish list"
+    },
+    {
+      "start": 2067.359,
+      "end": 2072.079,
+      "text": "or scratch that the other way around 10"
+    },
+    {
+      "start": 2069.44,
+      "end": 2074.079,
+      "text": "wishlists for every one follower"
+    },
+    {
+      "start": 2072.079,
+      "end": 2076.079,
+      "text": "so i can see publicly that they had they"
+    },
+    {
+      "start": 2074.079,
+      "end": 2079.679,
+      "text": "launched with 1600 followers which means"
+    },
+    {
+      "start": 2076.079,
+      "end": 2081.679,
+      "text": "they got 160 000 wish lists whoa that is"
+    },
+    {
+      "start": 2079.679,
+      "end": 2083.44,
+      "text": "a lot remember how i said most games i"
+    },
+    {
+      "start": 2081.679,
+      "end": 2086.8,
+      "text": "recommend a minimum of 10 000. they"
+    },
+    {
+      "start": 2083.44,
+      "end": 2088.96,
+      "text": "exceeded that by 10 times 16 times so"
+    },
+    {
+      "start": 2086.8,
+      "end": 2090.56,
+      "text": "they launched with a 160 000 wishlist"
+    },
+    {
+      "start": 2088.96,
+      "end": 2093.04,
+      "text": "estimated"
+    },
+    {
+      "start": 2090.56,
+      "end": 2094.48,
+      "text": "okay let's see how they did it i kind of"
+    },
+    {
+      "start": 2093.04,
+      "end": 2095.919,
+      "text": "deconstructed this to figure out how"
+    },
+    {
+      "start": 2094.48,
+      "end": 2097.52,
+      "text": "they got up there i'm going to show you"
+    },
+    {
+      "start": 2095.919,
+      "end": 2100.24,
+      "text": "what i found okay"
+    },
+    {
+      "start": 2097.52,
+      "end": 2103.2,
+      "text": "first what's the most important thing"
+    },
+    {
+      "start": 2100.24,
+      "end": 2104.88,
+      "text": "genre genre genre and the type of game"
+    },
+    {
+      "start": 2103.2,
+      "end": 2107.52,
+      "text": "that they are that is the most important"
+    },
+    {
+      "start": 2104.88,
+      "end": 2111.119,
+      "text": "thing so if you look at what they are"
+    },
+    {
+      "start": 2107.52,
+      "end": 2113.839,
+      "text": "they have a dark medieval setting it's"
+    },
+    {
+      "start": 2111.119,
+      "end": 2114.839,
+      "text": "uh medieval it's vikings it's dark it's"
+    },
+    {
+      "start": 2113.839,
+      "end": 2117.52,
+      "text": "gritty"
+    },
+    {
+      "start": 2114.839,
+      "end": 2118.96,
+      "text": "um steam loves that stuff it's got deep"
+    },
+    {
+      "start": 2117.52,
+      "end": 2120.56,
+      "text": "gameplay you know you can do all this"
+    },
+    {
+      "start": 2118.96,
+      "end": 2122.88,
+      "text": "crafting explore there's all these"
+    },
+    {
+      "start": 2120.56,
+      "end": 2125.28,
+      "text": "hidden things it's very deep it's it's"
+    },
+    {
+      "start": 2122.88,
+      "end": 2127.599,
+      "text": "you build things it is such a deep game"
+    },
+    {
+      "start": 2125.28,
+      "end": 2128.8,
+      "text": "with endless content so streamers have a"
+    },
+    {
+      "start": 2127.599,
+      "end": 2130.48,
+      "text": "lot that they can play they can play"
+    },
+    {
+      "start": 2128.8,
+      "end": 2133.359,
+      "text": "this game for hours and hours on stream"
+    },
+    {
+      "start": 2130.48,
+      "end": 2134.88,
+      "text": "and their fans love it um so games like"
+    },
+    {
+      "start": 2133.359,
+      "end": 2137.44,
+      "text": "crafting games"
+    },
+    {
+      "start": 2134.88,
+      "end": 2138.4,
+      "text": "valham's are basically a crafting game"
+    },
+    {
+      "start": 2137.44,
+      "end": 2141.04,
+      "text": "and then unless"
+    },
+    {
+      "start": 2138.4,
+      "end": 2142.32,
+      "text": "endless content um you know like i said"
+    },
+    {
+      "start": 2141.04,
+      "end": 2144,
+      "text": "streamers can play this for hours and"
+    },
+    {
+      "start": 2142.32,
+      "end": 2146.079,
+      "text": "they go on adventures and tell their own"
+    },
+    {
+      "start": 2144,
+      "end": 2147.599,
+      "text": "stories that's the kind of stuff that"
+    },
+    {
+      "start": 2146.079,
+      "end": 2149.839,
+      "text": "does very well this kind of endless"
+    },
+    {
+      "start": 2147.599,
+      "end": 2151.119,
+      "text": "content that they there's no one story"
+    },
+    {
+      "start": 2149.839,
+      "end": 2153.44,
+      "text": "for valheim you know it's not like a"
+    },
+    {
+      "start": 2151.119,
+      "end": 2156.32,
+      "text": "four hour narrative game it's deep deep"
+    },
+    {
+      "start": 2153.44,
+      "end": 2158.48,
+      "text": "deep content so all those things perfect"
+    },
+    {
+      "start": 2156.32,
+      "end": 2161.04,
+      "text": "steam genre right there that's what"
+    },
+    {
+      "start": 2158.48,
+      "end": 2163.44,
+      "text": "steam likes now a lot of people think"
+    },
+    {
+      "start": 2161.04,
+      "end": 2165.839,
+      "text": "marketing equals social media this is"
+    },
+    {
+      "start": 2163.44,
+      "end": 2168.72,
+      "text": "valham's first tweet this is the first"
+    },
+    {
+      "start": 2165.839,
+      "end": 2169.839,
+      "text": "tweet announcing valheim um it's so cute"
+    },
+    {
+      "start": 2168.72,
+      "end": 2171.44,
+      "text": "they didn't even have the character he"
+    },
+    {
+      "start": 2169.839,
+      "end": 2172.64,
+      "text": "almost looked like the tin man or like"
+    },
+    {
+      "start": 2171.44,
+      "end": 2174.56,
+      "text": "some scarecrow or something he's just"
+    },
+    {
+      "start": 2172.64,
+      "end": 2176,
+      "text": "wandering through this forest oh isn't"
+    },
+    {
+      "start": 2174.56,
+      "end": 2179.68,
+      "text": "this cute this is the first screenshot"
+    },
+    {
+      "start": 2176,
+      "end": 2182.72,
+      "text": "of valheim look at it it has 15 likes"
+    },
+    {
+      "start": 2179.68,
+      "end": 2184.88,
+      "text": "just 15 likes guess what nobody this"
+    },
+    {
+      "start": 2182.72,
+      "end": 2186.24,
+      "text": "game didn't go viral it didn't even go"
+    },
+    {
+      "start": 2184.88,
+      "end": 2189.2,
+      "text": "anywhere like they just posted this"
+    },
+    {
+      "start": 2186.24,
+      "end": 2192.079,
+      "text": "thing 15 people liked it that's nothing"
+    },
+    {
+      "start": 2189.2,
+      "end": 2193.52,
+      "text": "that is not a very viral post in fact"
+    },
+    {
+      "start": 2192.079,
+      "end": 2195.599,
+      "text": "you can look at the publicly available"
+    },
+    {
+      "start": 2193.52,
+      "end": 2198,
+      "text": "data for how many followers they had"
+    },
+    {
+      "start": 2195.599,
+      "end": 2201.28,
+      "text": "when they launched valheim when they"
+    },
+    {
+      "start": 2198,
+      "end": 2203.44,
+      "text": "they at least released it they had 1700"
+    },
+    {
+      "start": 2201.28,
+      "end": 2205.52,
+      "text": "followers that is not a lot of twitter"
+    },
+    {
+      "start": 2203.44,
+      "end": 2207.599,
+      "text": "followers it just isn't like i have more"
+    },
+    {
+      "start": 2205.52,
+      "end": 2210.88,
+      "text": "than 1700 followers"
+    },
+    {
+      "start": 2207.599,
+      "end": 2211.92,
+      "text": "i i can't launch a valheim so"
+    },
+    {
+      "start": 2210.88,
+      "end": 2214.32,
+      "text": "guess what"
+    },
+    {
+      "start": 2211.92,
+      "end": 2215.68,
+      "text": "your twitter following doesn't matter uh"
+    },
+    {
+      "start": 2214.32,
+      "end": 2218.16,
+      "text": "you can have a successful game without"
+    },
+    {
+      "start": 2215.68,
+      "end": 2220.56,
+      "text": "being huge on twitter um valheim really"
+    },
+    {
+      "start": 2218.16,
+      "end": 2222.16,
+      "text": "did well without much social media they"
+    },
+    {
+      "start": 2220.56,
+      "end": 2224.64,
+      "text": "really didn't rely on it because it's"
+    },
+    {
+      "start": 2222.16,
+      "end": 2225.44,
+      "text": "not a cute game with cute animal eyes"
+    },
+    {
+      "start": 2224.64,
+      "end": 2227.52,
+      "text": "and the"
+    },
+    {
+      "start": 2225.44,
+      "end": 2229.44,
+      "text": "cuteness that does so well on twitter"
+    },
+    {
+      "start": 2227.52,
+      "end": 2231.44,
+      "text": "it's it's not it it's just not a twitter"
+    },
+    {
+      "start": 2229.44,
+      "end": 2233.92,
+      "text": "friendly game okay"
+    },
+    {
+      "start": 2231.44,
+      "end": 2235.599,
+      "text": "so um you'll see this little tiny bump"
+    },
+    {
+      "start": 2233.92,
+      "end": 2237.76,
+      "text": "up and that's only it's hard because the"
+    },
+    {
+      "start": 2235.599,
+      "end": 2239.839,
+      "text": "graph is scaled uh it's that tiny bump"
+    },
+    {
+      "start": 2237.76,
+      "end": 2243.119,
+      "text": "up let's look at that let's let's zoom"
+    },
+    {
+      "start": 2239.839,
+      "end": 2245.359,
+      "text": "in on that okay so e3 it they got they"
+    },
+    {
+      "start": 2243.119,
+      "end": 2246.48,
+      "text": "were in the e3 festival i estimate just"
+    },
+    {
+      "start": 2245.359,
+      "end": 2250.72,
+      "text": "on that little bump up that they got"
+    },
+    {
+      "start": 2246.48,
+      "end": 2251.92,
+      "text": "about 1500 wish lists that bump up is e3"
+    },
+    {
+      "start": 2250.72,
+      "end": 2253.599,
+      "text": "they announced they had a new publisher"
+    },
+    {
+      "start": 2251.92,
+      "end": 2256,
+      "text": "which is coffee stain"
+    },
+    {
+      "start": 2253.599,
+      "end": 2258.8,
+      "text": "and see how it's pc gaming it's their"
+    },
+    {
+      "start": 2256,
+      "end": 2262,
+      "text": "channel which is a huge pc following"
+    },
+    {
+      "start": 2258.8,
+      "end": 2264.48,
+      "text": "huge huge new trailer"
+    },
+    {
+      "start": 2262,
+      "end": 2267.04,
+      "text": "so the combination of the news publisher"
+    },
+    {
+      "start": 2264.48,
+      "end": 2270.4,
+      "text": "getting featured by a big brand name"
+    },
+    {
+      "start": 2267.04,
+      "end": 2272.24,
+      "text": "like pc gamer at e3 really rocking them"
+    },
+    {
+      "start": 2270.4,
+      "end": 2274,
+      "text": "up they probably got about 1500 wish to"
+    },
+    {
+      "start": 2272.24,
+      "end": 2275.119,
+      "text": "set that at that middle point right"
+    },
+    {
+      "start": 2274,
+      "end": 2277.119,
+      "text": "there"
+    },
+    {
+      "start": 2275.119,
+      "end": 2279.359,
+      "text": "okay the publisher of coffee stand is"
+    },
+    {
+      "start": 2277.119,
+      "end": 2282.56,
+      "text": "very key this is very important i"
+    },
+    {
+      "start": 2279.359,
+      "end": 2284.56,
+      "text": "estimate that before they went live they"
+    },
+    {
+      "start": 2282.56,
+      "end": 2287.2,
+      "text": "had about fifty before they signed with"
+    },
+    {
+      "start": 2284.56,
+      "end": 2288.88,
+      "text": "uh and announced with um coffee scene"
+    },
+    {
+      "start": 2287.2,
+      "end": 2291.119,
+      "text": "they had about 50 wishlists today"
+    },
+    {
+      "start": 2288.88,
+      "end": 2292.8,
+      "text": "afterwards they got about 120 wishlists"
+    },
+    {
+      "start": 2291.119,
+      "end": 2294.24,
+      "text": "per day once they signed with coffee"
+    },
+    {
+      "start": 2292.8,
+      "end": 2296.24,
+      "text": "stain and i think that's just because"
+    },
+    {
+      "start": 2294.24,
+      "end": 2298.72,
+      "text": "coffee stain has a lot of pull a lot of"
+    },
+    {
+      "start": 2296.24,
+      "end": 2301.44,
+      "text": "people play satisfactory which is a game"
+    },
+    {
+      "start": 2298.72,
+      "end": 2303.68,
+      "text": "published by um uh coffee stain so there"
+    },
+    {
+      "start": 2301.44,
+      "end": 2305.76,
+      "text": "is a lot of cross promotion so just"
+    },
+    {
+      "start": 2303.68,
+      "end": 2308.4,
+      "text": "having that is just working with the"
+    },
+    {
+      "start": 2305.76,
+      "end": 2311.119,
+      "text": "steam's natural visibility slow boring"
+    },
+    {
+      "start": 2308.4,
+      "end": 2315.68,
+      "text": "growth just to go from 50 wish list a"
+    },
+    {
+      "start": 2311.119,
+      "end": 2318.32,
+      "text": "day to 120 wishes a day it's huge okay"
+    },
+    {
+      "start": 2315.68,
+      "end": 2321.359,
+      "text": "steem uh they also ran a lot of betas"
+    },
+    {
+      "start": 2318.32,
+      "end": 2323.599,
+      "text": "and open feedback on sites like hyo and"
+    },
+    {
+      "start": 2321.359,
+      "end": 2326.079,
+      "text": "they just ran a lot of betas very"
+    },
+    {
+      "start": 2323.599,
+      "end": 2327.68,
+      "text": "important what they did beta beta beta"
+    },
+    {
+      "start": 2326.079,
+      "end": 2329.359,
+      "text": "several of them some of them started"
+    },
+    {
+      "start": 2327.68,
+      "end": 2331.44,
+      "text": "very small you can see on itch io they"
+    },
+    {
+      "start": 2329.359,
+      "end": 2333.44,
+      "text": "only got 23 up votes for this report"
+    },
+    {
+      "start": 2331.44,
+      "end": 2336.4,
+      "text": "that says that we were in an alpha they"
+    },
+    {
+      "start": 2333.44,
+      "end": 2338.56,
+      "text": "ran the long betas long alpha programs"
+    },
+    {
+      "start": 2336.4,
+      "end": 2340.16,
+      "text": "to slowly build their audience"
+    },
+    {
+      "start": 2338.56,
+      "end": 2342,
+      "text": "finally i can tell they ran a very"
+    },
+    {
+      "start": 2340.16,
+      "end": 2344.16,
+      "text": "effective streamer campaign"
+    },
+    {
+      "start": 2342,
+      "end": 2346.079,
+      "text": "if you look at steamdb you can see how"
+    },
+    {
+      "start": 2344.16,
+      "end": 2348.88,
+      "text": "many streamers and how many viewers were"
+    },
+    {
+      "start": 2346.079,
+      "end": 2350.88,
+      "text": "watching the game at the time of launch"
+    },
+    {
+      "start": 2348.88,
+      "end": 2352.72,
+      "text": "and i can see that little red graph you"
+    },
+    {
+      "start": 2350.88,
+      "end": 2353.76,
+      "text": "see at the bottom just before the"
+    },
+    {
+      "start": 2352.72,
+      "end": 2355.52,
+      "text": "release"
+    },
+    {
+      "start": 2353.76,
+      "end": 2357.359,
+      "text": "it spikes up a few days before the"
+    },
+    {
+      "start": 2355.52,
+      "end": 2360.4,
+      "text": "release that tells me they reached out"
+    },
+    {
+      "start": 2357.359,
+      "end": 2362.16,
+      "text": "to streamers possibly paid them to uh"
+    },
+    {
+      "start": 2360.4,
+      "end": 2363.839,
+      "text": "cover the game before and then once the"
+    },
+    {
+      "start": 2362.16,
+      "end": 2365.52,
+      "text": "streamers played the game"
+    },
+    {
+      "start": 2363.839,
+      "end": 2367.119,
+      "text": "they were like this game's awesome and"
+    },
+    {
+      "start": 2365.52,
+      "end": 2368.4,
+      "text": "they kept playing it even after the pay"
+    },
+    {
+      "start": 2367.119,
+      "end": 2369.839,
+      "text": "period"
+    },
+    {
+      "start": 2368.4,
+      "end": 2371.2,
+      "text": "because typically even if you pay for a"
+    },
+    {
+      "start": 2369.839,
+      "end": 2372.96,
+      "text": "streamer and their audience is like can"
+    },
+    {
+      "start": 2371.2,
+      "end": 2374.24,
+      "text": "you play more valheim the stream will"
+    },
+    {
+      "start": 2372.96,
+      "end": 2376.079,
+      "text": "respond and say hey i'm getting a lot of"
+    },
+    {
+      "start": 2374.24,
+      "end": 2378.64,
+      "text": "feedback that you really like valheim"
+    },
+    {
+      "start": 2376.079,
+      "end": 2381.839,
+      "text": "let's keep playing it so that kind of"
+    },
+    {
+      "start": 2378.64,
+      "end": 2384.32,
+      "text": "effect really boosted it afterwards so"
+    },
+    {
+      "start": 2381.839,
+      "end": 2386.48,
+      "text": "early streamer uh reach out before"
+    },
+    {
+      "start": 2384.32,
+      "end": 2389.44,
+      "text": "launch really helped them so pre-launch"
+    },
+    {
+      "start": 2386.48,
+      "end": 2390.88,
+      "text": "streamers okay so let's sum up it's"
+    },
+    {
+      "start": 2389.44,
+      "end": 2393.2,
+      "text": "never one thing it's like oh they went"
+    },
+    {
+      "start": 2390.88,
+      "end": 2395.52,
+      "text": "really viral on tick-tock or something"
+    },
+    {
+      "start": 2393.2,
+      "end": 2397.119,
+      "text": "it's never one thing it's a slow build"
+    },
+    {
+      "start": 2395.52,
+      "end": 2398.8,
+      "text": "up campaign so they had a long"
+    },
+    {
+      "start": 2397.119,
+      "end": 2401.359,
+      "text": "development period lots of betas and"
+    },
+    {
+      "start": 2398.8,
+      "end": 2402.96,
+      "text": "alphas they got prime placement on a3"
+    },
+    {
+      "start": 2401.359,
+      "end": 2405.2,
+      "text": "unlike pc gamer which is like the"
+    },
+    {
+      "start": 2402.96,
+      "end": 2406.64,
+      "text": "biggest site in gaming they signed with"
+    },
+    {
+      "start": 2405.2,
+      "end": 2407.839,
+      "text": "the right publisher who makes games"
+    },
+    {
+      "start": 2406.64,
+      "end": 2410.48,
+      "text": "similar to them so they get a lot of"
+    },
+    {
+      "start": 2407.839,
+      "end": 2413.68,
+      "text": "cross traffic from fans of like"
+    },
+    {
+      "start": 2410.48,
+      "end": 2416.319,
+      "text": "satisfactory to valheim they signed um"
+    },
+    {
+      "start": 2413.68,
+      "end": 2418.16,
+      "text": "they launched with 1600 wish lists"
+    },
+    {
+      "start": 2416.319,
+      "end": 2419.68,
+      "text": "that's a lot of wish lists i can't get"
+    },
+    {
+      "start": 2418.16,
+      "end": 2422.079,
+      "text": "that kind of wish list it's really hard"
+    },
+    {
+      "start": 2419.68,
+      "end": 2424.48,
+      "text": "to get up that high um big big"
+    },
+    {
+      "start": 2422.079,
+      "end": 2425.68,
+      "text": "pre-launch streaming campaign where they"
+    },
+    {
+      "start": 2424.48,
+      "end": 2427.04,
+      "text": "reached out to streamers they got them"
+    },
+    {
+      "start": 2425.68,
+      "end": 2428.72,
+      "text": "all organized they started streaming"
+    },
+    {
+      "start": 2427.04,
+      "end": 2430.079,
+      "text": "before the launch got people excited"
+    },
+    {
+      "start": 2428.72,
+      "end": 2432.16,
+      "text": "people really wanted to see more of it"
+    },
+    {
+      "start": 2430.079,
+      "end": 2434.4,
+      "text": "streamers kept playing it that really"
+    },
+    {
+      "start": 2432.16,
+      "end": 2437.76,
+      "text": "helps and it's a genre that steam likes"
+    },
+    {
+      "start": 2434.4,
+      "end": 2440.72,
+      "text": "it's that dark fantasy endless content"
+    },
+    {
+      "start": 2437.76,
+      "end": 2442.24,
+      "text": "in the woods gritty all that kind of"
+    },
+    {
+      "start": 2440.72,
+      "end": 2445.52,
+      "text": "stuff really likes it and it's a good"
+    },
+    {
+      "start": 2442.24,
+      "end": 2448.24,
+      "text": "game it's fun it's bug free mostly and"
+    },
+    {
+      "start": 2445.52,
+      "end": 2449.44,
+      "text": "it's great is so cool"
+    },
+    {
+      "start": 2448.24,
+      "end": 2452,
+      "text": "all of that"
+    },
+    {
+      "start": 2449.44,
+      "end": 2454.4,
+      "text": "comes together to make a big success and"
+    },
+    {
+      "start": 2452,
+      "end": 2455.76,
+      "text": "so it's never just one thing like oh"
+    },
+    {
+      "start": 2454.4,
+      "end": 2457.839,
+      "text": "there's one streamer covered me and then"
+    },
+    {
+      "start": 2455.76,
+      "end": 2460.24,
+      "text": "it blew up it's a combination of things"
+    },
+    {
+      "start": 2457.839,
+      "end": 2461.92,
+      "text": "built over time slowly but surely"
+    },
+    {
+      "start": 2460.24,
+      "end": 2464,
+      "text": "through a lot of really successful"
+    },
+    {
+      "start": 2461.92,
+      "end": 2466.079,
+      "text": "things that's how it works"
+    },
+    {
+      "start": 2464,
+      "end": 2468.48,
+      "text": "so that's my talk that's how to kind of"
+    },
+    {
+      "start": 2466.079,
+      "end": 2470.079,
+      "text": "get past this gatekeeper on steam um i"
+    },
+    {
+      "start": 2468.48,
+      "end": 2471.68,
+      "text": "have a newsletter which i give this kind"
+    },
+    {
+      "start": 2470.079,
+      "end": 2473.359,
+      "text": "of free information if you liked what"
+    },
+    {
+      "start": 2471.68,
+      "end": 2476.319,
+      "text": "you just heard and you want to hear mark"
+    },
+    {
+      "start": 2473.359,
+      "end": 2479.04,
+      "text": "go how to market a game dot com slash"
+    },
+    {
+      "start": 2476.319,
+      "end": 2480.88,
+      "text": "free i give away a book if you join my"
+    },
+    {
+      "start": 2479.04,
+      "end": 2482.48,
+      "text": "mailing list um you can go to how to"
+    },
+    {
+      "start": 2480.88,
+      "end": 2483.839,
+      "text": "make a steampage.com that's another free"
+    },
+    {
+      "start": 2482.48,
+      "end": 2485.359,
+      "text": "class i just teach you how to make a"
+    },
+    {
+      "start": 2483.839,
+      "end": 2487.68,
+      "text": "steam page if you've got a game no"
+    },
+    {
+      "start": 2485.359,
+      "end": 2489.599,
+      "text": "matter how old how new it always"
+    },
+    {
+      "start": 2487.68,
+      "end": 2491.52,
+      "text": "benefits to kind of clean up clean up"
+    },
+    {
+      "start": 2489.599,
+      "end": 2495.04,
+      "text": "your steam page make it shiny make it"
+    },
+    {
+      "start": 2491.52,
+      "end": 2497.52,
+      "text": "look up to date all that stuff is cool"
+    },
+    {
+      "start": 2495.04,
+      "end": 2500.319,
+      "text": "um so sign up for those all free"
+    },
+    {
+      "start": 2497.52,
+      "end": 2502.079,
+      "text": "if you are a bigger studio you're a"
+    },
+    {
+      "start": 2500.319,
+      "end": 2503.52,
+      "text": "publisher and you need some help kind of"
+    },
+    {
+      "start": 2502.079,
+      "end": 2504.88,
+      "text": "getting your marketing strategy right"
+    },
+    {
+      "start": 2503.52,
+      "end": 2506,
+      "text": "for steam games"
+    },
+    {
+      "start": 2504.88,
+      "end": 2507.599,
+      "text": "there's my email address you can just"
+    },
+    {
+      "start": 2506,
+      "end": 2509.839,
+      "text": "contact me or there's my twitter account"
+    },
+    {
+      "start": 2507.599,
+      "end": 2512.4,
+      "text": "down there at the bottom so"
+    },
+    {
+      "start": 2509.839,
+      "end": 2514.079,
+      "text": "with that i'm ready for some questions i"
+    },
+    {
+      "start": 2512.4,
+      "end": 2515.599,
+      "text": "gave you an extra minute and a half is"
+    },
+    {
+      "start": 2514.079,
+      "end": 2517.76,
+      "text": "that cool"
+    },
+    {
+      "start": 2515.599,
+      "end": 2521.96,
+      "text": "let's hear the questions"
+    },
+    {
+      "start": 2517.76,
+      "end": 2521.96,
+      "text": "i'm going to put on my headphones here"
+    },
+    {
+      "start": 2523.76,
+      "end": 2527.76,
+      "text": "so"
+    },
+    {
+      "start": 2525.44,
+      "end": 2530.079,
+      "text": "thank you chris it's obvious right away"
+    },
+    {
+      "start": 2527.76,
+      "end": 2532.079,
+      "text": "that you're a very bright person it was"
+    },
+    {
+      "start": 2530.079,
+      "end": 2534.48,
+      "text": "very nice to listen to you also the"
+    },
+    {
+      "start": 2532.079,
+      "end": 2536.24,
+      "text": "dynamics of game prices in recent years"
+    },
+    {
+      "start": 2534.48,
+      "end": 2537.52,
+      "text": "is a really worrying topic for many"
+    },
+    {
+      "start": 2536.24,
+      "end": 2538.8,
+      "text": "people"
+    },
+    {
+      "start": 2537.52,
+      "end": 2540.24,
+      "text": "so"
+    },
+    {
+      "start": 2538.8,
+      "end": 2542.16,
+      "text": "let's raise the most interesting"
+    },
+    {
+      "start": 2540.24,
+      "end": 2543.52,
+      "text": "questions from the chat"
+    },
+    {
+      "start": 2542.16,
+      "end": 2545.839,
+      "text": "uh uef"
+    },
+    {
+      "start": 2543.52,
+      "end": 2548.64,
+      "text": "asks here if you have a presentation"
+    },
+    {
+      "start": 2545.839,
+      "end": 2551.28,
+      "text": "file please send it after the conference"
+    },
+    {
+      "start": 2548.64,
+      "end": 2553.2,
+      "text": "there are a lot of cool links in there"
+    },
+    {
+      "start": 2551.28,
+      "end": 2555.28,
+      "text": "are you okay with it can we post a link"
+    },
+    {
+      "start": 2553.2,
+      "end": 2558,
+      "text": "to a presentation in the chat room"
+    },
+    {
+      "start": 2555.28,
+      "end": 2560,
+      "text": "oh yeah post a link do it yeah i want"
+    },
+    {
+      "start": 2558,
+      "end": 2561.2,
+      "text": "everybody to get this"
+    },
+    {
+      "start": 2560,
+      "end": 2562.319,
+      "text": "okay"
+    },
+    {
+      "start": 2561.2,
+      "end": 2566.24,
+      "text": "so"
+    },
+    {
+      "start": 2562.319,
+      "end": 2568.319,
+      "text": "we'll send the link and second question"
+    },
+    {
+      "start": 2566.24,
+      "end": 2570.88,
+      "text": "from euroslav sokolov"
+    },
+    {
+      "start": 2568.319,
+      "end": 2573.28,
+      "text": "how do you feel about mixed gay mixed"
+    },
+    {
+      "start": 2570.88,
+      "end": 2576.079,
+      "text": "genre games"
+    },
+    {
+      "start": 2573.28,
+      "end": 2577.44,
+      "text": "um those are tricky because um you gotta"
+    },
+    {
+      "start": 2576.079,
+      "end": 2579.839,
+      "text": "get the combination right i've seen"
+    },
+    {
+      "start": 2577.44,
+      "end": 2580.96,
+      "text": "stuff like visual novel plus match three"
+    },
+    {
+      "start": 2579.839,
+      "end": 2583.44,
+      "text": "which"
+    },
+    {
+      "start": 2580.96,
+      "end": 2585.839,
+      "text": "it made both audiences mad so it's"
+    },
+    {
+      "start": 2583.44,
+      "end": 2587.76,
+      "text": "really hard to get right um but what you"
+    },
+    {
+      "start": 2585.839,
+      "end": 2589.119,
+      "text": "should do with marketing and i i can"
+    },
+    {
+      "start": 2587.76,
+      "end": 2590.48,
+      "text": "anticipate the next question because i"
+    },
+    {
+      "start": 2589.119,
+      "end": 2592.079,
+      "text": "get this question a lot"
+    },
+    {
+      "start": 2590.48,
+      "end": 2593.76,
+      "text": "how should i market it here's what i"
+    },
+    {
+      "start": 2592.079,
+      "end": 2595.839,
+      "text": "would recommend for one month market it"
+    },
+    {
+      "start": 2593.76,
+      "end": 2598.56,
+      "text": "to one half of your genre for the next"
+    },
+    {
+      "start": 2595.839,
+      "end": 2600.319,
+      "text": "month market it to the other half so try"
+    },
+    {
+      "start": 2598.56,
+      "end": 2602.56,
+      "text": "and see which audience picks it up more"
+    },
+    {
+      "start": 2600.319,
+      "end": 2604.16,
+      "text": "because any genre mix of genres is going"
+    },
+    {
+      "start": 2602.56,
+      "end": 2606.48,
+      "text": "to have one audience like it better than"
+    },
+    {
+      "start": 2604.16,
+      "end": 2609.2,
+      "text": "the other one um so"
+    },
+    {
+      "start": 2606.48,
+      "end": 2610.56,
+      "text": "um yeah try it to both and hopefully one"
+    },
+    {
+      "start": 2609.2,
+      "end": 2611.76,
+      "text": "audience will like it a lot more than"
+    },
+    {
+      "start": 2610.56,
+      "end": 2614.48,
+      "text": "the other audience so that you can"
+    },
+    {
+      "start": 2611.76,
+      "end": 2616.64,
+      "text": "concentrate on more on them um but"
+    },
+    {
+      "start": 2614.48,
+      "end": 2618.24,
+      "text": "sometimes you gotta you go it's risky"
+    },
+    {
+      "start": 2616.64,
+      "end": 2620.48,
+      "text": "because you could think i don't know it"
+    },
+    {
+      "start": 2618.24,
+      "end": 2622.16,
+      "text": "could be like ice cream and pickles like"
+    },
+    {
+      "start": 2620.48,
+      "end": 2624.16,
+      "text": "pickles are good ice cream's good but"
+    },
+    {
+      "start": 2622.16,
+      "end": 2625.839,
+      "text": "pickles and ice cream together i don't"
+    },
+    {
+      "start": 2624.16,
+      "end": 2628.8,
+      "text": "know maybe you like pickles on ice cream"
+    },
+    {
+      "start": 2625.839,
+      "end": 2630.4,
+      "text": "i don't know but uh i don't so"
+    },
+    {
+      "start": 2628.8,
+      "end": 2633.04,
+      "text": "good luck"
+    },
+    {
+      "start": 2630.4,
+      "end": 2635.76,
+      "text": "so thank you for"
+    },
+    {
+      "start": 2633.04,
+      "end": 2636.88,
+      "text": "answering so the next question from"
+    },
+    {
+      "start": 2635.76,
+      "end": 2639.2,
+      "text": "robert"
+    },
+    {
+      "start": 2636.88,
+      "end": 2641.359,
+      "text": "question for chris at what stage of game"
+    },
+    {
+      "start": 2639.2,
+      "end": 2644.319,
+      "text": "development it is better to start"
+    },
+    {
+      "start": 2641.359,
+      "end": 2646.319,
+      "text": "working on the steam page"
+    },
+    {
+      "start": 2644.319,
+      "end": 2648.72,
+      "text": "i recommend if you are new to the"
+    },
+    {
+      "start": 2646.319,
+      "end": 2650.72,
+      "text": "industry never released a game nobody"
+    },
+    {
+      "start": 2648.72,
+      "end": 2652.24,
+      "text": "knows you you have zero following put"
+    },
+    {
+      "start": 2650.72,
+      "end": 2655.599,
+      "text": "your ph up"
+    },
+    {
+      "start": 2652.24,
+      "end": 2657.76,
+      "text": "now like right now uh tomorrow robert"
+    },
+    {
+      "start": 2655.599,
+      "end": 2659.839,
+      "text": "come on what are you waiting for um"
+    },
+    {
+      "start": 2657.76,
+      "end": 2661.44,
+      "text": "actually the only thing is like if you"
+    },
+    {
+      "start": 2659.839,
+      "end": 2662.88,
+      "text": "once you get your kind of art style"
+    },
+    {
+      "start": 2661.44,
+      "end": 2665.28,
+      "text": "fixed you know you're kind of like oh"
+    },
+    {
+      "start": 2662.88,
+      "end": 2666.72,
+      "text": "here's my art style i like this um i"
+    },
+    {
+      "start": 2665.28,
+      "end": 2668.64,
+      "text": "would recommend getting up as soon as"
+    },
+    {
+      "start": 2666.72,
+      "end": 2670.079,
+      "text": "possible because like i said it takes a"
+    },
+    {
+      "start": 2668.64,
+      "end": 2671.839,
+      "text": "while to kind of figure out how to do"
+    },
+    {
+      "start": 2670.079,
+      "end": 2674.56,
+      "text": "marketing if this is your first game"
+    },
+    {
+      "start": 2671.839,
+      "end": 2676.64,
+      "text": "it's it's tricky um and so having that"
+    },
+    {
+      "start": 2674.56,
+      "end": 2677.76,
+      "text": "time to kind of try out things figure"
+    },
+    {
+      "start": 2676.64,
+      "end": 2680,
+      "text": "out your messaging figure out what"
+    },
+    {
+      "start": 2677.76,
+      "end": 2681.119,
+      "text": "people like that just takes time so"
+    },
+    {
+      "start": 2680,
+      "end": 2683.359,
+      "text": "that's why i recommend getting it up"
+    },
+    {
+      "start": 2681.119,
+      "end": 2684.72,
+      "text": "early now if i i don't know what your"
+    },
+    {
+      "start": 2683.359,
+      "end": 2686.4,
+      "text": "last name was robert maybe you're a"
+    },
+    {
+      "start": 2684.72,
+      "end": 2688.079,
+      "text": "famous game designer that uh i don't"
+    },
+    {
+      "start": 2686.4,
+      "end": 2689.839,
+      "text": "know what robert uh"
+    },
+    {
+      "start": 2688.079,
+      "end": 2691.44,
+      "text": "who's a good robert in game design i"
+    },
+    {
+      "start": 2689.839,
+      "end": 2695.28,
+      "text": "don't know but if you are a famous"
+    },
+    {
+      "start": 2691.44,
+      "end": 2697.04,
+      "text": "robert um wait and do it about nine"
+    },
+    {
+      "start": 2695.28,
+      "end": 2700.319,
+      "text": "months to a year before your game"
+    },
+    {
+      "start": 2697.04,
+      "end": 2702.4,
+      "text": "launches because your name famous robert"
+    },
+    {
+      "start": 2700.319,
+      "end": 2705.52,
+      "text": "game designer can"
+    },
+    {
+      "start": 2702.4,
+      "end": 2707.2,
+      "text": "you be used to promote your game uh and"
+    },
+    {
+      "start": 2705.52,
+      "end": 2709.76,
+      "text": "you can reach out to the press and say"
+    },
+    {
+      "start": 2707.2,
+      "end": 2711.599,
+      "text": "robert famous guy is ready to announce"
+    },
+    {
+      "start": 2709.76,
+      "end": 2712.64,
+      "text": "his latest game and then the press will"
+    },
+    {
+      "start": 2711.599,
+      "end": 2714.8,
+      "text": "write about you because you're"
+    },
+    {
+      "start": 2712.64,
+      "end": 2716.8,
+      "text": "announcing your new game so if you are a"
+    },
+    {
+      "start": 2714.8,
+      "end": 2718.24,
+      "text": "famous roberts reach out to the press"
+    },
+    {
+      "start": 2716.8,
+      "end": 2720,
+      "text": "and do it about nine months to a year"
+    },
+    {
+      "start": 2718.24,
+      "end": 2721.68,
+      "text": "ahead of time and then you can get free"
+    },
+    {
+      "start": 2720,
+      "end": 2724.56,
+      "text": "promotion to your thing because you're"
+    },
+    {
+      "start": 2721.68,
+      "end": 2726.56,
+      "text": "announcing but if you're new to this no"
+    },
+    {
+      "start": 2724.56,
+      "end": 2728.64,
+      "text": "have no following do it tomorrow robert"
+    },
+    {
+      "start": 2726.56,
+      "end": 2730.319,
+      "text": "come on uh sign up for how to make a"
+    },
+    {
+      "start": 2728.64,
+      "end": 2732.16,
+      "text": "steam page.com"
+    },
+    {
+      "start": 2730.319,
+      "end": 2734.48,
+      "text": "it'll probably take a few days to take"
+    },
+    {
+      "start": 2732.16,
+      "end": 2737.44,
+      "text": "the class and then uh implement it but i"
+    },
+    {
+      "start": 2734.48,
+      "end": 2741.44,
+      "text": "would say do it as soon as possible"
+    },
+    {
+      "start": 2737.44,
+      "end": 2743.839,
+      "text": "okay robert uh is the project manager"
+    },
+    {
+      "start": 2741.44,
+      "end": 2746.24,
+      "text": "oh so he's he's a famous project manager"
+    },
+    {
+      "start": 2743.839,
+      "end": 2748.16,
+      "text": "famous roger"
+    },
+    {
+      "start": 2746.24,
+      "end": 2749.44,
+      "text": "i think it he is"
+    },
+    {
+      "start": 2748.16,
+      "end": 2752.079,
+      "text": "so"
+    },
+    {
+      "start": 2749.44,
+      "end": 2754.16,
+      "text": "the next question from matthew"
+    },
+    {
+      "start": 2752.079,
+      "end": 2756.96,
+      "text": "what's the link to this card and where"
+    },
+    {
+      "start": 2754.16,
+      "end": 2758.48,
+      "text": "do i get to see a list of game festivals"
+    },
+    {
+      "start": 2756.96,
+      "end": 2761.52,
+      "text": "as i understand"
+    },
+    {
+      "start": 2758.48,
+      "end": 2764,
+      "text": "the festivals where you participate uh"
+    },
+    {
+      "start": 2761.52,
+      "end": 2767.119,
+      "text": "where are you involved"
+    },
+    {
+      "start": 2764,
+      "end": 2768.56,
+      "text": "yeah okay i um okay so first question is"
+    },
+    {
+      "start": 2767.119,
+      "end": 2770.4,
+      "text": "uh how to get to the"
+    },
+    {
+      "start": 2768.56,
+      "end": 2772.72,
+      "text": "discord server code how to market a"
+    },
+    {
+      "start": 2770.4,
+      "end": 2774.24,
+      "text": "game.com that's my website and then"
+    },
+    {
+      "start": 2772.72,
+      "end": 2775.359,
+      "text": "you'll see my picture again scroll all"
+    },
+    {
+      "start": 2774.24,
+      "end": 2777.839,
+      "text": "the way to the bottom and you'll see a"
+    },
+    {
+      "start": 2775.359,
+      "end": 2779.44,
+      "text": "logo for discord just click that button"
+    },
+    {
+      "start": 2777.839,
+      "end": 2781.92,
+      "text": "and you're in the discord there's a"
+    },
+    {
+      "start": 2779.44,
+      "end": 2784.48,
+      "text": "channel in there called um i think it's"
+    },
+    {
+      "start": 2781.92,
+      "end": 2786.4,
+      "text": "called upcoming events or something and"
+    },
+    {
+      "start": 2784.48,
+      "end": 2787.839,
+      "text": "we have a bot that just goes through we"
+    },
+    {
+      "start": 2786.4,
+      "end": 2789.68,
+      "text": "have a list of upcoming festivals and"
+    },
+    {
+      "start": 2787.839,
+      "end": 2791.599,
+      "text": "it'll remind you when the latest one is"
+    },
+    {
+      "start": 2789.68,
+      "end": 2792.8,
+      "text": "and there's a pinned spreadsheet there"
+    },
+    {
+      "start": 2791.599,
+      "end": 2794.64,
+      "text": "and that spreadsheet has all the"
+    },
+    {
+      "start": 2792.8,
+      "end": 2796.48,
+      "text": "festivals it tells you information like"
+    },
+    {
+      "start": 2794.64,
+      "end": 2798.319,
+      "text": "how much it costs"
+    },
+    {
+      "start": 2796.48,
+      "end": 2800,
+      "text": "all that kind of stuff so"
+    },
+    {
+      "start": 2798.319,
+      "end": 2801.599,
+      "text": "all those that list of festivals is"
+    },
+    {
+      "start": 2800,
+      "end": 2803.119,
+      "text": "really helpful so uh that's where it is"
+    },
+    {
+      "start": 2801.599,
+      "end": 2806.16,
+      "text": "on the discord and b please be nice on"
+    },
+    {
+      "start": 2803.119,
+      "end": 2808.4,
+      "text": "the discord uh we really uh patrol it"
+    },
+    {
+      "start": 2806.16,
+      "end": 2809.52,
+      "text": "keep it tight keep it so that no mean"
+    },
+    {
+      "start": 2808.4,
+      "end": 2811.28,
+      "text": "people are there so if you're a mean"
+    },
+    {
+      "start": 2809.52,
+      "end": 2812.48,
+      "text": "person don't click that link don't be a"
+    },
+    {
+      "start": 2811.28,
+      "end": 2816.64,
+      "text": "mean person"
+    },
+    {
+      "start": 2812.48,
+      "end": 2818.8,
+      "text": "um just stay out mean people um but"
+    },
+    {
+      "start": 2816.64,
+      "end": 2822.24,
+      "text": "um that's the best way festivals really"
+    },
+    {
+      "start": 2818.8,
+      "end": 2824.4,
+      "text": "right now are the best way to get"
+    },
+    {
+      "start": 2822.24,
+      "end": 2825.839,
+      "text": "wishlist right now it's it's bar none it"
+    },
+    {
+      "start": 2824.4,
+      "end": 2827.599,
+      "text": "is um"
+    },
+    {
+      "start": 2825.839,
+      "end": 2830.16,
+      "text": "and it was a question if i run a"
+    },
+    {
+      "start": 2827.599,
+      "end": 2831.28,
+      "text": "festival i don't run a festival um i"
+    },
+    {
+      "start": 2830.16,
+      "end": 2832.16,
+      "text": "don't have the time and who steam"
+    },
+    {
+      "start": 2831.28,
+      "end": 2833.52,
+      "text": "doesn't want to hear from me they're"
+    },
+    {
+      "start": 2832.16,
+      "end": 2836.56,
+      "text": "like oh that chris guy is knocking on"
+    },
+    {
+      "start": 2833.52,
+      "end": 2838.88,
+      "text": "our door again don't come by so"
+    },
+    {
+      "start": 2836.56,
+      "end": 2842.8,
+      "text": "okay i hope that answered your question"
+    },
+    {
+      "start": 2838.88,
+      "end": 2845.68,
+      "text": "so the next one is from dmitry krauss"
+    },
+    {
+      "start": 2842.8,
+      "end": 2850.72,
+      "text": "hi chris how did you calculate"
+    },
+    {
+      "start": 2845.68,
+      "end": 2852.64,
+      "text": "uh the growth of wishlist by genre"
+    },
+    {
+      "start": 2850.72,
+      "end": 2855.92,
+      "text": "how oh so"
+    },
+    {
+      "start": 2852.64,
+      "end": 2858.48,
+      "text": "um you can download a list there's bots"
+    },
+    {
+      "start": 2855.92,
+      "end": 2859.839,
+      "text": "that aggregate it one is um well there's"
+    },
+    {
+      "start": 2858.48,
+      "end": 2862.64,
+      "text": "this game"
+    },
+    {
+      "start": 2859.839,
+      "end": 2865.52,
+      "text": "stats.com i linked it in there they they"
+    },
+    {
+      "start": 2862.64,
+      "end": 2867.04,
+      "text": "do aggregation up to date what i did was"
+    },
+    {
+      "start": 2865.52,
+      "end": 2868.4,
+      "text": "um there's a"
+    },
+    {
+      "start": 2867.04,
+      "end": 2870.8,
+      "text": "somebody downloaded and just put in a"
+    },
+    {
+      "start": 2868.4,
+      "end": 2872.16,
+      "text": "spreadsheet and then i did a account"
+    },
+    {
+      "start": 2870.8,
+      "end": 2874.559,
+      "text": "there's and then i had a column of all"
+    },
+    {
+      "start": 2872.16,
+      "end": 2878.48,
+      "text": "the tags of all the games on steam so"
+    },
+    {
+      "start": 2874.559,
+      "end": 2880.72,
+      "text": "then i just did a a very simple count uh"
+    },
+    {
+      "start": 2878.48,
+      "end": 2882.24,
+      "text": "uh thing on on the spreadsheet where i"
+    },
+    {
+      "start": 2880.72,
+      "end": 2883.839,
+      "text": "just counted the number of times that it"
+    },
+    {
+      "start": 2882.24,
+      "end": 2886.4,
+      "text": "said um"
+    },
+    {
+      "start": 2883.839,
+      "end": 2887.76,
+      "text": "pixel or a platformer and in those"
+    },
+    {
+      "start": 2886.4,
+      "end": 2889.76,
+      "text": "quotes so that i could grab how many"
+    },
+    {
+      "start": 2887.76,
+      "end": 2891.52,
+      "text": "people had that tag uh same thing with"
+    },
+    {
+      "start": 2889.76,
+      "end": 2893.28,
+      "text": "like roguelike and so that's how i"
+    },
+    {
+      "start": 2891.52,
+      "end": 2894.64,
+      "text": "counted i just looked at all the tags"
+    },
+    {
+      "start": 2893.28,
+      "end": 2896.8,
+      "text": "that people had applied to their own"
+    },
+    {
+      "start": 2894.64,
+      "end": 2899.04,
+      "text": "games so if they tag their name"
+    },
+    {
+      "start": 2896.8,
+      "end": 2900.88,
+      "text": "incorrectly then my account is off but"
+    },
+    {
+      "start": 2899.04,
+      "end": 2903.2,
+      "text": "that's a pretty accurate assumption of"
+    },
+    {
+      "start": 2900.88,
+      "end": 2904.4,
+      "text": "how many games of each genre there are"
+    },
+    {
+      "start": 2903.2,
+      "end": 2906.88,
+      "text": "cool"
+    },
+    {
+      "start": 2904.4,
+      "end": 2908.079,
+      "text": "so the next question we have a lot of"
+    },
+    {
+      "start": 2906.88,
+      "end": 2908.88,
+      "text": "questions"
+    },
+    {
+      "start": 2908.079,
+      "end": 2911.2,
+      "text": "and"
+    },
+    {
+      "start": 2908.88,
+      "end": 2914.64,
+      "text": "no no much time i'll speed up i'll speed"
+    },
+    {
+      "start": 2911.2,
+      "end": 2915.44,
+      "text": "up okay i'll be faster okay question"
+    },
+    {
+      "start": 2914.64,
+      "end": 2919.2,
+      "text": "from"
+    },
+    {
+      "start": 2915.44,
+      "end": 2921.599,
+      "text": "please don't translators are suffering"
+    },
+    {
+      "start": 2919.2,
+      "end": 2922.72,
+      "text": "sorry sorry translators"
+    },
+    {
+      "start": 2921.599,
+      "end": 2925.04,
+      "text": "okay"
+    },
+    {
+      "start": 2922.72,
+      "end": 2926.4,
+      "text": "i'll use simple words simple words okay"
+    },
+    {
+      "start": 2925.04,
+      "end": 2929.68,
+      "text": "simple words"
+    },
+    {
+      "start": 2926.4,
+      "end": 2933.2,
+      "text": "peter sambroski asks you any specific"
+    },
+    {
+      "start": 2929.68,
+      "end": 2934.88,
+      "text": "ideas on promotion on gok.com or epic"
+    },
+    {
+      "start": 2933.2,
+      "end": 2937.119,
+      "text": "games store"
+    },
+    {
+      "start": 2934.88,
+      "end": 2939.119,
+      "text": "gog and epic don't work as well steem's"
+    },
+    {
+      "start": 2937.119,
+      "end": 2941.2,
+      "text": "the best"
+    },
+    {
+      "start": 2939.119,
+      "end": 2944.24,
+      "text": "well this is it's about 10"
+    },
+    {
+      "start": 2941.2,
+      "end": 2945.76,
+      "text": "of what you will sell on steam"
+    },
+    {
+      "start": 2944.24,
+      "end": 2949.119,
+      "text": "okay"
+    },
+    {
+      "start": 2945.76,
+      "end": 2951.2,
+      "text": "uh the next one is again from mathia"
+    },
+    {
+      "start": 2949.119,
+      "end": 2955.359,
+      "text": "do you have any statistics on live"
+    },
+    {
+      "start": 2951.2,
+      "end": 2957.28,
+      "text": "streaming your own game on steam"
+    },
+    {
+      "start": 2955.359,
+      "end": 2959.2,
+      "text": "it helps to live stream your game"
+    },
+    {
+      "start": 2957.28,
+      "end": 2960.24,
+      "text": "because you can get onto the front page"
+    },
+    {
+      "start": 2959.2,
+      "end": 2962.319,
+      "text": "of steam"
+    },
+    {
+      "start": 2960.24,
+      "end": 2963.76,
+      "text": "during one of those festivals so i"
+    },
+    {
+      "start": 2962.319,
+      "end": 2965.599,
+      "text": "highly recommend"
+    },
+    {
+      "start": 2963.76,
+      "end": 2968.48,
+      "text": "running a stream and you can do a"
+    },
+    {
+      "start": 2965.599,
+      "end": 2970.96,
+      "text": "pre-recorded session so yes do it it"
+    },
+    {
+      "start": 2968.48,
+      "end": 2972.88,
+      "text": "helps i don't know like helps 10 better"
+    },
+    {
+      "start": 2970.96,
+      "end": 2974.88,
+      "text": "or 20 i don't know"
+    },
+    {
+      "start": 2972.88,
+      "end": 2975.76,
+      "text": "but do it"
+    },
+    {
+      "start": 2974.88,
+      "end": 2978.559,
+      "text": "okay"
+    },
+    {
+      "start": 2975.76,
+      "end": 2981.44,
+      "text": "and now one question for me"
+    },
+    {
+      "start": 2978.559,
+      "end": 2983.599,
+      "text": "so chris you mentioned uh that you have"
+    },
+    {
+      "start": 2981.44,
+      "end": 2984.72,
+      "text": "a course on how to design a steam page"
+    },
+    {
+      "start": 2983.599,
+      "end": 2987.599,
+      "text": "for a game"
+    },
+    {
+      "start": 2984.72,
+      "end": 2989.28,
+      "text": "can you give us some tips on the topic"
+    },
+    {
+      "start": 2987.599,
+      "end": 2992.079,
+      "text": "and do it ish"
+    },
+    {
+      "start": 2989.28,
+      "end": 2994.24,
+      "text": "and do it teach it personally or do you"
+    },
+    {
+      "start": 2992.079,
+      "end": 2995.76,
+      "text": "have other instructions on the course as"
+    },
+    {
+      "start": 2994.24,
+      "end": 2998.319,
+      "text": "well"
+    },
+    {
+      "start": 2995.76,
+      "end": 3002.64,
+      "text": "it's all me guys it's just me i'm the"
+    },
+    {
+      "start": 2998.319,
+      "end": 3004.24,
+      "text": "one teaching it so um if you um okay so"
+    },
+    {
+      "start": 3002.64,
+      "end": 3007.04,
+      "text": "the number one thing"
+    },
+    {
+      "start": 3004.24,
+      "end": 3008.72,
+      "text": "understand what your game is that's the"
+    },
+    {
+      "start": 3007.04,
+      "end": 3010.4,
+      "text": "number one thing i"
+    },
+    {
+      "start": 3008.72,
+      "end": 3012.079,
+      "text": "it's ironic but i find a lot of game"
+    },
+    {
+      "start": 3010.4,
+      "end": 3013.52,
+      "text": "designers don't understand what type of"
+    },
+    {
+      "start": 3012.079,
+      "end": 3014.319,
+      "text": "game they're making"
+    },
+    {
+      "start": 3013.52,
+      "end": 3016.64,
+      "text": "so"
+    },
+    {
+      "start": 3014.319,
+      "end": 3017.92,
+      "text": "they give vague screenshots vague"
+    },
+    {
+      "start": 3016.64,
+      "end": 3020.24,
+      "text": "descriptions"
+    },
+    {
+      "start": 3017.92,
+      "end": 3023.52,
+      "text": "you have to be very clear i am a"
+    },
+    {
+      "start": 3020.24,
+      "end": 3026.559,
+      "text": "platformer i am a crafting game i am a"
+    },
+    {
+      "start": 3023.52,
+      "end": 3029.28,
+      "text": "strategy game it has to be very very"
+    },
+    {
+      "start": 3026.559,
+      "end": 3030.4,
+      "text": "clear what type of game you have um i"
+    },
+    {
+      "start": 3029.28,
+      "end": 3032.4,
+      "text": "think that's the number one thing and"
+    },
+    {
+      "start": 3030.4,
+      "end": 3034.8,
+      "text": "then you got to show good screenshots"
+    },
+    {
+      "start": 3032.4,
+      "end": 3035.92,
+      "text": "that show what you do in the game don't"
+    },
+    {
+      "start": 3034.8,
+      "end": 3037.68,
+      "text": "just say"
+    },
+    {
+      "start": 3035.92,
+      "end": 3039.119,
+      "text": "go on epic adventures"
+    },
+    {
+      "start": 3037.68,
+      "end": 3041.92,
+      "text": "that's not that's not what you do in the"
+    },
+    {
+      "start": 3039.119,
+      "end": 3045.52,
+      "text": "game you like craft things you fight a"
+    },
+    {
+      "start": 3041.92,
+      "end": 3048.319,
+      "text": "dragon you do this you uh rescue"
+    },
+    {
+      "start": 3045.52,
+      "end": 3050.96,
+      "text": "a lost boy whatever it is be very"
+    },
+    {
+      "start": 3048.319,
+      "end": 3053.119,
+      "text": "specific what you actually do in the"
+    },
+    {
+      "start": 3050.96,
+      "end": 3054.8,
+      "text": "game not vague"
+    },
+    {
+      "start": 3053.119,
+      "end": 3056.4,
+      "text": "words you know that you think is"
+    },
+    {
+      "start": 3054.8,
+      "end": 3058.16,
+      "text": "marketing speak you have to be very very"
+    },
+    {
+      "start": 3056.4,
+      "end": 3060.079,
+      "text": "specific and so i help you with that on"
+    },
+    {
+      "start": 3058.16,
+      "end": 3062.48,
+      "text": "the steam page course so how to make a"
+    },
+    {
+      "start": 3060.079,
+      "end": 3065.359,
+      "text": "steampage.com we'll get you there"
+    },
+    {
+      "start": 3062.48,
+      "end": 3067.839,
+      "text": "okay i think that was a very cool advice"
+    },
+    {
+      "start": 3065.359,
+      "end": 3069.599,
+      "text": "so the next question from the chat is"
+    },
+    {
+      "start": 3067.839,
+      "end": 3071.44,
+      "text": "from benjamin"
+    },
+    {
+      "start": 3069.599,
+      "end": 3073.599,
+      "text": "what kind of"
+    },
+    {
+      "start": 3071.44,
+      "end": 3076.079,
+      "text": "expertise is required to have a good"
+    },
+    {
+      "start": 3073.599,
+      "end": 3078.079,
+      "text": "reach onto the chinese market"
+    },
+    {
+      "start": 3076.079,
+      "end": 3080.64,
+      "text": "do you think it is"
+    },
+    {
+      "start": 3078.079,
+      "end": 3083.28,
+      "text": "mandatory to work with chinese"
+    },
+    {
+      "start": 3080.64,
+      "end": 3085.119,
+      "text": "third party i don't have any advice"
+    },
+    {
+      "start": 3083.28,
+      "end": 3088.72,
+      "text": "because i don't know i haven't done it"
+    },
+    {
+      "start": 3085.119,
+      "end": 3091.04,
+      "text": "um i do think it's worth it um"
+    },
+    {
+      "start": 3088.72,
+      "end": 3093.76,
+      "text": "i've heard uh i know some developers"
+    },
+    {
+      "start": 3091.04,
+      "end": 3096.64,
+      "text": "that side with a chinese publisher they"
+    },
+    {
+      "start": 3093.76,
+      "end": 3098.72,
+      "text": "secure the rights just for china so they"
+    },
+    {
+      "start": 3096.64,
+      "end": 3100.88,
+      "text": "can get published there i think that's"
+    },
+    {
+      "start": 3098.72,
+      "end": 3102.4,
+      "text": "recommended if your wishlists aren't too"
+    },
+    {
+      "start": 3100.88,
+      "end": 3104.079,
+      "text": "high like you don't"
+    },
+    {
+      "start": 3102.4,
+      "end": 3105.359,
+      "text": "you know if you have high wish list in"
+    },
+    {
+      "start": 3104.079,
+      "end": 3107.359,
+      "text": "china maybe you could launch by yourself"
+    },
+    {
+      "start": 3105.359,
+      "end": 3109.68,
+      "text": "but if you don't i would work with a"
+    },
+    {
+      "start": 3107.359,
+      "end": 3110.72,
+      "text": "chinese publisher"
+    },
+    {
+      "start": 3109.68,
+      "end": 3113.2,
+      "text": "okay"
+    },
+    {
+      "start": 3110.72,
+      "end": 3115.839,
+      "text": "so chris thank you for answering our"
+    },
+    {
+      "start": 3113.2,
+      "end": 3118.4,
+      "text": "questions it was very nice to meet you"
+    },
+    {
+      "start": 3115.839,
+      "end": 3120.559,
+      "text": "you have a really cool presentation"
+    },
+    {
+      "start": 3118.4,
+      "end": 3122.88,
+      "text": "i know you say it it's not always easy"
+    },
+    {
+      "start": 3120.559,
+      "end": 3125.28,
+      "text": "going to a festival in another country"
+    },
+    {
+      "start": 3122.88,
+      "end": 3128.319,
+      "text": "but i really hope that we can see you at"
+    },
+    {
+      "start": 3125.28,
+      "end": 3130.72,
+      "text": "one of the offline dev games"
+    },
+    {
+      "start": 3128.319,
+      "end": 3132.559,
+      "text": "i would love it i would do it and thank"
+    },
+    {
+      "start": 3130.72,
+      "end": 3136.04,
+      "text": "you so much translators you're doing"
+    },
+    {
+      "start": 3132.559,
+      "end": 3136.04,
+      "text": "great job translators"
+    }
+  ]
+}

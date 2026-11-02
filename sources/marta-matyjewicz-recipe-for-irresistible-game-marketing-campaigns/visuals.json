@@ -1,0 +1,101 @@
+{
+  "videoId": "GG7Xu_v3vqU",
+  "frames": [
+    {
+      "time": 650,
+      "file": "frames/frame-00-10-50.jpg",
+      "observations": [
+        "The slide displays STEAMPEEK.HU above a QR code; it is a tool title slide rather than the search interface."
+      ],
+      "alt": "The slide displays STEAMPEEK.HU above a QR code; it is a tool title slide rather than the search interface."
+    },
+    {
+      "time": 705,
+      "file": "frames/frame-00-11-45.jpg",
+      "observations": [
+        "A Steam marketing search interface shows filters and a table of games with a far-right revenue column outlined; individual entries are too small to transcribe confidently."
+      ],
+      "alt": "A Steam marketing search interface shows filters and a table of games with a far-right revenue column outlined; individual entries are too small to transcribe confidently."
+    },
+    {
+      "time": 800,
+      "file": "frames/frame-00-13-20.jpg",
+      "observations": [
+        "Stoneshard example pairs its capsule, description and tags with gameplay screenshots that include interface panels."
+      ],
+      "alt": "Stoneshard example pairs its capsule, description and tags with gameplay screenshots that include interface panels."
+    },
+    {
+      "time": 900,
+      "file": "frames/frame-00-15-00.jpg",
+      "observations": [
+        "Stoneshard description comparison highlights challenging turn-based RPG, open world, and unrestricted character development."
+      ],
+      "alt": "Stoneshard description comparison highlights challenging turn-based RPG, open world, and unrestricted character development."
+    },
+    {
+      "time": 1270,
+      "file": "frames/frame-00-21-10.jpg",
+      "observations": [
+        "Example description highlights unfamiliar lore names Miden Tower and Alroval Empire within a short fantasy RPG pitch."
+      ],
+      "alt": "Example description highlights unfamiliar lore names Miden Tower and Alroval Empire within a short fantasy RPG pitch."
+    },
+    {
+      "time": 1570,
+      "file": "frames/frame-00-26-10.jpg",
+      "observations": [
+        "Two boxes distinguish extrinsic motivation and intrinsic motivation."
+      ],
+      "alt": "Two boxes distinguish extrinsic motivation and intrinsic motivation."
+    },
+    {
+      "time": 1650,
+      "file": "frames/frame-00-27-30.jpg",
+      "observations": [
+        "Self-determination theory slide shows Autonomy and Competence; the third red box has not yet been labeled."
+      ],
+      "alt": "Self-determination theory slide shows Autonomy and Competence; the third red box has not yet been labeled."
+    },
+    {
+      "time": 1680,
+      "file": "frames/frame-00-28-00.jpg",
+      "observations": [
+        "Self-determination theory slide still has an unlabeled third box; it does not yet provide the full three-pillar diagram."
+      ],
+      "alt": "Self-determination theory slide still has an unlabeled third box; it does not yet provide the full three-pillar diagram."
+    },
+    {
+      "time": 1930,
+      "file": "frames/frame-00-32-10.jpg",
+      "observations": [
+        "Motivation examples show meaningful dialogue outcomes for autonomy and new synergies and combos for competence; relatedness is still represented by question marks."
+      ],
+      "alt": "Motivation examples show meaningful dialogue outcomes for autonomy and new synergies and combos for competence; relatedness is still represented by question marks."
+    },
+    {
+      "time": 1950,
+      "file": "frames/frame-00-32-30.jpg",
+      "observations": [
+        "Completed motivation slide maps autonomy to dialogue outcomes, competence to powerful synergies and mastered combos, and relatedness to community anecdotes."
+      ],
+      "alt": "Completed motivation slide maps autonomy to dialogue outcomes, competence to powerful synergies and mastered combos, and relatedness to community anecdotes."
+    },
+    {
+      "time": 2000,
+      "file": "frames/frame-00-33-20.jpg",
+      "observations": [
+        "Quantic Foundry model displays Action, Social, Mastery, Achievement, Immersion, and Creativity, each with two subordinate motivations."
+      ],
+      "alt": "Quantic Foundry model displays Action, Social, Mastery, Achievement, Immersion, and Creativity, each with two subordinate motivations."
+    },
+    {
+      "time": 2070,
+      "file": "frames/frame-00-34-30.jpg",
+      "observations": [
+        "Technology adoption diagram labels innovators 2.5%, early adopters 13.5%, early majority 34%, late majority 34%, and laggards 16%, with a chasm before the mainstream market."
+      ],
+      "alt": "Technology adoption diagram labels innovators 2.5%, early adopters 13.5%, early majority 34%, late majority 34%, and laggards 16%, with a chasm before the mainstream market."
+    }
+  ]
+}

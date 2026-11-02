@@ -7,6 +7,9 @@ Video: 40:24 · Reading: ~19 minutes · Basis: captions + 20 inspected snapshots
 
 [Web edition](the-seven-costly-mistakes-in-game-trailers-with-slide-analysis.html)
 
+Topics: Game marketing · Trailers
+Generated: November 2026
+
 ## Overview
 
 A trailer is a tool for helping a prospective player decide whether a game offers an experience they want. It has to work in the place where it appears, for the audience that actually needs convincing. A beautiful edit, a long feature list, and enthusiastic internal approval do not establish that it does its job.

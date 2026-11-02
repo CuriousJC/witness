@@ -1,0 +1,185 @@
+# Making Game Marketing Matter to the Player
+
+Marta Matyjewicz builds a research process that turns competitor examples, player feedback, and motivations into clearer campaigns.
+
+Source: [Marta Matyjewicz - Recipe for Irresistible Game Marketing Campaigns](https://www.youtube.com/watch?v=GG7Xu_v3vqU) · Digital Dragons · Published 2024-11-15
+Video: 47:42 · Reading: ~13 minutes · Basis: captions + 12 inspected snapshots
+
+[Web edition](making-game-marketing-matter-to-the-player.html)
+
+Topics: Game marketing · Player research
+Generated: November 2026
+
+## Overview
+
+Marta Matyjewicz argues that a campaign becomes more persuasive when it starts from the player’s reasons to care. Her method has three levels: study competitors’ communication, study what players say about those games, and investigate the motivations behind their responses. The result should change both the product’s proposition and the way it is explained. She connects that research to concrete content, early adopters, media outreach, and a hook–attention–action sequence.
+
+### What the snapshots add
+
+- The Stoneshard and short-description examples show the difference between readable experience promises and unfamiliar lore.
+- A completed motivation slide supplies the relatedness example missing from an earlier reveal; the adoption chart also clarifies the approximate spoken percentage.
+
+## Key takeaways
+
+- **Investigate the content you can change** Matyjewicz warns against blaming algorithms or adding advertising spend before checking whether the message gives players a reason to care.
+- **Go beyond collecting competitor assets** Store pages show what rivals say; reviews reveal player judgments; observing play helps explain the underlying motivation.
+- **Make novelty meaningful** A unique detail is not enough. The difference must connect to an experience the intended audience wants.
+
+## A failed campaign can reveal a problem you actually control
+
+Source timestamp: [0:00](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=0s)
+
+Matyjewicz opens with the story of an inexperienced but enthusiastic marketer asked to help launch a game after years of development. The assignment sounds simple: prepare the assets, follow the advice, send press releases, use the right posting times and hashtags, and perhaps get the game onto a major outlet's front page. Hard work feels as though it should guarantee an outcome. It does not.
+
+In her account, the launch arrives and little happens. One explanation is that a platform suppressed the campaign. A second attempt adds a $10,000 advertising budget; when that also disappoints, the instinct is to ask for three times as much and add creators. The cycle repeats while the central assumption goes untested: perhaps the content itself does not interest its intended audience.
+
+She describes that realization as liberating. A small developer has little control over a large platform's decisions, but can improve an unclear or unappealing message. Seeing similarly sized games succeed under comparable constraints is a reason to investigate that possibility. Money can help, yet expensive campaigns and products also fail. More spending is not a complete explanation of success.
+
+The opening is an argument for agency, not proof that every weak result comes from bad content or that distribution never matters. Its practical challenge is to inspect the part of the campaign the team can change before assuming a larger budget or an algorithm trick will solve the problem.
+
+## Research gives small teams a way to improve their odds
+
+Source timestamp: [8:13](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=493s)
+
+She explicitly qualifies her criticism of algorithm chasing. Some platform mechanics matter enough to understand. Her example is Steam Next Fest: she describes a reinforcing effect in which prominent placement produces wishlists, while existing interest helps a game get prominent placement. The platform claim belongs to the recording; her purpose is to explain why a team should build demand before expecting an event to create it all.
+
+For a smaller studio without a large research budget, she proposes investigating competitors directly. Start with a list of games that occupy a relevant space, rather than selecting only famous games with very different production values or audiences. That list becomes the material for three successive levels of research.
+
+She shows SteamPeek as a way to discover similar games using a known title and included or excluded tags. The inspected title slide confirms the tool name as SteamPeek.hu. She also discusses a game-statistics service with filters such as followers and release dates and with estimated revenue. The small search-interface snapshot establishes the kind of filtering and results table shown, but its individual entries are too small to transcribe reliably.
+
+Estimated revenue can help a team think about what success means among comparable games. It should not turn a list of rivals into a promise that this project can achieve the same outcome. The research first establishes context: who else is competing for this player's attention, how they present themselves, and what level of response they appear to receive.
+
+## Level one: collect how competing games communicate
+
+Source timestamp: [12:19](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=739s)
+
+For each competitor, Matyjewicz recommends collecting the short description, tags, screenshots, trailers, and other public communication. Her Stoneshard example shows a capsule and description alongside gameplay screenshots with visible interface panels. She encourages thorough observation because repeated details can reveal how a genre teaches customers to recognize it.
+
+The screenshot question is a useful example. Developers often ask whether they should hide the user interface. Rather than answer only from personal taste, inspect how comparable games show their mechanics and what information the interface conveys. Her own preference is to include useful UI because it can tell a knowledgeable player what kind of systems the game contains. The broader point is to make the experience legible.
+
+For trailers, she asks about pacing, title cards, voiceover, the order of features, and the features chosen at all. For written descriptions, identify recurring keywords and promises. In the inspected Stoneshard comparison, the highlighted phrases describe a challenging turn-based RPG, an open world, and unrestricted character development. Those are statements about an experience, not just decorative adjectives.
+
+She extends the collection to press releases on Games Press and content on Twitter/X. What information was sent to journalists? What angles did the team emphasize? What posts and hashtags did it use? The exercise is meant to create confidence about the competitive environment and expose omissions or confusing parts of the team's own communication.
+
+This level answers what competitors did. It provides inspiration and a basis for comparison, but does not yet explain whether players cared about the same things. That requires the next level.
+
+![Stoneshard description comparison highlights challenging turn-based RPG, open world, and unrestricted character development.](../assets/marta-matyjewicz-recipe-for-irresistible-game-marketing-campaigns/frames/frame-00-15-00.jpg)
+
+[15:00](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=900s) — The description highlights promises about genre, challenge, world structure, and character freedom.
+
+## Level two: investigate what players praise, request, and dislike
+
+Source timestamp: [16:09](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=969s)
+
+The second level gathers reviews and player comments. Matyjewicz wants to know what people say they enjoy, what they wish a game offered, and what annoys them. A competitor's description may emphasize one feature while its players repeatedly praise another. That difference can reveal a more useful angle for communication.
+
+The findings can also identify a legitimate advantage in the team's own game. If players dislike a recurring problem in alternatives and this project solves it, demonstrating that solution gives a post a purpose. If players repeatedly request an experience the game already supports, a feature buried in production notes may become useful public content.
+
+This helps answer the developer's recurring question of what to post. Instead of treating a content calendar as a demand for arbitrary updates, use it to show things that the intended audience has already demonstrated interest in. Player feedback supplies candidate subjects and language. It is evidence of stated preferences, rather than a complete explanation of why people behave as they do.
+
+## Research may expose a product problem, not just a promotion problem
+
+Source timestamp: [18:39](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=1119s)
+
+After comparing both communication and player feedback, Matyjewicz realized that not every failure was a marketer's execution problem. Some games had been developed for two or three years before anyone seriously considered how they would attract an audience. By then, the team might be asking promotion to compensate for a proposition that never gave players much reason to choose the game.
+
+She therefore argues for pairing marketing with production from the start. Her objection to the phrase unique selling point is that teams can overvalue the word unique. A Vampire Survivors-style game with blue characters might be different from an existing title, yet the color change alone does not explain why someone wants to play it. Novelty has to matter to the person being asked to care.
+
+She prefers to think in terms of a reason to care. The question becomes what meaningful experience or benefit makes this game worth attention. That can influence the game while it is still being shaped, instead of leaving a marketer to invent a distinction near release.
+
+Another problem is misalignment between the details developers value and those a new player needs. In the inspected short-description example, the text spends space on unfamiliar names such as Miden Tower and the Alroval Empire. These may matter greatly inside the fiction but do little to explain the game to a stranger. With limited space, the message must establish what the player can understand and value before expecting investment in its lore.
+
+## Test whether a stranger can understand the message
+
+Source timestamp: [21:31](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=1291s)
+
+The curse of knowledge makes that misalignment difficult to notice. Someone who has lived with a project knows its genre, setting, vocabulary, and mechanics, and can forget how much of that knowledge a viewer lacks. Communication then skips the basic facts that would let a newcomer interpret the more interesting claims.
+
+Matyjewicz's self-check is to try to forget that she knows the game. Looking at a capsule, screenshot, description, or promotional image, she asks what someone else could understand from the first encounter. Is the genre clear? Is it apparent what is happening? Does the content depend on an explanation that only the team already possesses? This is a way to challenge assumptions rather than a claim that anyone can perfectly erase their own expertise.
+
+She also watches creators reacting to game showcases. A first encounter with a trailer lets her see where people recognize the genre, where they become interested, and where they misunderstand. Chat reactions add another imperfect but useful view of comprehension. The value lies in observing the gap between what the material intends to communicate and what people actually take from it.
+
+This use of Twitch is distinct from treating streaming only as a promotional placement to buy. Public reactions can function as research material that reveals confusion in real time.
+
+## Level three: connect behavior to the experience people want
+
+Source timestamp: [24:55](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=1495s)
+
+The third level asks what motivates people to act. A campaign wants many actions—clicking a capsule, reading a store page, wishlisting, playing a demo, buying, and eventually playing the full game. Matyjewicz argues that useful communication starts by understanding the reasons behind those actions.
+
+She distinguishes extrinsic motivation, such as receiving a reward or avoiding a penalty, from intrinsic motivation: doing an activity because the activity itself is satisfying. Her focus is the latter. She introduces self-determination theory as a practical lens for thinking about autonomy, competence, and relatedness. The talk uses the model to generate marketing questions; it is not an experimental study of the theory.
+
+Autonomy concerns feeling in control, making meaningful choices, and expressing oneself. Competence concerns getting better at something and feeling effective. A task must have enough challenge to make success satisfying without becoming impossibly difficult; she connects this to the appeal of progression. Relatedness concerns belonging and connection with others.
+
+These categories redirect attention from a feature list to the experience those features enable. A branching dialogue system is more interesting when it allows a consequential choice. A complicated weapon interaction may matter because it lets the player discover a powerful combination and feel skilled. Community storytelling may matter because it makes a person feel part of a group.
+
+## Observe play, then map a few central motivations
+
+Source timestamp: [28:30](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=1710s)
+
+To investigate these motivations, Matyjewicz records herself playing relevant competing games and comments on what she experiences. When a mechanic produces satisfaction, she tries to identify what happened and which need it served. Recording speech can be easier than interrupting a game to write notes, especially in a cooperative session where pausing to document something could hurt teammates.
+
+She admits that this method requires considerable self-awareness. A complementary route is to watch streamers playing. Their expressions, comments, and interactions with viewers can suggest what produces excitement, frustration, pride, or connection. Those observations are interpretations to investigate, not direct access to another person's mind. They can nevertheless be more informative than only reading a final rating.
+
+The completed inspected example slide maps three concrete experiences: choosing dialogue that changes the outcome under autonomy; discovering powerful synergies and mastering combos under competence; and sharing anecdotal stories in the community under relatedness. The third example is absent from an earlier reveal, so the completed frame is the one reproduced in this reading.
+
+She also offers the Quantic Foundry motivational model as a useful shortcut and additional lens. The inspected chart organizes motivations under Action, Social, Mastery, Achievement, Immersion, and Creativity, with subcategories such as competition, community, challenge, strategy, fantasy, story, design, and discovery. A team can use such a map to consider which motivations best describe the appeal of its game.
+
+Her recommendation is to choose two or three central motivations rather than claiming all of them. A campaign may address additional interests later, but its initial communication needs a clear focus. The research should help the team identify the strongest reasons its intended players would want this particular experience.
+
+![Completed motivation slide maps autonomy to dialogue outcomes, competence to powerful synergies and mastered combos, and relatedness to community anecdotes.](../assets/marta-matyjewicz-recipe-for-irresistible-game-marketing-campaigns/frames/frame-00-32-30.jpg)
+
+[32:30](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=1950s) — The completed slide connects autonomy, competence, and relatedness with three concrete player experiences.
+
+## Start with people who want to discover something new
+
+Source timestamp: [34:01](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=2041s)
+
+Matyjewicz uses a technology-adoption diagram to distinguish an early audience from a mainstream audience. The inspected chart labels innovators at 2.5% and early adopters at 13.5%, followed by early and late majorities and laggards. Her spoken “about fifteen percent” is a loose description of that initial group; the two displayed percentages sum to sixteen. The chart is a conceptual adoption model, not measured segmentation of this game's actual buyers.
+
+Her recommendation is to focus prelaunch communication on people who actively enjoy discovering new things. These may be the players who join a beta, explore a new idea, and help carry it to a wider audience. Trying to satisfy the whole mainstream immediately can dilute the proposition before anyone has a strong reason to advocate for it.
+
+She illustrates later adopters through playful comparisons with shoppers waiting for progressively deeper Steam discounts. Those discount ranges are analogies, not a pricing policy derived from the model. The important distinction is between people eager to engage early and those who need more familiarity, evidence, or a different price before doing so.
+
+The early audience also includes journalists, creators, and business partners. A team needs to understand the motivations of these intermediaries as well as those of eventual players. They can help spread an idea only when the proposition gives them something worth passing on.
+
+![Technology adoption diagram labels innovators 2.5%, early adopters 13.5%, early majority 34%, late majority 34%, and laggards 16%, with a chasm before the mainstream market.](../assets/marta-matyjewicz-recipe-for-irresistible-game-marketing-campaigns/frames/frame-00-34-30.jpg)
+
+[34:30](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=2070s) — The adoption model distinguishes early discovery-oriented audiences from the mainstream. Its percentages are conceptual, not measurements of game buyers.
+
+## Make the message useful to share, then lead toward an action
+
+Source timestamp: [37:04](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=2224s)
+
+People do not share interesting material solely to help a developer. Matyjewicz argues that sharing can support someone's own identity: it feels good to discover something useful, be seen as knowledgeable, or offer an appealing find to friends. A campaign should consider what passing the content along does for the person sharing it.
+
+Media and creators have their own obligations to audiences. An email that only says a game is exceptional and asks for coverage ignores those obligations. A better proposition gives them content that can help meet their goals, whether that means an interesting story, a compelling demonstration, or material their viewers will want to discuss. The team's need for publicity does not automatically create another person's reason to provide it.
+
+She connects the research to three stages. First, hook attention. Competitor analysis helps reveal conventions that can be made recognizable or deliberately disrupted. People scrolling their own feeds rarely give a second chance to something that fails to interest them, even though they may expect everyone else to stop for their own posts. The material needs a reason to interrupt that behavior.
+
+Second, hold attention long enough for the point to land. She mentions information gaps and the desire to know what happens next, noting the question marks used during her own presentation. This is an example of creating curiosity rather than a complete catalogue of retention techniques. The content still needs to fulfill the interest it creates.
+
+Third, make the next action clear. A trailer or video should lead toward an appropriate call to action, such as wishlisting or buying. The whole sequence depends on the earlier work: attract the right person with a meaningful proposition, sustain interest, and explain what to do.
+
+Her closing challenge is to put the player at the centre of communication. Ask what that person will understand, what they will want, and whether the content gives them a reason to act. Product knowledge alone is insufficient if the audience cannot see why it matters.
+
+## Q&A: early marketing means research, and event choices need context
+
+Source timestamp: [42:29](https://www.youtube.com/watch?v=GG7Xu_v3vqU&t=2549s)
+
+A question about marketing during production leads to an important clarification: she wants the work to begin even before production, when someone first has an idea. In that phase, marketing includes researching competitors and identifying a meaningful reason to choose the game. It does not necessarily mean publishing a stream of work-in-progress screenshots from the first day.
+
+Asked what to post during development, she declines to prescribe a universal format without knowing the game. The three research levels should reveal candidate subjects: what comparable games show, what their players care about, and which motivations this project can serve. Looking at examples can also reveal ways to do something differently. A generic report that the team is building or testing is not automatically interesting to its intended players.
+
+For events, she again recommends examining comparable campaigns and their timelines. When were those games announced? Which events did they join? That evidence can support a more informed decision about timing than an arbitrary calendar. It does not mean copying every competitor beat without considering the project's own situation.
+
+She favors online events for the campaign outcomes she is discussing. Offline events may still be valuable for player feedback, media contacts, and partnerships, but those are specific purposes that should be distinguished from large-scale promotional reach. The answer returns to the same discipline as the rest of the talk: decide whose needs an activity serves and what result would make it worthwhile.
+
+## Source and limitations
+
+- Based on the full English automatic captions, including both audience questions, and 12 inspected snapshots covering tools, competitor descriptions, motivation models, and the adoption diagram. Intervening slides and video were not exhaustively reviewed.
+- Some revealed slides are incomplete at the selected instants; those observations are labeled accordingly and the completed motivation example is used for the article. The small game-statistics interface is not legible enough to transcribe individual values.
+- Platform claims and descriptions of research tools reflect the recording rather than independent verification of their current behavior, pricing, or availability.
+
+[Timestamped source captions](../../sources/marta-matyjewicz-recipe-for-irresistible-game-marketing-campaigns/source.json)
+[Snapshot observations](../../sources/marta-matyjewicz-recipe-for-irresistible-game-marketing-campaigns/visuals.json)

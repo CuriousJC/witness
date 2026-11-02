@@ -1,0 +1,7749 @@
+{
+  "videoId": "WDdsdeyGFIE",
+  "slug": "daria-vlasova-introduction-to-modern-game-marketing-a-practical-guide-on-the-basics",
+  "url": "https://www.youtube.com/watch?v=WDdsdeyGFIE",
+  "title": "Daria Vlasova - Introduction To Modern Game Marketing: A Practical Guide On The Basics",
+  "channel": "Games Gathering",
+  "published": "2022-01-28",
+  "duration": 3599,
+  "description": "Daria Vlasova\n4A Games\nCommunity Manager \n\nThis lecture will give an overview of how to approach marketing of a game/gaming studio by discussing modern marketing principles and techniques including analytics, strategy, and execution. The information can be used as both a basic guideline for those who have a game/game studio but do not have a marketing resource, and as a discussion point for long-term professionals in the sphere.\n\n\nВидео сделано при поддержке Wargaming – одного из крупнейших мировых разработчиков и издателей на рынке free-to-play MMO. Наша команда — это талантливые, креативные и опытные профессионалы, которые создают легендарные AAA-игры. Присоединяйтесь к нам – https://wargaming.com/en/careers !\n\n#GamesGathering #GamesGathering2021Kiev #gamedev #mix #Ukraine",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 49,
+      "title": "<Untitled Chapter 1>"
+    },
+    {
+      "start": 49,
+      "end": 141,
+      "title": "Introduction"
+    },
+    {
+      "start": 141,
+      "end": 203,
+      "title": "What Marketing Is"
+    },
+    {
+      "start": 203,
+      "end": 248,
+      "title": "Video Games Market"
+    },
+    {
+      "start": 248,
+      "end": 294,
+      "title": "What Exactly Is Marketing"
+    },
+    {
+      "start": 294,
+      "end": 430,
+      "title": "The Circulation of Value"
+    },
+    {
+      "start": 430,
+      "end": 554,
+      "title": "Why Do We Even Need Marketing"
+    },
+    {
+      "start": 554,
+      "end": 650,
+      "title": "The Foundation of Your Marketing"
+    },
+    {
+      "start": 650,
+      "end": 871,
+      "title": "Set Up Your Business Goals"
+    },
+    {
+      "start": 871,
+      "end": 1001,
+      "title": "Marketing Goals"
+    },
+    {
+      "start": 1001,
+      "end": 1104,
+      "title": "Segmentation"
+    },
+    {
+      "start": 1104,
+      "end": 1260,
+      "title": "Segments of the Video Games Market"
+    },
+    {
+      "start": 1260,
+      "end": 1340,
+      "title": "Niche Market"
+    },
+    {
+      "start": 1340,
+      "end": 1524,
+      "title": "Micro Environment"
+    },
+    {
+      "start": 1524,
+      "end": 1618,
+      "title": "The Inner Environment"
+    },
+    {
+      "start": 1618,
+      "end": 1649,
+      "title": "Macro Environment"
+    },
+    {
+      "start": 1649,
+      "end": 1693,
+      "title": "Microenvironment"
+    },
+    {
+      "start": 1693,
+      "end": 1697,
+      "title": "Analyzing Your Audience"
+    },
+    {
+      "start": 1697,
+      "end": 1871,
+      "title": "Target Audience"
+    },
+    {
+      "start": 1871,
+      "end": 2037,
+      "title": "Strategy and Tactics"
+    },
+    {
+      "start": 2037,
+      "end": 2066,
+      "title": "Value and Relevance"
+    },
+    {
+      "start": 2066,
+      "end": 2103,
+      "title": "The Strategy"
+    },
+    {
+      "start": 2103,
+      "end": 2166,
+      "title": "Strategic Goals"
+    },
+    {
+      "start": 2166,
+      "end": 2194,
+      "title": "Tactics"
+    },
+    {
+      "start": 2194,
+      "end": 2410,
+      "title": "Offline Activities and Online Activities"
+    },
+    {
+      "start": 2410,
+      "end": 2782,
+      "title": "Online Tactics"
+    },
+    {
+      "start": 2782,
+      "end": 2839,
+      "title": "Execution"
+    },
+    {
+      "start": 2839,
+      "end": 3138,
+      "title": "Risk Strategizing"
+    },
+    {
+      "start": 3138,
+      "end": 3409,
+      "title": "What Instruments Did You Use To Make an Audience Research"
+    },
+    {
+      "start": 3409,
+      "end": 3468,
+      "title": "What Is a Minimal Budget for Marketing for Entirely New Indie Game Studio"
+    },
+    {
+      "start": 3468,
+      "end": 3599,
+      "title": "Paid Ads"
+    }
+  ],
+  "captions": {
+    "language": "en-orig",
+    "kind": "automatic",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0.86,
+      "end": 5.53,
+      "text": "[Music]"
+    },
+    {
+      "start": 12.4,
+      "end": 17.92,
+      "text": "welcome our next speaker diablo who"
+    },
+    {
+      "start": 15.44,
+      "end": 20,
+      "text": "worked in marketing in the gaming"
+    },
+    {
+      "start": 17.92,
+      "end": 22.96,
+      "text": "industry more than four years"
+    },
+    {
+      "start": 20,
+      "end": 25.199,
+      "text": "uh both on indie and triple a projects"
+    },
+    {
+      "start": 22.96,
+      "end": 27.439,
+      "text": "she has experience"
+    },
+    {
+      "start": 25.199,
+      "end": 30.8,
+      "text": "harmony and function"
+    },
+    {
+      "start": 27.439,
+      "end": 32.64,
+      "text": "and daria you can"
+    },
+    {
+      "start": 30.8,
+      "end": 36.64,
+      "text": "thank you very much for passing the word"
+    },
+    {
+      "start": 32.64,
+      "end": 39.04,
+      "text": "to me eugenia uh so hello everyone as if"
+    },
+    {
+      "start": 36.64,
+      "end": 40.96,
+      "text": "henya said my name is daria and today"
+    },
+    {
+      "start": 39.04,
+      "end": 43.84,
+      "text": "i'm hoping to give you an introduction"
+    },
+    {
+      "start": 40.96,
+      "end": 47.039,
+      "text": "to modern game marketing and to give you"
+    },
+    {
+      "start": 43.84,
+      "end": 50.48,
+      "text": "some practical guide on the basics"
+    },
+    {
+      "start": 47.039,
+      "end": 52.96,
+      "text": "so um let me begin by giving a small"
+    },
+    {
+      "start": 50.48,
+      "end": 53.68,
+      "text": "introduction about myself"
+    },
+    {
+      "start": 52.96,
+      "end": 55.76,
+      "text": "so"
+    },
+    {
+      "start": 53.68,
+      "end": 59.039,
+      "text": "so that you know who is this person"
+    },
+    {
+      "start": 55.76,
+      "end": 61.28,
+      "text": "who is telling you all these things so"
+    },
+    {
+      "start": 59.039,
+      "end": 63.44,
+      "text": "my name is daria as has been mentioned"
+    },
+    {
+      "start": 61.28,
+      "end": 66.24,
+      "text": "before i'm a bachelor in media and"
+    },
+    {
+      "start": 63.44,
+      "end": 68.96,
+      "text": "communications with german i'm also a"
+    },
+    {
+      "start": 66.24,
+      "end": 70,
+      "text": "masters in international marketing in"
+    },
+    {
+      "start": 68.96,
+      "end": 71.36,
+      "text": "manager"
+    },
+    {
+      "start": 70,
+      "end": 74.24,
+      "text": "and management"
+    },
+    {
+      "start": 71.36,
+      "end": 76.56,
+      "text": "uh i have a far plus years experience in"
+    },
+    {
+      "start": 74.24,
+      "end": 79.2,
+      "text": "game marketing in various countries i"
+    },
+    {
+      "start": 76.56,
+      "end": 82.799,
+      "text": "also managed to be a co-author in a book"
+    },
+    {
+      "start": 79.2,
+      "end": 85.28,
+      "text": "on on successful negotiations i speak"
+    },
+    {
+      "start": 82.799,
+      "end": 87.759,
+      "text": "russian ukrainian english and german at"
+    },
+    {
+      "start": 85.28,
+      "end": 90.64,
+      "text": "a native or close to native levels and"
+    },
+    {
+      "start": 87.759,
+      "end": 92.72,
+      "text": "also some spanish and japanese and my"
+    },
+    {
+      "start": 90.64,
+      "end": 95.84,
+      "text": "favorite game is red dead redemption 2"
+    },
+    {
+      "start": 92.72,
+      "end": 97.6,
+      "text": "as you can see in this picture here"
+    },
+    {
+      "start": 95.84,
+      "end": 99.439,
+      "text": "so"
+    },
+    {
+      "start": 97.6,
+      "end": 102.399,
+      "text": "thank you very much for coming today to"
+    },
+    {
+      "start": 99.439,
+      "end": 104.96,
+      "text": "the lecture and i hope you will enjoy it"
+    },
+    {
+      "start": 102.399,
+      "end": 107.2,
+      "text": "so let me begin by discussing the plan"
+    },
+    {
+      "start": 104.96,
+      "end": 109.68,
+      "text": "of our presentation so"
+    },
+    {
+      "start": 107.2,
+      "end": 113.2,
+      "text": "as you can see here there is a little"
+    },
+    {
+      "start": 109.68,
+      "end": 116.399,
+      "text": "diver who is looking at this tentacle"
+    },
+    {
+      "start": 113.2,
+      "end": 117.36,
+      "text": "weird kind of monster which is marketing"
+    },
+    {
+      "start": 116.399,
+      "end": 120.799,
+      "text": "so"
+    },
+    {
+      "start": 117.36,
+      "end": 122.96,
+      "text": "from these depths of the lake i hope"
+    },
+    {
+      "start": 120.799,
+      "end": 125.68,
+      "text": "that by the end of this presentation by"
+    },
+    {
+      "start": 122.96,
+      "end": 127.92,
+      "text": "touching upon all these bubbles here"
+    },
+    {
+      "start": 125.68,
+      "end": 131.36,
+      "text": "we'll arrive to the surface where there"
+    },
+    {
+      "start": 127.92,
+      "end": 134.08,
+      "text": "is these wonderful green sunny hills and"
+    },
+    {
+      "start": 131.36,
+      "end": 136.72,
+      "text": "also a lighthouse which is"
+    },
+    {
+      "start": 134.08,
+      "end": 139.599,
+      "text": "ideally will be the successful promotion"
+    },
+    {
+      "start": 136.72,
+      "end": 142.48,
+      "text": "of your project or your studio brand"
+    },
+    {
+      "start": 139.599,
+      "end": 145.28,
+      "text": "so let me begin by discussing what"
+    },
+    {
+      "start": 142.48,
+      "end": 145.28,
+      "text": "marketing is"
+    },
+    {
+      "start": 145.68,
+      "end": 150.16,
+      "text": "so we cannot really discuss what"
+    },
+    {
+      "start": 148.239,
+      "end": 152.08,
+      "text": "marketing is without a clear"
+    },
+    {
+      "start": 150.16,
+      "end": 153.84,
+      "text": "understanding of what exactly we mean"
+    },
+    {
+      "start": 152.08,
+      "end": 157.36,
+      "text": "here by a market"
+    },
+    {
+      "start": 153.84,
+      "end": 159.599,
+      "text": "usually when people think of markets the"
+    },
+    {
+      "start": 157.36,
+      "end": 162.4,
+      "text": "associations that they immediately have"
+    },
+    {
+      "start": 159.599,
+      "end": 163.76,
+      "text": "are a fish market for example or market"
+    },
+    {
+      "start": 162.4,
+      "end": 166.239,
+      "text": "of antiques"
+    },
+    {
+      "start": 163.76,
+      "end": 168.239,
+      "text": "and actually the market that we are"
+    },
+    {
+      "start": 166.239,
+      "end": 169.2,
+      "text": "talking about here is not that much"
+    },
+    {
+      "start": 168.239,
+      "end": 171.44,
+      "text": "different"
+    },
+    {
+      "start": 169.2,
+      "end": 173.599,
+      "text": "so at the fish market for example you"
+    },
+    {
+      "start": 171.44,
+      "end": 176.72,
+      "text": "have fishermen who sell fish to the"
+    },
+    {
+      "start": 173.599,
+      "end": 178.72,
+      "text": "customers and if the customers like the"
+    },
+    {
+      "start": 176.72,
+      "end": 181.28,
+      "text": "fish they come back again to those"
+    },
+    {
+      "start": 178.72,
+      "end": 183.12,
+      "text": "fishermen and buy again"
+    },
+    {
+      "start": 181.28,
+      "end": 185.92,
+      "text": "here in this presentation we will be"
+    },
+    {
+      "start": 183.12,
+      "end": 187.2,
+      "text": "talking particularly about the video"
+    },
+    {
+      "start": 185.92,
+      "end": 189.36,
+      "text": "games market"
+    },
+    {
+      "start": 187.2,
+      "end": 192.08,
+      "text": "of course there are different types of"
+    },
+    {
+      "start": 189.36,
+      "end": 194.8,
+      "text": "games markets out there"
+    },
+    {
+      "start": 192.08,
+      "end": 196.4,
+      "text": "there are aaa games markets for example"
+    },
+    {
+      "start": 194.8,
+      "end": 199.28,
+      "text": "indie games"
+    },
+    {
+      "start": 196.4,
+      "end": 201.36,
+      "text": "online games mobile games but because we"
+    },
+    {
+      "start": 199.28,
+      "end": 203.76,
+      "text": "are limited in the time and scope in"
+    },
+    {
+      "start": 201.36,
+      "end": 207.04,
+      "text": "this presentation we will touch upon the"
+    },
+    {
+      "start": 203.76,
+      "end": 210.64,
+      "text": "video games market in particular okay"
+    },
+    {
+      "start": 207.04,
+      "end": 214.48,
+      "text": "so the video games market consists of"
+    },
+    {
+      "start": 210.64,
+      "end": 215.519,
+      "text": "the gaming studios the guys who promote"
+    },
+    {
+      "start": 214.48,
+      "end": 218.56,
+      "text": "uh"
+    },
+    {
+      "start": 215.519,
+      "end": 220.48,
+      "text": "who have the games who produce the games"
+    },
+    {
+      "start": 218.56,
+      "end": 222.799,
+      "text": "hopefully you're one of them"
+    },
+    {
+      "start": 220.48,
+      "end": 226.799,
+      "text": "or you're thinking to become one of them"
+    },
+    {
+      "start": 222.799,
+      "end": 228.72,
+      "text": "and also of the customers the people who"
+    },
+    {
+      "start": 226.799,
+      "end": 230.879,
+      "text": "are playing your games"
+    },
+    {
+      "start": 228.72,
+      "end": 233.68,
+      "text": "of course in the market there are also"
+    },
+    {
+      "start": 230.879,
+      "end": 236,
+      "text": "other stakeholders and stakeholder is a"
+    },
+    {
+      "start": 233.68,
+      "end": 236.959,
+      "text": "party that is also interested in the"
+    },
+    {
+      "start": 236,
+      "end": 240.64,
+      "text": "market"
+    },
+    {
+      "start": 236.959,
+      "end": 242.64,
+      "text": "um for example publishers or investors"
+    },
+    {
+      "start": 240.64,
+      "end": 245.439,
+      "text": "or marketing agencies"
+    },
+    {
+      "start": 242.64,
+      "end": 248.159,
+      "text": "so this is how the video games market"
+    },
+    {
+      "start": 245.439,
+      "end": 249.2,
+      "text": "generally looks like"
+    },
+    {
+      "start": 248.159,
+      "end": 251.439,
+      "text": "now"
+    },
+    {
+      "start": 249.2,
+      "end": 253.68,
+      "text": "what exactly is marketing then"
+    },
+    {
+      "start": 251.439,
+      "end": 255.92,
+      "text": "okay so we have the video games market"
+    },
+    {
+      "start": 253.68,
+      "end": 256.959,
+      "text": "that we just discussed right"
+    },
+    {
+      "start": 255.92,
+      "end": 260,
+      "text": "but"
+    },
+    {
+      "start": 256.959,
+      "end": 262.639,
+      "text": "now we also want your studio to be a"
+    },
+    {
+      "start": 260,
+      "end": 265.36,
+      "text": "part of this market we want your studio"
+    },
+    {
+      "start": 262.639,
+      "end": 269.28,
+      "text": "to be in the pool of the other game"
+    },
+    {
+      "start": 265.36,
+      "end": 271.919,
+      "text": "studios how do we do that exactly to put"
+    },
+    {
+      "start": 269.28,
+      "end": 274.4,
+      "text": "your studio in a particular market in"
+    },
+    {
+      "start": 271.919,
+      "end": 277.919,
+      "text": "this case in the video games market"
+    },
+    {
+      "start": 274.4,
+      "end": 281.04,
+      "text": "we do the art of marketing so basically"
+    },
+    {
+      "start": 277.919,
+      "end": 283.52,
+      "text": "marketing can be understood as a process"
+    },
+    {
+      "start": 281.04,
+      "end": 284.56,
+      "text": "of positioning your studio or your"
+    },
+    {
+      "start": 283.52,
+      "end": 286.72,
+      "text": "project"
+    },
+    {
+      "start": 284.56,
+      "end": 290.08,
+      "text": "into the pool of gaming studios of"
+    },
+    {
+      "start": 286.72,
+      "end": 291.28,
+      "text": "projects or projects of the same market"
+    },
+    {
+      "start": 290.08,
+      "end": 294.32,
+      "text": "okay"
+    },
+    {
+      "start": 291.28,
+      "end": 296.96,
+      "text": "what is very important here"
+    },
+    {
+      "start": 294.32,
+      "end": 298,
+      "text": "is something called the circulation of"
+    },
+    {
+      "start": 296.96,
+      "end": 300.639,
+      "text": "value"
+    },
+    {
+      "start": 298,
+      "end": 303.28,
+      "text": "so but what is meant by value here is"
+    },
+    {
+      "start": 300.639,
+      "end": 305.199,
+      "text": "the benefit that you give to your"
+    },
+    {
+      "start": 303.28,
+      "end": 307.12,
+      "text": "players your customers your players"
+    },
+    {
+      "start": 305.199,
+      "end": 310.479,
+      "text": "however you want to call them"
+    },
+    {
+      "start": 307.12,
+      "end": 312.4,
+      "text": "um and you give this value in the form"
+    },
+    {
+      "start": 310.479,
+      "end": 313.28,
+      "text": "of a game usually"
+    },
+    {
+      "start": 312.4,
+      "end": 315.919,
+      "text": "but"
+    },
+    {
+      "start": 313.28,
+      "end": 317.84,
+      "text": "what is crucial here is to understand"
+    },
+    {
+      "start": 315.919,
+      "end": 320.72,
+      "text": "that you do not just"
+    },
+    {
+      "start": 317.84,
+      "end": 322.639,
+      "text": "send your game to people and hope that"
+    },
+    {
+      "start": 320.72,
+      "end": 323.84,
+      "text": "it will be an amazing game and everyone"
+    },
+    {
+      "start": 322.639,
+      "end": 326.88,
+      "text": "will buy it"
+    },
+    {
+      "start": 323.84,
+      "end": 330.24,
+      "text": "no this is a two-way process"
+    },
+    {
+      "start": 326.88,
+      "end": 331.759,
+      "text": "which means that you supply value for"
+    },
+    {
+      "start": 330.24,
+      "end": 334.16,
+      "text": "your players"
+    },
+    {
+      "start": 331.759,
+      "end": 336.479,
+      "text": "in the form of a game usually"
+    },
+    {
+      "start": 334.16,
+      "end": 339.52,
+      "text": "and you get this value back from the"
+    },
+    {
+      "start": 336.479,
+      "end": 342.16,
+      "text": "players in the form of feedback feedback"
+    },
+    {
+      "start": 339.52,
+      "end": 344.4,
+      "text": "that is extremely important because"
+    },
+    {
+      "start": 342.16,
+      "end": 346.72,
+      "text": "feedback can help you"
+    },
+    {
+      "start": 344.4,
+      "end": 350.16,
+      "text": "adjust your game adjust your marketing"
+    },
+    {
+      "start": 346.72,
+      "end": 353.36,
+      "text": "strategy and to be more relevant to your"
+    },
+    {
+      "start": 350.16,
+      "end": 355.84,
+      "text": "audience if you are relevant"
+    },
+    {
+      "start": 353.36,
+      "end": 358.16,
+      "text": "this will likely bring you to the best"
+    },
+    {
+      "start": 355.84,
+      "end": 358.96,
+      "text": "success the highest success that you can"
+    },
+    {
+      "start": 358.16,
+      "end": 361.68,
+      "text": "have"
+    },
+    {
+      "start": 358.96,
+      "end": 364.72,
+      "text": "with your game okay we will touch upon"
+    },
+    {
+      "start": 361.68,
+      "end": 366.639,
+      "text": "these topics a little uh a bit more"
+    },
+    {
+      "start": 364.72,
+      "end": 369.039,
+      "text": "further in this presentation"
+    },
+    {
+      "start": 366.639,
+      "end": 371.44,
+      "text": "but let's remember now that what we have"
+    },
+    {
+      "start": 369.039,
+      "end": 374.639,
+      "text": "in the market is primarily the gaming"
+    },
+    {
+      "start": 371.44,
+      "end": 378.4,
+      "text": "studios the your players and the value"
+    },
+    {
+      "start": 374.639,
+      "end": 382.08,
+      "text": "circulation between your studio and"
+    },
+    {
+      "start": 378.4,
+      "end": 383.919,
+      "text": "their players now let's have an example"
+    },
+    {
+      "start": 382.08,
+      "end": 385.52,
+      "text": "who doesn't love examples especially in"
+    },
+    {
+      "start": 383.919,
+      "end": 388.16,
+      "text": "the gaming industry"
+    },
+    {
+      "start": 385.52,
+      "end": 391.28,
+      "text": "so let's imagine that you are an indie"
+    },
+    {
+      "start": 388.16,
+      "end": 393.199,
+      "text": "developer okay so you want to create a"
+    },
+    {
+      "start": 391.28,
+      "end": 395.52,
+      "text": "video game which is about shooting"
+    },
+    {
+      "start": 393.199,
+      "end": 398.479,
+      "text": "aliens in space"
+    },
+    {
+      "start": 395.52,
+      "end": 400.319,
+      "text": "and we call it aliens pay scale so you"
+    },
+    {
+      "start": 398.479,
+      "end": 403.28,
+      "text": "even have a nice"
+    },
+    {
+      "start": 400.319,
+      "end": 404.319,
+      "text": "logo here for this particular game all"
+    },
+    {
+      "start": 403.28,
+      "end": 405.68,
+      "text": "right"
+    },
+    {
+      "start": 404.319,
+      "end": 408.16,
+      "text": "so"
+    },
+    {
+      "start": 405.68,
+      "end": 410.88,
+      "text": "therefore the resulting markets that"
+    },
+    {
+      "start": 408.16,
+      "end": 412.72,
+      "text": "would be of interest to you where you"
+    },
+    {
+      "start": 410.88,
+      "end": 414.56,
+      "text": "could position your game where you could"
+    },
+    {
+      "start": 412.72,
+      "end": 416.88,
+      "text": "do your marketing"
+    },
+    {
+      "start": 414.56,
+      "end": 418.479,
+      "text": "include indie games"
+    },
+    {
+      "start": 416.88,
+      "end": 420.16,
+      "text": "games with aliens"
+    },
+    {
+      "start": 418.479,
+      "end": 423.12,
+      "text": "sci-fi games"
+    },
+    {
+      "start": 420.16,
+      "end": 425.84,
+      "text": "space games and there are many many more"
+    },
+    {
+      "start": 423.12,
+      "end": 427.919,
+      "text": "of them but we will talk about this more"
+    },
+    {
+      "start": 425.84,
+      "end": 430.639,
+      "text": "part a little bit later in this"
+    },
+    {
+      "start": 427.919,
+      "end": 430.639,
+      "text": "presentation"
+    },
+    {
+      "start": 430.72,
+      "end": 435.599,
+      "text": "why do we even need marketing might be"
+    },
+    {
+      "start": 433.039,
+      "end": 437.12,
+      "text": "your question and you would be quite"
+    },
+    {
+      "start": 435.599,
+      "end": 439.28,
+      "text": "right because"
+    },
+    {
+      "start": 437.12,
+      "end": 442.56,
+      "text": "nowadays people think that marketing"
+    },
+    {
+      "start": 439.28,
+      "end": 445.44,
+      "text": "might be even overrated if we go online"
+    },
+    {
+      "start": 442.56,
+      "end": 448.639,
+      "text": "we see so many courses so many mentions"
+    },
+    {
+      "start": 445.44,
+      "end": 449.36,
+      "text": "of social media market targeting"
+    },
+    {
+      "start": 448.639,
+      "end": 451.919,
+      "text": "uh"
+    },
+    {
+      "start": 449.36,
+      "end": 454.08,
+      "text": "all of this stuff can be very confusing"
+    },
+    {
+      "start": 451.919,
+      "end": 456.479,
+      "text": "and people think that this is just some"
+    },
+    {
+      "start": 454.08,
+      "end": 459.599,
+      "text": "weird science that everyone wants to be"
+    },
+    {
+      "start": 456.479,
+      "end": 461.919,
+      "text": "a part of these days well short answer"
+    },
+    {
+      "start": 459.599,
+      "end": 464,
+      "text": "marketing is not overrated"
+    },
+    {
+      "start": 461.919,
+      "end": 466.479,
+      "text": "but it's very popular nowadays and i"
+    },
+    {
+      "start": 464,
+      "end": 469.199,
+      "text": "will briefly explain you why"
+    },
+    {
+      "start": 466.479,
+      "end": 471.28,
+      "text": "so before even"
+    },
+    {
+      "start": 469.199,
+      "end": 473.52,
+      "text": "in the previous century"
+    },
+    {
+      "start": 471.28,
+      "end": 475.52,
+      "text": "um there was more"
+    },
+    {
+      "start": 473.52,
+      "end": 477.919,
+      "text": "a way of marketing things is that you"
+    },
+    {
+      "start": 475.52,
+      "end": 479.599,
+      "text": "produce a product and you sell it to the"
+    },
+    {
+      "start": 477.919,
+      "end": 483.12,
+      "text": "general public"
+    },
+    {
+      "start": 479.599,
+      "end": 486.319,
+      "text": "when nowadays we are mostly focused on"
+    },
+    {
+      "start": 483.12,
+      "end": 487.919,
+      "text": "one single person we look at this person"
+    },
+    {
+      "start": 486.319,
+      "end": 490.08,
+      "text": "and we want to know"
+    },
+    {
+      "start": 487.919,
+      "end": 492.4,
+      "text": "who this person is what is their"
+    },
+    {
+      "start": 490.08,
+      "end": 494.72,
+      "text": "behavior on the daily basis"
+    },
+    {
+      "start": 492.4,
+      "end": 497.68,
+      "text": "how do they use their phones do they use"
+    },
+    {
+      "start": 494.72,
+      "end": 498.8,
+      "text": "consoles do they use pcs do they play"
+    },
+    {
+      "start": 497.68,
+      "end": 501.599,
+      "text": "games"
+    },
+    {
+      "start": 498.8,
+      "end": 502.8,
+      "text": "if yes then what kind of games if not"
+    },
+    {
+      "start": 501.599,
+      "end": 505.199,
+      "text": "then"
+    },
+    {
+      "start": 502.8,
+      "end": 507.039,
+      "text": "why not maybe they're just not"
+    },
+    {
+      "start": 505.199,
+      "end": 510.24,
+      "text": "interested in them yet and we can"
+    },
+    {
+      "start": 507.039,
+      "end": 512.64,
+      "text": "somehow find out a way find an approach"
+    },
+    {
+      "start": 510.24,
+      "end": 513.839,
+      "text": "for them to play the game so"
+    },
+    {
+      "start": 512.64,
+      "end": 516.159,
+      "text": "um"
+    },
+    {
+      "start": 513.839,
+      "end": 518.08,
+      "text": "you need to ask all those questions"
+    },
+    {
+      "start": 516.159,
+      "end": 519.919,
+      "text": "about these unique people and of course"
+    },
+    {
+      "start": 518.08,
+      "end": 521.76,
+      "text": "there is a lot of strategies and art"
+    },
+    {
+      "start": 519.919,
+      "end": 524.399,
+      "text": "about about that"
+    },
+    {
+      "start": 521.76,
+      "end": 526.24,
+      "text": "this is primarily the reason especially"
+    },
+    {
+      "start": 524.399,
+      "end": 528.24,
+      "text": "considering the rise of the technology"
+    },
+    {
+      "start": 526.24,
+      "end": 530.88,
+      "text": "and the social networks this is"
+    },
+    {
+      "start": 528.24,
+      "end": 532.72,
+      "text": "primarily the reason why you see so much"
+    },
+    {
+      "start": 530.88,
+      "end": 535.519,
+      "text": "mentions"
+    },
+    {
+      "start": 532.72,
+      "end": 536.8,
+      "text": "yes so much mentions of uh marketing"
+    },
+    {
+      "start": 535.519,
+      "end": 538.8,
+      "text": "these days"
+    },
+    {
+      "start": 536.8,
+      "end": 540.64,
+      "text": "okay so"
+    },
+    {
+      "start": 538.8,
+      "end": 544.56,
+      "text": "but let's hope it will be a bit more"
+    },
+    {
+      "start": 540.64,
+      "end": 545.519,
+      "text": "clear for you uh after this presentation"
+    },
+    {
+      "start": 544.56,
+      "end": 547.6,
+      "text": "so"
+    },
+    {
+      "start": 545.519,
+      "end": 549.92,
+      "text": "now that we are done and we have some"
+    },
+    {
+      "start": 547.6,
+      "end": 552.24,
+      "text": "slight understanding of this tentacle"
+    },
+    {
+      "start": 549.92,
+      "end": 553.12,
+      "text": "monster marketing in the depths of this"
+    },
+    {
+      "start": 552.24,
+      "end": 554.16,
+      "text": "lake"
+    },
+    {
+      "start": 553.12,
+      "end": 556.959,
+      "text": "um"
+    },
+    {
+      "start": 554.16,
+      "end": 559.519,
+      "text": "we can now move on to the foundation"
+    },
+    {
+      "start": 556.959,
+      "end": 560.959,
+      "text": "of your marketing strategy"
+    },
+    {
+      "start": 559.519,
+      "end": 563.76,
+      "text": "okay"
+    },
+    {
+      "start": 560.959,
+      "end": 566.72,
+      "text": "basically your foundation consists of"
+    },
+    {
+      "start": 563.76,
+      "end": 569.04,
+      "text": "clearly defining your marketing goals"
+    },
+    {
+      "start": 566.72,
+      "end": 571.839,
+      "text": "to define your marketing goals you need"
+    },
+    {
+      "start": 569.04,
+      "end": 574.16,
+      "text": "to first understand what your business"
+    },
+    {
+      "start": 571.839,
+      "end": 577.36,
+      "text": "goals are and what your project's goals"
+    },
+    {
+      "start": 574.16,
+      "end": 578.959,
+      "text": "are and we will stop uh in detail in"
+    },
+    {
+      "start": 577.36,
+      "end": 583.519,
+      "text": "each of those"
+    },
+    {
+      "start": 578.959,
+      "end": 585.519,
+      "text": "types of goals and explore them okay"
+    },
+    {
+      "start": 583.519,
+      "end": 586.399,
+      "text": "so let's talk about the business goals"
+    },
+    {
+      "start": 585.519,
+      "end": 587.36,
+      "text": "okay"
+    },
+    {
+      "start": 586.399,
+      "end": 590.48,
+      "text": "even"
+    },
+    {
+      "start": 587.36,
+      "end": 591.36,
+      "text": "if you are a one-person developer"
+    },
+    {
+      "start": 590.48,
+      "end": 593.279,
+      "text": "you"
+    },
+    {
+      "start": 591.36,
+      "end": 594.72,
+      "text": "you need to have a certain understanding"
+    },
+    {
+      "start": 593.279,
+      "end": 597.2,
+      "text": "of where you are"
+    },
+    {
+      "start": 594.72,
+      "end": 599.519,
+      "text": "going with your game with your project"
+    },
+    {
+      "start": 597.2,
+      "end": 600.64,
+      "text": "possibly with your studio"
+    },
+    {
+      "start": 599.519,
+      "end": 602.32,
+      "text": "um"
+    },
+    {
+      "start": 600.64,
+      "end": 603.92,
+      "text": "of course the first thing that you are"
+    },
+    {
+      "start": 602.32,
+      "end": 607.68,
+      "text": "thinking of is that i just want to"
+    },
+    {
+      "start": 603.92,
+      "end": 610,
+      "text": "release my game but there are also other"
+    },
+    {
+      "start": 607.68,
+      "end": 612.959,
+      "text": "other nuances that you want might want"
+    },
+    {
+      "start": 610,
+      "end": 615.279,
+      "text": "to consider to make your game sell more"
+    },
+    {
+      "start": 612.959,
+      "end": 617.6,
+      "text": "successfully such as establishing your"
+    },
+    {
+      "start": 615.279,
+      "end": 620.16,
+      "text": "studio brand for example or promoting it"
+    },
+    {
+      "start": 617.6,
+      "end": 622.8,
+      "text": "further by for instance establishing"
+    },
+    {
+      "start": 620.16,
+      "end": 625.6,
+      "text": "social networks it can also be about"
+    },
+    {
+      "start": 622.8,
+      "end": 628.48,
+      "text": "attracting investors and publishers or"
+    },
+    {
+      "start": 625.6,
+      "end": 630.079,
+      "text": "for instance if you have"
+    },
+    {
+      "start": 628.48,
+      "end": 632.64,
+      "text": "a small team"
+    },
+    {
+      "start": 630.079,
+      "end": 635.12,
+      "text": "and you're feeling like maybe guys we're"
+    },
+    {
+      "start": 632.64,
+      "end": 636.88,
+      "text": "not going to launch this project on time"
+    },
+    {
+      "start": 635.12,
+      "end": 638.8,
+      "text": "or this is not enough quality because we"
+    },
+    {
+      "start": 636.88,
+      "end": 641.12,
+      "text": "just don't have enough people"
+    },
+    {
+      "start": 638.8,
+      "end": 642.8,
+      "text": "you might want to expand your business"
+    },
+    {
+      "start": 641.12,
+      "end": 645.44,
+      "text": "and this would be a task for business"
+    },
+    {
+      "start": 642.8,
+      "end": 648,
+      "text": "development and you might want you to"
+    },
+    {
+      "start": 645.44,
+      "end": 649.36,
+      "text": "hire a bit more guys to help you out"
+    },
+    {
+      "start": 648,
+      "end": 651.92,
+      "text": "with your project"
+    },
+    {
+      "start": 649.36,
+      "end": 654.24,
+      "text": "so you need to set up your business"
+    },
+    {
+      "start": 651.92,
+      "end": 656,
+      "text": "goals before you can move on to your"
+    },
+    {
+      "start": 654.24,
+      "end": 659.04,
+      "text": "marketing goals"
+    },
+    {
+      "start": 656,
+      "end": 661.839,
+      "text": "um in our example remember that alien"
+    },
+    {
+      "start": 659.04,
+      "end": 664.16,
+      "text": "space kill game so"
+    },
+    {
+      "start": 661.839,
+      "end": 664.959,
+      "text": "let's imagine that we have three guys"
+    },
+    {
+      "start": 664.16,
+      "end": 668.88,
+      "text": "okay"
+    },
+    {
+      "start": 664.959,
+      "end": 671.92,
+      "text": "natasha dennis and constantin"
+    },
+    {
+      "start": 668.88,
+      "end": 675.12,
+      "text": "so they worked together on alien space"
+    },
+    {
+      "start": 671.92,
+      "end": 678.32,
+      "text": "kill and they decided to form a games to"
+    },
+    {
+      "start": 675.12,
+      "end": 681.68,
+      "text": "a gaming studio called ndk interactive"
+    },
+    {
+      "start": 678.32,
+      "end": 684,
+      "text": "yes very creative thank you very much"
+    },
+    {
+      "start": 681.68,
+      "end": 686.399,
+      "text": "the name comes from the first letters of"
+    },
+    {
+      "start": 684,
+      "end": 687.2,
+      "text": "their names as you can see"
+    },
+    {
+      "start": 686.399,
+      "end": 690.16,
+      "text": "okay"
+    },
+    {
+      "start": 687.2,
+      "end": 691.12,
+      "text": "uh so the guys just sat together and"
+    },
+    {
+      "start": 690.16,
+      "end": 693.36,
+      "text": "they were"
+    },
+    {
+      "start": 691.12,
+      "end": 694.48,
+      "text": "probably with some beer and just"
+    },
+    {
+      "start": 693.36,
+      "end": 697.6,
+      "text": "thinking"
+    },
+    {
+      "start": 694.48,
+      "end": 701.04,
+      "text": "okay what could be our business goals"
+    },
+    {
+      "start": 697.6,
+      "end": 704.16,
+      "text": "and of course in reality there are many"
+    },
+    {
+      "start": 701.04,
+      "end": 705.6,
+      "text": "business goals that a studio might have"
+    },
+    {
+      "start": 704.16,
+      "end": 708.16,
+      "text": "or even a couple of people who are"
+    },
+    {
+      "start": 705.6,
+      "end": 710.72,
+      "text": "producing a game might have"
+    },
+    {
+      "start": 708.16,
+      "end": 712.72,
+      "text": "but for the sake of time and scope of"
+    },
+    {
+      "start": 710.72,
+      "end": 714.959,
+      "text": "this presentation we will have just one"
+    },
+    {
+      "start": 712.72,
+      "end": 717.76,
+      "text": "as an example here okay"
+    },
+    {
+      "start": 714.959,
+      "end": 721.2,
+      "text": "so for the ndk interactive they decided"
+    },
+    {
+      "start": 717.76,
+      "end": 723.279,
+      "text": "that their goal is their brand of ndk"
+    },
+    {
+      "start": 721.2,
+      "end": 725.519,
+      "text": "interactive to be better known in the"
+    },
+    {
+      "start": 723.279,
+      "end": 728.48,
+      "text": "developers communities of the sci-fi"
+    },
+    {
+      "start": 725.519,
+      "end": 731.279,
+      "text": "genre well because they're producing a"
+    },
+    {
+      "start": 728.48,
+      "end": 734.32,
+      "text": "game in the sci-fi genre and this is"
+    },
+    {
+      "start": 731.279,
+      "end": 736.72,
+      "text": "actually a very good um"
+    },
+    {
+      "start": 734.32,
+      "end": 738.72,
+      "text": "a very good way to exchange knowledge to"
+    },
+    {
+      "start": 736.72,
+      "end": 741.04,
+      "text": "get some feedback on the project that"
+    },
+    {
+      "start": 738.72,
+      "end": 743.36,
+      "text": "they are currently having to do some"
+    },
+    {
+      "start": 741.04,
+      "end": 745.12,
+      "text": "networking maybe even see maybe there"
+    },
+    {
+      "start": 743.36,
+      "end": 747.04,
+      "text": "are guys who would be interested in"
+    },
+    {
+      "start": 745.12,
+      "end": 749.44,
+      "text": "collaborating with them on this game or"
+    },
+    {
+      "start": 747.04,
+      "end": 751.519,
+      "text": "there are some promotional opportunities"
+    },
+    {
+      "start": 749.44,
+      "end": 753.2,
+      "text": "like there are some media who are"
+    },
+    {
+      "start": 751.519,
+      "end": 756,
+      "text": "lingering in those developers"
+    },
+    {
+      "start": 753.2,
+      "end": 758.639,
+      "text": "communities who want some fresh"
+    },
+    {
+      "start": 756,
+      "end": 759.44,
+      "text": "fresh ideas fresh studios to write about"
+    },
+    {
+      "start": 758.639,
+      "end": 761.92,
+      "text": "so"
+    },
+    {
+      "start": 759.44,
+      "end": 763.04,
+      "text": "all kinds of opportunities can be drawn"
+    },
+    {
+      "start": 761.92,
+      "end": 766.24,
+      "text": "from this"
+    },
+    {
+      "start": 763.04,
+      "end": 769.519,
+      "text": "um we'll have this as what as the"
+    },
+    {
+      "start": 766.24,
+      "end": 770.48,
+      "text": "business goal example for now"
+    },
+    {
+      "start": 769.519,
+      "end": 774.48,
+      "text": "um"
+    },
+    {
+      "start": 770.48,
+      "end": 777.04,
+      "text": "now let us move to the project goals"
+    },
+    {
+      "start": 774.48,
+      "end": 779.04,
+      "text": "of course the first project goals that"
+    },
+    {
+      "start": 777.04,
+      "end": 782,
+      "text": "thing comes to mind is to launch the"
+    },
+    {
+      "start": 779.04,
+      "end": 785.44,
+      "text": "project and you have it here you see"
+    },
+    {
+      "start": 782,
+      "end": 787.519,
+      "text": "but also there can be other"
+    },
+    {
+      "start": 785.44,
+      "end": 789.36,
+      "text": "project goals that"
+    },
+    {
+      "start": 787.519,
+      "end": 791.36,
+      "text": "that you might consider that will help"
+    },
+    {
+      "start": 789.36,
+      "end": 792.8,
+      "text": "you launch the project in the most"
+    },
+    {
+      "start": 791.36,
+      "end": 795.839,
+      "text": "efficient way"
+    },
+    {
+      "start": 792.8,
+      "end": 798.48,
+      "text": "such as uh for instance create awareness"
+    },
+    {
+      "start": 795.839,
+      "end": 800.88,
+      "text": "about the projects brand like establish"
+    },
+    {
+      "start": 798.48,
+      "end": 804.32,
+      "text": "communities about it establish social"
+    },
+    {
+      "start": 800.88,
+      "end": 807.44,
+      "text": "media around it maybe create some events"
+    },
+    {
+      "start": 804.32,
+      "end": 810.8,
+      "text": "maybe some do offline gatherings you"
+    },
+    {
+      "start": 807.44,
+      "end": 813.279,
+      "text": "know games gathering"
+    },
+    {
+      "start": 810.8,
+      "end": 814.959,
+      "text": "also attracts investors to the project"
+    },
+    {
+      "start": 813.279,
+      "end": 817.44,
+      "text": "can be one of the"
+    },
+    {
+      "start": 814.959,
+      "end": 819.44,
+      "text": "of the goals you want to achieve"
+    },
+    {
+      "start": 817.44,
+      "end": 822.56,
+      "text": "so you consider all that"
+    },
+    {
+      "start": 819.44,
+      "end": 825.44,
+      "text": "and uh with them with our example of"
+    },
+    {
+      "start": 822.56,
+      "end": 828.32,
+      "text": "alien space skill so what we know about"
+    },
+    {
+      "start": 825.44,
+      "end": 830.48,
+      "text": "this game is that we want uh the ndk"
+    },
+    {
+      "start": 828.32,
+      "end": 832.32,
+      "text": "interactive guys they want to release it"
+    },
+    {
+      "start": 830.48,
+      "end": 834.88,
+      "text": "in about a year"
+    },
+    {
+      "start": 832.32,
+      "end": 837.839,
+      "text": "the team already set up a facebook page"
+    },
+    {
+      "start": 834.88,
+      "end": 840.959,
+      "text": "for this uh for this game"
+    },
+    {
+      "start": 837.839,
+      "end": 843.44,
+      "text": "and therefore their resulting goals"
+    },
+    {
+      "start": 840.959,
+      "end": 845.76,
+      "text": "would be to build a strong community"
+    },
+    {
+      "start": 843.44,
+      "end": 847.839,
+      "text": "around alien space scale and to"
+    },
+    {
+      "start": 845.76,
+      "end": 850,
+      "text": "strengthen its brand and promote it"
+    },
+    {
+      "start": 847.839,
+      "end": 852.399,
+      "text": "further so basically"
+    },
+    {
+      "start": 850,
+      "end": 855.6,
+      "text": "to establish relevant communities around"
+    },
+    {
+      "start": 852.399,
+      "end": 858.079,
+      "text": "the brand and also to make the brand"
+    },
+    {
+      "start": 855.6,
+      "end": 861.04,
+      "text": "better known so that we would get a"
+    },
+    {
+      "start": 858.079,
+      "end": 862.639,
+      "text": "larger pool of potential players who"
+    },
+    {
+      "start": 861.04,
+      "end": 865.199,
+      "text": "would be interested in the game when it"
+    },
+    {
+      "start": 862.639,
+      "end": 866.88,
+      "text": "launches okay"
+    },
+    {
+      "start": 865.199,
+      "end": 870.24,
+      "text": "nice so"
+    },
+    {
+      "start": 866.88,
+      "end": 872.48,
+      "text": "now that we have down our business goals"
+    },
+    {
+      "start": 870.24,
+      "end": 874.88,
+      "text": "and project goals let's move on to the"
+    },
+    {
+      "start": 872.48,
+      "end": 877.12,
+      "text": "marketing goals which is basically"
+    },
+    {
+      "start": 874.88,
+      "end": 880.32,
+      "text": "answering the question what are my"
+    },
+    {
+      "start": 877.12,
+      "end": 881.36,
+      "text": "business and project goals combined"
+    },
+    {
+      "start": 880.32,
+      "end": 884.88,
+      "text": "so"
+    },
+    {
+      "start": 881.36,
+      "end": 887.279,
+      "text": "as we mentioned before uh our resulting"
+    },
+    {
+      "start": 884.88,
+      "end": 890,
+      "text": "marketing goals therefore would be to"
+    },
+    {
+      "start": 887.279,
+      "end": 892.48,
+      "text": "strengthen the ndk interactive brand in"
+    },
+    {
+      "start": 890,
+      "end": 894.72,
+      "text": "relevant developers communities"
+    },
+    {
+      "start": 892.48,
+      "end": 897.76,
+      "text": "build a strong community around alien"
+    },
+    {
+      "start": 894.72,
+      "end": 900.32,
+      "text": "space skill and strengthen its brand and"
+    },
+    {
+      "start": 897.76,
+      "end": 902.079,
+      "text": "promote it further"
+    },
+    {
+      "start": 900.32,
+      "end": 904.16,
+      "text": "so"
+    },
+    {
+      "start": 902.079,
+      "end": 907.04,
+      "text": "now we have the foundation of your"
+    },
+    {
+      "start": 904.16,
+      "end": 909.519,
+      "text": "marketing strategy down we understand"
+    },
+    {
+      "start": 907.04,
+      "end": 912.399,
+      "text": "exactly what kind of goals we want to"
+    },
+    {
+      "start": 909.519,
+      "end": 915.68,
+      "text": "achieve with our marketing strategy what"
+    },
+    {
+      "start": 912.399,
+      "end": 918.16,
+      "text": "is very important here is to spend a"
+    },
+    {
+      "start": 915.68,
+      "end": 920.8,
+      "text": "good time good and have a good thought"
+    },
+    {
+      "start": 918.16,
+      "end": 923.44,
+      "text": "on your marketing goals because this is"
+    },
+    {
+      "start": 920.8,
+      "end": 924.399,
+      "text": "the foundation that will always guide"
+    },
+    {
+      "start": 923.44,
+      "end": 928,
+      "text": "you"
+    },
+    {
+      "start": 924.399,
+      "end": 930.48,
+      "text": "all uh the rest of um of the marketing"
+    },
+    {
+      "start": 928,
+      "end": 933.759,
+      "text": "strategy uh steps that you're going to"
+    },
+    {
+      "start": 930.48,
+      "end": 936.16,
+      "text": "do next all depend on the foundation"
+    },
+    {
+      "start": 933.759,
+      "end": 939.44,
+      "text": "that you have laid out and whenever you"
+    },
+    {
+      "start": 936.16,
+      "end": 942.24,
+      "text": "feel that you're in doubt or you're lost"
+    },
+    {
+      "start": 939.44,
+      "end": 944.48,
+      "text": "you can always consult your marketing"
+    },
+    {
+      "start": 942.24,
+      "end": 946.959,
+      "text": "strategy foundation it will always guide"
+    },
+    {
+      "start": 944.48,
+      "end": 948.959,
+      "text": "you towards the best decision so please"
+    },
+    {
+      "start": 946.959,
+      "end": 952.56,
+      "text": "spend some more time some more research"
+    },
+    {
+      "start": 948.959,
+      "end": 954.959,
+      "text": "on this this is really worth it okay"
+    },
+    {
+      "start": 952.56,
+      "end": 958,
+      "text": "okay we have the foundation down now"
+    },
+    {
+      "start": 954.959,
+      "end": 960.88,
+      "text": "let's move on to the analysis"
+    },
+    {
+      "start": 958,
+      "end": 962.72,
+      "text": "now the analysis is a word that many"
+    },
+    {
+      "start": 960.88,
+      "end": 964.8,
+      "text": "people uh"
+    },
+    {
+      "start": 962.72,
+      "end": 967.04,
+      "text": "initially don't like because it's"
+    },
+    {
+      "start": 964.8,
+      "end": 969.279,
+      "text": "largely associated with huge numbers"
+    },
+    {
+      "start": 967.04,
+      "end": 970.8,
+      "text": "with graphs with statistics excel and"
+    },
+    {
+      "start": 969.279,
+      "end": 973.12,
+      "text": "all and so on"
+    },
+    {
+      "start": 970.8,
+      "end": 975.36,
+      "text": "it doesn't have to be like this"
+    },
+    {
+      "start": 973.12,
+      "end": 978.48,
+      "text": "and i will try to"
+    },
+    {
+      "start": 975.36,
+      "end": 982.079,
+      "text": "make it as much fun for you as possible"
+    },
+    {
+      "start": 978.48,
+      "end": 984.56,
+      "text": "or well maybe not fun as such but at"
+    },
+    {
+      "start": 982.079,
+      "end": 986.56,
+      "text": "least understandable and clear as"
+    },
+    {
+      "start": 984.56,
+      "end": 989.6,
+      "text": "possible okay"
+    },
+    {
+      "start": 986.56,
+      "end": 992,
+      "text": "so the analysis consists of three major"
+    },
+    {
+      "start": 989.6,
+      "end": 994.399,
+      "text": "steps there can be more"
+    },
+    {
+      "start": 992,
+      "end": 996,
+      "text": "of course but"
+    },
+    {
+      "start": 994.399,
+      "end": 999.6,
+      "text": "let's focus on these three because they"
+    },
+    {
+      "start": 996,
+      "end": 1003.839,
+      "text": "are the core of any marketing analysis"
+    },
+    {
+      "start": 999.6,
+      "end": 1006.72,
+      "text": "so the first step is always segmentation"
+    },
+    {
+      "start": 1003.839,
+      "end": 1008.24,
+      "text": "now let's talk about what segmentation"
+    },
+    {
+      "start": 1006.72,
+      "end": 1010.959,
+      "text": "actually is"
+    },
+    {
+      "start": 1008.24,
+      "end": 1012,
+      "text": "imagine you have a pie a nice"
+    },
+    {
+      "start": 1010.959,
+      "end": 1014.56,
+      "text": "rich"
+    },
+    {
+      "start": 1012,
+      "end": 1015.68,
+      "text": "carrot cake or or the pie you prefer"
+    },
+    {
+      "start": 1014.56,
+      "end": 1019.44,
+      "text": "okay"
+    },
+    {
+      "start": 1015.68,
+      "end": 1020.959,
+      "text": "um this pie would be our market of video"
+    },
+    {
+      "start": 1019.44,
+      "end": 1023.44,
+      "text": "games all right"
+    },
+    {
+      "start": 1020.959,
+      "end": 1025.76,
+      "text": "then you get a knife and you cut this"
+    },
+    {
+      "start": 1023.44,
+      "end": 1026.88,
+      "text": "pie to various pieces"
+    },
+    {
+      "start": 1025.76,
+      "end": 1029.039,
+      "text": "all right"
+    },
+    {
+      "start": 1026.88,
+      "end": 1030.64,
+      "text": "each of those pieces"
+    },
+    {
+      "start": 1029.039,
+      "end": 1034.079,
+      "text": "will be quite different it will"
+    },
+    {
+      "start": 1030.64,
+      "end": 1036.079,
+      "text": "different in size in the texture maybe"
+    },
+    {
+      "start": 1034.079,
+      "end": 1038.88,
+      "text": "maybe you messed up and it's not as"
+    },
+    {
+      "start": 1036.079,
+      "end": 1040.72,
+      "text": "beautiful as the other pieces you know"
+    },
+    {
+      "start": 1038.88,
+      "end": 1042.799,
+      "text": "of that pie so"
+    },
+    {
+      "start": 1040.72,
+      "end": 1046.24,
+      "text": "but this there will be one thing in"
+    },
+    {
+      "start": 1042.799,
+      "end": 1050.48,
+      "text": "common this all these pieces they will"
+    },
+    {
+      "start": 1046.24,
+      "end": 1053.76,
+      "text": "be a part of that large pie okay"
+    },
+    {
+      "start": 1050.48,
+      "end": 1056.559,
+      "text": "same here you take a large market like"
+    },
+    {
+      "start": 1053.76,
+      "end": 1059.6,
+      "text": "in our case the video games market and"
+    },
+    {
+      "start": 1056.559,
+      "end": 1062.16,
+      "text": "you cut it to pieces and those pieces"
+    },
+    {
+      "start": 1059.6,
+      "end": 1064.4,
+      "text": "they all are the part of the video games"
+    },
+    {
+      "start": 1062.16,
+      "end": 1066.799,
+      "text": "market but they have something on their"
+    },
+    {
+      "start": 1064.4,
+      "end": 1069.6,
+      "text": "own that is quite different"
+    },
+    {
+      "start": 1066.799,
+      "end": 1070.72,
+      "text": "from the rest okay so to be"
+    },
+    {
+      "start": 1069.6,
+      "end": 1073.36,
+      "text": "clearer"
+    },
+    {
+      "start": 1070.72,
+      "end": 1076.16,
+      "text": "let's have our example of alien space"
+    },
+    {
+      "start": 1073.36,
+      "end": 1078.48,
+      "text": "scale here so what we remember from the"
+    },
+    {
+      "start": 1076.16,
+      "end": 1081.28,
+      "text": "previous slides is that"
+    },
+    {
+      "start": 1078.48,
+      "end": 1083.919,
+      "text": "it's an indie space shooter and it is"
+    },
+    {
+      "start": 1081.28,
+      "end": 1087.28,
+      "text": "about killing aliens"
+    },
+    {
+      "start": 1083.919,
+      "end": 1088.799,
+      "text": "but what if i also give you a few more"
+    },
+    {
+      "start": 1087.28,
+      "end": 1091.6,
+      "text": "details about it"
+    },
+    {
+      "start": 1088.799,
+      "end": 1093.84,
+      "text": "such as that this is a 2d game it"
+    },
+    {
+      "start": 1091.6,
+      "end": 1095.12,
+      "text": "focuses on visually beautiful art and"
+    },
+    {
+      "start": 1093.84,
+      "end": 1097.44,
+      "text": "environments"
+    },
+    {
+      "start": 1095.12,
+      "end": 1099.6,
+      "text": "made by a team set in germany so they"
+    },
+    {
+      "start": 1097.44,
+      "end": 1103.28,
+      "text": "produce the game in german in english"
+    },
+    {
+      "start": 1099.6,
+      "end": 1106.4,
+      "text": "and it will release on steam okay"
+    },
+    {
+      "start": 1103.28,
+      "end": 1108.64,
+      "text": "therefore the segments of the video"
+    },
+    {
+      "start": 1106.4,
+      "end": 1110.16,
+      "text": "games market that we might be interested"
+    },
+    {
+      "start": 1108.64,
+      "end": 1113.28,
+      "text": "in include"
+    },
+    {
+      "start": 1110.16,
+      "end": 1116.72,
+      "text": "sci-fi games space games german language"
+    },
+    {
+      "start": 1113.28,
+      "end": 1119.6,
+      "text": "games english language games and so on"
+    },
+    {
+      "start": 1116.72,
+      "end": 1122.32,
+      "text": "there can be many many segments that you"
+    },
+    {
+      "start": 1119.6,
+      "end": 1126,
+      "text": "can think of if you really take your"
+    },
+    {
+      "start": 1122.32,
+      "end": 1127.12,
+      "text": "game and try to list its details and see"
+    },
+    {
+      "start": 1126,
+      "end": 1129.6,
+      "text": "and think"
+    },
+    {
+      "start": 1127.12,
+      "end": 1132.24,
+      "text": "what kind of segments i can really"
+    },
+    {
+      "start": 1129.6,
+      "end": 1134.08,
+      "text": "address with my game okay there can be"
+    },
+    {
+      "start": 1132.24,
+      "end": 1135.12,
+      "text": "more many of them"
+    },
+    {
+      "start": 1134.08,
+      "end": 1137.2,
+      "text": "but"
+    },
+    {
+      "start": 1135.12,
+      "end": 1139.76,
+      "text": "what is really important here is that"
+    },
+    {
+      "start": 1137.2,
+      "end": 1144.16,
+      "text": "it's fine to have this huge list"
+    },
+    {
+      "start": 1139.76,
+      "end": 1145.44,
+      "text": "as long as your segments are relevant to"
+    },
+    {
+      "start": 1144.16,
+      "end": 1146.32,
+      "text": "your game"
+    },
+    {
+      "start": 1145.44,
+      "end": 1149.12,
+      "text": "okay"
+    },
+    {
+      "start": 1146.32,
+      "end": 1151.36,
+      "text": "so tr when you're doing this try to stay"
+    },
+    {
+      "start": 1149.12,
+      "end": 1153.12,
+      "text": "focused on your game always have your"
+    },
+    {
+      "start": 1151.36,
+      "end": 1155.679,
+      "text": "project in mind"
+    },
+    {
+      "start": 1153.12,
+      "end": 1158,
+      "text": "and when you're listing these things"
+    },
+    {
+      "start": 1155.679,
+      "end": 1159.52,
+      "text": "try to understand try to always ask"
+    },
+    {
+      "start": 1158,
+      "end": 1163.12,
+      "text": "yourself a question"
+    },
+    {
+      "start": 1159.52,
+      "end": 1164.72,
+      "text": "is this segment relevant to my game"
+    },
+    {
+      "start": 1163.12,
+      "end": 1167.12,
+      "text": "among this"
+    },
+    {
+      "start": 1164.72,
+      "end": 1170.16,
+      "text": "number there's probably a huge number of"
+    },
+    {
+      "start": 1167.12,
+      "end": 1172.799,
+      "text": "segments of course for any game"
+    },
+    {
+      "start": 1170.16,
+      "end": 1175.28,
+      "text": "uh the key here is to find those that"
+    },
+    {
+      "start": 1172.799,
+      "end": 1177.28,
+      "text": "are the most relevant"
+    },
+    {
+      "start": 1175.28,
+      "end": 1179.28,
+      "text": "how do you understand whether a certain"
+    },
+    {
+      "start": 1177.28,
+      "end": 1180.16,
+      "text": "segment is relevant to my particular"
+    },
+    {
+      "start": 1179.28,
+      "end": 1182.64,
+      "text": "game"
+    },
+    {
+      "start": 1180.16,
+      "end": 1185.52,
+      "text": "well you analyze your segments"
+    },
+    {
+      "start": 1182.64,
+      "end": 1190.32,
+      "text": "you try to understand"
+    },
+    {
+      "start": 1185.52,
+      "end": 1192.72,
+      "text": "uh what kind like is it possible to have"
+    },
+    {
+      "start": 1190.32,
+      "end": 1195.2,
+      "text": "enough players in this segment that will"
+    },
+    {
+      "start": 1192.72,
+      "end": 1198.48,
+      "text": "buy my game or maybe your"
+    },
+    {
+      "start": 1195.2,
+      "end": 1200.16,
+      "text": "your segment consists only of uh young"
+    },
+    {
+      "start": 1198.48,
+      "end": 1202.159,
+      "text": "children who cannot"
+    },
+    {
+      "start": 1200.16,
+      "end": 1204.84,
+      "text": "pay for themselves so they prefer free"
+    },
+    {
+      "start": 1202.159,
+      "end": 1208.48,
+      "text": "games for instance you know"
+    },
+    {
+      "start": 1204.84,
+      "end": 1210.64,
+      "text": "um so is is are there generally enough"
+    },
+    {
+      "start": 1208.48,
+      "end": 1213.12,
+      "text": "players who would be interested in this"
+    },
+    {
+      "start": 1210.64,
+      "end": 1213.919,
+      "text": "com particular type of the game"
+    },
+    {
+      "start": 1213.12,
+      "end": 1217.6,
+      "text": "so"
+    },
+    {
+      "start": 1213.919,
+      "end": 1219.28,
+      "text": "you need to select the most relevant"
+    },
+    {
+      "start": 1217.6,
+      "end": 1221.6,
+      "text": "segments"
+    },
+    {
+      "start": 1219.28,
+      "end": 1223.679,
+      "text": "maybe a few of them you usually start"
+    },
+    {
+      "start": 1221.6,
+      "end": 1226.32,
+      "text": "with one or a few"
+    },
+    {
+      "start": 1223.679,
+      "end": 1228,
+      "text": "segments to to test your strategies to"
+    },
+    {
+      "start": 1226.32,
+      "end": 1229.2,
+      "text": "see how they work"
+    },
+    {
+      "start": 1228,
+      "end": 1231.84,
+      "text": "and then"
+    },
+    {
+      "start": 1229.2,
+      "end": 1233.36,
+      "text": "depending on the results you understand"
+    },
+    {
+      "start": 1231.84,
+      "end": 1234.88,
+      "text": "which other segments you could have"
+    },
+    {
+      "start": 1233.36,
+      "end": 1236.64,
+      "text": "possibly"
+    },
+    {
+      "start": 1234.88,
+      "end": 1237.919,
+      "text": "addressed okay"
+    },
+    {
+      "start": 1236.64,
+      "end": 1239.52,
+      "text": "so"
+    },
+    {
+      "start": 1237.919,
+      "end": 1242.08,
+      "text": "what is also said here is don't be"
+    },
+    {
+      "start": 1239.52,
+      "end": 1244.48,
+      "text": "afraid of a niche market"
+    },
+    {
+      "start": 1242.08,
+      "end": 1246.159,
+      "text": "niche means that for instance we have"
+    },
+    {
+      "start": 1244.48,
+      "end": 1248.72,
+      "text": "this large market"
+    },
+    {
+      "start": 1246.159,
+      "end": 1251.44,
+      "text": "called the video games market"
+    },
+    {
+      "start": 1248.72,
+      "end": 1254.32,
+      "text": "but here for instance we also have"
+    },
+    {
+      "start": 1251.44,
+      "end": 1256.559,
+      "text": "german sci-fi indie games enthusiasts"
+    },
+    {
+      "start": 1254.32,
+      "end": 1258.72,
+      "text": "this is also a market okay it's a"
+    },
+    {
+      "start": 1256.559,
+      "end": 1260.799,
+      "text": "segment of a market but this is also a"
+    },
+    {
+      "start": 1258.72,
+      "end": 1262.72,
+      "text": "small market in itself and this is"
+    },
+    {
+      "start": 1260.799,
+      "end": 1265.28,
+      "text": "called a niche market meaning that this"
+    },
+    {
+      "start": 1262.72,
+      "end": 1267.679,
+      "text": "is very it has very narrow"
+    },
+    {
+      "start": 1265.28,
+      "end": 1268.48,
+      "text": "characteristics on its own okay"
+    },
+    {
+      "start": 1267.679,
+      "end": 1270.48,
+      "text": "like"
+    },
+    {
+      "start": 1268.48,
+      "end": 1272.88,
+      "text": "it's obviously not as large as the video"
+    },
+    {
+      "start": 1270.48,
+      "end": 1276.64,
+      "text": "games market don't be afraid of it as"
+    },
+    {
+      "start": 1272.88,
+      "end": 1279.44,
+      "text": "long as you evaluate this niche market"
+    },
+    {
+      "start": 1276.64,
+      "end": 1281.28,
+      "text": "as being profitable for you and relevant"
+    },
+    {
+      "start": 1279.44,
+      "end": 1284.159,
+      "text": "therefore"
+    },
+    {
+      "start": 1281.28,
+      "end": 1286.24,
+      "text": "then it's fine to have it okay then it's"
+    },
+    {
+      "start": 1284.159,
+      "end": 1289.44,
+      "text": "fine uh to"
+    },
+    {
+      "start": 1286.24,
+      "end": 1291.84,
+      "text": "to try your marketing strategy on it"
+    },
+    {
+      "start": 1289.44,
+      "end": 1291.84,
+      "text": "okay"
+    },
+    {
+      "start": 1292.159,
+      "end": 1297.2,
+      "text": "for our example of alien space skill we"
+    },
+    {
+      "start": 1294.88,
+      "end": 1298.48,
+      "text": "will have german sci-fi indie games"
+    },
+    {
+      "start": 1297.2,
+      "end": 1300.4,
+      "text": "enthusiasts"
+    },
+    {
+      "start": 1298.48,
+      "end": 1303.2,
+      "text": "market or segment"
+    },
+    {
+      "start": 1300.4,
+      "end": 1306,
+      "text": "uh as an example"
+    },
+    {
+      "start": 1303.2,
+      "end": 1308.799,
+      "text": "so after you did after you're finished"
+    },
+    {
+      "start": 1306,
+      "end": 1311.6,
+      "text": "with your segmentation what you do is"
+    },
+    {
+      "start": 1308.799,
+      "end": 1315.039,
+      "text": "that you take your segments and analyze"
+    },
+    {
+      "start": 1311.6,
+      "end": 1315.039,
+      "text": "each of them separately"
+    },
+    {
+      "start": 1315.12,
+      "end": 1319.039,
+      "text": "and you analyze them in terms of their"
+    },
+    {
+      "start": 1317.6,
+      "end": 1321.44,
+      "text": "environment"
+    },
+    {
+      "start": 1319.039,
+      "end": 1323.36,
+      "text": "now what exactly is meant uh by"
+    },
+    {
+      "start": 1321.44,
+      "end": 1324.32,
+      "text": "environments here"
+    },
+    {
+      "start": 1323.36,
+      "end": 1325.919,
+      "text": "so"
+    },
+    {
+      "start": 1324.32,
+      "end": 1328.72,
+      "text": "we have like"
+    },
+    {
+      "start": 1325.919,
+      "end": 1331.2,
+      "text": "in the middle your gaming studio here"
+    },
+    {
+      "start": 1328.72,
+      "end": 1334,
+      "text": "okay where you see aliens pay scale but"
+    },
+    {
+      "start": 1331.2,
+      "end": 1336.559,
+      "text": "there are also other forces that exist"
+    },
+    {
+      "start": 1334,
+      "end": 1339.84,
+      "text": "in this world that might influence your"
+    },
+    {
+      "start": 1336.559,
+      "end": 1341.28,
+      "text": "project and also how you may market it"
+    },
+    {
+      "start": 1339.84,
+      "end": 1344.08,
+      "text": "for instance there is a micro"
+    },
+    {
+      "start": 1341.28,
+      "end": 1347.28,
+      "text": "environment okay this is environment"
+    },
+    {
+      "start": 1344.08,
+      "end": 1350.32,
+      "text": "that usually exists independently of"
+    },
+    {
+      "start": 1347.28,
+      "end": 1352.48,
+      "text": "your business it can involve political"
+    },
+    {
+      "start": 1350.32,
+      "end": 1354.88,
+      "text": "social cultural and many more"
+    },
+    {
+      "start": 1352.48,
+      "end": 1357.84,
+      "text": "characteristics of for instance the"
+    },
+    {
+      "start": 1354.88,
+      "end": 1360.48,
+      "text": "country that your studio is located in"
+    },
+    {
+      "start": 1357.84,
+      "end": 1362.799,
+      "text": "or in the country where you want to"
+    },
+    {
+      "start": 1360.48,
+      "end": 1363.84,
+      "text": "publish your game for example"
+    },
+    {
+      "start": 1362.799,
+      "end": 1365.6,
+      "text": "so"
+    },
+    {
+      "start": 1363.84,
+      "end": 1366.48,
+      "text": "to give you an example"
+    },
+    {
+      "start": 1365.6,
+      "end": 1367.84,
+      "text": "um"
+    },
+    {
+      "start": 1366.48,
+      "end": 1370.88,
+      "text": "you can"
+    },
+    {
+      "start": 1367.84,
+      "end": 1374,
+      "text": "perfectly fine publish your game in one"
+    },
+    {
+      "start": 1370.88,
+      "end": 1376.4,
+      "text": "country but you might want need to"
+    },
+    {
+      "start": 1374,
+      "end": 1377.36,
+      "text": "censor some parts of it"
+    },
+    {
+      "start": 1376.4,
+      "end": 1379.28,
+      "text": "in"
+    },
+    {
+      "start": 1377.36,
+      "end": 1381.84,
+      "text": "in when you want to publish it in other"
+    },
+    {
+      "start": 1379.28,
+      "end": 1383.44,
+      "text": "countries because it is required by law"
+    },
+    {
+      "start": 1381.84,
+      "end": 1385.52,
+      "text": "there you know"
+    },
+    {
+      "start": 1383.44,
+      "end": 1387.2,
+      "text": "so a"
+    },
+    {
+      "start": 1385.52,
+      "end": 1389.52,
+      "text": "similar thing"
+    },
+    {
+      "start": 1387.2,
+      "end": 1392.4,
+      "text": "happens here with marketing when you're"
+    },
+    {
+      "start": 1389.52,
+      "end": 1395.36,
+      "text": "creating your strategy you must consider"
+    },
+    {
+      "start": 1392.4,
+      "end": 1398.159,
+      "text": "these nuances depending on"
+    },
+    {
+      "start": 1395.36,
+      "end": 1399.2,
+      "text": "the environment you are you want to"
+    },
+    {
+      "start": 1398.159,
+      "end": 1401.52,
+      "text": "release"
+    },
+    {
+      "start": 1399.2,
+      "end": 1404.88,
+      "text": "uh your project and you want to create"
+    },
+    {
+      "start": 1401.52,
+      "end": 1408.32,
+      "text": "your marketing strategy in okay so"
+    },
+    {
+      "start": 1404.88,
+      "end": 1410.64,
+      "text": "in that german sci-fi enthusiast in the"
+    },
+    {
+      "start": 1408.32,
+      "end": 1413.28,
+      "text": "enthusiasts segment"
+    },
+    {
+      "start": 1410.64,
+      "end": 1415.52,
+      "text": "you probably want to consider"
+    },
+    {
+      "start": 1413.28,
+      "end": 1416.64,
+      "text": "the german political social cultural"
+    },
+    {
+      "start": 1415.52,
+      "end": 1419.12,
+      "text": "situation"
+    },
+    {
+      "start": 1416.64,
+      "end": 1421.52,
+      "text": "is this okay to promote this game"
+    },
+    {
+      "start": 1419.12,
+      "end": 1422.48,
+      "text": "uh in there like is this politically"
+    },
+    {
+      "start": 1421.52,
+      "end": 1423.679,
+      "text": "correct"
+    },
+    {
+      "start": 1422.48,
+      "end": 1426,
+      "text": "um"
+    },
+    {
+      "start": 1423.679,
+      "end": 1429.679,
+      "text": "if you want to release the same game for"
+    },
+    {
+      "start": 1426,
+      "end": 1432.159,
+      "text": "instance in spain or"
+    },
+    {
+      "start": 1429.679,
+      "end": 1434.08,
+      "text": "is is this the same situation there or"
+    },
+    {
+      "start": 1432.159,
+      "end": 1436.32,
+      "text": "should they maybe find a different"
+    },
+    {
+      "start": 1434.08,
+      "end": 1438.48,
+      "text": "approach which is the likeliest scenario"
+    },
+    {
+      "start": 1436.32,
+      "end": 1440.72,
+      "text": "you usually create approaches for"
+    },
+    {
+      "start": 1438.48,
+      "end": 1442.48,
+      "text": "different countries which are different"
+    },
+    {
+      "start": 1440.72,
+      "end": 1444.799,
+      "text": "from each other you know"
+    },
+    {
+      "start": 1442.48,
+      "end": 1446.559,
+      "text": "so you consider those"
+    },
+    {
+      "start": 1444.799,
+      "end": 1448.64,
+      "text": "then there is also micro environment"
+    },
+    {
+      "start": 1446.559,
+      "end": 1451.2,
+      "text": "which is an environment that is closer"
+    },
+    {
+      "start": 1448.64,
+      "end": 1452.32,
+      "text": "to you so it's it's more about your"
+    },
+    {
+      "start": 1451.2,
+      "end": 1455.44,
+      "text": "industry"
+    },
+    {
+      "start": 1452.32,
+      "end": 1457.36,
+      "text": "uh so here you have customers which are"
+    },
+    {
+      "start": 1455.44,
+      "end": 1459.52,
+      "text": "your players competitors which are"
+    },
+    {
+      "start": 1457.36,
+      "end": 1462.64,
+      "text": "others other studios"
+    },
+    {
+      "start": 1459.52,
+      "end": 1464.32,
+      "text": "and suppliers intermediaries which could"
+    },
+    {
+      "start": 1462.64,
+      "end": 1466.72,
+      "text": "be your um"
+    },
+    {
+      "start": 1464.32,
+      "end": 1469.2,
+      "text": "art outsource for instance if you're"
+    },
+    {
+      "start": 1466.72,
+      "end": 1470.159,
+      "text": "looking for one"
+    },
+    {
+      "start": 1469.2,
+      "end": 1473.84,
+      "text": "now"
+    },
+    {
+      "start": 1470.159,
+      "end": 1475.84,
+      "text": "it's important to point out that um"
+    },
+    {
+      "start": 1473.84,
+      "end": 1478.4,
+      "text": "when you're analyzing these environments"
+    },
+    {
+      "start": 1475.84,
+      "end": 1479.919,
+      "text": "you're not only looking for threats like"
+    },
+    {
+      "start": 1478.4,
+      "end": 1482.32,
+      "text": "the ones that i mentioned with"
+    },
+    {
+      "start": 1479.919,
+      "end": 1485.76,
+      "text": "censorship for example but also for"
+    },
+    {
+      "start": 1482.32,
+      "end": 1487.6,
+      "text": "opportunities and a good example in in"
+    },
+    {
+      "start": 1485.76,
+      "end": 1488.88,
+      "text": "micro environment"
+    },
+    {
+      "start": 1487.6,
+      "end": 1490.48,
+      "text": "is that"
+    },
+    {
+      "start": 1488.88,
+      "end": 1492.64,
+      "text": "there is an opportunity to learn"
+    },
+    {
+      "start": 1490.48,
+      "end": 1494.799,
+      "text": "something new from other studios like"
+    },
+    {
+      "start": 1492.64,
+      "end": 1496.88,
+      "text": "here at games gathering for example"
+    },
+    {
+      "start": 1494.799,
+      "end": 1499.44,
+      "text": "where we have many professionals from"
+    },
+    {
+      "start": 1496.88,
+      "end": 1501.679,
+      "text": "various spheres from but from the same"
+    },
+    {
+      "start": 1499.44,
+      "end": 1502.799,
+      "text": "industry we can learn from each other"
+    },
+    {
+      "start": 1501.679,
+      "end": 1505.12,
+      "text": "and uh"
+    },
+    {
+      "start": 1502.799,
+      "end": 1506.96,
+      "text": "and apply this to our projects or our"
+    },
+    {
+      "start": 1505.12,
+      "end": 1508.32,
+      "text": "studios and be better in what we are"
+    },
+    {
+      "start": 1506.96,
+      "end": 1511.84,
+      "text": "doing to"
+    },
+    {
+      "start": 1508.32,
+      "end": 1513.76,
+      "text": "to bring more value to our players"
+    },
+    {
+      "start": 1511.84,
+      "end": 1516.96,
+      "text": "we can also learn from our players who"
+    },
+    {
+      "start": 1513.76,
+      "end": 1519.52,
+      "text": "can set up trends for instance in social"
+    },
+    {
+      "start": 1516.96,
+      "end": 1520.32,
+      "text": "networks and we can take advantage of"
+    },
+    {
+      "start": 1519.52,
+      "end": 1522.08,
+      "text": "them"
+    },
+    {
+      "start": 1520.32,
+      "end": 1523.279,
+      "text": "so"
+    },
+    {
+      "start": 1522.08,
+      "end": 1524.799,
+      "text": "this would be the power of"
+    },
+    {
+      "start": 1523.279,
+      "end": 1526.88,
+      "text": "microenvironment"
+    },
+    {
+      "start": 1524.799,
+      "end": 1529.84,
+      "text": "the inner environment"
+    },
+    {
+      "start": 1526.88,
+      "end": 1532.159,
+      "text": "is the environment that exists within"
+    },
+    {
+      "start": 1529.84,
+      "end": 1534.88,
+      "text": "your uh studio"
+    },
+    {
+      "start": 1532.159,
+      "end": 1537.52,
+      "text": "for instance so do you have enough stuff"
+    },
+    {
+      "start": 1534.88,
+      "end": 1539.919,
+      "text": "for example to complete your project is"
+    },
+    {
+      "start": 1537.52,
+      "end": 1543.2,
+      "text": "there enough workspace is there enough"
+    },
+    {
+      "start": 1539.919,
+      "end": 1545.12,
+      "text": "equipment so those um like for instance"
+    },
+    {
+      "start": 1543.2,
+      "end": 1546.4,
+      "text": "if you want to create"
+    },
+    {
+      "start": 1545.12,
+      "end": 1550.96,
+      "text": "amazing"
+    },
+    {
+      "start": 1546.4,
+      "end": 1553.76,
+      "text": "uh shirt films about aliens and you are"
+    },
+    {
+      "start": 1550.96,
+      "end": 1555.6,
+      "text": "just one two persons really spending all"
+    },
+    {
+      "start": 1553.76,
+      "end": 1557.44,
+      "text": "the time you have on your game this is"
+    },
+    {
+      "start": 1555.6,
+      "end": 1559.36,
+      "text": "probably not the best idea you know"
+    },
+    {
+      "start": 1557.44,
+      "end": 1560.96,
+      "text": "although of course it is a great idea"
+    },
+    {
+      "start": 1559.36,
+      "end": 1562.72,
+      "text": "and a beautiful"
+    },
+    {
+      "start": 1560.96,
+      "end": 1565.36,
+      "text": "one that will draw a lot of attention"
+    },
+    {
+      "start": 1562.72,
+      "end": 1567.44,
+      "text": "you may not have a resource for it so"
+    },
+    {
+      "start": 1565.36,
+      "end": 1570.48,
+      "text": "um"
+    },
+    {
+      "start": 1567.44,
+      "end": 1571.84,
+      "text": "forces that exist inside your studio"
+    },
+    {
+      "start": 1570.48,
+      "end": 1574.96,
+      "text": "your business"
+    },
+    {
+      "start": 1571.84,
+      "end": 1576.64,
+      "text": "are also the ones you need to consider"
+    },
+    {
+      "start": 1574.96,
+      "end": 1578.32,
+      "text": "okay"
+    },
+    {
+      "start": 1576.64,
+      "end": 1581.12,
+      "text": "so let's have"
+    },
+    {
+      "start": 1578.32,
+      "end": 1583.52,
+      "text": "an example with um"
+    },
+    {
+      "start": 1581.12,
+      "end": 1585.919,
+      "text": "with our alien space scale so if you"
+    },
+    {
+      "start": 1583.52,
+      "end": 1588.559,
+      "text": "remember we have chosen"
+    },
+    {
+      "start": 1585.919,
+      "end": 1591.679,
+      "text": "that segment of german sci-fi indie"
+    },
+    {
+      "start": 1588.559,
+      "end": 1593.679,
+      "text": "games enthusiasts and we ask ourselves"
+    },
+    {
+      "start": 1591.679,
+      "end": 1594.72,
+      "text": "what are the opportunities and threats"
+    },
+    {
+      "start": 1593.679,
+      "end": 1595.52,
+      "text": "here"
+    },
+    {
+      "start": 1594.72,
+      "end": 1598.08,
+      "text": "so"
+    },
+    {
+      "start": 1595.52,
+      "end": 1600.159,
+      "text": "again because we have a limited scope"
+    },
+    {
+      "start": 1598.08,
+      "end": 1602.48,
+      "text": "and time in this presentation"
+    },
+    {
+      "start": 1600.159,
+      "end": 1605.2,
+      "text": "we will not discuss threads in so much"
+    },
+    {
+      "start": 1602.48,
+      "end": 1606.799,
+      "text": "detail but we'll focus rather on the"
+    },
+    {
+      "start": 1605.2,
+      "end": 1609.52,
+      "text": "opportunities"
+    },
+    {
+      "start": 1606.799,
+      "end": 1611.76,
+      "text": "and if you remember the ndk interactive"
+    },
+    {
+      "start": 1609.52,
+      "end": 1614.159,
+      "text": "guys they're just three guys and they"
+    },
+    {
+      "start": 1611.76,
+      "end": 1615.36,
+      "text": "think that they will do fine with their"
+    },
+    {
+      "start": 1614.159,
+      "end": 1617.76,
+      "text": "game"
+    },
+    {
+      "start": 1615.36,
+      "end": 1619.919,
+      "text": "um so"
+    },
+    {
+      "start": 1617.76,
+      "end": 1622.32,
+      "text": "we'll focus on macro environment and"
+    },
+    {
+      "start": 1619.919,
+      "end": 1624.24,
+      "text": "micro environment here and for example"
+    },
+    {
+      "start": 1622.32,
+      "end": 1626.4,
+      "text": "in terms of the macro environment we"
+    },
+    {
+      "start": 1624.24,
+      "end": 1628.799,
+      "text": "found out that"
+    },
+    {
+      "start": 1626.4,
+      "end": 1631.44,
+      "text": "german governments sponsor space related"
+    },
+    {
+      "start": 1628.799,
+      "end": 1634.559,
+      "text": "projects targeting young people this is"
+    },
+    {
+      "start": 1631.44,
+      "end": 1637.279,
+      "text": "a great chance for us to step in and to"
+    },
+    {
+      "start": 1634.559,
+      "end": 1638.72,
+      "text": "show our project as well in this program"
+    },
+    {
+      "start": 1637.279,
+      "end": 1640.799,
+      "text": "and maybe get some promotional"
+    },
+    {
+      "start": 1638.72,
+      "end": 1643.679,
+      "text": "opportunities"
+    },
+    {
+      "start": 1640.799,
+      "end": 1645.919,
+      "text": "together with german government which is"
+    },
+    {
+      "start": 1643.679,
+      "end": 1648.08,
+      "text": "which is launching this project you know"
+    },
+    {
+      "start": 1645.919,
+      "end": 1649.52,
+      "text": "so this this could be an opportunity for"
+    },
+    {
+      "start": 1648.08,
+      "end": 1652.159,
+      "text": "us"
+    },
+    {
+      "start": 1649.52,
+      "end": 1656.159,
+      "text": "in terms of microenvironment"
+    },
+    {
+      "start": 1652.159,
+      "end": 1659.2,
+      "text": "we have been discussing or having a look"
+    },
+    {
+      "start": 1656.159,
+      "end": 1661.76,
+      "text": "you know at what other studios in the"
+    },
+    {
+      "start": 1659.2,
+      "end": 1664.24,
+      "text": "field are doing and we found out that"
+    },
+    {
+      "start": 1661.76,
+      "end": 1665.52,
+      "text": "actually there is a lot of attention"
+    },
+    {
+      "start": 1664.24,
+      "end": 1668.559,
+      "text": "um"
+    },
+    {
+      "start": 1665.52,
+      "end": 1671.52,
+      "text": "that comes from their audience towards"
+    },
+    {
+      "start": 1668.559,
+      "end": 1673.2,
+      "text": "the pictures that have"
+    },
+    {
+      "start": 1671.52,
+      "end": 1677.52,
+      "text": "beautiful"
+    },
+    {
+      "start": 1673.2,
+      "end": 1680.399,
+      "text": "beautiful imagery of space and"
+    },
+    {
+      "start": 1677.52,
+      "end": 1682.72,
+      "text": "some sci-fi imagery as well so we will"
+    },
+    {
+      "start": 1680.399,
+      "end": 1683.76,
+      "text": "remember this for now and take advantage"
+    },
+    {
+      "start": 1682.72,
+      "end": 1685.36,
+      "text": "of that"
+    },
+    {
+      "start": 1683.76,
+      "end": 1687.679,
+      "text": "in the future"
+    },
+    {
+      "start": 1685.36,
+      "end": 1690.88,
+      "text": "okay"
+    },
+    {
+      "start": 1687.679,
+      "end": 1692.48,
+      "text": "so after you have done your environments"
+    },
+    {
+      "start": 1690.88,
+      "end": 1695.52,
+      "text": "analysis"
+    },
+    {
+      "start": 1692.48,
+      "end": 1696.64,
+      "text": "we are now moving on to analyzing your"
+    },
+    {
+      "start": 1695.52,
+      "end": 1697.52,
+      "text": "audience"
+    },
+    {
+      "start": 1696.64,
+      "end": 1700.159,
+      "text": "now"
+    },
+    {
+      "start": 1697.52,
+      "end": 1703.76,
+      "text": "it says target audience okay let me be"
+    },
+    {
+      "start": 1700.159,
+      "end": 1707.279,
+      "text": "clear about what target exactly means"
+    },
+    {
+      "start": 1703.76,
+      "end": 1709.2,
+      "text": "target means to address the audience"
+    },
+    {
+      "start": 1707.279,
+      "end": 1711.36,
+      "text": "okay so target audience means the"
+    },
+    {
+      "start": 1709.2,
+      "end": 1714.32,
+      "text": "audience that you want to address with"
+    },
+    {
+      "start": 1711.36,
+      "end": 1717.279,
+      "text": "your marketing strategy so in our"
+    },
+    {
+      "start": 1714.32,
+      "end": 1720,
+      "text": "case this is going to be the players of"
+    },
+    {
+      "start": 1717.279,
+      "end": 1722.159,
+      "text": "alien space kill and particularly the"
+    },
+    {
+      "start": 1720,
+      "end": 1726,
+      "text": "player the potential players of aliens"
+    },
+    {
+      "start": 1722.159,
+      "end": 1727.12,
+      "text": "pay skill who are in that german sci-fi"
+    },
+    {
+      "start": 1726,
+      "end": 1731.2,
+      "text": "indie"
+    },
+    {
+      "start": 1727.12,
+      "end": 1732.96,
+      "text": "games enthusiasts segment okay"
+    },
+    {
+      "start": 1731.2,
+      "end": 1735.279,
+      "text": "okay"
+    },
+    {
+      "start": 1732.96,
+      "end": 1735.279,
+      "text": "so"
+    },
+    {
+      "start": 1735.44,
+      "end": 1739.2,
+      "text": "we need to analyze our audience in terms"
+    },
+    {
+      "start": 1738.08,
+      "end": 1741.36,
+      "text": "of"
+    },
+    {
+      "start": 1739.2,
+      "end": 1743.52,
+      "text": "various characteristics"
+    },
+    {
+      "start": 1741.36,
+      "end": 1746.32,
+      "text": "one of them is geographic where the"
+    },
+    {
+      "start": 1743.52,
+      "end": 1749.919,
+      "text": "audience is located their region in some"
+    },
+    {
+      "start": 1746.32,
+      "end": 1752.64,
+      "text": "cases maybe even neighborhood"
+    },
+    {
+      "start": 1749.919,
+      "end": 1755.36,
+      "text": "psychographic which means what is their"
+    },
+    {
+      "start": 1752.64,
+      "end": 1757.36,
+      "text": "lifestyle what are their values and"
+    },
+    {
+      "start": 1755.36,
+      "end": 1759.679,
+      "text": "beliefs sometimes that affects your"
+    },
+    {
+      "start": 1757.36,
+      "end": 1761.6,
+      "text": "marketing strategy too"
+    },
+    {
+      "start": 1759.679,
+      "end": 1763.2,
+      "text": "uh what is their behavior like for"
+    },
+    {
+      "start": 1761.6,
+      "end": 1765.36,
+      "text": "example um"
+    },
+    {
+      "start": 1763.2,
+      "end": 1767.919,
+      "text": "if you are creating a game for mobile"
+    },
+    {
+      "start": 1765.36,
+      "end": 1772.08,
+      "text": "you might be interested how often"
+    },
+    {
+      "start": 1767.919,
+      "end": 1774,
+      "text": "um your target audience uses their phone"
+    },
+    {
+      "start": 1772.08,
+      "end": 1776,
+      "text": "do they use it in the morning and before"
+    },
+    {
+      "start": 1774,
+      "end": 1777.679,
+      "text": "bed or maybe they have a chance to play"
+    },
+    {
+      "start": 1776,
+      "end": 1779.52,
+      "text": "during the day as well"
+    },
+    {
+      "start": 1777.679,
+      "end": 1780.72,
+      "text": "so those things you also need to"
+    },
+    {
+      "start": 1779.52,
+      "end": 1783.52,
+      "text": "consider"
+    },
+    {
+      "start": 1780.72,
+      "end": 1784.64,
+      "text": "and demographic of course which is age"
+    },
+    {
+      "start": 1783.52,
+      "end": 1787.2,
+      "text": "gender"
+    },
+    {
+      "start": 1784.64,
+      "end": 1789.679,
+      "text": "income marital status sometimes those"
+    },
+    {
+      "start": 1787.2,
+      "end": 1791.6,
+      "text": "things influence um"
+    },
+    {
+      "start": 1789.679,
+      "end": 1794.24,
+      "text": "your analysis too to better understand"
+    },
+    {
+      "start": 1791.6,
+      "end": 1795.679,
+      "text": "your audience and to give you the"
+    },
+    {
+      "start": 1794.24,
+      "end": 1798.399,
+      "text": "example"
+    },
+    {
+      "start": 1795.679,
+      "end": 1800.88,
+      "text": "from aliens pay scale"
+    },
+    {
+      "start": 1798.399,
+      "end": 1803.44,
+      "text": "we've done some research and we found"
+    },
+    {
+      "start": 1800.88,
+      "end": 1806,
+      "text": "out that our audience is primarily"
+    },
+    {
+      "start": 1803.44,
+      "end": 1807.679,
+      "text": "german in that particular segment our"
+    },
+    {
+      "start": 1806,
+      "end": 1811.76,
+      "text": "audience is german"
+    },
+    {
+      "start": 1807.679,
+      "end": 1815.2,
+      "text": "they are 16 25 years old primarily male"
+    },
+    {
+      "start": 1811.76,
+      "end": 1817.44,
+      "text": "they are also mostly unemployed"
+    },
+    {
+      "start": 1815.2,
+      "end": 1819.84,
+      "text": "use their mobile devices primarily in"
+    },
+    {
+      "start": 1817.44,
+      "end": 1822.24,
+      "text": "the morning and before bed generally"
+    },
+    {
+      "start": 1819.84,
+      "end": 1824.399,
+      "text": "like the sci-fi genre and hang out in"
+    },
+    {
+      "start": 1822.24,
+      "end": 1827.279,
+      "text": "relevant facebook groups"
+    },
+    {
+      "start": 1824.399,
+      "end": 1829.039,
+      "text": "love space virtual photography and"
+    },
+    {
+      "start": 1827.279,
+      "end": 1831.52,
+      "text": "favorite inexpensive indie games on"
+    },
+    {
+      "start": 1829.039,
+      "end": 1834.32,
+      "text": "steam so probably sounds like the guys"
+    },
+    {
+      "start": 1831.52,
+      "end": 1836.08,
+      "text": "that we want to address because our game"
+    },
+    {
+      "start": 1834.32,
+      "end": 1837.6,
+      "text": "kind of sounds like that sounds like"
+    },
+    {
+      "start": 1836.08,
+      "end": 1839.12,
+      "text": "that as well right"
+    },
+    {
+      "start": 1837.6,
+      "end": 1841.2,
+      "text": "so"
+    },
+    {
+      "start": 1839.12,
+      "end": 1844.96,
+      "text": "this is the guys that we definitely"
+    },
+    {
+      "start": 1841.2,
+      "end": 1847.84,
+      "text": "would be interested in in our case"
+    },
+    {
+      "start": 1844.96,
+      "end": 1851.84,
+      "text": "okay so that was the analysis how was"
+    },
+    {
+      "start": 1847.84,
+      "end": 1852.799,
+      "text": "the analysis not so bad after all huh"
+    },
+    {
+      "start": 1851.84,
+      "end": 1856.399,
+      "text": "okay"
+    },
+    {
+      "start": 1852.799,
+      "end": 1856.399,
+      "text": "just give me one second too"
+    },
+    {
+      "start": 1858.32,
+      "end": 1862.64,
+      "text": "all right all right"
+    },
+    {
+      "start": 1860.88,
+      "end": 1864.64,
+      "text": "okay so"
+    },
+    {
+      "start": 1862.64,
+      "end": 1865.76,
+      "text": "we've laid out the foundation"
+    },
+    {
+      "start": 1864.64,
+      "end": 1868.64,
+      "text": "for"
+    },
+    {
+      "start": 1865.76,
+      "end": 1870.32,
+      "text": "our marketing strategy we've also now"
+    },
+    {
+      "start": 1868.64,
+      "end": 1872.559,
+      "text": "done the analysis"
+    },
+    {
+      "start": 1870.32,
+      "end": 1873.84,
+      "text": "now we are moving to strategy and"
+    },
+    {
+      "start": 1872.559,
+      "end": 1877.12,
+      "text": "tactics"
+    },
+    {
+      "start": 1873.84,
+      "end": 1878.96,
+      "text": "and although that might seem a bit"
+    },
+    {
+      "start": 1877.12,
+      "end": 1880.08,
+      "text": "difficult and something very very"
+    },
+    {
+      "start": 1878.96,
+      "end": 1881.84,
+      "text": "serious"
+    },
+    {
+      "start": 1880.08,
+      "end": 1882.96,
+      "text": "actually this is"
+    },
+    {
+      "start": 1881.84,
+      "end": 1886.159,
+      "text": "probably"
+    },
+    {
+      "start": 1882.96,
+      "end": 1888.96,
+      "text": "one of the most exciting steps on your"
+    },
+    {
+      "start": 1886.159,
+      "end": 1892.96,
+      "text": "way to this green heels here"
+    },
+    {
+      "start": 1888.96,
+      "end": 1894.799,
+      "text": "where your promotion takes place because"
+    },
+    {
+      "start": 1892.96,
+      "end": 1897.44,
+      "text": "strategy and tactics is the place where"
+    },
+    {
+      "start": 1894.799,
+      "end": 1900,
+      "text": "you can get really creative and this is"
+    },
+    {
+      "start": 1897.44,
+      "end": 1902.64,
+      "text": "the part of marketing that most people"
+    },
+    {
+      "start": 1900,
+      "end": 1902.64,
+      "text": "love most"
+    },
+    {
+      "start": 1902.88,
+      "end": 1907.36,
+      "text": "okay so"
+    },
+    {
+      "start": 1904.64,
+      "end": 1910.24,
+      "text": "what you do here is that uh"
+    },
+    {
+      "start": 1907.36,
+      "end": 1911.84,
+      "text": "you create strategy based on your"
+    },
+    {
+      "start": 1910.24,
+      "end": 1914.88,
+      "text": "marketing goals"
+    },
+    {
+      "start": 1911.84,
+      "end": 1916.72,
+      "text": "and then you try to achieve those"
+    },
+    {
+      "start": 1914.88,
+      "end": 1920.72,
+      "text": "strategical goals"
+    },
+    {
+      "start": 1916.72,
+      "end": 1922.88,
+      "text": "by uh creating by thinking of certain"
+    },
+    {
+      "start": 1920.72,
+      "end": 1926.72,
+      "text": "ways how you could do this and these"
+    },
+    {
+      "start": 1922.88,
+      "end": 1928.88,
+      "text": "ways are called your tactics okay"
+    },
+    {
+      "start": 1926.72,
+      "end": 1930.72,
+      "text": "so you ask yourself a question how do i"
+    },
+    {
+      "start": 1928.88,
+      "end": 1934.399,
+      "text": "approach the target audience to achieve"
+    },
+    {
+      "start": 1930.72,
+      "end": 1936.48,
+      "text": "my marketing goals and this is uh what"
+    },
+    {
+      "start": 1934.399,
+      "end": 1937.6,
+      "text": "responds to that question strategy and"
+    },
+    {
+      "start": 1936.48,
+      "end": 1938.72,
+      "text": "tactics"
+    },
+    {
+      "start": 1937.6,
+      "end": 1941.2,
+      "text": "however"
+    },
+    {
+      "start": 1938.72,
+      "end": 1944.08,
+      "text": "before we start discussing strategy and"
+    },
+    {
+      "start": 1941.2,
+      "end": 1945.76,
+      "text": "tactics we will focus once again on a"
+    },
+    {
+      "start": 1944.08,
+      "end": 1948.32,
+      "text": "very important thing"
+    },
+    {
+      "start": 1945.76,
+      "end": 1950.48,
+      "text": "whichever approach you take to address"
+    },
+    {
+      "start": 1948.32,
+      "end": 1952.159,
+      "text": "your audience you must always bring"
+    },
+    {
+      "start": 1950.48,
+      "end": 1955.12,
+      "text": "value to them"
+    },
+    {
+      "start": 1952.159,
+      "end": 1957.039,
+      "text": "don't just post something because it's"
+    },
+    {
+      "start": 1955.12,
+      "end": 1959.2,
+      "text": "time to post something or because"
+    },
+    {
+      "start": 1957.039,
+      "end": 1961.6,
+      "text": "everybody posts something"
+    },
+    {
+      "start": 1959.2,
+      "end": 1963.039,
+      "text": "you always have to do something that"
+    },
+    {
+      "start": 1961.6,
+      "end": 1965.919,
+      "text": "brings value"
+    },
+    {
+      "start": 1963.039,
+      "end": 1968.08,
+      "text": "okay and that is relevant to your"
+    },
+    {
+      "start": 1965.919,
+      "end": 1970.159,
+      "text": "particular project to your particular"
+    },
+    {
+      "start": 1968.08,
+      "end": 1971.519,
+      "text": "studio okay"
+    },
+    {
+      "start": 1970.159,
+      "end": 1974.88,
+      "text": "so"
+    },
+    {
+      "start": 1971.519,
+      "end": 1978.159,
+      "text": "let's be honest all of us have lives"
+    },
+    {
+      "start": 1974.88,
+      "end": 1980.64,
+      "text": "and we don't want to spend our lives on"
+    },
+    {
+      "start": 1978.159,
+      "end": 1982.96,
+      "text": "something that just eats up our"
+    },
+    {
+      "start": 1980.64,
+      "end": 1984.32,
+      "text": "attention and doesn't give us anything"
+    },
+    {
+      "start": 1982.96,
+      "end": 1986,
+      "text": "okay"
+    },
+    {
+      "start": 1984.32,
+      "end": 1988.08,
+      "text": "make sure that"
+    },
+    {
+      "start": 1986,
+      "end": 1990.48,
+      "text": "you respect this when you are creating"
+    },
+    {
+      "start": 1988.08,
+      "end": 1994.48,
+      "text": "your marketing strategy that whichever"
+    },
+    {
+      "start": 1990.48,
+      "end": 1996.72,
+      "text": "content you you create or however"
+    },
+    {
+      "start": 1994.48,
+      "end": 1999.76,
+      "text": "way you you come up with"
+    },
+    {
+      "start": 1996.72,
+      "end": 2002.72,
+      "text": "uh to attract attention to your product"
+    },
+    {
+      "start": 1999.76,
+      "end": 2004.799,
+      "text": "actually respects your players and their"
+    },
+    {
+      "start": 2002.72,
+      "end": 2007.679,
+      "text": "attention in the time that they dedicate"
+    },
+    {
+      "start": 2004.799,
+      "end": 2010.72,
+      "text": "to you because if you don't do this"
+    },
+    {
+      "start": 2007.679,
+      "end": 2013.12,
+      "text": "no one wants to hang out or to be a part"
+    },
+    {
+      "start": 2010.72,
+      "end": 2016,
+      "text": "of something that just"
+    },
+    {
+      "start": 2013.12,
+      "end": 2016.96,
+      "text": "posts bad content or just doesn't you"
+    },
+    {
+      "start": 2016,
+      "end": 2019.84,
+      "text": "feel like"
+    },
+    {
+      "start": 2016.96,
+      "end": 2021.519,
+      "text": "nobody cares and and you know like"
+    },
+    {
+      "start": 2019.84,
+      "end": 2023.679,
+      "text": "what's going on there like i don't want"
+    },
+    {
+      "start": 2021.519,
+      "end": 2026.559,
+      "text": "to be a part of something that just just"
+    },
+    {
+      "start": 2023.679,
+      "end": 2028,
+      "text": "weird some weird kind of stuff you know"
+    },
+    {
+      "start": 2026.559,
+      "end": 2030.72,
+      "text": "no one wants to be a part of that"
+    },
+    {
+      "start": 2028,
+      "end": 2033.279,
+      "text": "everybody wants um"
+    },
+    {
+      "start": 2030.72,
+      "end": 2036.399,
+      "text": "to be a part of something that actually"
+    },
+    {
+      "start": 2033.279,
+      "end": 2039.76,
+      "text": "brings some value to their lives okay"
+    },
+    {
+      "start": 2036.399,
+      "end": 2042.399,
+      "text": "so these two words value and relevance"
+    },
+    {
+      "start": 2039.76,
+      "end": 2046,
+      "text": "they always have to follow uh your"
+    },
+    {
+      "start": 2042.399,
+      "end": 2048.56,
+      "text": "strategy like every time when whichever"
+    },
+    {
+      "start": 2046,
+      "end": 2051.44,
+      "text": "approach you take whenever you create"
+    },
+    {
+      "start": 2048.56,
+      "end": 2053.839,
+      "text": "some something new you always have to"
+    },
+    {
+      "start": 2051.44,
+      "end": 2056,
+      "text": "ask yourself a question is this relevant"
+    },
+    {
+      "start": 2053.839,
+      "end": 2057.76,
+      "text": "to my particular case is this relevant"
+    },
+    {
+      "start": 2056,
+      "end": 2060.96,
+      "text": "to my audience"
+    },
+    {
+      "start": 2057.76,
+      "end": 2062.48,
+      "text": "and does it bring the audience the value"
+    },
+    {
+      "start": 2060.96,
+      "end": 2063.839,
+      "text": "okay"
+    },
+    {
+      "start": 2062.48,
+      "end": 2064.72,
+      "text": "so"
+    },
+    {
+      "start": 2063.839,
+      "end": 2067.28,
+      "text": "uh"
+    },
+    {
+      "start": 2064.72,
+      "end": 2069.599,
+      "text": "let's move on to discuss to discussing"
+    },
+    {
+      "start": 2067.28,
+      "end": 2070.8,
+      "text": "the strategy"
+    },
+    {
+      "start": 2069.599,
+      "end": 2074.399,
+      "text": "so"
+    },
+    {
+      "start": 2070.8,
+      "end": 2076.48,
+      "text": "remember the marketing goals that we put"
+    },
+    {
+      "start": 2074.399,
+      "end": 2078.399,
+      "text": "together a little bit in the beginning"
+    },
+    {
+      "start": 2076.48,
+      "end": 2079.52,
+      "text": "of this presentation"
+    },
+    {
+      "start": 2078.399,
+      "end": 2082.24,
+      "text": "so"
+    },
+    {
+      "start": 2079.52,
+      "end": 2085.2,
+      "text": "to remind you those goals were to"
+    },
+    {
+      "start": 2082.24,
+      "end": 2087.04,
+      "text": "strengthen the studio brand in relevant"
+    },
+    {
+      "start": 2085.2,
+      "end": 2089.599,
+      "text": "developers communities"
+    },
+    {
+      "start": 2087.04,
+      "end": 2090.96,
+      "text": "to build a strong community around alien"
+    },
+    {
+      "start": 2089.599,
+      "end": 2093.28,
+      "text": "space skill"
+    },
+    {
+      "start": 2090.96,
+      "end": 2095.2,
+      "text": "and to strengthen it and promote it"
+    },
+    {
+      "start": 2093.28,
+      "end": 2099.599,
+      "text": "further okay"
+    },
+    {
+      "start": 2095.2,
+      "end": 2103.2,
+      "text": "so from these marketing goals we have"
+    },
+    {
+      "start": 2099.599,
+      "end": 2106.48,
+      "text": "resulting strategy okay so the marketing"
+    },
+    {
+      "start": 2103.2,
+      "end": 2107.92,
+      "text": "goals they turn into strategic goals"
+    },
+    {
+      "start": 2106.48,
+      "end": 2110.8,
+      "text": "um"
+    },
+    {
+      "start": 2107.92,
+      "end": 2113.52,
+      "text": "which in our case would be to establish"
+    },
+    {
+      "start": 2110.8,
+      "end": 2116.56,
+      "text": "their studio branding communities"
+    },
+    {
+      "start": 2113.52,
+      "end": 2120.48,
+      "text": "to promote and develop the brand"
+    },
+    {
+      "start": 2116.56,
+      "end": 2122.88,
+      "text": "also get loyal fans around both brands"
+    },
+    {
+      "start": 2120.48,
+      "end": 2126.56,
+      "text": "develop the communities of alien space"
+    },
+    {
+      "start": 2122.88,
+      "end": 2128.839,
+      "text": "skill and enhance its brand in relevant"
+    },
+    {
+      "start": 2126.56,
+      "end": 2131.68,
+      "text": "communities so"
+    },
+    {
+      "start": 2128.839,
+      "end": 2133.92,
+      "text": "although now that i am"
+    },
+    {
+      "start": 2131.68,
+      "end": 2136,
+      "text": "the time saying this out loud this all"
+    },
+    {
+      "start": 2133.92,
+      "end": 2138,
+      "text": "may seem like confusing and kind of the"
+    },
+    {
+      "start": 2136,
+      "end": 2139.44,
+      "text": "same things and that's totally"
+    },
+    {
+      "start": 2138,
+      "end": 2140.8,
+      "text": "understandable"
+    },
+    {
+      "start": 2139.44,
+      "end": 2143.52,
+      "text": "um"
+    },
+    {
+      "start": 2140.8,
+      "end": 2147.04,
+      "text": "but actually if you dig a bit a bit"
+    },
+    {
+      "start": 2143.52,
+      "end": 2148.96,
+      "text": "deeper here you will see that uh what"
+    },
+    {
+      "start": 2147.04,
+      "end": 2151.2,
+      "text": "you generally like your marketing goals"
+    },
+    {
+      "start": 2148.96,
+      "end": 2153.44,
+      "text": "are the general ideas that you want to"
+    },
+    {
+      "start": 2151.2,
+      "end": 2155.359,
+      "text": "achieve the strategic goals are the"
+    },
+    {
+      "start": 2153.44,
+      "end": 2158.64,
+      "text": "precise things"
+    },
+    {
+      "start": 2155.359,
+      "end": 2160.32,
+      "text": "you need to do you need to achieve"
+    },
+    {
+      "start": 2158.64,
+      "end": 2162.56,
+      "text": "so that you would get that bigger"
+    },
+    {
+      "start": 2160.32,
+      "end": 2165.04,
+      "text": "picture that that rather general picture"
+    },
+    {
+      "start": 2162.56,
+      "end": 2168.32,
+      "text": "of your marketing goals okay"
+    },
+    {
+      "start": 2165.04,
+      "end": 2170.48,
+      "text": "um we will move on to tactics now and"
+    },
+    {
+      "start": 2168.32,
+      "end": 2173.359,
+      "text": "hopefully um"
+    },
+    {
+      "start": 2170.48,
+      "end": 2174.8,
+      "text": "the the tactics that i suggest there"
+    },
+    {
+      "start": 2173.359,
+      "end": 2176.88,
+      "text": "would be"
+    },
+    {
+      "start": 2174.8,
+      "end": 2179.44,
+      "text": "will help you understand"
+    },
+    {
+      "start": 2176.88,
+      "end": 2180.8,
+      "text": "how the how the strategic goals work"
+    },
+    {
+      "start": 2179.44,
+      "end": 2181.92,
+      "text": "better"
+    },
+    {
+      "start": 2180.8,
+      "end": 2182.72,
+      "text": "okay"
+    },
+    {
+      "start": 2181.92,
+      "end": 2185.359,
+      "text": "so"
+    },
+    {
+      "start": 2182.72,
+      "end": 2187.76,
+      "text": "again tactics is the way of achieving"
+    },
+    {
+      "start": 2185.359,
+      "end": 2191.599,
+      "text": "those strategic goals"
+    },
+    {
+      "start": 2187.76,
+      "end": 2195.68,
+      "text": "now for our case of alien space skill"
+    },
+    {
+      "start": 2191.599,
+      "end": 2198.48,
+      "text": "we will divide our tactics into offline"
+    },
+    {
+      "start": 2195.68,
+      "end": 2201.52,
+      "text": "activities and online activities let's"
+    },
+    {
+      "start": 2198.48,
+      "end": 2203.28,
+      "text": "start from the offline activities"
+    },
+    {
+      "start": 2201.52,
+      "end": 2205.76,
+      "text": "so"
+    },
+    {
+      "start": 2203.28,
+      "end": 2207.76,
+      "text": "the ndk interactive guys they were"
+    },
+    {
+      "start": 2205.76,
+      "end": 2210.079,
+      "text": "sitting together and thinking okay what"
+    },
+    {
+      "start": 2207.76,
+      "end": 2212.88,
+      "text": "can we do to achieve our"
+    },
+    {
+      "start": 2210.079,
+      "end": 2214.48,
+      "text": "uh strategic goals and they came up with"
+    },
+    {
+      "start": 2212.88,
+      "end": 2216.8,
+      "text": "a few ideas"
+    },
+    {
+      "start": 2214.48,
+      "end": 2218.64,
+      "text": "so for instance offline"
+    },
+    {
+      "start": 2216.8,
+      "end": 2222.16,
+      "text": "they decided they want to network at"
+    },
+    {
+      "start": 2218.64,
+      "end": 2223.359,
+      "text": "berlin games week which will help to"
+    },
+    {
+      "start": 2222.16,
+      "end": 2225.92,
+      "text": "enhance"
+    },
+    {
+      "start": 2223.359,
+      "end": 2229.52,
+      "text": "uh which will which addresses"
+    },
+    {
+      "start": 2225.92,
+      "end": 2231.92,
+      "text": "their goal of enhancing their brand in"
+    },
+    {
+      "start": 2229.52,
+      "end": 2233.359,
+      "text": "developers communities remember so this"
+    },
+    {
+      "start": 2231.92,
+      "end": 2235.599,
+      "text": "is relevant"
+    },
+    {
+      "start": 2233.359,
+      "end": 2236.8,
+      "text": "they decided to network at berlin games"
+    },
+    {
+      "start": 2235.599,
+      "end": 2240.4,
+      "text": "week"
+    },
+    {
+      "start": 2236.8,
+      "end": 2245.2,
+      "text": "also cosplay aliens at berlin comic con"
+    },
+    {
+      "start": 2240.4,
+      "end": 2247.839,
+      "text": "and give out brochures now here um"
+    },
+    {
+      "start": 2245.2,
+      "end": 2249.04,
+      "text": "although it seems like a good idea in"
+    },
+    {
+      "start": 2247.839,
+      "end": 2251.68,
+      "text": "itself"
+    },
+    {
+      "start": 2249.04,
+      "end": 2254.079,
+      "text": "actually brings even more opportunities"
+    },
+    {
+      "start": 2251.68,
+      "end": 2255.2,
+      "text": "that can be seen on the first site for"
+    },
+    {
+      "start": 2254.079,
+      "end": 2258.079,
+      "text": "instance"
+    },
+    {
+      "start": 2255.2,
+      "end": 2260,
+      "text": "um okay you cosplay aliens of berlin"
+    },
+    {
+      "start": 2258.079,
+      "end": 2262.72,
+      "text": "comic con and you give out brochures but"
+    },
+    {
+      "start": 2260,
+      "end": 2264.8,
+      "text": "it was the likely scenario is that many"
+    },
+    {
+      "start": 2262.72,
+      "end": 2267.68,
+      "text": "people will want to take pictures with"
+    },
+    {
+      "start": 2264.8,
+      "end": 2269.119,
+      "text": "you and possibly uh publish them on"
+    },
+    {
+      "start": 2267.68,
+      "end": 2271.599,
+      "text": "instagram"
+    },
+    {
+      "start": 2269.119,
+      "end": 2272.8,
+      "text": "and if you teach them which hashtag they"
+    },
+    {
+      "start": 2271.599,
+      "end": 2275.68,
+      "text": "could use"
+    },
+    {
+      "start": 2272.8,
+      "end": 2278.64,
+      "text": "uh this could actually get more"
+    },
+    {
+      "start": 2275.68,
+      "end": 2280.88,
+      "text": "attention to your game get get more uh"
+    },
+    {
+      "start": 2278.64,
+      "end": 2283.44,
+      "text": "people interested"
+    },
+    {
+      "start": 2280.88,
+      "end": 2285.92,
+      "text": "although this is not an immediate idea"
+    },
+    {
+      "start": 2283.44,
+      "end": 2288.64,
+      "text": "not an immediate way"
+    },
+    {
+      "start": 2285.92,
+      "end": 2291.04,
+      "text": "of your tactics that you thought of"
+    },
+    {
+      "start": 2288.64,
+      "end": 2293.68,
+      "text": "uh primarily you know"
+    },
+    {
+      "start": 2291.04,
+      "end": 2295.76,
+      "text": "so these opportunities they all they"
+    },
+    {
+      "start": 2293.68,
+      "end": 2297.119,
+      "text": "often exist that you do not see right"
+    },
+    {
+      "start": 2295.76,
+      "end": 2299.28,
+      "text": "away"
+    },
+    {
+      "start": 2297.119,
+      "end": 2301.28,
+      "text": "so whenever you"
+    },
+    {
+      "start": 2299.28,
+      "end": 2304.64,
+      "text": "see one lingering at the horizon you"
+    },
+    {
+      "start": 2301.28,
+      "end": 2307.359,
+      "text": "know make sure you take advantage of it"
+    },
+    {
+      "start": 2304.64,
+      "end": 2309.599,
+      "text": "okay uh have us tell it the sci-fi"
+    },
+    {
+      "start": 2307.359,
+      "end": 2312.04,
+      "text": "convention organized by the government"
+    },
+    {
+      "start": 2309.599,
+      "end": 2313.92,
+      "text": "space awareness program that's pretty"
+    },
+    {
+      "start": 2312.04,
+      "end": 2317.44,
+      "text": "self-explanatory"
+    },
+    {
+      "start": 2313.92,
+      "end": 2320,
+      "text": "uh that's the one by the way from the"
+    },
+    {
+      "start": 2317.44,
+      "end": 2321.92,
+      "text": "macro environment remember that the"
+    },
+    {
+      "start": 2320,
+      "end": 2324.56,
+      "text": "government was launching that space"
+    },
+    {
+      "start": 2321.92,
+      "end": 2326.88,
+      "text": "program for the for companies that want"
+    },
+    {
+      "start": 2324.56,
+      "end": 2329.52,
+      "text": "to target young people and relevant to"
+    },
+    {
+      "start": 2326.88,
+      "end": 2331.2,
+      "text": "space that's related to that"
+    },
+    {
+      "start": 2329.52,
+      "end": 2333.76,
+      "text": "also renting a computer club and"
+    },
+    {
+      "start": 2331.2,
+      "end": 2336.48,
+      "text": "inviting sci-fi fans to play the game"
+    },
+    {
+      "start": 2333.76,
+      "end": 2339.599,
+      "text": "they're providing some cookies and tea"
+    },
+    {
+      "start": 2336.48,
+      "end": 2341.599,
+      "text": "yes so imagine you advertise this event"
+    },
+    {
+      "start": 2339.599,
+      "end": 2344.48,
+      "text": "at various places"
+    },
+    {
+      "start": 2341.599,
+      "end": 2346.96,
+      "text": "on uh on the internet for example"
+    },
+    {
+      "start": 2344.48,
+      "end": 2348.88,
+      "text": "and people from different communities"
+    },
+    {
+      "start": 2346.96,
+      "end": 2350.8,
+      "text": "from different social networks they come"
+    },
+    {
+      "start": 2348.88,
+      "end": 2353.839,
+      "text": "for your event and they"
+    },
+    {
+      "start": 2350.8,
+      "end": 2355.44,
+      "text": "get to know each other and hey like 10"
+    },
+    {
+      "start": 2353.839,
+      "end": 2357.76,
+      "text": "minutes past you already have a"
+    },
+    {
+      "start": 2355.44,
+      "end": 2360.24,
+      "text": "community for alien space skill right in"
+    },
+    {
+      "start": 2357.76,
+      "end": 2361.119,
+      "text": "front of you here playing your game"
+    },
+    {
+      "start": 2360.24,
+      "end": 2363.599,
+      "text": "and"
+    },
+    {
+      "start": 2361.119,
+      "end": 2365.2,
+      "text": "the best case scenario is that they"
+    },
+    {
+      "start": 2363.599,
+      "end": 2368.24,
+      "text": "continue"
+    },
+    {
+      "start": 2365.2,
+      "end": 2369.599,
+      "text": "chatting or having some friendship after"
+    },
+    {
+      "start": 2368.24,
+      "end": 2371.76,
+      "text": "your event"
+    },
+    {
+      "start": 2369.599,
+      "end": 2373.92,
+      "text": "and what connected them"
+    },
+    {
+      "start": 2371.76,
+      "end": 2376.079,
+      "text": "alien space skill that's awesome you"
+    },
+    {
+      "start": 2373.92,
+      "end": 2378.32,
+      "text": "already laid out some kind of foundation"
+    },
+    {
+      "start": 2376.079,
+      "end": 2381.44,
+      "text": "for a community"
+    },
+    {
+      "start": 2378.32,
+      "end": 2383.359,
+      "text": "and probably when your game comes out uh"
+    },
+    {
+      "start": 2381.44,
+      "end": 2384.96,
+      "text": "people will already expect it and"
+    },
+    {
+      "start": 2383.359,
+      "end": 2386.88,
+      "text": "definitely check it out because they"
+    },
+    {
+      "start": 2384.96,
+      "end": 2388.24,
+      "text": "remember this is alien space scale that"
+    },
+    {
+      "start": 2386.88,
+      "end": 2390.56,
+      "text": "brought them together"
+    },
+    {
+      "start": 2388.24,
+      "end": 2392.72,
+      "text": "so this is another example of that"
+    },
+    {
+      "start": 2390.56,
+      "end": 2394.88,
+      "text": "opportunity lingering in the horizon you"
+    },
+    {
+      "start": 2392.72,
+      "end": 2398.4,
+      "text": "know like you don't just come up with"
+    },
+    {
+      "start": 2394.88,
+      "end": 2400.96,
+      "text": "ideas you also try to look at them like"
+    },
+    {
+      "start": 2398.4,
+      "end": 2402.72,
+      "text": "from the top and try to see whether"
+    },
+    {
+      "start": 2400.96,
+      "end": 2403.52,
+      "text": "there is something else"
+    },
+    {
+      "start": 2402.72,
+      "end": 2406.48,
+      "text": "that"
+    },
+    {
+      "start": 2403.52,
+      "end": 2408.24,
+      "text": "that this opportunity can bring to you"
+    },
+    {
+      "start": 2406.48,
+      "end": 2410.64,
+      "text": "okay"
+    },
+    {
+      "start": 2408.24,
+      "end": 2413.359,
+      "text": "so online uh"
+    },
+    {
+      "start": 2410.64,
+      "end": 2414.88,
+      "text": "let's talk about online tactics"
+    },
+    {
+      "start": 2413.359,
+      "end": 2417.2,
+      "text": "um"
+    },
+    {
+      "start": 2414.88,
+      "end": 2419.68,
+      "text": "for again this is the sake of time and"
+    },
+    {
+      "start": 2417.2,
+      "end": 2422.96,
+      "text": "scope uh we'll focus on facebook page"
+    },
+    {
+      "start": 2419.68,
+      "end": 2424.64,
+      "text": "and facebook groups uh here in this"
+    },
+    {
+      "start": 2422.96,
+      "end": 2427.68,
+      "text": "presentation"
+    },
+    {
+      "start": 2424.64,
+      "end": 2430.8,
+      "text": "so a big advice i can give is that"
+    },
+    {
+      "start": 2427.68,
+      "end": 2432.96,
+      "text": "always take advantage of the algorithms"
+    },
+    {
+      "start": 2430.8,
+      "end": 2434.64,
+      "text": "on that social network that you are"
+    },
+    {
+      "start": 2432.96,
+      "end": 2438.24,
+      "text": "using because"
+    },
+    {
+      "start": 2434.64,
+      "end": 2440.64,
+      "text": "algorithms is something that will always"
+    },
+    {
+      "start": 2438.24,
+      "end": 2441.68,
+      "text": "push your content further if you're"
+    },
+    {
+      "start": 2440.64,
+      "end": 2444.4,
+      "text": "using"
+    },
+    {
+      "start": 2441.68,
+      "end": 2446.8,
+      "text": "um if you're using the guideline that"
+    },
+    {
+      "start": 2444.4,
+      "end": 2448.88,
+      "text": "the social network provides for this do"
+    },
+    {
+      "start": 2446.8,
+      "end": 2452.48,
+      "text": "not ignore those guidelines there can be"
+    },
+    {
+      "start": 2448.88,
+      "end": 2455.04,
+      "text": "many there they can be a bit confusing"
+    },
+    {
+      "start": 2452.48,
+      "end": 2456.48,
+      "text": "try spending some time on those and"
+    },
+    {
+      "start": 2455.04,
+      "end": 2458.72,
+      "text": "figuring out"
+    },
+    {
+      "start": 2456.48,
+      "end": 2461.52,
+      "text": "which one suits your needs best"
+    },
+    {
+      "start": 2458.72,
+      "end": 2463.359,
+      "text": "like in the case of facebook for example"
+    },
+    {
+      "start": 2461.52,
+      "end": 2464.72,
+      "text": "we might want to use short to medium"
+    },
+    {
+      "start": 2463.359,
+      "end": 2467.68,
+      "text": "text"
+    },
+    {
+      "start": 2464.72,
+      "end": 2469.92,
+      "text": "using hashtags relevant to the game at"
+    },
+    {
+      "start": 2467.68,
+      "end": 2471.359,
+      "text": "least three minutes of videos square"
+    },
+    {
+      "start": 2469.92,
+      "end": 2473.52,
+      "text": "formatted"
+    },
+    {
+      "start": 2471.359,
+      "end": 2475.52,
+      "text": "um instagram and facebook are one"
+    },
+    {
+      "start": 2473.52,
+      "end": 2477.92,
+      "text": "company now so"
+    },
+    {
+      "start": 2475.52,
+      "end": 2479.68,
+      "text": "we might want to cross link some content"
+    },
+    {
+      "start": 2477.92,
+      "end": 2481.28,
+      "text": "with instagram"
+    },
+    {
+      "start": 2479.68,
+      "end": 2483.839,
+      "text": "because facebook is quite friendly"
+    },
+    {
+      "start": 2481.28,
+      "end": 2485.44,
+      "text": "towards it we would also want to post"
+    },
+    {
+      "start": 2483.839,
+      "end": 2488.319,
+      "text": "natively"
+    },
+    {
+      "start": 2485.44,
+      "end": 2491.599,
+      "text": "do some partner content possibly with an"
+    },
+    {
+      "start": 2488.319,
+      "end": 2495.2,
+      "text": "influencer and tag them as well to"
+    },
+    {
+      "start": 2491.599,
+      "end": 2497.92,
+      "text": "address their audience too and"
+    },
+    {
+      "start": 2495.2,
+      "end": 2499.52,
+      "text": "include some images as well one or three"
+    },
+    {
+      "start": 2497.92,
+      "end": 2501.68,
+      "text": "for example because"
+    },
+    {
+      "start": 2499.52,
+      "end": 2504.079,
+      "text": "facebook really crops"
+    },
+    {
+      "start": 2501.68,
+      "end": 2506.4,
+      "text": "the images in this number"
+    },
+    {
+      "start": 2504.079,
+      "end": 2508.48,
+      "text": "in these numbers quite well quite"
+    },
+    {
+      "start": 2506.4,
+      "end": 2509.839,
+      "text": "visually friendly"
+    },
+    {
+      "start": 2508.48,
+      "end": 2512.24,
+      "text": "um"
+    },
+    {
+      "start": 2509.839,
+      "end": 2514.4,
+      "text": "in terms of the content uh"
+    },
+    {
+      "start": 2512.24,
+      "end": 2515.92,
+      "text": "we can publish about aliens related"
+    },
+    {
+      "start": 2514.4,
+      "end": 2518.319,
+      "text": "discoveries"
+    },
+    {
+      "start": 2515.92,
+      "end": 2521.68,
+      "text": "about our game in particular like"
+    },
+    {
+      "start": 2518.319,
+      "end": 2523.839,
+      "text": "showcasing videos of planets and so on"
+    },
+    {
+      "start": 2521.68,
+      "end": 2525.119,
+      "text": "and including them into stories and"
+    },
+    {
+      "start": 2523.839,
+      "end": 2528.8,
+      "text": "actually"
+    },
+    {
+      "start": 2525.119,
+      "end": 2530.88,
+      "text": "stories is a very powerful tool uh take"
+    },
+    {
+      "start": 2528.8,
+      "end": 2533.76,
+      "text": "advantage of the stories because their"
+    },
+    {
+      "start": 2530.88,
+      "end": 2535.599,
+      "text": "functionality of giving polls and"
+    },
+    {
+      "start": 2533.76,
+      "end": 2537.92,
+      "text": "establishing questions"
+    },
+    {
+      "start": 2535.599,
+      "end": 2540.24,
+      "text": "is really something that"
+    },
+    {
+      "start": 2537.92,
+      "end": 2542.8,
+      "text": "that lets you engage with your audience"
+    },
+    {
+      "start": 2540.24,
+      "end": 2544.079,
+      "text": "and have discussions with them and"
+    },
+    {
+      "start": 2542.8,
+      "end": 2547.76,
+      "text": "remember that"
+    },
+    {
+      "start": 2544.079,
+      "end": 2550.8,
+      "text": "circulation of value so you don't only"
+    },
+    {
+      "start": 2547.76,
+      "end": 2552.319,
+      "text": "give them value by allowing space by"
+    },
+    {
+      "start": 2550.8,
+      "end": 2554.48,
+      "text": "setting up space where they could"
+    },
+    {
+      "start": 2552.319,
+      "end": 2556.64,
+      "text": "discuss their favorite topics but also"
+    },
+    {
+      "start": 2554.48,
+      "end": 2558.64,
+      "text": "you get feedback from them so it's a"
+    },
+    {
+      "start": 2556.64,
+      "end": 2560.48,
+      "text": "two-way communication that you really"
+    },
+    {
+      "start": 2558.64,
+      "end": 2562.72,
+      "text": "want to facilitate when you're creating"
+    },
+    {
+      "start": 2560.48,
+      "end": 2565.04,
+      "text": "your marketing strategy"
+    },
+    {
+      "start": 2562.72,
+      "end": 2567.2,
+      "text": "a beautiful sci-fi environments"
+    },
+    {
+      "start": 2565.04,
+      "end": 2570.079,
+      "text": "especially considering that our alien"
+    },
+    {
+      "start": 2567.2,
+      "end": 2571.2,
+      "text": "space skill um is really focusing on"
+    },
+    {
+      "start": 2570.079,
+      "end": 2573.839,
+      "text": "these"
+    },
+    {
+      "start": 2571.2,
+      "end": 2576.48,
+      "text": "and also raising relevant discussions in"
+    },
+    {
+      "start": 2573.839,
+      "end": 2578.72,
+      "text": "the community to keep the topics live"
+    },
+    {
+      "start": 2576.48,
+      "end": 2582.079,
+      "text": "that could be a few suggestions for the"
+    },
+    {
+      "start": 2578.72,
+      "end": 2583.44,
+      "text": "content here on the smoke up you see um"
+    },
+    {
+      "start": 2582.079,
+      "end": 2585.76,
+      "text": "a video"
+    },
+    {
+      "start": 2583.44,
+      "end": 2588.24,
+      "text": "titled deconstructing alien space skill"
+    },
+    {
+      "start": 2585.76,
+      "end": 2590.4,
+      "text": "concept art which could be your"
+    },
+    {
+      "start": 2588.24,
+      "end": 2592.079,
+      "text": "development diary for example"
+    },
+    {
+      "start": 2590.4,
+      "end": 2594.72,
+      "text": "development diary for alien space skill"
+    },
+    {
+      "start": 2592.079,
+      "end": 2595.76,
+      "text": "in particular"
+    },
+    {
+      "start": 2594.72,
+      "end": 2597.92,
+      "text": "yeah"
+    },
+    {
+      "start": 2595.76,
+      "end": 2600.56,
+      "text": "remember whatever you do you always"
+    },
+    {
+      "start": 2597.92,
+      "end": 2602.56,
+      "text": "think of value and relevance once again"
+    },
+    {
+      "start": 2600.56,
+      "end": 2604.56,
+      "text": "reminding you"
+    },
+    {
+      "start": 2602.56,
+      "end": 2608.079,
+      "text": "so now that you have laid out your"
+    },
+    {
+      "start": 2604.56,
+      "end": 2610.079,
+      "text": "tactics uh you might think of"
+    },
+    {
+      "start": 2608.079,
+      "end": 2612.24,
+      "text": "arrangements for these tactics for"
+    },
+    {
+      "start": 2610.079,
+      "end": 2614.56,
+      "text": "instance to post on tuesday and friday"
+    },
+    {
+      "start": 2612.24,
+      "end": 2615.76,
+      "text": "at 5 00 pm because your research shows"
+    },
+    {
+      "start": 2614.56,
+      "end": 2616.88,
+      "text": "that"
+    },
+    {
+      "start": 2615.76,
+      "end": 2618.64,
+      "text": "this is"
+    },
+    {
+      "start": 2616.88,
+      "end": 2621.68,
+      "text": "this is the time and"
+    },
+    {
+      "start": 2618.64,
+      "end": 2624.16,
+      "text": "the times and dates when um"
+    },
+    {
+      "start": 2621.68,
+      "end": 2626.64,
+      "text": "your audience is most active"
+    },
+    {
+      "start": 2624.16,
+      "end": 2629.68,
+      "text": "uh we also expect to rise on the trend"
+    },
+    {
+      "start": 2626.64,
+      "end": 2631.76,
+      "text": "on the german space and post with it"
+    },
+    {
+      "start": 2629.68,
+      "end": 2633.68,
+      "text": "uh so"
+    },
+    {
+      "start": 2631.76,
+      "end": 2636.48,
+      "text": "what is meant here is that"
+    },
+    {
+      "start": 2633.68,
+      "end": 2638.72,
+      "text": "that german space program that wants to"
+    },
+    {
+      "start": 2636.48,
+      "end": 2641.599,
+      "text": "target younger generations to involve"
+    },
+    {
+      "start": 2638.72,
+      "end": 2642.8,
+      "text": "them more into the space topics"
+    },
+    {
+      "start": 2641.599,
+      "end": 2646,
+      "text": "um"
+    },
+    {
+      "start": 2642.8,
+      "end": 2648.56,
+      "text": "they will announce for example"
+    },
+    {
+      "start": 2646,
+      "end": 2650.319,
+      "text": "their program in some time"
+    },
+    {
+      "start": 2648.56,
+      "end": 2651.76,
+      "text": "and you know you will know about it"
+    },
+    {
+      "start": 2650.319,
+      "end": 2654.319,
+      "text": "because you might be a part of this"
+    },
+    {
+      "start": 2651.76,
+      "end": 2657.52,
+      "text": "program as in decay interactive"
+    },
+    {
+      "start": 2654.319,
+      "end": 2660,
+      "text": "and when they do you want to post that"
+    },
+    {
+      "start": 2657.52,
+      "end": 2663.52,
+      "text": "you are a part of this program at about"
+    },
+    {
+      "start": 2660,
+      "end": 2666.56,
+      "text": "the same time because uh assuming that"
+    },
+    {
+      "start": 2663.52,
+      "end": 2668.24,
+      "text": "german space program has many followers"
+    },
+    {
+      "start": 2666.56,
+      "end": 2670.4,
+      "text": "that means that when they post something"
+    },
+    {
+      "start": 2668.24,
+      "end": 2671.76,
+      "text": "that generates reaction"
+    },
+    {
+      "start": 2670.4,
+      "end": 2674.88,
+      "text": "uh this will"
+    },
+    {
+      "start": 2671.76,
+      "end": 2676.56,
+      "text": "give like a bump to the trend on this"
+    },
+    {
+      "start": 2674.88,
+      "end": 2678.96,
+      "text": "topic okay"
+    },
+    {
+      "start": 2676.56,
+      "end": 2681.119,
+      "text": "and if you do this at about the same"
+    },
+    {
+      "start": 2678.96,
+      "end": 2683.76,
+      "text": "time you can take advantage of writing"
+    },
+    {
+      "start": 2681.119,
+      "end": 2686.24,
+      "text": "this wave of trend as well and attract"
+    },
+    {
+      "start": 2683.76,
+      "end": 2687.839,
+      "text": "more attention maybe even have some"
+    },
+    {
+      "start": 2686.24,
+      "end": 2690.8,
+      "text": "audience from"
+    },
+    {
+      "start": 2687.839,
+      "end": 2692.56,
+      "text": "the german space program coming to your"
+    },
+    {
+      "start": 2690.8,
+      "end": 2694.16,
+      "text": "page to check out"
+    },
+    {
+      "start": 2692.56,
+      "end": 2696,
+      "text": "what kind of"
+    },
+    {
+      "start": 2694.16,
+      "end": 2697.839,
+      "text": "stuff you do and since you"
+    },
+    {
+      "start": 2696,
+      "end": 2700.8,
+      "text": "are relevant it's likely many people are"
+    },
+    {
+      "start": 2697.839,
+      "end": 2702.48,
+      "text": "going to follow you as well"
+    },
+    {
+      "start": 2700.8,
+      "end": 2706,
+      "text": "there are of course more things that you"
+    },
+    {
+      "start": 2702.48,
+      "end": 2708.24,
+      "text": "can do such as create relevant websites"
+    },
+    {
+      "start": 2706,
+      "end": 2712.079,
+      "text": "participate in relevant discussions"
+    },
+    {
+      "start": 2708.24,
+      "end": 2712.079,
+      "text": "there are really many things and"
+    },
+    {
+      "start": 2712.48,
+      "end": 2717.76,
+      "text": "just remember that you can get"
+    },
+    {
+      "start": 2714.88,
+      "end": 2719.599,
+      "text": "as creative as you want when you are"
+    },
+    {
+      "start": 2717.76,
+      "end": 2721.92,
+      "text": "thinking of your tactics"
+    },
+    {
+      "start": 2719.599,
+      "end": 2724,
+      "text": "but the most important here thing here"
+    },
+    {
+      "start": 2721.92,
+      "end": 2726.16,
+      "text": "is that your tactics"
+    },
+    {
+      "start": 2724,
+      "end": 2727.599,
+      "text": "needs to be relevant i know i said this"
+    },
+    {
+      "start": 2726.16,
+      "end": 2728.56,
+      "text": "already but"
+    },
+    {
+      "start": 2727.599,
+      "end": 2730.8,
+      "text": "um"
+    },
+    {
+      "start": 2728.56,
+      "end": 2733.839,
+      "text": "i mean don't block your ideas because"
+    },
+    {
+      "start": 2730.8,
+      "end": 2735.04,
+      "text": "they seem unreal or stupid"
+    },
+    {
+      "start": 2733.839,
+      "end": 2738.16,
+      "text": "there's no"
+    },
+    {
+      "start": 2735.04,
+      "end": 2741.119,
+      "text": "stupid ideas in creativity okay"
+    },
+    {
+      "start": 2738.16,
+      "end": 2742.24,
+      "text": "it can be an absolutely out of your head"
+    },
+    {
+      "start": 2741.119,
+      "end": 2745.119,
+      "text": "idea"
+    },
+    {
+      "start": 2742.24,
+      "end": 2748.16,
+      "text": "in terms of creativity"
+    },
+    {
+      "start": 2745.119,
+      "end": 2750.24,
+      "text": "just make sure if if it it's relevant"
+    },
+    {
+      "start": 2748.16,
+      "end": 2752.56,
+      "text": "and you think that and your research"
+    },
+    {
+      "start": 2750.24,
+      "end": 2754.8,
+      "text": "shows that this idea is going to bring"
+    },
+    {
+      "start": 2752.56,
+      "end": 2757.119,
+      "text": "you their desired result"
+    },
+    {
+      "start": 2754.8,
+      "end": 2759.119,
+      "text": "then go for it uh you never know what's"
+    },
+    {
+      "start": 2757.119,
+      "end": 2761.359,
+      "text": "going to be the next big thing maybe"
+    },
+    {
+      "start": 2759.119,
+      "end": 2763.359,
+      "text": "your game is the next big thing okay or"
+    },
+    {
+      "start": 2761.359,
+      "end": 2765.04,
+      "text": "maybe your marketing is the next big the"
+    },
+    {
+      "start": 2763.359,
+      "end": 2766.56,
+      "text": "next big thing sorry"
+    },
+    {
+      "start": 2765.04,
+      "end": 2768.72,
+      "text": "so"
+    },
+    {
+      "start": 2766.56,
+      "end": 2770,
+      "text": "let your ideas go"
+    },
+    {
+      "start": 2768.72,
+      "end": 2772.64,
+      "text": "okay"
+    },
+    {
+      "start": 2770,
+      "end": 2775.68,
+      "text": "you laid out the strategy and tactics"
+    },
+    {
+      "start": 2772.64,
+      "end": 2777.359,
+      "text": "now you come to execution yes"
+    },
+    {
+      "start": 2775.68,
+      "end": 2780.079,
+      "text": "all this huge work"
+    },
+    {
+      "start": 2777.359,
+      "end": 2782.24,
+      "text": "was done the the worst"
+    },
+    {
+      "start": 2780.079,
+      "end": 2784.24,
+      "text": "the most difficult part is done"
+    },
+    {
+      "start": 2782.24,
+      "end": 2785.76,
+      "text": "now you're coming to the execution of"
+    },
+    {
+      "start": 2784.24,
+      "end": 2789.52,
+      "text": "your strategy"
+    },
+    {
+      "start": 2785.76,
+      "end": 2792.24,
+      "text": "well done you are doing what you planned"
+    },
+    {
+      "start": 2789.52,
+      "end": 2795.119,
+      "text": "and now you see like a few golden fishes"
+    },
+    {
+      "start": 2792.24,
+      "end": 2798.079,
+      "text": "here it's the results okay so you're"
+    },
+    {
+      "start": 2795.119,
+      "end": 2800.72,
+      "text": "already seeing some fish nice"
+    },
+    {
+      "start": 2798.079,
+      "end": 2804.56,
+      "text": "yay you got some results that might be"
+    },
+    {
+      "start": 2800.72,
+      "end": 2807.359,
+      "text": "something that you expected to get"
+    },
+    {
+      "start": 2804.56,
+      "end": 2809.599,
+      "text": "maybe something better that's amazing"
+    },
+    {
+      "start": 2807.359,
+      "end": 2812.48,
+      "text": "maybe something not quite good maybe"
+    },
+    {
+      "start": 2809.599,
+      "end": 2814.56,
+      "text": "something not that you quite expected"
+    },
+    {
+      "start": 2812.48,
+      "end": 2816.24,
+      "text": "but that's fine because"
+    },
+    {
+      "start": 2814.56,
+      "end": 2818.64,
+      "text": "what's important here is that you're"
+    },
+    {
+      "start": 2816.24,
+      "end": 2821.2,
+      "text": "getting feedback and you can act on that"
+    },
+    {
+      "start": 2818.64,
+      "end": 2823.2,
+      "text": "feedback and there are many ways that"
+    },
+    {
+      "start": 2821.2,
+      "end": 2825.76,
+      "text": "you can act on there are various tools"
+    },
+    {
+      "start": 2823.2,
+      "end": 2827.599,
+      "text": "existing on the web uh that"
+    },
+    {
+      "start": 2825.76,
+      "end": 2830.48,
+      "text": "and in real life like your eyes for"
+    },
+    {
+      "start": 2827.599,
+      "end": 2833.599,
+      "text": "instance they all exist that will help"
+    },
+    {
+      "start": 2830.48,
+      "end": 2834.96,
+      "text": "you interpret that feedback and to act"
+    },
+    {
+      "start": 2833.599,
+      "end": 2838.16,
+      "text": "on it"
+    },
+    {
+      "start": 2834.96,
+      "end": 2840.079,
+      "text": "acting on the feedback is the final step"
+    },
+    {
+      "start": 2838.16,
+      "end": 2841.76,
+      "text": "of your strategy it's called risk"
+    },
+    {
+      "start": 2840.079,
+      "end": 2843.2,
+      "text": "strategizing"
+    },
+    {
+      "start": 2841.76,
+      "end": 2845.92,
+      "text": "when you have the feedback and you"
+    },
+    {
+      "start": 2843.2,
+      "end": 2848,
+      "text": "analyzed it you think of how you could"
+    },
+    {
+      "start": 2845.92,
+      "end": 2850.72,
+      "text": "make your results better"
+    },
+    {
+      "start": 2848,
+      "end": 2853.04,
+      "text": "uh and in the case of alien space scale"
+    },
+    {
+      "start": 2850.72,
+      "end": 2855.76,
+      "text": "for example we found out that"
+    },
+    {
+      "start": 2853.04,
+      "end": 2858.319,
+      "text": "instead of tuesday it was thursday 5 p.m"
+    },
+    {
+      "start": 2855.76,
+      "end": 2861.599,
+      "text": "that when you had the largest activity"
+    },
+    {
+      "start": 2858.319,
+      "end": 2864.24,
+      "text": "on um among the community so we might"
+    },
+    {
+      "start": 2861.599,
+      "end": 2866.64,
+      "text": "want to post at this time now"
+    },
+    {
+      "start": 2864.24,
+      "end": 2868.4,
+      "text": "also install the sci-fi convention"
+    },
+    {
+      "start": 2866.64,
+      "end": 2870.96,
+      "text": "wasn't very effective but the cosplay"
+    },
+    {
+      "start": 2868.4,
+      "end": 2873.04,
+      "text": "during coming was probably those"
+    },
+    {
+      "start": 2870.96,
+      "end": 2874.48,
+      "text": "instagram posts of people who took"
+    },
+    {
+      "start": 2873.04,
+      "end": 2877.119,
+      "text": "pictures with you"
+    },
+    {
+      "start": 2874.48,
+      "end": 2877.839,
+      "text": "uh really did bring some results after"
+    },
+    {
+      "start": 2877.119,
+      "end": 2879.04,
+      "text": "all"
+    },
+    {
+      "start": 2877.839,
+      "end": 2880.319,
+      "text": "okay"
+    },
+    {
+      "start": 2879.04,
+      "end": 2882.24,
+      "text": "and this is"
+    },
+    {
+      "start": 2880.319,
+      "end": 2884.319,
+      "text": "kind of a never-ending process you"
+    },
+    {
+      "start": 2882.24,
+      "end": 2886.96,
+      "text": "re-strategize"
+    },
+    {
+      "start": 2884.319,
+      "end": 2890.559,
+      "text": "you apply this new strategy you execute"
+    },
+    {
+      "start": 2886.96,
+      "end": 2892.96,
+      "text": "it you see the results and um"
+    },
+    {
+      "start": 2890.559,
+      "end": 2894.88,
+      "text": "you act on those results again and then"
+    },
+    {
+      "start": 2892.96,
+      "end": 2896.8,
+      "text": "you again re-evaluate so this is like a"
+    },
+    {
+      "start": 2894.88,
+      "end": 2900.72,
+      "text": "never-ending cycle and it's very"
+    },
+    {
+      "start": 2896.8,
+      "end": 2903.28,
+      "text": "important not to be stuck in one place"
+    },
+    {
+      "start": 2900.72,
+      "end": 2904.64,
+      "text": "many companies do that because they are"
+    },
+    {
+      "start": 2903.28,
+      "end": 2907.44,
+      "text": "afraid of"
+    },
+    {
+      "start": 2904.64,
+      "end": 2909.04,
+      "text": "because they think that something that"
+    },
+    {
+      "start": 2907.44,
+      "end": 2912.64,
+      "text": "has been bringing"
+    },
+    {
+      "start": 2909.04,
+      "end": 2915.359,
+      "text": "some value some results for the past"
+    },
+    {
+      "start": 2912.64,
+      "end": 2917.839,
+      "text": "five years will do this"
+    },
+    {
+      "start": 2915.359,
+      "end": 2919.359,
+      "text": "even in future which may not be the case"
+    },
+    {
+      "start": 2917.839,
+      "end": 2921.68,
+      "text": "especially considering that we are in"
+    },
+    {
+      "start": 2919.359,
+      "end": 2923.52,
+      "text": "game development which is a very dynamic"
+    },
+    {
+      "start": 2921.68,
+      "end": 2926.72,
+      "text": "industry and considering all the"
+    },
+    {
+      "start": 2923.52,
+      "end": 2930.559,
+      "text": "technological change that is uh coming"
+    },
+    {
+      "start": 2926.72,
+      "end": 2932.16,
+      "text": "these days we always have to be uh on"
+    },
+    {
+      "start": 2930.559,
+      "end": 2934.88,
+      "text": "top of things"
+    },
+    {
+      "start": 2932.16,
+      "end": 2937.119,
+      "text": "uh to make sure we are relevant to the"
+    },
+    {
+      "start": 2934.88,
+      "end": 2939.92,
+      "text": "audience and we are"
+    },
+    {
+      "start": 2937.119,
+      "end": 2942.24,
+      "text": "we are bringing them the value that is"
+    },
+    {
+      "start": 2939.92,
+      "end": 2945.359,
+      "text": "that represents the current situation of"
+    },
+    {
+      "start": 2942.24,
+      "end": 2947.04,
+      "text": "technology of ideas of the industry"
+    },
+    {
+      "start": 2945.359,
+      "end": 2947.839,
+      "text": "we're trying just to be the best for"
+    },
+    {
+      "start": 2947.04,
+      "end": 2951.44,
+      "text": "them"
+    },
+    {
+      "start": 2947.839,
+      "end": 2954,
+      "text": "and this us make and this makes us to be"
+    },
+    {
+      "start": 2951.44,
+      "end": 2955.52,
+      "text": "the best to ourselves as well"
+    },
+    {
+      "start": 2954,
+      "end": 2958.8,
+      "text": "okay"
+    },
+    {
+      "start": 2955.52,
+      "end": 2960.64,
+      "text": "so to sum up this presentation"
+    },
+    {
+      "start": 2958.8,
+      "end": 2963.04,
+      "text": "we start from the foundation from"
+    },
+    {
+      "start": 2960.64,
+      "end": 2965.28,
+      "text": "defining the marketing goals"
+    },
+    {
+      "start": 2963.04,
+      "end": 2968.319,
+      "text": "then through the analysis to strategy"
+    },
+    {
+      "start": 2965.28,
+      "end": 2970.72,
+      "text": "and tactics to execution"
+    },
+    {
+      "start": 2968.319,
+      "end": 2972.559,
+      "text": "interpreting feedback and rest"
+    },
+    {
+      "start": 2970.72,
+      "end": 2974.16,
+      "text": "strategizing"
+    },
+    {
+      "start": 2972.559,
+      "end": 2975.52,
+      "text": "um"
+    },
+    {
+      "start": 2974.16,
+      "end": 2977.76,
+      "text": "so now to"
+    },
+    {
+      "start": 2975.52,
+      "end": 2981.359,
+      "text": "give you some helpful advice that will"
+    },
+    {
+      "start": 2977.76,
+      "end": 2983.04,
+      "text": "hopefully get you through this journey"
+    },
+    {
+      "start": 2981.359,
+      "end": 2986.079,
+      "text": "by the way have a look you're already"
+    },
+    {
+      "start": 2983.04,
+      "end": 2989.839,
+      "text": "next to those green hills okay so to"
+    },
+    {
+      "start": 2986.079,
+      "end": 2993.44,
+      "text": "give you some advice that will hopefully"
+    },
+    {
+      "start": 2989.839,
+      "end": 2996.72,
+      "text": "help you to get to those hills faster"
+    },
+    {
+      "start": 2993.44,
+      "end": 2998.48,
+      "text": "would be to not to skip the steps okay"
+    },
+    {
+      "start": 2996.72,
+      "end": 3001.359,
+      "text": "it's a huge temptation"
+    },
+    {
+      "start": 2998.48,
+      "end": 3003.04,
+      "text": "to think that okay i feel this is right"
+    },
+    {
+      "start": 3001.359,
+      "end": 3003.92,
+      "text": "the right thing to do i'm going to do"
+    },
+    {
+      "start": 3003.04,
+      "end": 3005.44,
+      "text": "this"
+    },
+    {
+      "start": 3003.92,
+      "end": 3010.079,
+      "text": "no"
+    },
+    {
+      "start": 3005.44,
+      "end": 3012.64,
+      "text": "okay well yes but also no because um"
+    },
+    {
+      "start": 3010.079,
+      "end": 3014.88,
+      "text": "the more experience you have in this uh"
+    },
+    {
+      "start": 3012.64,
+      "end": 3016.319,
+      "text": "of course the experience sometimes will"
+    },
+    {
+      "start": 3014.88,
+      "end": 3019.92,
+      "text": "let you know"
+    },
+    {
+      "start": 3016.319,
+      "end": 3021.52,
+      "text": "uh which idea to take and which idea is"
+    },
+    {
+      "start": 3019.92,
+      "end": 3024.559,
+      "text": "probably not as good"
+    },
+    {
+      "start": 3021.52,
+      "end": 3026.8,
+      "text": "but if you just think that i know these"
+    },
+    {
+      "start": 3024.559,
+      "end": 3028.48,
+      "text": "guys i know what they want i'll do this"
+    },
+    {
+      "start": 3026.8,
+      "end": 3031.04,
+      "text": "for them and that for them that's"
+    },
+    {
+      "start": 3028.48,
+      "end": 3032.88,
+      "text": "probably not the best approach"
+    },
+    {
+      "start": 3031.04,
+      "end": 3034.8,
+      "text": "research is the approach that will give"
+    },
+    {
+      "start": 3032.88,
+      "end": 3036.96,
+      "text": "you a solid result and you will not"
+    },
+    {
+      "start": 3034.8,
+      "end": 3039.76,
+      "text": "spend extra time on"
+    },
+    {
+      "start": 3036.96,
+      "end": 3041.92,
+      "text": "redoing things just because you thought"
+    },
+    {
+      "start": 3039.76,
+      "end": 3044.4,
+      "text": "they would be nice you know and because"
+    },
+    {
+      "start": 3041.92,
+      "end": 3046.48,
+      "text": "everybody does that"
+    },
+    {
+      "start": 3044.4,
+      "end": 3048.8,
+      "text": "uh learn from the best your experience"
+    },
+    {
+      "start": 3046.48,
+      "end": 3051.2,
+      "text": "something i already mentioned uh be"
+    },
+    {
+      "start": 3048.8,
+      "end": 3053.68,
+      "text": "flexible and listen to your audience and"
+    },
+    {
+      "start": 3051.2,
+      "end": 3056.4,
+      "text": "don't just ignore them"
+    },
+    {
+      "start": 3053.68,
+      "end": 3058.559,
+      "text": "there are always valuable insights in"
+    },
+    {
+      "start": 3056.4,
+      "end": 3060.24,
+      "text": "that come from your audience"
+    },
+    {
+      "start": 3058.559,
+      "end": 3063.2,
+      "text": "don't lose hope and believe in what you"
+    },
+    {
+      "start": 3060.24,
+      "end": 3065.68,
+      "text": "do it's possible yes of course"
+    },
+    {
+      "start": 3063.2,
+      "end": 3067.92,
+      "text": "uh more often than not you will not get"
+    },
+    {
+      "start": 3065.68,
+      "end": 3070.4,
+      "text": "huge results immediately but the more"
+    },
+    {
+      "start": 3067.92,
+      "end": 3072.88,
+      "text": "you do this the better you become in"
+    },
+    {
+      "start": 3070.4,
+      "end": 3075.92,
+      "text": "this and therefore the better results it"
+    },
+    {
+      "start": 3072.88,
+      "end": 3078.88,
+      "text": "brings so don't give up it's important"
+    },
+    {
+      "start": 3075.92,
+      "end": 3081.04,
+      "text": "uh don't be afraid of experiments again"
+    },
+    {
+      "start": 3078.88,
+      "end": 3082.72,
+      "text": "as long as they are relevant to what you"
+    },
+    {
+      "start": 3081.04,
+      "end": 3085.28,
+      "text": "want to achieve and as long as they"
+    },
+    {
+      "start": 3082.72,
+      "end": 3087.76,
+      "text": "bring value"
+    },
+    {
+      "start": 3085.28,
+      "end": 3089.68,
+      "text": "they are fine to take on"
+    },
+    {
+      "start": 3087.76,
+      "end": 3092.16,
+      "text": "don't follow the hurt make sure you are"
+    },
+    {
+      "start": 3089.68,
+      "end": 3095.2,
+      "text": "doing what's needed for your particular"
+    },
+    {
+      "start": 3092.16,
+      "end": 3097.68,
+      "text": "project and for your particular audience"
+    },
+    {
+      "start": 3095.2,
+      "end": 3099.52,
+      "text": "when in doubt check your marketing goals"
+    },
+    {
+      "start": 3097.68,
+      "end": 3101.359,
+      "text": "they will always guide you towards the"
+    },
+    {
+      "start": 3099.52,
+      "end": 3104.4,
+      "text": "best decision that's what i mentioned"
+    },
+    {
+      "start": 3101.359,
+      "end": 3106.48,
+      "text": "before always remember your foundation"
+    },
+    {
+      "start": 3104.4,
+      "end": 3109.04,
+      "text": "it will always guide you whenever you"
+    },
+    {
+      "start": 3106.48,
+      "end": 3111.04,
+      "text": "are in doubt"
+    },
+    {
+      "start": 3109.04,
+      "end": 3113.52,
+      "text": "remember valiant relevancy probably your"
+    },
+    {
+      "start": 3111.04,
+      "end": 3116.88,
+      "text": "two most hated words by now"
+    },
+    {
+      "start": 3113.52,
+      "end": 3119.359,
+      "text": "and good luck yes uh it's possible you"
+    },
+    {
+      "start": 3116.88,
+      "end": 3122.079,
+      "text": "have to believe in this and just not"
+    },
+    {
+      "start": 3119.359,
+      "end": 3123.68,
+      "text": "give up everybody was in the beginning"
+    },
+    {
+      "start": 3122.079,
+      "end": 3125.839,
+      "text": "once"
+    },
+    {
+      "start": 3123.68,
+      "end": 3128.48,
+      "text": "thank you for your attention do you have"
+    },
+    {
+      "start": 3125.839,
+      "end": 3128.48,
+      "text": "any questions"
+    },
+    {
+      "start": 3132.64,
+      "end": 3139.04,
+      "text": "nice thank you so much"
+    },
+    {
+      "start": 3135.92,
+      "end": 3141.52,
+      "text": "on questions the first question is"
+    },
+    {
+      "start": 3139.04,
+      "end": 3144.64,
+      "text": "what instruments did you use to make an"
+    },
+    {
+      "start": 3141.52,
+      "end": 3144.64,
+      "text": "audience research"
+    },
+    {
+      "start": 3144.72,
+      "end": 3150.559,
+      "text": "uh to make the audience research"
+    },
+    {
+      "start": 3147.76,
+      "end": 3154.4,
+      "text": "uh okay so basically what you need to do"
+    },
+    {
+      "start": 3150.559,
+      "end": 3157.599,
+      "text": "is when you decided uh which particular"
+    },
+    {
+      "start": 3154.4,
+      "end": 3160.079,
+      "text": "segments you want to address uh you need"
+    },
+    {
+      "start": 3157.599,
+      "end": 3161.28,
+      "text": "to find out where they are"
+    },
+    {
+      "start": 3160.079,
+      "end": 3162.559,
+      "text": "like"
+    },
+    {
+      "start": 3161.28,
+      "end": 3165.119,
+      "text": "possibly"
+    },
+    {
+      "start": 3162.559,
+      "end": 3167.68,
+      "text": "social media is always a great tool to"
+    },
+    {
+      "start": 3165.119,
+      "end": 3169.92,
+      "text": "start from"
+    },
+    {
+      "start": 3167.68,
+      "end": 3171.92,
+      "text": "just for the sake of making it a bit"
+    },
+    {
+      "start": 3169.92,
+      "end": 3175.28,
+      "text": "simpler in terms of explanation if we"
+    },
+    {
+      "start": 3171.92,
+      "end": 3177.359,
+      "text": "take the example of alien space skill"
+    },
+    {
+      "start": 3175.28,
+      "end": 3181.52,
+      "text": "you would need to go to relevant"
+    },
+    {
+      "start": 3177.359,
+      "end": 3185.04,
+      "text": "communities about space about games"
+    },
+    {
+      "start": 3181.52,
+      "end": 3187.119,
+      "text": "set in space about gaming art related to"
+    },
+    {
+      "start": 3185.04,
+      "end": 3189.599,
+      "text": "space and you will see what kind of"
+    },
+    {
+      "start": 3187.119,
+      "end": 3192.72,
+      "text": "stuff people post"
+    },
+    {
+      "start": 3189.599,
+      "end": 3194.96,
+      "text": "uh what brings uh the majority of"
+    },
+    {
+      "start": 3192.72,
+      "end": 3197.04,
+      "text": "reactions what kind of stuff of content"
+    },
+    {
+      "start": 3194.96,
+      "end": 3199.04,
+      "text": "brings the majority of reactions"
+    },
+    {
+      "start": 3197.04,
+      "end": 3201.119,
+      "text": "what do people command"
+    },
+    {
+      "start": 3199.04,
+      "end": 3203.68,
+      "text": "what do people what what people would"
+    },
+    {
+      "start": 3201.119,
+      "end": 3205.52,
+      "text": "like to see uh in terms of content there"
+    },
+    {
+      "start": 3203.68,
+      "end": 3207.04,
+      "text": "sometimes there are some wishes"
+    },
+    {
+      "start": 3205.52,
+      "end": 3208.48,
+      "text": "sometimes people even suggest the"
+    },
+    {
+      "start": 3207.04,
+      "end": 3210.4,
+      "text": "content themselves"
+    },
+    {
+      "start": 3208.48,
+      "end": 3212.88,
+      "text": "this is a good start"
+    },
+    {
+      "start": 3210.4,
+      "end": 3214.72,
+      "text": "when you got that start laid out you"
+    },
+    {
+      "start": 3212.88,
+      "end": 3218.079,
+      "text": "already uh"
+    },
+    {
+      "start": 3214.72,
+      "end": 3220.88,
+      "text": "you already have a basic idea of of the"
+    },
+    {
+      "start": 3218.079,
+      "end": 3223.76,
+      "text": "guys or what they want what they expect"
+    },
+    {
+      "start": 3220.88,
+      "end": 3226,
+      "text": "this will set up your this would be like"
+    },
+    {
+      "start": 3223.76,
+      "end": 3228.4,
+      "text": "a starting point from your research then"
+    },
+    {
+      "start": 3226,
+      "end": 3230.4,
+      "text": "you can um"
+    },
+    {
+      "start": 3228.4,
+      "end": 3232.24,
+      "text": "go to communities like credit and"
+    },
+    {
+      "start": 3230.4,
+      "end": 3235.28,
+      "text": "discord for example"
+    },
+    {
+      "start": 3232.24,
+      "end": 3237.2,
+      "text": "those have a lot of insight"
+    },
+    {
+      "start": 3235.28,
+      "end": 3239.52,
+      "text": "of on what"
+    },
+    {
+      "start": 3237.2,
+      "end": 3241.599,
+      "text": "people in in a particular um in a"
+    },
+    {
+      "start": 3239.52,
+      "end": 3244.319,
+      "text": "particular genre for example might be"
+    },
+    {
+      "start": 3241.599,
+      "end": 3245.599,
+      "text": "interested in so as long as you get"
+    },
+    {
+      "start": 3244.319,
+      "end": 3247.92,
+      "text": "those down"
+    },
+    {
+      "start": 3245.599,
+      "end": 3250.079,
+      "text": "you will already have a large idea of"
+    },
+    {
+      "start": 3247.92,
+      "end": 3252.16,
+      "text": "what your audience is thinking what they"
+    },
+    {
+      "start": 3250.079,
+      "end": 3254.64,
+      "text": "want what their"
+    },
+    {
+      "start": 3252.16,
+      "end": 3256.48,
+      "text": "what their behavior is in terms of your"
+    },
+    {
+      "start": 3254.64,
+      "end": 3258.8,
+      "text": "in terms of this particular genre and"
+    },
+    {
+      "start": 3256.48,
+      "end": 3260.16,
+      "text": "what they want to see and hear this will"
+    },
+    {
+      "start": 3258.8,
+      "end": 3262.16,
+      "text": "give you a chance"
+    },
+    {
+      "start": 3260.16,
+      "end": 3265.839,
+      "text": "to implement that"
+    },
+    {
+      "start": 3262.16,
+      "end": 3265.839,
+      "text": "perhaps in your marketing strategy"
+    },
+    {
+      "start": 3266.4,
+      "end": 3269.599,
+      "text": "thank you for your answer"
+    },
+    {
+      "start": 3268,
+      "end": 3271.92,
+      "text": "the next question"
+    },
+    {
+      "start": 3269.599,
+      "end": 3274.4,
+      "text": "may you give an example of your favorite"
+    },
+    {
+      "start": 3271.92,
+      "end": 3275.2,
+      "text": "marketing companies maybe the one you"
+    },
+    {
+      "start": 3274.4,
+      "end": 3278.24,
+      "text": "have"
+    },
+    {
+      "start": 3275.2,
+      "end": 3279.52,
+      "text": "made in 4a games"
+    },
+    {
+      "start": 3278.24,
+      "end": 3282.48,
+      "text": "well uh"
+    },
+    {
+      "start": 3279.52,
+      "end": 3284.559,
+      "text": "we all know what an nda here is right so"
+    },
+    {
+      "start": 3282.48,
+      "end": 3287.44,
+      "text": "i cannot talk exactly unfortunately"
+    },
+    {
+      "start": 3284.559,
+      "end": 3290.96,
+      "text": "about 4a games but i can definitely give"
+    },
+    {
+      "start": 3287.44,
+      "end": 3292.64,
+      "text": "a favorite marketing example of a game"
+    },
+    {
+      "start": 3290.96,
+      "end": 3294,
+      "text": "which would be"
+    },
+    {
+      "start": 3292.64,
+      "end": 3297.04,
+      "text": "actually which would be red dead"
+    },
+    {
+      "start": 3294,
+      "end": 3299.76,
+      "text": "redemption too uh i lived in berlin in"
+    },
+    {
+      "start": 3297.04,
+      "end": 3302.319,
+      "text": "that time and interestingly enough uh"
+    },
+    {
+      "start": 3299.76,
+      "end": 3304.079,
+      "text": "this marketing campaign wasn't online it"
+    },
+    {
+      "start": 3302.319,
+      "end": 3306.079,
+      "text": "was offline"
+    },
+    {
+      "start": 3304.079,
+      "end": 3308.64,
+      "text": "and the guys whoever created that"
+    },
+    {
+      "start": 3306.079,
+      "end": 3311.839,
+      "text": "marketing campaign what they did is that"
+    },
+    {
+      "start": 3308.64,
+      "end": 3315.52,
+      "text": "they uh at every bus stop and at every"
+    },
+    {
+      "start": 3311.839,
+      "end": 3318.319,
+      "text": "metro station you had all possible space"
+    },
+    {
+      "start": 3315.52,
+      "end": 3321.52,
+      "text": "left for advertising or for maps or"
+    },
+    {
+      "start": 3318.319,
+      "end": 3322.799,
+      "text": "whatever they covered this all with"
+    },
+    {
+      "start": 3321.52,
+      "end": 3326.4,
+      "text": "promotional"
+    },
+    {
+      "start": 3322.799,
+      "end": 3329.119,
+      "text": "posts or maps from reddit redemption 2."
+    },
+    {
+      "start": 3326.4,
+      "end": 3331.359,
+      "text": "and when you are there and you are stuck"
+    },
+    {
+      "start": 3329.119,
+      "end": 3334,
+      "text": "or you're just waiting for a bus or a"
+    },
+    {
+      "start": 3331.359,
+      "end": 3335.119,
+      "text": "train you look at all this and you are"
+    },
+    {
+      "start": 3334,
+      "end": 3337.359,
+      "text": "already like"
+    },
+    {
+      "start": 3335.119,
+      "end": 3339.28,
+      "text": "at that time i didn't even know uh"
+    },
+    {
+      "start": 3337.359,
+      "end": 3341.76,
+      "text": "particularly like what that game is"
+    },
+    {
+      "start": 3339.28,
+      "end": 3344.16,
+      "text": "about but i was like see looking at"
+    },
+    {
+      "start": 3341.76,
+      "end": 3346.96,
+      "text": "those faces and you know it's raining"
+    },
+    {
+      "start": 3344.16,
+      "end": 3348.96,
+      "text": "and it's it's dull uh because it i think"
+    },
+    {
+      "start": 3346.96,
+      "end": 3351.2,
+      "text": "it was march or april"
+    },
+    {
+      "start": 3348.96,
+      "end": 3353.359,
+      "text": "and you're just standing next to arthur"
+    },
+    {
+      "start": 3351.2,
+      "end": 3355.76,
+      "text": "morgan and you're like okay what's up"
+    },
+    {
+      "start": 3353.359,
+      "end": 3358.24,
+      "text": "dude so i've seen your face maybe like"
+    },
+    {
+      "start": 3355.76,
+      "end": 3360.319,
+      "text": "15 times today maybe"
+    },
+    {
+      "start": 3358.24,
+      "end": 3363.04,
+      "text": "maybe there is something in you so shall"
+    },
+    {
+      "start": 3360.319,
+      "end": 3365.92,
+      "text": "we like have a chat or something so they"
+    },
+    {
+      "start": 3363.04,
+      "end": 3369.28,
+      "text": "are constantly present in your space"
+    },
+    {
+      "start": 3365.92,
+      "end": 3370.079,
+      "text": "like outside of your work home or"
+    },
+    {
+      "start": 3369.28,
+      "end": 3372.559,
+      "text": "uh"
+    },
+    {
+      "start": 3370.079,
+      "end": 3374.799,
+      "text": "or studying like or in university for"
+    },
+    {
+      "start": 3372.559,
+      "end": 3377.04,
+      "text": "example they're always around you and"
+    },
+    {
+      "start": 3374.799,
+      "end": 3378.48,
+      "text": "you feel like you're a part of it like"
+    },
+    {
+      "start": 3377.04,
+      "end": 3380.079,
+      "text": "with some time you just feel like you're"
+    },
+    {
+      "start": 3378.48,
+      "end": 3381.76,
+      "text": "a part of it basically i just bought the"
+    },
+    {
+      "start": 3380.079,
+      "end": 3382.96,
+      "text": "game after this marketing strategy"
+    },
+    {
+      "start": 3381.76,
+      "end": 3385.28,
+      "text": "because"
+    },
+    {
+      "start": 3382.96,
+      "end": 3387.76,
+      "text": "when when all the posters were gone i"
+    },
+    {
+      "start": 3385.28,
+      "end": 3389.28,
+      "text": "felt like i missed them"
+    },
+    {
+      "start": 3387.76,
+      "end": 3391.839,
+      "text": "you know it's also red dead redemption"
+    },
+    {
+      "start": 3389.28,
+      "end": 3393.599,
+      "text": "is also very red so like in in the"
+    },
+    {
+      "start": 3391.839,
+      "end": 3396.48,
+      "text": "gloomy weather this is like the first"
+    },
+    {
+      "start": 3393.599,
+      "end": 3398.4,
+      "text": "thing you see these red posters"
+    },
+    {
+      "start": 3396.48,
+      "end": 3401.28,
+      "text": "and you're like yeah i miss them so"
+    },
+    {
+      "start": 3398.4,
+      "end": 3401.28,
+      "text": "that's why i bought them"
+    },
+    {
+      "start": 3402.799,
+      "end": 3408.72,
+      "text": "thank you for your answer and probably"
+    },
+    {
+      "start": 3405.28,
+      "end": 3408.72,
+      "text": "the last question for today"
+    },
+    {
+      "start": 3409.92,
+      "end": 3415.52,
+      "text": "what is a minimal budget for marketing"
+    },
+    {
+      "start": 3412.72,
+      "end": 3418.839,
+      "text": "for entirely new indie game studio and"
+    },
+    {
+      "start": 3415.52,
+      "end": 3418.839,
+      "text": "the game"
+    },
+    {
+      "start": 3418.88,
+      "end": 3422.799,
+      "text": "um"
+    },
+    {
+      "start": 3419.92,
+      "end": 3424.079,
+      "text": "again that really depends on what you"
+    },
+    {
+      "start": 3422.799,
+      "end": 3426.72,
+      "text": "want to do"
+    },
+    {
+      "start": 3424.079,
+      "end": 3428.72,
+      "text": "there are a bunch of things you can do"
+    },
+    {
+      "start": 3426.72,
+      "end": 3431.92,
+      "text": "for free actually"
+    },
+    {
+      "start": 3428.72,
+      "end": 3434.559,
+      "text": "if you go to social media for example"
+    },
+    {
+      "start": 3431.92,
+      "end": 3437.839,
+      "text": "like creating events trying to get"
+    },
+    {
+      "start": 3434.559,
+      "end": 3439.92,
+      "text": "people posting in in relevant groups is"
+    },
+    {
+      "start": 3437.839,
+      "end": 3442.88,
+      "text": "most likely all for free"
+    },
+    {
+      "start": 3439.92,
+      "end": 3445.76,
+      "text": "of course if you want to go more"
+    },
+    {
+      "start": 3442.88,
+      "end": 3448,
+      "text": "with influencers and paid marketing this"
+    },
+    {
+      "start": 3445.76,
+      "end": 3450.24,
+      "text": "will also depend because again"
+    },
+    {
+      "start": 3448,
+      "end": 3451.92,
+      "text": "depending on what kind of influencer you"
+    },
+    {
+      "start": 3450.24,
+      "end": 3454.799,
+      "text": "want to attract they have different"
+    },
+    {
+      "start": 3451.92,
+      "end": 3457.52,
+      "text": "audience they have a different number of"
+    },
+    {
+      "start": 3454.799,
+      "end": 3460.559,
+      "text": "people who follow them so"
+    },
+    {
+      "start": 3457.52,
+      "end": 3463.119,
+      "text": "you would need to consider which ones"
+    },
+    {
+      "start": 3460.559,
+      "end": 3464.16,
+      "text": "you are looking for first which ones you"
+    },
+    {
+      "start": 3463.119,
+      "end": 3465.04,
+      "text": "would need"
+    },
+    {
+      "start": 3464.16,
+      "end": 3468.079,
+      "text": "to set"
+    },
+    {
+      "start": 3465.04,
+      "end": 3470.48,
+      "text": "to meet your particular goal okay if we"
+    },
+    {
+      "start": 3468.079,
+      "end": 3474.079,
+      "text": "talk about paid ads for example"
+    },
+    {
+      "start": 3470.48,
+      "end": 3475.839,
+      "text": "um if you go to facebook paid ads or"
+    },
+    {
+      "start": 3474.079,
+      "end": 3478,
+      "text": "google paid ads"
+    },
+    {
+      "start": 3475.839,
+      "end": 3480.319,
+      "text": "you will see that there are so many"
+    },
+    {
+      "start": 3478,
+      "end": 3481.68,
+      "text": "categories so many nuances that you need"
+    },
+    {
+      "start": 3480.319,
+      "end": 3482.559,
+      "text": "to fill in"
+    },
+    {
+      "start": 3481.68,
+      "end": 3483.359,
+      "text": "um"
+    },
+    {
+      "start": 3482.559,
+      "end": 3484.4,
+      "text": "that"
+    },
+    {
+      "start": 3483.359,
+      "end": 3486.72,
+      "text": "it all"
+    },
+    {
+      "start": 3484.4,
+      "end": 3489.359,
+      "text": "is a part of pricing that you will get"
+    },
+    {
+      "start": 3486.72,
+      "end": 3492.24,
+      "text": "in the end"
+    },
+    {
+      "start": 3489.359,
+      "end": 3494.079,
+      "text": "remember that a slide that i had"
+    },
+    {
+      "start": 3492.24,
+      "end": 3496,
+      "text": "somewhere in the beginning about then"
+    },
+    {
+      "start": 3494.079,
+      "end": 3497.92,
+      "text": "and now that now we are talking about"
+    },
+    {
+      "start": 3496,
+      "end": 3500.319,
+      "text": "one particular person"
+    },
+    {
+      "start": 3497.92,
+      "end": 3503.119,
+      "text": "the more you want to target this one"
+    },
+    {
+      "start": 3500.319,
+      "end": 3505.2,
+      "text": "particular person uh"
+    },
+    {
+      "start": 3503.119,
+      "end": 3507.68,
+      "text": "like the better you want to target this"
+    },
+    {
+      "start": 3505.2,
+      "end": 3510.079,
+      "text": "one particular person the"
+    },
+    {
+      "start": 3507.68,
+      "end": 3512.48,
+      "text": "higher will be your spend"
+    },
+    {
+      "start": 3510.079,
+      "end": 3514.48,
+      "text": "the more general uh"
+    },
+    {
+      "start": 3512.48,
+      "end": 3518.799,
+      "text": "nuances you use when you create your"
+    },
+    {
+      "start": 3514.48,
+      "end": 3522.4,
+      "text": "paid ads the less you will spend okay"
+    },
+    {
+      "start": 3518.799,
+      "end": 3523.76,
+      "text": "so um you need to try this out"
+    },
+    {
+      "start": 3522.4,
+      "end": 3525.52,
+      "text": "if and"
+    },
+    {
+      "start": 3523.76,
+      "end": 3527.28,
+      "text": "of course"
+    },
+    {
+      "start": 3525.52,
+      "end": 3529.119,
+      "text": "the"
+    },
+    {
+      "start": 3527.28,
+      "end": 3531.04,
+      "text": "neither facebook nor google for example"
+    },
+    {
+      "start": 3529.119,
+      "end": 3533.92,
+      "text": "they will charge you in advance you will"
+    },
+    {
+      "start": 3531.04,
+      "end": 3536.4,
+      "text": "be able to create uh your strat"
+    },
+    {
+      "start": 3533.92,
+      "end": 3538.4,
+      "text": "like your ad for example"
+    },
+    {
+      "start": 3536.4,
+      "end": 3540.72,
+      "text": "and it will give you an estimate and"
+    },
+    {
+      "start": 3538.4,
+      "end": 3543.2,
+      "text": "this estimate will give you a good idea"
+    },
+    {
+      "start": 3540.72,
+      "end": 3546,
+      "text": "of what kind of budget you would need if"
+    },
+    {
+      "start": 3543.2,
+      "end": 3547.44,
+      "text": "you want to have a marketing budget for"
+    },
+    {
+      "start": 3546,
+      "end": 3550.079,
+      "text": "page sources"
+    },
+    {
+      "start": 3547.44,
+      "end": 3552.16,
+      "text": "but my advice is to try to first take"
+    },
+    {
+      "start": 3550.079,
+      "end": 3554.72,
+      "text": "advantage of everything available online"
+    },
+    {
+      "start": 3552.16,
+      "end": 3557.44,
+      "text": "use your head if you're a game developer"
+    },
+    {
+      "start": 3554.72,
+      "end": 3559.92,
+      "text": "you're creative to some extent okay"
+    },
+    {
+      "start": 3557.44,
+      "end": 3561.76,
+      "text": "this is the same kind of creativity try"
+    },
+    {
+      "start": 3559.92,
+      "end": 3564.96,
+      "text": "to think of all the things you can do"
+    },
+    {
+      "start": 3561.76,
+      "end": 3567.44,
+      "text": "for free then go for on for paid sources"
+    },
+    {
+      "start": 3564.96,
+      "end": 3567.44,
+      "text": "i would say"
+    },
+    {
+      "start": 3567.839,
+      "end": 3573.119,
+      "text": "okay i think that's all i think if you"
+    },
+    {
+      "start": 3570.72,
+      "end": 3577.04,
+      "text": "have any other questions you can write"
+    },
+    {
+      "start": 3573.119,
+      "end": 3580,
+      "text": "via the messenger or meet maybe offline"
+    },
+    {
+      "start": 3577.04,
+      "end": 3582,
+      "text": "this weekend so thank you again hope you"
+    },
+    {
+      "start": 3580,
+      "end": 3584.16,
+      "text": "see thank you"
+    },
+    {
+      "start": 3582,
+      "end": 3588.76,
+      "text": "yes thank you very much for having me"
+    },
+    {
+      "start": 3584.16,
+      "end": 3588.76,
+      "text": "and good luck guys believe in yourself"
+    },
+    {
+      "start": 3595.75,
+      "end": 3599,
+      "text": "[Music]"
+    }
+  ]
+}

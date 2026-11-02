@@ -1,0 +1,85 @@
+{
+  "videoId": "5iwNYRLWjRk",
+  "frames": [
+    {
+      "time": 945,
+      "file": "frames/frame-00-15-45.jpg",
+      "observations": [
+        "Earthless research slide shows manually categorized positive and negative review themes with counts; the small individual review text is not fully legible."
+      ],
+      "alt": "Earthless research slide shows manually categorized positive and negative review themes with counts; the small individual review text is not fully legible."
+    },
+    {
+      "time": 1100,
+      "file": "frames/frame-00-18-20.jpg",
+      "observations": [
+        "Player motivations slide places a Quantic Foundry motivation map beside a Big Five personality diagram."
+      ],
+      "alt": "Player motivations slide places a Quantic Foundry motivation map beside a Big Five personality diagram."
+    },
+    {
+      "time": 1230,
+      "file": "frames/frame-00-20-30.jpg",
+      "observations": [
+        "Project Puffin concept slide identifies third-person cooperative sandbox espionage, with an illustrated crew and a heist-game comparison."
+      ],
+      "alt": "Project Puffin concept slide identifies third-person cooperative sandbox espionage, with an illustrated crew and a heist-game comparison."
+    },
+    {
+      "time": 1730,
+      "file": "frames/frame-00-28-50.jpg",
+      "observations": [
+        "Ohmae’s 3C Model is a three-circle overlap of Customers, Corporation, and Competitors."
+      ],
+      "alt": "Ohmae’s 3C Model is a three-circle overlap of Customers, Corporation, and Competitors."
+    },
+    {
+      "time": 1850,
+      "file": "frames/frame-00-30-50.jpg",
+      "observations": [
+        "Shipbreaker comparison lists shared sci-fi vehicle fantasy, planning over reflexes, resource management, pacing, mostly noncompetitive play, and immersive but stylized presentation."
+      ],
+      "alt": "Shipbreaker comparison lists shared sci-fi vehicle fantasy, planning over reflexes, resource management, pacing, mostly noncompetitive play, and immersive but stylized presentation."
+    },
+    {
+      "time": 1960,
+      "file": "frames/frame-00-32-40.jpg",
+      "observations": [
+        "The shared-traits Shipbreaker and Deserts of Kharak slide remains visible; this frame does not show the personal labor-history discussion."
+      ],
+      "alt": "The shared-traits Shipbreaker and Deserts of Kharak slide remains visible; this frame does not show the personal labor-history discussion."
+    },
+    {
+      "time": 2110,
+      "file": "frames/frame-00-35-10.jpg",
+      "observations": [
+        "Skunk Works slide describes an internal research and IP incubation program run roughly yearly since 2019; selected ideas lead to an originator payout and unused rights revert to the originators."
+      ],
+      "alt": "Skunk Works slide describes an internal research and IP incubation program run roughly yearly since 2019; selected ideas lead to an originator payout and unused rights revert to the originators."
+    },
+    {
+      "time": 2540,
+      "file": "frames/frame-00-42-20.jpg",
+      "observations": [
+        "Project Timberwolf is labeled a first-person vehicle-based cooperative battle racer, with large-vehicle concept art and a Sea of Thieves plus Fall Guys comparison."
+      ],
+      "alt": "Project Timberwolf is labeled a first-person vehicle-based cooperative battle racer, with large-vehicle concept art and a Sea of Thieves plus Fall Guys comparison."
+    },
+    {
+      "time": 2660,
+      "file": "frames/frame-00-44-20.jpg",
+      "observations": [
+        "Timberwolf matrix has six ingredient columns: massive industrial vehicles, strategic driving gameplay, players moving on vehicles, one big dynamic map, racing-adjacent mode, and cooperative/competitive multiplayer. Rows are main goals, challenges and risk level, areas to investigate or experiment, and food for thought; small cells have limited legibility."
+      ],
+      "alt": "Timberwolf matrix has six ingredient columns: massive industrial vehicles, strategic driving gameplay, players moving on vehicles, one big dynamic map, racing-adjacent mode, and cooperative/competitive multiplayer. Rows are main goals, challenges and risk level, areas to investigate or experiment, and food for thought; small cells have limited legibility."
+    },
+    {
+      "time": 2800,
+      "file": "frames/frame-00-46-40.jpg",
+      "observations": [
+        "Related-games overlap matrix compares named games using red, yellow and green cells across cooperation, first-person view, characters and vehicles, massive creatures, space and physics, dynamic hazardous environments, nontraditional combat, extraction mode, and ecological themes. It is a feature comparison, not a sales chart, and no numeric scale or legend is shown."
+      ],
+      "alt": "Related-games overlap matrix compares named games using red, yellow and green cells across cooperation, first-person view, characters and vehicles, massive creatures, space and physics, dynamic hazardous environments, nontraditional combat, extraction mode, and ecological themes. It is a feature comparison, not a sales chart, and no numeric scale or legend is shown."
+    }
+  ]
+}

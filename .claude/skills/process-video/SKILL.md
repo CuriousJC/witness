@@ -70,6 +70,9 @@ source folder, stop before overwriting and report the collision for deliberate d
 - Open with a useful overview and a few concrete takeaways. The main body does the teaching:
   explain the reasoning and preserve meaningful examples, alternatives, conditions, and numbers.
   Length follows the substance; don't impose an arbitrary compression ratio.
+- Assign two concise `topics` labels, reusing existing library labels when appropriate. Set
+  `generatedMonth` to the month the reading was first generated (`YYYY-MM`, using the user's
+  timezone), not the video's publication month. Preserve it on revisions and rebuilds.
 - Use connected prose under informative headings, with lists when the material benefits from them.
   Remove filler, repetition, greetings, and housekeeping. Reorganize locally for clarity while
   keeping section time ranges in source order. Write a synthesis in your own words, not a lightly
@@ -106,3 +109,10 @@ available, inspect the page at desktop and narrow widths; say when visual QA was
 
 Return a clickable path to the reading page, its approximate reading time, and any material
 source limitation. Leave all work unstaged; do not publish, commit, or push unless asked.
+
+Pages are standalone HTML files. Do not start a preview server just to read them. Chat links
+may open in VS Code instead of a browser; do not promise that a clickable file link will open
+Chrome. When asked to open a reading, launch Chrome with the absolute local HTML path (or the
+library index for several readings), locating the installed browser rather than assuming it
+is on PATH. Opening via the OS default browser is a fallback if Chrome is unavailable; report
+that fallback. The local library's topic and generation-month filters work from disk.

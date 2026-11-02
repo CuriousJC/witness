@@ -151,6 +151,8 @@ export function validateArticle(a, s, frames = []) {
   } else assert(!a.visualEvidence?.length, 'Caption-only editions cannot claim inspected frames.');
   assert(a.visualSummary === undefined || (a.basis === 'captions-and-frames' && strings(a.visualSummary)), 'Visual summary needs text and a visual evidence basis.');
   assert(nonempty(a.title) && nonempty(a.dek), 'Article needs a title and dek.');
+  assert(a.topics === undefined || (strings(a.topics) && a.topics.length === 2 && new Set(a.topics.map(t => t.trim().toLowerCase())).size === 2), 'Topics must be two distinct nonempty labels.');
+  assert(a.generatedMonth === undefined || (typeof a.generatedMonth === 'string' && /^\d{4}-(0[1-9]|1[0-2])$/.test(a.generatedMonth)), 'Generation month must be YYYY-MM.');
   assert(strings(a.overview), 'Article needs overview paragraphs.');
   assert(Array.isArray(a.takeaways) && a.takeaways.length && a.takeaways.every(t => nonempty(t.title) && nonempty(t.text)), 'Article needs takeaways with titles and explanations.');
   assert(strings(a.limitations), 'Article must disclose source limitations.');
@@ -182,6 +184,8 @@ const list = values => `<ul>${values.map(v => `<li>${html(v)}</li>`).join('')}</
 // Article fields are plain text. Escape Markdown syntax so source wording cannot
 // become unintended links, emphasis, headings, or embedded HTML in an export.
 const markdownText = value => String(value).replace(/\s+/g, ' ').trim().replace(/[\\`*_\[\]<>#]/g, '\\$&');
+const monthLabel = month => new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${month}-01T00:00:00Z`));
+const tags = a => `<div class="tags" aria-label="Reading tags">${(a.topics || []).map(t => `<span class="tag">${html(t)}</span>`).join('')}${a.generatedMonth ? `<span class="tag tag-month">Generated ${monthLabel(a.generatedMonth)}</span>` : ''}</div>`;
 
 export function renderMarkdown(a, s, { frames = [], editions = [] } = {}) {
   validateArticle(a, s, frames);
@@ -194,6 +198,8 @@ export function renderMarkdown(a, s, { frames = [], editions = [] } = {}) {
     '', `[Web edition](${a.slug}.html)`,
   ];
   const others = editions.filter(e => e.slug !== a.slug);
+  if (a.topics) lines.push('', `Topics: ${a.topics.map(text).join(' · ')}`);
+  if (a.generatedMonth) lines.push(`Generated: ${monthLabel(a.generatedMonth)}`);
   if (others.length) lines.push('', `Compare: ${others.map(e => `[${text(e.title)}](${e.slug}.md)`).join(' · ')}`);
   lines.push('', '## Overview', '', ...a.overview.flatMap(p => [text(p), '']));
   if (a.visualSummary) lines.push('### What the snapshots add', '', ...a.visualSummary.map(p => `- ${text(p)}`), '');
@@ -232,7 +238,7 @@ export function renderArticle(a, s, { frames = [], editions = [] } = {}) {
 <div class="metadata"><span>${html(s.channel)}</span>${s.published ? `<span>Published ${html(s.published)}</span>` : ''}<span>${stamp(s.duration)} video</span><span>~${readingMinutes(a)} min read</span></div>
 <a class="source-link" href="${html(s.url)}">Original video ↗</a> · <a class="source-link" href="${a.slug}.md">Markdown edition</a>
 ${editions.length > 1 ? `<nav class="edition-switch" aria-label="Compare reading editions"><span>Compare editions</span>${editions.map(e => e.slug === a.slug ? `<strong aria-current="page">${e.basis === 'captions' ? 'Captions only' : 'With slide analysis'}</strong>` : `<a href="${e.slug}.html">${e.basis === 'captions' ? 'Captions only' : 'With slide analysis'}</a>`).join('')}</nav>` : ''}</div>
-<div class="reading-layout"><aside class="contents"><details open><summary>On this page</summary><nav aria-label="Contents"><ol>${toc}</ol></nav></details></aside>
+<div class="reading-layout"><aside class="contents">${tags(a)}<details open><summary>On this page</summary><nav aria-label="Contents"><ol>${toc}</ol></nav></details></aside>
 <article class="prose"><section id="overview" class="overview"><p class="eyebrow">Start here</p><h2>The overview</h2>${paragraphs(a.overview)}${a.visualSummary ? `<div class="visual-summary"><h3>What the snapshots add</h3>${list(a.visualSummary)}</div>` : ''}</section>
 <section id="takeaways" class="takeaways"><h2>What to take away</h2><ol>${a.takeaways.map(t => `<li><strong>${html(t.title)}</strong><p>${html(t.text)}</p></li>`).join('')}</ol></section>
 <div class="body-label"><span>The full reading</span><span>${a.sections.length} sections</span></div>
@@ -244,11 +250,16 @@ ${a.basis === 'captions-and-frames' ? `<details class="visual-evidence"><summary
 }
 
 export function renderIndex(entries) {
+  const topics = [...new Set(entries.flatMap(e => e.article.topics || []))].sort((a, b) => a.localeCompare(b));
+  const months = [...new Set(entries.map(e => e.article.generatedMonth).filter(Boolean))].sort().reverse();
+  const choices = (values, name, label) => values.map(value => `<label class="filter-choice"><input type="checkbox" name="${name}" value="${html(value)}"> ${html(label(value))}</label>`).join('');
   return shell('Reading library', '', `
 <header class="site-header"><a class="wordmark" href="index.html">witness<span class="mark">.</span></a><span class="header-note">A personal reading library</span></header>
 <main id="main" class="library"><p class="eyebrow">Video, in words</p><h1>Less watching.<br>More understanding.</h1>
 <p class="dek">The substance of a video, shaped for reading. Start with the essentials, stay for the explanation, jump back when you need to.</p>
-<div class="library-label"><h2>Your reading</h2><span>${entries.length} ${entries.length === 1 ? 'edition' : 'editions'}</span></div>
-<div class="editions">${entries.map(({ article: a, source: s }, i) => `<article class="edition"><span class="edition-number">${String(i + 1).padStart(2, '0')}</span><div><p class="eyebrow">${html(s.channel)} · ${a.basis === 'captions-and-frames' ? 'With slide analysis' : 'Captions only'} · ${stamp(s.duration)} video · ~${readingMinutes(a)} min read</p><h3><a href="videos/${a.slug}.html">${html(a.title)}</a></h3><p>${html(a.dek)}</p><a class="read-link" href="videos/${a.slug}.html">Read the edition →</a></div></article>`).join('\n') || '<p>Process a YouTube link with the process-video skill to add your first reading.</p>'}</div>
+<div class="library-label"><h2>Your reading</h2><span id="edition-count" role="status" aria-live="polite">${entries.length} ${entries.length === 1 ? 'edition' : 'editions'}</span></div>
+<div class="library-layout"><aside class="library-filters" hidden><form id="library-filters"><h3>Filter your reading</h3><fieldset><legend>Topic</legend>${choices(topics, 'topic', value => value)}</fieldset><fieldset><legend>Generated</legend>${choices(months, 'month', monthLabel)}</fieldset><button type="reset">Clear filters</button></form></aside>
+<div class="editions">${entries.map(({ article: a, source: s }, i) => `<article class="edition" data-topics="${html(JSON.stringify(a.topics || []))}" data-month="${html(a.generatedMonth || '')}"><span class="edition-number">${String(i + 1).padStart(2, '0')}</span><div><p class="eyebrow">${html(s.channel)} · ${a.basis === 'captions-and-frames' ? 'With slide analysis' : 'Captions only'} · ${stamp(s.duration)} video · ~${readingMinutes(a)} min read</p><h3><a href="videos/${a.slug}.html">${html(a.title)}</a></h3>${tags(a)}<p>${html(a.dek)}</p><a class="read-link" href="videos/${a.slug}.html">Read the edition →</a></div></article>`).join('\n') || '<p>Process a YouTube link with the process-video skill to add your first reading.</p>'}<p id="no-results" hidden>No readings match these filters. Try another topic or clear the filters.</p></div></div>
+<script src="assets/library.js" defer></script>
 <p class="library-note">Each edition includes an overview, a detailed article, and links to the source. Everything on these pages can be read without playing a video.</p></main>`);
 }

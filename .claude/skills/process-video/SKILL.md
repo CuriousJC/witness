@@ -63,6 +63,12 @@ Record when a snapshot contains only a title, reaction image, or obscured conten
 follow-up if the substantive slide is missing. Add concise `alt` text for any image reproduced
 in the reading page. Keep original frames and full-video downloads in their respective source
 and ignored-cache locations. The downloaded video is not a published output.
+Successful builds automatically delete cached video downloads for completed readings.
+Keep the cache through frame inspection and any follow-up captures, then build. To release
+downloads earlier or clear failed partial downloads for saved sources, run
+`node tools/witness.mjs clean-cache [<video-title-slug-or-url>]` (omit the argument for all saved
+sources). Captions, inspected frames, observations, and readings remain intact; requesting
+new frame times later downloads the video again as needed.
 
 Distinguish a visible fact from the speaker's interpretation. Check chart labels, denominators,
 comparators, and whether examples are actually equivalent. A still does not establish motion,
@@ -79,6 +85,8 @@ Write `articles/<reading-title-slug>.json` using the shape in [references/articl
 Use kebab-case titles for sources, articles, and generated pages. The video ID remains metadata
 for matching the source and building YouTube links. If a title collides with another video's
 source folder, stop before overwriting and report the collision for deliberate disambiguation.
+The index uses the original YouTube title from source metadata in both lists so the owner
+can recognize submitted videos. A reading page may keep its own descriptive article title.
 
 - Open with a useful overview and a few concrete takeaways. The main body does the teaching:
   explain the reasoning and preserve meaningful examples, alternatives, conditions, and numbers.

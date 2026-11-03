@@ -51,6 +51,17 @@ test('both index lists sort by first processing time, including same-day order, 
   assert.throws(() => validateArticle({ ...article(), processedAt: '2026-11-02' }, source()), /timestamp/);
 });
 
+test('index identifies readings by original YouTube titles while reading pages keep editorial titles', () => {
+  const a = article(), s = source();
+  s.title = 'Original YouTube title & example';
+  s.slug = slugify(s.title);
+  const result = renderIndex([{ article: a, source: s }]);
+  const links = [...result.matchAll(/<a href="videos\/reading-edition\.html">([^<]*)<\/a>/g)].map(match => match[1]);
+  assert.deepEqual(links, ['Original YouTube title &amp; example', 'Original YouTube title &amp; example']);
+  assert.ok(!result.includes('>Reading edition</a>'));
+  assert.ok(renderArticle(a, s).includes('<h1>Reading edition</h1>'));
+});
+
 test('processing usage separates missing telemetry from measured tokens and preserves scope in both exports', () => {
   const a = article(), s = source();
   for (const totalTokens of [0, -1, 1.5, '1200', Number.MAX_SAFE_INTEGER + 1]) {
@@ -206,7 +217,7 @@ test('CLI imports a local caption export and builds/checks an offline library in
     fs.mkdirSync(path.join(temporary, 'tools'));
     fs.mkdirSync(path.join(temporary, 'web'));
     fs.mkdirSync(path.join(temporary, 'articles'));
-    for (const file of ['core.mjs', 'witness.mjs']) fs.copyFileSync(fileURLToPath(new URL(file, import.meta.url)), path.join(temporary, 'tools', file));
+    for (const file of ['core.mjs', 'cache.mjs', 'witness.mjs']) fs.copyFileSync(fileURLToPath(new URL(file, import.meta.url)), path.join(temporary, 'tools', file));
     fs.writeFileSync(path.join(temporary, 'web', 'reading.css'), 'body { color: black; }');
     fs.copyFileSync(fileURLToPath(new URL('../web/library.js', import.meta.url)), path.join(temporary, 'web', 'library.js'));
     fs.copyFileSync(fileURLToPath(new URL('../web/images.js', import.meta.url)), path.join(temporary, 'web', 'images.js'));
@@ -216,7 +227,15 @@ test('CLI imports a local caption export and builds/checks an offline library in
     const cli = path.join(temporary, 'tools', 'witness.mjs');
     const run = (...args) => spawnSync(process.execPath, [cli, ...args], { encoding: 'utf8', windowsHide: true });
     assert.equal(run('import', youtube(id), path.join(temporary, 'input.vtt'), path.join(temporary, 'info.json')).status, 0);
+    for (const slug of ['title', 'unfinished']) {
+      fs.mkdirSync(path.join(temporary, '.cache', slug), { recursive: true });
+      fs.writeFileSync(path.join(temporary, '.cache', slug, 'video.mp4'), 'Disposable download.');
+    }
+    assert.equal(run('check').status, 1);
+    assert.ok(fs.existsSync(path.join(temporary, '.cache/title/video.mp4')));
     assert.equal(run('build').status, 0);
+    assert.ok(!fs.existsSync(path.join(temporary, '.cache/title/video.mp4')));
+    assert.ok(fs.existsSync(path.join(temporary, '.cache/unfinished/video.mp4')));
     assert.equal(run('check').status, 0);
     assert.ok(fs.readFileSync(path.join(temporary, 'docs', 'videos', 'reading-edition.html'), 'utf8').includes('The evidence.'));
     const markdownFile = path.join(temporary, 'docs', 'videos', 'reading-edition.md');

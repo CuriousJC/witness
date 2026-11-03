@@ -1,0 +1,144 @@
+# Planning a Steam Launch Beyond the First Announcement
+
+QUDO’s five launch-planning mistakes, with clear distinctions between the video’s recommendations, observed sales relationships, and documented Steamworks rules.
+
+Source: [Steam Gives You 48 Hours. Most Indie Devs Waste All of Them.](https://www.youtube.com/watch?v=TvYvhw5B5xk) · QUDO | Indie Games · Published 2026-05-06
+Video: 15:48 · Reading: ~10 minutes · Basis: captions + 11 inspected snapshots
+
+[Web edition](planning-a-steam-launch-beyond-the-first-announcement.html)
+
+Topics: Game marketing · Steam
+Generated: November 2026
+Processing tokens: ~20,000 (estimated) — Rough visible-text workload estimate: 78,025 characters divided by four and rounded to the nearest thousand. Counted repository/skill/format guidance, complete transcript, metadata excerpt, outline, editorial source-check notes, and final authoring, observation, contact-sheet, and verification code once per artifact. The reused browser-check script read during this run is included once; shared setup is attributed in full to this new reading, with no reprocessing charged to the duplicate video. Excludes image tokens, hidden reasoning, unmeasured context replay, full web-result text not preserved in the notes, other uncaptured tool text, intermediate edits, and later revisions. This is a partial workload proxy, not complete billed usage.
+
+## Overview
+
+This Indie Growth Clinic episode argues that a Steam launch is shaped by decisions made before the release button is pressed: how notifications are spaced, whether coverage is coordinated, what happens on the second day, when the date is committed, and how the release relates to sale events. Its practical contribution is a prelaunch checklist that turns those dependencies into planned work.
+
+The presenter also makes strong claims about Steam’s algorithm and promotes QUDO’s own player-engagement platform. This reading preserves that argument while separating it from editorial checks made on November 2, 2026. The official documentation supports several notification and scheduling concerns, but does not establish a universal 48-hour expiry or a guaranteed concurrent-player formula for earning visibility. The cited launch statistics describe selected games, not a promise for an individual release.
+
+### What the snapshots add
+
+- Eleven snapshots were inspected. The useful chart explicitly identifies a top-50 March 2025 sample and distinguishes games with and without pre-orders. The displayed wishlist estimate also says likely rather than certain. Other sampled moments show the presenter, headings, web pages, or illustrative material, not controlled evidence of an algorithmic effect.
+
+## Key takeaways
+
+- **Keep a route to players beyond platform notifications** Notification eligibility and timing can reduce reach. The video recommends maintaining direct community or mailing-list channels alongside Steam.
+- **Prepare both launch day and the following day** Give willing creators assets and a clear window, then schedule follow-up communication before the team is absorbed by release work.
+- **Separate rules from planning heuristics** The video’s six-hour coordination window, 48-hour emphasis, and timing buffers are recommendations. Specific notification, release-date, and discount rules need their own checks.
+- **Read concurrent-player benchmarks with their sample attached** A median relationship in a successful subset cannot guarantee sales, prove an algorithmic trigger, or replace understanding who is buying and playing.
+
+## The opening case is a warning about relying on one notification channel
+
+Source timestamp: [0:00](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=0s)
+
+The video opens with Planet Centauri and roughly 130,000 wishlists whose owners did not receive the expected launch email. The presenter uses the story to argue that building an audience and pressing publish do not ensure that the audience hears the announcement. Launch preparation includes checking the systems expected to carry that message.
+
+Editorial source check: the cited PC Gamer report describes a 1.0 release after a long Early Access period and a notification bug acknowledged by Valve. That is more precise than the video’s opening description of a first version. The incident is also separate from the demo-cooldown scenario discussed later; it does not demonstrate that a cooldown caused this failure.
+
+The episode proposes five mistakes and a checklist meant to catch them before committing to a date. The recurring theme is that coordination and settings can matter before any launch-day post exists. Its framing is deliberately urgent, but the reading does not turn that urgency into a verified platform deadline.
+
+## Early momentum matters, but the sales multiplier is a benchmark
+
+Source timestamp: [1:24](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=84s)
+
+The presenter identifies New & Trending, popular new releases, and Popular Upcoming as valuable discovery opportunities. Citing Simon Carless, he says only around 5–10% of weekly releases receive the New & Trending flag and emphasizes the early period after release. The inspected article screenshot qualifies its own account as semi-verified, which is different from an official specification of Valve’s ranking system.
+
+He links simultaneous players, traffic, and wishlist purchases to early momentum, then gives a striking benchmark: week-one sales around 21.8 times day-one peak concurrent users. On that arithmetic, 100 simultaneous players would correspond to about 2,180 sales. Concurrent users means people playing at the same time, not total owners, total visits, or the number of people who played across the entire day.
+
+Editorial source check: GameDiscoverCo’s original analysis used the top 50 March 2025 releases by copies sold. The 21.8× figure is the median for games without pre-orders; the article warns that outcomes can differ by 50% or more. This selected, successful group establishes neither a universal forecast nor that increasing CCU causes additional sales.
+
+Editorial documentation check: Valve says store-page traffic alone and store-page purchase conversion rate are not visibility factors. Its guidance describes a personalized system responding to customer interest and behavior. It does not document the video’s simple causal formula or a universal 48-hour cutoff. Source: https://partner.steamgames.com/doc/marketing/visibility
+
+## Mistake one: crowding notifications and assuming every wishlister hears
+
+Source timestamp: [3:05](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=185s)
+
+The presenter lists four kinds of notification opportunity: release, leaving Early Access, a qualifying discount, and a demo. He warns about spacing a demo notification too close to the main release. In his example, a strong Next Fest response encourages a developer to launch around ten days later, while some recipients may still be inside the email cooldown.
+
+His broader recommendation is to leave at least fourteen days between the demo announcement and launch, and to maintain Discord, an email list, or another channel the team can address directly. The reason is resilience: if the plan depends entirely on one automated communication path, any delivery or eligibility problem leaves the launch exposed.
+
+He cites a 60–75% notification-reach estimate from Presskit.gg and contrasts wishlists with people actually notified. That range is his cited estimate, not a fixed delivery percentage promised by Valve. The captions contain inconsistent arithmetic in the 10,000-wishlist example: at the stated percentage, the calculation would be 6,000–7,500 recipients. It cannot produce 60,000–75,000 recipients from a list of 10,000.
+
+Editorial documentation check: Steamworks describes a recipient-level cooldown after notification about an appID, with possible extensions during heavy notification traffic. Verification and email preferences affect eligibility. Demo notification is a manual, one-time action available within two weeks after demo release, rather than an automatic consequence of publishing it. A 20% discount also has package and duration conditions.
+
+The video’s suggestion that notification activity cannot be monitored is too absolute: Steamworks documents email-campaign reporting in the detailed wishlist breakdown. That records sending activity, not a guarantee of inbox delivery or purchase. These details support checking actual notification history without assuming every user is in the same state. Source: https://partner.steamgames.com/doc/marketing/wishlist
+
+## Mistake two: expecting scattered announcements to produce a coordinated launch
+
+Source timestamp: [6:28](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=388s)
+
+The presenter contrasts a coordinated wave of attention with scattered communication. Wishlist messages are opened at different times; social posts reach different people at different times; coverage may arrive after the immediate launch conversation. Posting an announcement and waiting does not create a shared occasion for an already interested audience.
+
+His suggested response is to coordinate willing streamers, YouTubers, journalists, and community channels around the first four to six hours. Give them assets in advance, explain the release window, and record plans in a shared document. His example is a team with ten planned pieces of coverage that can be aligned through a small amount of organized outreach.
+
+The practical value is reducing avoidable confusion about timing and materials. The stronger claim—that this necessarily generates the CCU peak that earns New & Trending—is the presenter’s interpretation, not a verified guarantee. Coverage timing, actual buying interest, and audience availability remain different things.
+
+## Mistake three: exhausting the entire communication plan on day one
+
+Source timestamp: [8:05](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=485s)
+
+After a demanding launch day, a team can understandably go quiet. The presenter argues that this happens while some interested players are still making decisions, downloading, or finding time to play. He recommends having the second day’s community posts and social updates drafted before launch rather than relying on an exhausted team to improvise them.
+
+The video cites a peak around 2.5 days after launch for stronger releases. The inspected table supplies the missing denominator: March 2025’s top 50 games by copies sold. Its median is 2.5 days for games without pre-orders, four days with pre-orders, and 3.5 days overall. These are medians, not the average row displayed below them.
+
+The original analysis notes the successful-sample bias. The figures support the narrower observation that activity can build after release day; they do not prescribe a universal peak or prove that a quiet social account directly lowers algorithmic visibility. The actionable recommendation is to prepare follow-through while there is still time to do it calmly.
+
+![March 2025 top-50 release table: median days to peak concurrent players are 3.5 overall, 2.5 without pre-orders, and 4 with pre-orders.](../assets/steam-gives-you-48-hours-most-indie-devs-waste-all-of-them/frames/frame-00-08-30.jpg)
+
+[8:30](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=510s) — The chart’s scope matters: 2.5 days is the median for the no-pre-order subgroup in a top-50 March 2025 sample, not the average for every Steam release.
+
+## Mistake four: treating release-date changes as costless
+
+Source timestamp: [9:13](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=553s)
+
+The presenter warns that moving a release date can sacrifice prelaunch visibility. He cites a roughly 7,000–12,000 wishlist range for Popular Upcoming and describes its appearance as a one-time opportunity that can be consumed by a delay. The inspected older article is more qualified: that range makes appearance likely, not certain. It is an estimate rather than a guaranteed platform threshold.
+
+Editorial documentation check: Steamworks distinguishes an internal intended date from what customers see, and restricts self-service date changes within two weeks of that date. Its Personal Calendar documentation has a specific rule: delaying more than 24 hours inside the final two weeks removes the game from that calendar until release. This is narrower than claiming every date change permanently eliminates Popular Upcoming.
+
+The video’s advice to avoid casual date changes can therefore be retained without repeating its broad penalty claim as a universal rule. Sources: https://partner.steamgames.com/doc/store/release\_dates and https://partner.steamgames.com/doc/marketing/visibility/personalcalendar
+
+## Mistake five: choosing the date without considering sale competition
+
+Source timestamp: [10:09](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=609s)
+
+During a large sale, the presenter argues, players’ attention shifts toward discounted games they already know. A new full-price game competes with familiar alternatives discounted by 50%, 60%, or more. Some interested players may wishlist the new release instead of buying immediately.
+
+He advises checking the calendar before committing: avoid releasing inside a major sale or in the two weeks before one, prefer more than thirty days of separation when possible, or deliberately use a discounted launch if that suits the strategy. These are his proposed buffers and alternatives. The segment does not establish that every genre or audience responds identically, or that thirty days is a defined algorithmic launch window.
+
+Editorial documentation check: Valve has a separate 30-day restriction on discounting after release, with an exception for a launch discount configured beforehand. Seasonal sales do not waive that release cooldown. Commercial discount rules and the presenter’s recommendations about audience attention should not be treated as the same rule. Source: https://partner.steamgames.com/doc/marketing/discounts
+
+## The five-item checklist turns recommendations into prepared work
+
+Source timestamp: [11:36](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=696s)
+
+The presenter recasts the mistakes as actions to complete before release. The checklist’s appeal is that many of its components are organizational: notification history, shared plans, prepared posts, and a calendar review. They can be addressed before the team is consumed by dashboards and support requests.
+
+One part needs particular care: he recommends setting the Steamworks date only within thirty days and using Coming Soon beforehand. That is his commitment heuristic. Steamworks still requires an internal intended date even when a precise public date is not displayed. Do not read the recommendation as instructions to leave a required backend field unset.
+
+- Email clearance: identify the most recent relevant notification and inspect the fourteen-day spacing proposed by the video. If timing is tight, plan direct outreach rather than assuming the platform message reaches everyone.
+- Traffic coordination brief: list willing creators and press contacts, supply assets, communicate the release window, and request coverage in the first six hours where it fits their plans. Record it in a shared document.
+- Forty-eight-hour content calendar: prepare posts and community updates for both day one and day two before release. Leave the team room to respond to real events without having to invent every message on the spot.
+- Date commitment: avoid repeatedly changing the public promise. The video favors waiting until confidence is high, then changing early if necessary; actual Steamworks date controls still apply.
+- Sale-calendar review: look around ninety days ahead for major events and decide consciously whether to avoid them or use a compatible launch-discount strategy. The video’s two-week and thirty-day buffers are recommendations, not interchangeable platform guarantees.
+
+## The closing QUDO recommendation is the channel’s own product pitch
+
+Source timestamp: [13:49](https://www.youtube.com/watch?v=TvYvhw5B5xk&t=829s)
+
+The final segment connects the episode’s launch concerns to QUDO’s player-engagement platform. The presenter says challenge and performance rewards can encourage an existing community to start playing around launch, contributing playtime, concurrent players, and reviews. This is the publisher of the video presenting its own service as a solution.
+
+Its proposed sequence is to list the game and prepare challenge rewards at least two weeks before launch, build the communication plan, and activate rewards on release day. The inspected screen shows the QUDO site and registration process, not a comparative measurement of Steam outcomes.
+
+The reading does not treat those promotional claims as independent evidence that buying or using this service produces visibility. Preparing interested players and communicating clearly are separable from any particular tool. The episode closes by asking viewers which of the five mistakes they recognize in their own plans.
+
+## Source and limitations
+
+- Based on the complete manual English-caption transcript of the 15:48 episode. Its 10,000-wishlist numerical example is inconsistent in the captions; the reading states the arithmetic implied by the quoted percentage rather than silently reproducing impossible numbers.
+- Eleven targeted snapshots were inspected. They confirm the displayed sample labels, subgroup statistics, and selected web-page wording, not the accuracy of every statement on those pages or a causal effect on Steam recommendations.
+- Steamworks documentation and the original GameDiscoverCo analysis were checked separately on November 2, 2026. Editorial checks are explicitly marked and are not presented as things the video itself explains. Reference URLs and the check date are saved in this source folder’s checks.json.
+- The 21.8× statistic and timing medians describe a selected March 2025 sample. The 5–10% New & Trending estimate, 60–75% notification-reach range, wishlist threshold, and broad irreversible-delay claim are not established here as universal Steam rules. The QUDO section is promotional and no independent effectiveness test was performed.
+- Original statistical source: https://newsletter.gamediscover.co/p/how-your-steam-launch-players-relate . Opening-case report: https://www.pcgamer.com/games/survival-crafting/9-months-after-its-1-0-launch-flopped-an-indie-dev-just-learned-that-steam-never-emailed-the-130-000-people-who-wishlisted-its-game/
+
+[Timestamped source captions](../../sources/steam-gives-you-48-hours-most-indie-devs-waste-all-of-them/source.json)
+[Snapshot observations](../../sources/steam-gives-you-48-hours-most-indie-devs-waste-all-of-them/visuals.json)

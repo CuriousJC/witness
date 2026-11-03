@@ -47,6 +47,7 @@ node tools/witness.mjs transcript "<video-title-slug-or-youtube-url>"
 node tools/witness.mjs frames "<video-title-slug-or-youtube-url>" "550,1185,1880"
 node tools/witness.mjs build
 node tools/witness.mjs check
+node tools/witness.mjs clean-cache
 node --test
 ```
 
@@ -54,3 +55,5 @@ Node 22+ runs the tools with no npm install. Fetching also needs `yt-dlp` on PAT
 `.tools/`; on Windows, `tools/setup.ps1` installs a checksum-verified copy locally.
 Frame inspection also needs FFmpeg on PATH or in `.tools/`. The frames command caches a
 720p video under `.cache/`, extracts only the requested moments, and preserves reviewed notes.
+Successful builds remove video downloads for completed readings. `clean-cache` also removes
+full or partial video downloads for saved sources; captions, frames, and articles are retained.

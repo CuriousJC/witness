@@ -1,0 +1,1764 @@
+{
+  "videoId": "TvYvhw5B5xk",
+  "slug": "steam-gives-you-48-hours-most-indie-devs-waste-all-of-them",
+  "url": "https://www.youtube.com/watch?v=TvYvhw5B5xk",
+  "title": "Steam Gives You 48 Hours. Most Indie Devs Waste All of Them.",
+  "channel": "QUDO | Indie Games ",
+  "published": "2026-05-06",
+  "duration": 948,
+  "description": "Most indie devs think a Steam launch is something you execute on Day 1. It's not. It's something you mostly decide weeks before, in fields you click through in Steamworks without thinking. In this episode of Indie Growth Clinic, we break down the 5 mistakes that quietly kill your launch window, often before you ever hit publish.\n\nWe'll walk through how Steam's algorithm actually reads your first 48 hours, why the wishlist email you trust is the one most likely to fail you, and how a single field change in Steamworks can erase free front-page visibility you'll never get back. Then we'll hand you a 5-point launch checklist you can run before you commit to a date.\n\nIf you're a solo dev or small studio shipping on Steam this year, this one's for you.\n\n─────────────────────────────\n🎮 GET MORE EYES ON YOUR STEAM PAGE\nRegister your game on QUDO and put it in front of a community that actively plays, comments, and wishlists indie games. Real playtime feeds Steam's algorithm in your launch window. Comments and reviews give new visitors social proof. Both start with your game being seen.\n→ http://games.qudo.io/?utm_source=Youtube&utm_medium=longform&utm_campaign=qudo_indie_channel&utm_content=Growth%20Clinic%20Steam%20Gives%20You%2048%20Hours\n\n─────────────────────────────\n📌 WHAT'S COVERED IN THIS VIDEO\n00:00 – The 130,000 wishlists that never got an email\n00:28 – How the Steam launch window actually works\n03:05 – Mistake 1: Burning the wishlist email before launch\n06:28 – Mistake 2: No coordinated traffic on Day 1\n08:05 – Mistake 3: Going dark after Day 1\n09:13 – Mistake 4: Setting and moving your release date\n10:09 – Mistake 5: Launching into a Steam sale\n11:36 – The 48-Hour Launch Window Checklist\n13:49 – How to use QUDO to feed your launch signals\n\n─────────────────────────────\n🌐 SOURCES\nhttps://newsletter.gamediscover.co/p/how-your-steam-launch-players-relate by Simon Carless (GameDiscoverCo) — New & Trending mechanics + Week 1 CCU multiplier\nhttps://presskit.gg/blog/how-steam-wishlists-work — wishlist email triggers, deliverability, 2-week cooldown\nhttps://www.pcgamer.com/games/survival-crafting/9-months-after-its-1-0-launch-flopped-an-indie-dev-just-learned-that-steam-never-emailed-the-130-000-people-who-wishlisted-its-game/ — Planet Centauri 130,000 wishlist email failure\nhttps://gameifyouare.com/2022/12/15/how-many-steam-wishlists-does-my-indie-game-need/ — wishlist thresholds for Popular Upcoming\nhttps://www.game-oracle.com/blog/best-time-to-release — Steam sale timing\nhttps://www.valadria.com/steam-dev-cheat-sheet/ — Steam dev cheat sheet\nhttps://steamdb.info/sales/ — Steam sales calendar\n\n─────────────────────────────\n💬 DROP YOUR ANSWER IN THE COMMENTS\nWhich of the 5 mistakes did you recognize in your own launch plans, or already make? Burning the wishlist email, no coordinated Day 1 traffic, going dark on Day 2, moving your release date, or launching into a sale?\nWe read every comment, and the pattern of answers shapes what we go deep on next.\n\n─────────────────────────────\n📺 MORE FROM INDIE GROWTH CLINIC\nThis series covers onboarding, first session, retention, community loops, marketing hooks, store pages, and launch planning. All through real case studies, not theory.\n\nSubscribe so you don't miss the next breakdown.\n─────────────────────────────\n\n#IndieGame #GameDev #IndieGameDev #GameDesign #IndieGrowthClinic #SteamLaunch #Steam #SteamWishlists",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 28,
+      "title": "The 130,000 wishlists that never got an email"
+    },
+    {
+      "start": 28,
+      "end": 185,
+      "title": "How the Steam launch window actually works"
+    },
+    {
+      "start": 185,
+      "end": 388,
+      "title": "Mistake 1: Burning the wishlist email before launch"
+    },
+    {
+      "start": 388,
+      "end": 485,
+      "title": "Mistake 2: No coordinated traffic on Day 1"
+    },
+    {
+      "start": 485,
+      "end": 553,
+      "title": "Mistake 3: Going dark after Day 1"
+    },
+    {
+      "start": 553,
+      "end": 609,
+      "title": "Mistake 4: Setting and moving your release date"
+    },
+    {
+      "start": 609,
+      "end": 696,
+      "title": "Mistake 5: Launching into a Steam sale"
+    },
+    {
+      "start": 696,
+      "end": 829,
+      "title": "The 48-Hour Launch Window Checklist"
+    },
+    {
+      "start": 829,
+      "end": 948,
+      "title": "How to use QUDO to feed your launch signals"
+    }
+  ],
+  "captions": {
+    "language": "en",
+    "kind": "manual",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.9,
+      "text": "it is the year 2024"
+    },
+    {
+      "start": 1.933,
+      "end": 4.5,
+      "text": "and an indie game called Planet Centauri launched"
+    },
+    {
+      "start": 4.5,
+      "end": 9.5,
+      "text": "its very first version with an amazing 130k wishlists"
+    },
+    {
+      "start": 9.733,
+      "end": 12.1,
+      "text": "the developer had done everything right"
+    },
+    {
+      "start": 12.1,
+      "end": 13.166,
+      "text": "He built an audience"
+    },
+    {
+      "start": 13.166,
+      "end": 15.9,
+      "text": "HE got the page in shape and he hit publish"
+    },
+    {
+      "start": 16.333,
+      "end": 19.733,
+      "text": "nine months later a journalist reported that steam"
+    },
+    {
+      "start": 19.766,
+      "end": 22.1,
+      "text": "had never sent a single notification"
+    },
+    {
+      "start": 22.1,
+      "end": 24.2,
+      "text": "email to any of those people"
+    },
+    {
+      "start": 24.233,
+      "end": 28.2,
+      "text": "not a single one and the developer had no idea"
+    },
+    {
+      "start": 28.4,
+      "end": 30.366,
+      "text": "Yeah... I know that's"
+    },
+    {
+      "start": 30.366,
+      "end": 31.666,
+      "text": "an extreme case"
+    },
+    {
+      "start": 31.7,
+      "end": 33.966,
+      "text": "but the principle behind it is something"
+    },
+    {
+      "start": 33.966,
+      "end": 37,
+      "text": "every indie game developer needs to understand"
+    },
+    {
+      "start": 37.2,
+      "end": 39.866,
+      "text": "your steam launch window is shorter"
+    },
+    {
+      "start": 39.866,
+      "end": 42.533,
+      "text": "more fragile and harder to recover from"
+    },
+    {
+      "start": 42.533,
+      "end": 44.833,
+      "text": "than almost anyone tells you"
+    },
+    {
+      "start": 45,
+      "end": 47.166,
+      "text": "and most of the decisions that determine"
+    },
+    {
+      "start": 47.166,
+      "end": 50.866,
+      "text": "whether it works you make before you ever it publish"
+    },
+    {
+      "start": 51.266,
+      "end": 54.333,
+      "text": "today I'm walking you through the 5 mistakes"
+    },
+    {
+      "start": 54.333,
+      "end": 56,
+      "text": "that kill your launch window"
+    },
+    {
+      "start": 56.2,
+      "end": 58.966,
+      "text": "some of them happen weeks before launch"
+    },
+    {
+      "start": 58.966,
+      "end": 62.266,
+      "text": "and one of them you can trigger by accident"
+    },
+    {
+      "start": 62.266,
+      "end": 65.6,
+      "text": "just by updating a single field in Steamworks"
+    },
+    {
+      "start": 66.133,
+      "end": 69.766,
+      "text": "at the end I'll also give you a 48 hour checklist"
+    },
+    {
+      "start": 69.766,
+      "end": 71.966,
+      "text": "so none of this happens to your game"
+    },
+    {
+      "start": 84.3,
+      "end": 86.8,
+      "text": "there are a handful of places on steam"
+    },
+    {
+      "start": 86.8,
+      "end": 89.7,
+      "text": "where new games get real organic visibility"
+    },
+    {
+      "start": 90,
+      "end": 91.9,
+      "text": "the new and trending section"
+    },
+    {
+      "start": 91.933,
+      "end": 94.033,
+      "text": "the popular New Releases page"
+    },
+    {
+      "start": 94.033,
+      "end": 95.933,
+      "text": "and the popular upcoming list"
+    },
+    {
+      "start": 95.933,
+      "end": 97.833,
+      "text": "in the week before your launch"
+    },
+    {
+      "start": 97.866,
+      "end": 100.333,
+      "text": "each one puts your game in front of players"
+    },
+    {
+      "start": 100.333,
+      "end": 102.3,
+      "text": "who have never heard of it"
+    },
+    {
+      "start": 102.466,
+      "end": 105.6,
+      "text": "they are the closest things steam has to word of mouth"
+    },
+    {
+      "start": 105.933,
+      "end": 106.633,
+      "text": "according to"
+    },
+    {
+      "start": 106.633,
+      "end": 109.9,
+      "text": "the analysis from Simon Carless at Game Discovery Co"
+    },
+    {
+      "start": 109.9,
+      "end": 113.266,
+      "text": "only about 5 to 10% of weekly releases"
+    },
+    {
+      "start": 113.266,
+      "end": 115.4,
+      "text": "earn the new and trending flag"
+    },
+    {
+      "start": 115.533,
+      "end": 117.033,
+      "text": "and the flag is assigned"
+    },
+    {
+      "start": 117.033,
+      "end": 120.233,
+      "text": "within the very first minutes of your launch"
+    },
+    {
+      "start": 120.433,
+      "end": 123.966,
+      "text": "steam isn't watching how you perform over a month"
+    },
+    {
+      "start": 124,
+      "end": 126.766,
+      "text": "it's measuring what happens immediately"
+    },
+    {
+      "start": 126.933,
+      "end": 128.866,
+      "text": "how many people are actively playing"
+    },
+    {
+      "start": 128.866,
+      "end": 131.033,
+      "text": "how fast your game is generating traffic"
+    },
+    {
+      "start": 131.033,
+      "end": 132.9,
+      "text": "and the most important of all"
+    },
+    {
+      "start": 132.9,
+      "end": 136.366,
+      "text": "how quickly wishlists are converting to purchases"
+    },
+    {
+      "start": 136.633,
+      "end": 138.666,
+      "text": "that data from the first hours"
+    },
+    {
+      "start": 138.666,
+      "end": 139.3,
+      "text": "determines"
+    },
+    {
+      "start": 139.3,
+      "end": 142.3,
+      "text": "whether steam recommends your game to new players"
+    },
+    {
+      "start": 142.3,
+      "end": 144.133,
+      "text": "or simply moves on"
+    },
+    {
+      "start": 144.5,
+      "end": 148.5,
+      "text": "which means that the soft day 1 doesn't just hurt day 1"
+    },
+    {
+      "start": 148.5,
+      "end": 151.4,
+      "text": "it shapes your entire first week"
+    },
+    {
+      "start": 151.866,
+      "end": 153.066,
+      "text": "Game Discovery Co"
+    },
+    {
+      "start": 153.066,
+      "end": 156.6,
+      "text": "analyzed a batch of games from early 2025"
+    },
+    {
+      "start": 156.6,
+      "end": 159.433,
+      "text": "and found out that week one sales were roughly"
+    },
+    {
+      "start": 159.433,
+      "end": 163.533,
+      "text": "around 21.8 times the peak CCU"
+    },
+    {
+      "start": 163.666,
+      "end": 166.033,
+      "text": "which stands for concurrent users"
+    },
+    {
+      "start": 166.233,
+      "end": 169.3,
+      "text": "meaning how many players were playing at the same time"
+    },
+    {
+      "start": 169.3,
+      "end": 171.866,
+      "text": "on day one in plain terms"
+    },
+    {
+      "start": 171.866,
+      "end": 175.033,
+      "text": "if 100 people are in your game simultaneously"
+    },
+    {
+      "start": 175.033,
+      "end": 178.4,
+      "text": "on launch day you can expect around"
+    },
+    {
+      "start": 178.4,
+      "end": 181.7,
+      "text": "2180 sales by the end of the week"
+    },
+    {
+      "start": 182.133,
+      "end": 185.4,
+      "text": "your first 24 hours is a multiplier"
+    },
+    {
+      "start": 185.4,
+      "end": 189.433,
+      "text": "not a moment so here's what kills it"
+    },
+    {
+      "start": 191.566,
+      "end": 193.966,
+      "text": "steam only sends notification emails"
+    },
+    {
+      "start": 193.966,
+      "end": 196.9,
+      "text": "under four conditions No. 1"
+    },
+    {
+      "start": 196.9,
+      "end": 199.7,
+      "text": "your game launches No.2"
+    },
+    {
+      "start": 199.7,
+      "end": 202.833,
+      "text": "it moves from early access to full release"
+    },
+    {
+      "start": 203.233,
+      "end": 207.5,
+      "text": "No. 3 you run a discount of 20% or more"
+    },
+    {
+      "start": 207.5,
+      "end": 210.233,
+      "text": "and No. 4 you release a demo"
+    },
+    {
+      "start": 210.266,
+      "end": 211.133,
+      "text": "that's it"
+    },
+    {
+      "start": 211.133,
+      "end": 214.033,
+      "text": "four moments across your entire commercial life"
+    },
+    {
+      "start": 214.033,
+      "end": 215,
+      "text": "of your game"
+    },
+    {
+      "start": 215.233,
+      "end": 218.566,
+      "text": "and here's a rule most developers have never read"
+    },
+    {
+      "start": 218.833,
+      "end": 222.266,
+      "text": "steam enforces a two week cooldown between emails"
+    },
+    {
+      "start": 222.266,
+      "end": 224.933,
+      "text": "about the same app which means"
+    },
+    {
+      "start": 224.933,
+      "end": 228.3,
+      "text": "two of those four triggers can cancel each other out"
+    },
+    {
+      "start": 228.3,
+      "end": 231.266,
+      "text": "if you time them wrong here's the scenario"
+    },
+    {
+      "start": 231.266,
+      "end": 234.333,
+      "text": "you build the demo you run it through Steam Next Fest"
+    },
+    {
+      "start": 234.333,
+      "end": 235.833,
+      "text": "and it goes really well"
+    },
+    {
+      "start": 235.833,
+      "end": 238.233,
+      "text": "you picked up thousands of wishlist"
+    },
+    {
+      "start": 238.266,
+      "end": 239.5,
+      "text": "the community responds"
+    },
+    {
+      "start": 239.5,
+      "end": 242.533,
+      "text": "you feel the momentum so you ride it"
+    },
+    {
+      "start": 242.533,
+      "end": 244.833,
+      "text": "you launch the full game 10 days later"
+    },
+    {
+      "start": 244.833,
+      "end": 246.933,
+      "text": "while the energy is still there"
+    },
+    {
+      "start": 247.1,
+      "end": 249.733,
+      "text": "but steam sends no launch notification"
+    },
+    {
+      "start": 249.733,
+      "end": 251.733,
+      "text": "not a single wishlist"
+    },
+    {
+      "start": 251.766,
+      "end": 256.2,
+      "text": "because you triggered the demo email 9 days ago"
+    },
+    {
+      "start": 256.233,
+      "end": 258.266,
+      "text": "and the cooldown hasn't cleared"
+    },
+    {
+      "start": 258.5,
+      "end": 260.366,
+      "text": "steam doesn't warn you"
+    },
+    {
+      "start": 260.366,
+      "end": 263.4,
+      "text": "there's no flag in Steamworks that says cooldown"
+    },
+    {
+      "start": 263.4,
+      "end": 265.8,
+      "text": "active you simply hit publish"
+    },
+    {
+      "start": 265.8,
+      "end": 267.8,
+      "text": "you assume the emails went out"
+    },
+    {
+      "start": 267.8,
+      "end": 269.566,
+      "text": "and you find out weeks later"
+    },
+    {
+      "start": 269.566,
+      "end": 271.033,
+      "text": "if you find out at all"
+    },
+    {
+      "start": 271.033,
+      "end": 273.533,
+      "text": "that your wishlist audience never heard"
+    },
+    {
+      "start": 273.533,
+      "end": 275.1,
+      "text": "your game was live"
+    },
+    {
+      "start": 275.166,
+      "end": 278.166,
+      "text": "and even when the cooldown isn't the problem"
+    },
+    {
+      "start": 278.166,
+      "end": 281.6,
+      "text": "the numbers are still not what most developers expect"
+    },
+    {
+      "start": 281.733,
+      "end": 284.533,
+      "text": "according to data from presskit.GG"
+    },
+    {
+      "start": 284.533,
+      "end": 287.766,
+      "text": "only 60 to 75% of wishlist"
+    },
+    {
+      "start": 287.766,
+      "end": 289.7,
+      "text": "actually receives the notification"
+    },
+    {
+      "start": 290,
+      "end": 292.566,
+      "text": "unverified accounts never get emails"
+    },
+    {
+      "start": 292.666,
+      "end": 295,
+      "text": "users who opt out don't either"
+    },
+    {
+      "start": 295.066,
+      "end": 297.566,
+      "text": "so if you have around 10k wishlisters"
+    },
+    {
+      "start": 297.566,
+      "end": 301.166,
+      "text": "and the demo cooldown box your launch email entirely"
+    },
+    {
+      "start": 301.266,
+      "end": 304.366,
+      "text": "you are not reaching 10k people on day one"
+    },
+    {
+      "start": 304.366,
+      "end": 307.566,
+      "text": "you might reach zero"
+    },
+    {
+      "start": 307.566,
+      "end": 309.466,
+      "text": "and if the email does send"
+    },
+    {
+      "start": 309.466,
+      "end": 311.366,
+      "text": "but hits normal deliverability"
+    },
+    {
+      "start": 311.366,
+      "end": 315.7,
+      "text": "you are reaching 60k to 70.5k"
+    },
+    {
+      "start": 315.933,
+      "end": 317.1,
+      "text": "that gap matters"
+    },
+    {
+      "start": 317.1,
+      "end": 320.166,
+      "text": "when you're trying to generate a day one spike"
+    },
+    {
+      "start": 320.3,
+      "end": 322.9,
+      "text": "there's a real case that makes this concrete"
+    },
+    {
+      "start": 323.166,
+      "end": 327.7,
+      "text": "planet Centauri launched his first version with 130 k"
+    },
+    {
+      "start": 327.7,
+      "end": 329.9,
+      "text": "wishlists nine months later the"
+    },
+    {
+      "start": 329.9,
+      "end": 331.6,
+      "text": "developer discovered that steam"
+    },
+    {
+      "start": 331.6,
+      "end": 333.9,
+      "text": "had never sent a single notification"
+    },
+    {
+      "start": 333.9,
+      "end": 337,
+      "text": "email to any of those 130k people"
+    },
+    {
+      "start": 337.166,
+      "end": 341.333,
+      "text": "a platform level bug but those 130k people"
+    },
+    {
+      "start": 341.333,
+      "end": 344.066,
+      "text": "who asked to be told when this game was out"
+    },
+    {
+      "start": 344.133,
+      "end": 346.666,
+      "text": "never received the notification"
+    },
+    {
+      "start": 346.866,
+      "end": 350.133,
+      "text": "the developer found out almost a year after it happened"
+    },
+    {
+      "start": 350.133,
+      "end": 353.266,
+      "text": "when the PC Gamer article surfaced the story"
+    },
+    {
+      "start": 353.7,
+      "end": 356,
+      "text": "the lesson isn't that steam is broken"
+    },
+    {
+      "start": 356,
+      "end": 358.6,
+      "text": "not at all the lesson is that your"
+    },
+    {
+      "start": 358.6,
+      "end": 361.266,
+      "text": "entire day 1 traffic plan depends on steam"
+    },
+    {
+      "start": 361.266,
+      "end": 363.666,
+      "text": "notification system and nothing else"
+    },
+    {
+      "start": 363.733,
+      "end": 367.3,
+      "text": "you are completely exposed when something goes wrong"
+    },
+    {
+      "start": 367.7,
+      "end": 369.4,
+      "text": "the fix is simple"
+    },
+    {
+      "start": 369.533,
+      "end": 372.733,
+      "text": "leave at least two weeks between your demo notification"
+    },
+    {
+      "start": 372.733,
+      "end": 374.066,
+      "text": "and your launch date"
+    },
+    {
+      "start": 374.3,
+      "end": 377.966,
+      "text": "and build a secondary outreach channel discord"
+    },
+    {
+      "start": 377.966,
+      "end": 380.466,
+      "text": "an email list or even through social media"
+    },
+    {
+      "start": 380.466,
+      "end": 382.366,
+      "text": "that you can control directly"
+    },
+    {
+      "start": 382.566,
+      "end": 384.466,
+      "text": "don't outsource the most"
+    },
+    {
+      "start": 384.466,
+      "end": 387.066,
+      "text": "important announcement of your launch to a system"
+    },
+    {
+      "start": 387.066,
+      "end": 389.3,
+      "text": "you can't monitor or verify"
+    },
+    {
+      "start": 391.233,
+      "end": 394.066,
+      "text": "Steam's algorithm reads concurrent users"
+    },
+    {
+      "start": 394.233,
+      "end": 397.366,
+      "text": "which means how many people are in your game at once"
+    },
+    {
+      "start": 397.466,
+      "end": 399.733,
+      "text": "and they use this as a signal to whether"
+    },
+    {
+      "start": 399.733,
+      "end": 402.133,
+      "text": "a game is worth surfacing to more users"
+    },
+    {
+      "start": 402.133,
+      "end": 405.4,
+      "text": "or not CCU doesn't have to be massive"
+    },
+    {
+      "start": 405.4,
+      "end": 406.9,
+      "text": "but it has to spike"
+    },
+    {
+      "start": 407.333,
+      "end": 410.433,
+      "text": "most indie devs launch by posting an announcement"
+    },
+    {
+      "start": 410.433,
+      "end": 411.9,
+      "text": "and then waiting"
+    },
+    {
+      "start": 412.2,
+      "end": 414.433,
+      "text": "the problem is that the scattered audience"
+    },
+    {
+      "start": 414.433,
+      "end": 419.766,
+      "text": "generates a trickle wishlist emails open over 24 hours"
+    },
+    {
+      "start": 419.866,
+      "end": 422.9,
+      "text": "social post reach people at different times"
+    },
+    {
+      "start": 422.933,
+      "end": 424.8,
+      "text": "so the traffic arrives slowly"
+    },
+    {
+      "start": 424.8,
+      "end": 427.533,
+      "text": "unevenly and never picking"
+    },
+    {
+      "start": 427.966,
+      "end": 431.166,
+      "text": "steam responds to peaks not trickles"
+    },
+    {
+      "start": 431.733,
+      "end": 433.766,
+      "text": "what you want is a coordinated"
+    },
+    {
+      "start": 433.766,
+      "end": 437.333,
+      "text": "wave streamers lives YouTube coverage"
+    },
+    {
+      "start": 437.333,
+      "end": 439.966,
+      "text": "dropping press pieces going live"
+    },
+    {
+      "start": 439.966,
+      "end": 442.9,
+      "text": "Reddit posts and discord announcements"
+    },
+    {
+      "start": 443.133,
+      "end": 444.733,
+      "text": "all timed to hit"
+    },
+    {
+      "start": 444.733,
+      "end": 448.533,
+      "text": "within the very first four to six hours after lunch"
+    },
+    {
+      "start": 448.666,
+      "end": 451.033,
+      "text": "it is not to manipulate the algorithm"
+    },
+    {
+      "start": 451.033,
+      "end": 454.466,
+      "text": "but because concentrated attention in a short window"
+    },
+    {
+      "start": 454.466,
+      "end": 456.1,
+      "text": "creates a CCU peak"
+    },
+    {
+      "start": 456.266,
+      "end": 458.733,
+      "text": "and the CCU peak is what steam reads as"
+    },
+    {
+      "start": 458.733,
+      "end": 459.266,
+      "text": "a signal"
+    },
+    {
+      "start": 459.266,
+      "end": 461.733,
+      "text": "that something is worth showing to more people"
+    },
+    {
+      "start": 461.833,
+      "end": 465.566,
+      "text": "if you have 10 people who plan to cover your game"
+    },
+    {
+      "start": 465.566,
+      "end": 469.466,
+      "text": "please coordinate them give them the assets in advance"
+    },
+    {
+      "start": 469.833,
+      "end": 471.566,
+      "text": "tell them your launch window"
+    },
+    {
+      "start": 471.566,
+      "end": 475.233,
+      "text": "and ask them to go live in the very first 6 hours"
+    },
+    {
+      "start": 475.3,
+      "end": 479.333,
+      "text": "this is free it costs a few emails and a shared DOC"
+    },
+    {
+      "start": 479.466,
+      "end": 481.866,
+      "text": "but it can make a big difference"
+    },
+    {
+      "start": 481.866,
+      "end": 482.866,
+      "text": "it will make a difference"
+    },
+    {
+      "start": 482.866,
+      "end": 486.4,
+      "text": "between earning the new and trending flag or not"
+    },
+    {
+      "start": 488.533,
+      "end": 491.366,
+      "text": "most developers burn everything on launch day"
+    },
+    {
+      "start": 491.366,
+      "end": 493.333,
+      "text": "and go quiet on day 2"
+    },
+    {
+      "start": 493.466,
+      "end": 495.233,
+      "text": "no more social media posts"
+    },
+    {
+      "start": 495.233,
+      "end": 495.8,
+      "text": "the community"
+    },
+    {
+      "start": 495.8,
+      "end": 498.833,
+      "text": "engagement drops and there are no more streams"
+    },
+    {
+      "start": 498.933,
+      "end": 501,
+      "text": "and that's exactly when some of your most"
+    },
+    {
+      "start": 501,
+      "end": 503.266,
+      "text": "important conversions are happening"
+    },
+    {
+      "start": 503.433,
+      "end": 505.1,
+      "text": "game discovery co data"
+    },
+    {
+      "start": 505.1,
+      "end": 507.333,
+      "text": "shows that for better performing games"
+    },
+    {
+      "start": 507.333,
+      "end": 509.533,
+      "text": "the peak concurrent player count"
+    },
+    {
+      "start": 509.533,
+      "end": 512.733,
+      "text": "actually arrives 2.5 days after launch"
+    },
+    {
+      "start": 512.733,
+      "end": 516.933,
+      "text": "not on day one your wishlist email sends on day one"
+    },
+    {
+      "start": 516.933,
+      "end": 520.366,
+      "text": "but the players who open that email think about it"
+    },
+    {
+      "start": 520.366,
+      "end": 523.933,
+      "text": "decide to buy download and actually start playing"
+    },
+    {
+      "start": 524.033,
+      "end": 527.4,
+      "text": "they are spread across 48 hours or more"
+    },
+    {
+      "start": 527.566,
+      "end": 530.333,
+      "text": "new and trending isn't a one time snapshot"
+    },
+    {
+      "start": 530.333,
+      "end": 533.833,
+      "text": "it's a rolling signal if you go quiet on Day 2"
+    },
+    {
+      "start": 533.833,
+      "end": 535.233,
+      "text": "you are signalling to steam"
+    },
+    {
+      "start": 535.233,
+      "end": 536.866,
+      "text": "that the momentum has stopped"
+    },
+    {
+      "start": 536.9,
+      "end": 539.566,
+      "text": "even when the actual player interest hasn't"
+    },
+    {
+      "start": 539.833,
+      "end": 541.766,
+      "text": "stay active keep posting"
+    },
+    {
+      "start": 541.766,
+      "end": 543.666,
+      "text": "keep engaging with your community"
+    },
+    {
+      "start": 543.733,
+      "end": 547,
+      "text": "have a day two plan draft before you hit publish"
+    },
+    {
+      "start": 547.133,
+      "end": 549.3,
+      "text": "not improvise the morning after"
+    },
+    {
+      "start": 549.3,
+      "end": 552.566,
+      "text": "because you'll be exhausted and too reactive to do it"
+    },
+    {
+      "start": 552.566,
+      "end": 553.066,
+      "text": "well"
+    },
+    {
+      "start": 555,
+      "end": 557.333,
+      "text": "there is a steam visibility feature"
+    },
+    {
+      "start": 557.333,
+      "end": 559.666,
+      "text": "that most developers don't know exists"
+    },
+    {
+      "start": 559.866,
+      "end": 562.666,
+      "text": "until they have already lost access to it"
+    },
+    {
+      "start": 563,
+      "end": 564.766,
+      "text": "if your game builds enough"
+    },
+    {
+      "start": 564.766,
+      "end": 566.933,
+      "text": "wishlist momentum before launch"
+    },
+    {
+      "start": 566.966,
+      "end": 570.6,
+      "text": "roughly 7K to 12K wishlist according"
+    },
+    {
+      "start": 570.733,
+      "end": 573.7,
+      "text": "to data cited by gameifyouare"
+    },
+    {
+      "start": 573.733,
+      "end": 575.633,
+      "text": "it will appear in the popular"
+    },
+    {
+      "start": 575.633,
+      "end": 578.333,
+      "text": "upcoming section on Steam's front page"
+    },
+    {
+      "start": 578.333,
+      "end": 580.433,
+      "text": "in the week before you go live"
+    },
+    {
+      "start": 580.533,
+      "end": 583.1,
+      "text": "that's free front page real estate"
+    },
+    {
+      "start": 583.1,
+      "end": 585.866,
+      "text": "available to any game that earns it"
+    },
+    {
+      "start": 586.1,
+      "end": 589.833,
+      "text": "but it's tied directly to the release date you set"
+    },
+    {
+      "start": 589.833,
+      "end": 592.533,
+      "text": "in Steamworks if you set a date"
+    },
+    {
+      "start": 592.566,
+      "end": 596,
+      "text": "appear on Popular Upcoming and then change the date"
+    },
+    {
+      "start": 596,
+      "end": 597.933,
+      "text": "your appearance disappears"
+    },
+    {
+      "start": 598.233,
+      "end": 600.733,
+      "text": "and when you actually launch later"
+    },
+    {
+      "start": 600.8,
+      "end": 604.966,
+      "text": "you don't get it back valve system doesn't reset it"
+    },
+    {
+      "start": 604.966,
+      "end": 608.266,
+      "text": "the popular upcoming appearance is a one time window"
+    },
+    {
+      "start": 608.266,
+      "end": 608.966,
+      "text": "and you burned it"
+    },
+    {
+      "start": 612.033,
+      "end": 613.466,
+      "text": "during a steam sale"
+    },
+    {
+      "start": 613.466,
+      "end": 615.9,
+      "text": "player behavior shifts fundamentally"
+    },
+    {
+      "start": 616.133,
+      "end": 619.7,
+      "text": "they are not browsing for new full priced games"
+    },
+    {
+      "start": 619.866,
+      "end": 622.533,
+      "text": "they are hunting for discounts on games"
+    },
+    {
+      "start": 622.533,
+      "end": 623.833,
+      "text": "they already know"
+    },
+    {
+      "start": 623.966,
+      "end": 626.533,
+      "text": "their wishlist value temporarily drops"
+    },
+    {
+      "start": 626.666,
+      "end": 628.666,
+      "text": "they know that if they wait"
+    },
+    {
+      "start": 628.666,
+      "end": 630.966,
+      "text": "they can buy something for less"
+    },
+    {
+      "start": 631.2,
+      "end": 634.066,
+      "text": "launching a full priced game into that environment"
+    },
+    {
+      "start": 634.066,
+      "end": 636.866,
+      "text": "means that you are competing against familiar games"
+    },
+    {
+      "start": 636.866,
+      "end": 640.866,
+      "text": "at 50 60 or even 80% discount"
+    },
+    {
+      "start": 641.033,
+      "end": 643.733,
+      "text": "your game is new and at full price"
+    },
+    {
+      "start": 643.933,
+      "end": 646.533,
+      "text": "everything else is known and cheap"
+    },
+    {
+      "start": 646.866,
+      "end": 649.033,
+      "text": "even players who genuinely want"
+    },
+    {
+      "start": 649.033,
+      "end": 651.966,
+      "text": "your game are more likely to wishlist it"
+    },
+    {
+      "start": 651.966,
+      "end": 654.533,
+      "text": "and wait than to buy it at launch"
+    },
+    {
+      "start": 654.6,
+      "end": 656.266,
+      "text": "the fix is simple"
+    },
+    {
+      "start": 656.3,
+      "end": 659.566,
+      "text": "check the sales calendar before you commit to a date"
+    },
+    {
+      "start": 659.8,
+      "end": 662.733,
+      "text": "the major seasonal sales summer winter"
+    },
+    {
+      "start": 662.733,
+      "end": 664.1,
+      "text": "autumn and spring"
+    },
+    {
+      "start": 664.133,
+      "end": 667.766,
+      "text": "are publicly known months in advance on SteamDB"
+    },
+    {
+      "start": 667.933,
+      "end": 671.4,
+      "text": "if your target date falls inside a sale window"
+    },
+    {
+      "start": 671.4,
+      "end": 673.566,
+      "text": "or within two weeks before"
+    },
+    {
+      "start": 673.666,
+      "end": 674.633,
+      "text": "move it"
+    },
+    {
+      "start": 674.833,
+      "end": 678.133,
+      "text": "either launch more than 30 days before a sale"
+    },
+    {
+      "start": 678.166,
+      "end": 680.566,
+      "text": "so your launch algorithm window is complete"
+    },
+    {
+      "start": 680.566,
+      "end": 682.166,
+      "text": "before the sale starts"
+    },
+    {
+      "start": 682.233,
+      "end": 685.6,
+      "text": "or launch within the sale at a discount"
+    },
+    {
+      "start": 685.6,
+      "end": 687.833,
+      "text": "if your strategy calls for it"
+    },
+    {
+      "start": 687.866,
+      "end": 690.7,
+      "text": "what you do not want is to be in the gap"
+    },
+    {
+      "start": 690.766,
+      "end": 692.966,
+      "text": "too new to have organic momentum"
+    },
+    {
+      "start": 692.966,
+      "end": 695.566,
+      "text": "and too full price to compete with everything"
+    },
+    {
+      "start": 695.566,
+      "end": 696.833,
+      "text": "being discounted around you"
+    },
+    {
+      "start": 696.933,
+      "end": 700.433,
+      "text": "here's your 48 hour launch window checklist"
+    },
+    {
+      "start": 700.5,
+      "end": 703.966,
+      "text": "work through this before you set your go live date"
+    },
+    {
+      "start": 704.333,
+      "end": 707.6,
+      "text": "No. 1 the email clearance check"
+    },
+    {
+      "start": 707.9,
+      "end": 709.933,
+      "text": "when did you last trigger a sale"
+    },
+    {
+      "start": 709.933,
+      "end": 712.433,
+      "text": "a demo or a discount notification"
+    },
+    {
+      "start": 712.766,
+      "end": 715.6,
+      "text": "count 14 days forward from that date"
+    },
+    {
+      "start": 715.8,
+      "end": 718.6,
+      "text": "if that window overlaps your launch"
+    },
+    {
+      "start": 718.666,
+      "end": 720.1,
+      "text": "either move your launch"
+    },
+    {
+      "start": 720.1,
+      "end": 723.8,
+      "text": "or build a direct outreach campaign from day one"
+    },
+    {
+      "start": 723.8,
+      "end": 727.033,
+      "text": "through discord or your own email list"
+    },
+    {
+      "start": 727.066,
+      "end": 730.066,
+      "text": "do not assume steam will fill the gap"
+    },
+    {
+      "start": 730.2,
+      "end": 733.433,
+      "text": "No.2 the Traffic Coordination Brief"
+    },
+    {
+      "start": 733.7,
+      "end": 735.866,
+      "text": "make a list of every creator"
+    },
+    {
+      "start": 735.866,
+      "end": 739.3,
+      "text": "streamer or journalist who plans to cover your game"
+    },
+    {
+      "start": 739.466,
+      "end": 743.133,
+      "text": "send them the assets give them a specific launch window"
+    },
+    {
+      "start": 743.133,
+      "end": 744.733,
+      "text": "and ask them to go live"
+    },
+    {
+      "start": 744.733,
+      "end": 747.3,
+      "text": "within the very first six hours"
+    },
+    {
+      "start": 747.4,
+      "end": 750.633,
+      "text": "put this into a shared DOC not a memory"
+    },
+    {
+      "start": 750.866,
+      "end": 754.866,
+      "text": "No.3 the 48 hour content calendar"
+    },
+    {
+      "start": 755.5,
+      "end": 757.5,
+      "text": "write your community posts"
+    },
+    {
+      "start": 757.5,
+      "end": 758.366,
+      "text": "social updates"
+    },
+    {
+      "start": 758.366,
+      "end": 761.666,
+      "text": "and discord messages for both day one and day two"
+    },
+    {
+      "start": 761.666,
+      "end": 764.166,
+      "text": "before you launch not after"
+    },
+    {
+      "start": 764.266,
+      "end": 767.733,
+      "text": "you will not have the energy or the clarity to do it"
+    },
+    {
+      "start": 767.733,
+      "end": 770.166,
+      "text": "well once you are watching the dashboard"
+    },
+    {
+      "start": 770.266,
+      "end": 773.266,
+      "text": "No.4 the date commitment rule"
+    },
+    {
+      "start": 773.466,
+      "end": 774.966,
+      "text": "only set your Steamworks"
+    },
+    {
+      "start": 774.966,
+      "end": 777.9,
+      "text": "release date when you are within 30 days"
+    },
+    {
+      "start": 777.9,
+      "end": 780.1,
+      "text": "and confident before that"
+    },
+    {
+      "start": 780.1,
+      "end": 781.1,
+      "text": "coming soon"
+    },
+    {
+      "start": 781.333,
+      "end": 784.5,
+      "text": "if you have already set a date and need to move it"
+    },
+    {
+      "start": 784.5,
+      "end": 786.166,
+      "text": "do it once as"
+    },
+    {
+      "start": 786.166,
+      "end": 789.9,
+      "text": "early as possible and do not move it again"
+    },
+    {
+      "start": 790.1,
+      "end": 793.1,
+      "text": "No.5 the Steam Calendar"
+    },
+    {
+      "start": 793.1,
+      "end": 793.9,
+      "text": "check"
+    },
+    {
+      "start": 794.266,
+      "end": 799.1,
+      "text": "open steamdb.info and look at the next 90 days"
+    },
+    {
+      "start": 799.3,
+      "end": 802.233,
+      "text": "does your launch date fall inside a major sale"
+    },
+    {
+      "start": 802.366,
+      "end": 805.1,
+      "text": "or within two weeks before one"
+    },
+    {
+      "start": 805.333,
+      "end": 807.3,
+      "text": "if yes move it"
+    },
+    {
+      "start": 807.566,
+      "end": 809.466,
+      "text": "the sale calendar is public"
+    },
+    {
+      "start": 809.7,
+      "end": 813.666,
+      "text": "there is no excuse for accidentally launching into one"
+    },
+    {
+      "start": 813.766,
+      "end": 817.7,
+      "text": "every single item on that list is a pre launch decision"
+    },
+    {
+      "start": 817.766,
+      "end": 820.166,
+      "text": "no more development no more money"
+    },
+    {
+      "start": 820.266,
+      "end": 824.6,
+      "text": "30 minutes of planning done before you hit publish"
+    },
+    {
+      "start": 829.6,
+      "end": 831.9,
+      "text": "one more thing before the outro"
+    },
+    {
+      "start": 832.066,
+      "end": 834.3,
+      "text": "everything we've covered in this series"
+    },
+    {
+      "start": 834.3,
+      "end": 835.9,
+      "text": "fixing your first 10 minutes"
+    },
+    {
+      "start": 835.9,
+      "end": 838.8,
+      "text": "fixing your steam page fixing your launch window"
+    },
+    {
+      "start": 838.866,
+      "end": 840.566,
+      "text": "only stacks properly"
+    },
+    {
+      "start": 840.566,
+      "end": 843.7,
+      "text": "if you have players who actually show up"
+    },
+    {
+      "start": 843.9,
+      "end": 846.8,
+      "text": "that's where qudo fits into this"
+    },
+    {
+      "start": 846.866,
+      "end": 848.833,
+      "text": "the hardest part on day 1"
+    },
+    {
+      "start": 848.833,
+      "end": 851.566,
+      "text": "is generating enough concurrent players"
+    },
+    {
+      "start": 851.6,
+      "end": 852.466,
+      "text": "fast enough"
+    },
+    {
+      "start": 852.466,
+      "end": 855.7,
+      "text": "to send the right signal to Steam's algorithm"
+    },
+    {
+      "start": 856.033,
+      "end": 858.433,
+      "text": "qudo is a platform where indie players"
+    },
+    {
+      "start": 858.433,
+      "end": 860.433,
+      "text": "specifically engage with games"
+    },
+    {
+      "start": 860.433,
+      "end": 863.633,
+      "text": "not passively but through challenge rewards"
+    },
+    {
+      "start": 863.633,
+      "end": 865.9,
+      "text": "that are designed to get them playing"
+    },
+    {
+      "start": 866.1,
+      "end": 868.5,
+      "text": "when you activate challenges before your launch"
+    },
+    {
+      "start": 868.5,
+      "end": 870.466,
+      "text": "you have a ready group of players"
+    },
+    {
+      "start": 870.466,
+      "end": 873.266,
+      "text": "who are primed to be among your first users"
+    },
+    {
+      "start": 873.266,
+      "end": 875.466,
+      "text": "on day 1 real playtime"
+    },
+    {
+      "start": 875.466,
+      "end": 878.533,
+      "text": "real CCU contribution and real reviews"
+    },
+    {
+      "start": 878.9,
+      "end": 882.833,
+      "text": "here's how to use it for your launch step one"
+    },
+    {
+      "start": 883,
+      "end": 884.433,
+      "text": "list your game on qudo"
+    },
+    {
+      "start": 884.433,
+      "end": 886.533,
+      "text": "and set up your challenge rewards"
+    },
+    {
+      "start": 886.533,
+      "end": 888.666,
+      "text": "at least two weeks before you go"
+    },
+    {
+      "start": 888.666,
+      "end": 891.133,
+      "text": "live link is in the description"
+    },
+    {
+      "start": 891.366,
+      "end": 892.4,
+      "text": "step 2"
+    },
+    {
+      "start": 892.6,
+      "end": 896.133,
+      "text": "build your 48 hour content plan using the checklist"
+    },
+    {
+      "start": 896.133,
+      "end": 897.566,
+      "text": "from this episode"
+    },
+    {
+      "start": 897.8,
+      "end": 899.066,
+      "text": "step three"
+    },
+    {
+      "start": 899.366,
+      "end": 901.666,
+      "text": "activate Qudo's performance rewards"
+    },
+    {
+      "start": 901.666,
+      "end": 904.7,
+      "text": "on launch day the community gets notified"
+    },
+    {
+      "start": 904.766,
+      "end": 905.566,
+      "text": "they play"
+    },
+    {
+      "start": 905.566,
+      "end": 908.433,
+      "text": "and their playtime feeds directly into the signal"
+    },
+    {
+      "start": 908.433,
+      "end": 911.233,
+      "text": "steam is watching in your launch window"
+    },
+    {
+      "start": 911.466,
+      "end": 913.5,
+      "text": "one last question for you"
+    },
+    {
+      "start": 913.566,
+      "end": 916,
+      "text": "of the 5 mistakes we covered today"
+    },
+    {
+      "start": 916,
+      "end": 919.566,
+      "text": "which one did you recognize in your own launch plans"
+    },
+    {
+      "start": 919.566,
+      "end": 921.2,
+      "text": "or already make"
+    },
+    {
+      "start": 921.3,
+      "end": 924.566,
+      "text": "was it burning the wishlist email was not coordinated"
+    },
+    {
+      "start": 924.566,
+      "end": 927.766,
+      "text": "day 1 traffic going dark on day 2"
+    },
+    {
+      "start": 927.766,
+      "end": 931.966,
+      "text": "moving your launch date or launching into a sale"
+    },
+    {
+      "start": 932.166,
+      "end": 935,
+      "text": "drop it in the comments the patterns of answers"
+    },
+    {
+      "start": 935,
+      "end": 938.266,
+      "text": "is going to shape what we go deep on next"
+    },
+    {
+      "start": 938.466,
+      "end": 940.6,
+      "text": "see you in the next growth clinic"
+    }
+  ]
+}

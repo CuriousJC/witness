@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { spawnSync } from 'node:child_process';
+import { cleanVideoCache } from './cache.mjs';
 import { videoId, youtube, stamp, SLUG, frameTimes, frameFile, parseJson3, parseVtt, sourceRecord, validateSource, validateVisuals, validateArticle, renderArticle, renderMarkdown, renderIndex } from './core.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
@@ -87,7 +88,7 @@ function extractFrames(input, selection) {
   const ffmpeg = binary('ffmpeg');
   const probe = spawnSync(ffmpeg, ['-version'], { windowsHide: true, encoding: 'utf8' });
   if (probe.error || probe.status !== 0) throw new Error('FFmpeg is required for snapshot extraction; put ffmpeg on PATH or in .tools/.');
-  if (!fs.existsSync(video)) run(binary('yt-dlp'), ['--ignore-config', '--no-playlist', '--js-runtimes', 'node', '--no-progress', '-f', 'bestvideo[height<=720][ext=mp4]/best[height<=720][ext=mp4]', '--paths', cache, '-o', 'video.%(ext)s', source.url], 600000);
+  if (!fs.existsSync(video) && times.some(time => !fs.existsSync(at('sources', source.slug, frameFile(time))))) run(binary('yt-dlp'), ['--ignore-config', '--no-playlist', '--js-runtimes', 'node', '--no-progress', '-f', 'bestvideo[height<=720][ext=mp4]/best[height<=720][ext=mp4]', '--paths', cache, '-o', 'video.%(ext)s', source.url], 600000);
   const manifestFile = at('sources', source.slug, 'visuals.json');
   const manifest = fs.existsSync(manifestFile) ? read(manifestFile) : { videoId: source.videoId, frames: [] };
   validateVisuals(manifest, source);
@@ -143,6 +144,11 @@ try {
   const [command, ...args] = process.argv.slice(2);
   if (command === 'fetch' && args.length >= 1 && args.length <= 2 && (!args[1] || args[1] === '--refresh')) fetchVideo(args[0], args[1] === '--refresh');
   else if (command === 'frames' && args.length === 2) extractFrames(args[0], args[1]);
+  else if (command === 'clean-cache' && args.length <= 1) {
+    const selected = args.length ? [loadSource(args[0])] : sources();
+    const result = cleanVideoCache(root, selected.map(source => source.slug));
+    console.log(`Removed ${result.files} cached video file(s), freeing ${(result.bytes / 1024 / 1024).toFixed(1)} MiB. Source captions and inspected frames were preserved.`);
+  }
   else if (command === 'import' && args.length === 3) {
     const id = videoId(args[0]);
     saveSource(sourceRecord(id, read(path.resolve(args[2])), captions(path.resolve(args[1])), { language: 'und', kind: 'imported', format: path.extname(args[1]).slice(1) }));
@@ -161,7 +167,12 @@ try {
       if (/\.(html|md)$/.test(name) && !expected.has(`docs/videos/${name}`)) throw new Error(`Orphan reading edition: docs/videos/${name}; review it before removing it.`);
     }
     console.log(`${command === 'build' ? 'Built' : 'Verified'} ${[...files.keys()].filter(k => k.startsWith('docs/videos/') && k.endsWith('.html')).length} reading edition(s) in HTML and Markdown, plus the library. Open docs/index.html.`);
-  } else throw new Error('Usage: node tools/witness.mjs fetch <url> [--refresh] | transcript <title-slug-or-url> | frames <title-slug-or-url> <seconds,...> | import <url> <captions.json3|vtt> <info.json> | build | check');
+    if (command === 'build') {
+      const completed = new Set([...files.keys()].filter(name => /^docs\/videos\/.+\.html$/.test(name)).map(name => read(at('articles', `${path.basename(name, '.html')}.json`)).videoId));
+      const result = cleanVideoCache(root, sources().filter(source => completed.has(source.videoId)).map(source => source.slug));
+      if (result.files) console.log(`Removed ${result.files} completed video download(s), freeing ${(result.bytes / 1024 / 1024).toFixed(1)} MiB.`);
+    }
+  } else throw new Error('Usage: node tools/witness.mjs fetch <url> [--refresh] | transcript <title-slug-or-url> | frames <title-slug-or-url> <seconds,...> | clean-cache [title-slug-or-url] | import <url> <captions.json3|vtt> <info.json> | build | check');
 } catch (error) {
   console.error(`Witness: ${error.message}`);
   process.exitCode = 1;

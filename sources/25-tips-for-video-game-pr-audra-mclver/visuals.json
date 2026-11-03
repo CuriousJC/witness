@@ -1,0 +1,89 @@
+{
+  "videoId": "FWrwVB90FoA",
+  "frames": [
+    {
+      "time": 110,
+      "file": "frames/frame-00-01-50.jpg",
+      "observations": [
+        "The camera shows the stage and podium; the speaker is outside this instant’s frame. No presentation slide is visible."
+      ]
+    },
+    {
+      "time": 175,
+      "file": "frames/frame-00-02-55.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 220,
+      "file": "frames/frame-00-03-40.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 350,
+      "file": "frames/frame-00-05-50.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 500,
+      "file": "frames/frame-00-08-20.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 630,
+      "file": "frames/frame-00-10-30.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 735,
+      "file": "frames/frame-00-12-15.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 870,
+      "file": "frames/frame-00-14-30.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium during the screenshot discussion. The referenced screenshot itself is not visible, so its composition cannot be verified."
+      ]
+    },
+    {
+      "time": 1100,
+      "file": "frames/frame-00-18-20.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 1350,
+      "file": "frames/frame-00-22-30.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 1550,
+      "file": "frames/frame-00-25-50.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    },
+    {
+      "time": 1765,
+      "file": "frames/frame-00-29-25.jpg",
+      "observations": [
+        "The camera shows the speaker at the podium. The projected presentation material is not visible in this snapshot."
+      ]
+    }
+  ]
+}

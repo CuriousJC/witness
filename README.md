@@ -54,6 +54,10 @@ powershell -ExecutionPolicy Bypass -File tools/setup.ps1
 FFmpeg and yt-dlp can also be provided on PATH. Downloaded video and temporary files stay
 in the ignored `.cache/` directory; source captions, selected frames, and their observations
 remain available alongside the article.
+Successful builds delete downloaded videos for completed readings. To clear full or partial
+video downloads for all saved sources manually, run `node tools/witness.mjs clean-cache`;
+add a source slug or YouTube URL to clean just that source. This preserves captions,
+selected frames, observations, and readings. New frame selections can download the video again.
 
 ## Working on the repository
 

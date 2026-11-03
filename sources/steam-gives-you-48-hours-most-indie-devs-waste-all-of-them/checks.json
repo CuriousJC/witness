@@ -1,0 +1,34 @@
+{
+  "checkedOn": "2026-11-02",
+  "purpose": "Editorial checks, separate from the video transcript. Qualifications appear in the article and are not attributed to the presenter.",
+  "references": [
+    {
+      "title": "Steamworks: Visibility on Steam",
+      "url": "https://partner.steamgames.com/doc/marketing/visibility"
+    },
+    {
+      "title": "Steamworks: Wishlists",
+      "url": "https://partner.steamgames.com/doc/marketing/wishlist"
+    },
+    {
+      "title": "Steamworks: Release Dates",
+      "url": "https://partner.steamgames.com/doc/store/release_dates"
+    },
+    {
+      "title": "Steamworks: Steam Personal Calendar",
+      "url": "https://partner.steamgames.com/doc/marketing/visibility/personalcalendar"
+    },
+    {
+      "title": "Steamworks: Discounting",
+      "url": "https://partner.steamgames.com/doc/marketing/discounts"
+    },
+    {
+      "title": "GameDiscoverCo: How your Steam launch players relate to Week 1 sales! (May 13, 2025)",
+      "url": "https://newsletter.gamediscover.co/p/how-your-steam-launch-players-relate"
+    },
+    {
+      "title": "PC Gamer: Planet Centauri wishlist-notification failure (September 19, 2025)",
+      "url": "https://www.pcgamer.com/games/survival-crafting/9-months-after-its-1-0-launch-flopped-an-indie-dev-just-learned-that-steam-never-emailed-the-130-000-people-who-wishlisted-its-game/"
+    }
+  ]
+}

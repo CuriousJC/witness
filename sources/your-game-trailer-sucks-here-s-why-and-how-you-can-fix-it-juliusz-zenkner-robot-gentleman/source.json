@@ -1,0 +1,8549 @@
+{
+  "videoId": "QGumvc0MsAI",
+  "slug": "your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman",
+  "url": "https://www.youtube.com/watch?v=QGumvc0MsAI",
+  "title": "Your Game Trailer sucks. Here’s why and how you can fix it! | Juliusz Zenkner Robot Gentleman",
+  "channel": "Game Industry Conference",
+  "published": "2021-02-11",
+  "duration": 4016,
+  "description": "Recorded talk from Game Trailer Challenge.\n\nGame trailers are very successful marketing assets that can really help you to promote your game. Sooner or later you will need to have a proper game trailer and it doesn’t need to be a painful task resulting in a boring 5-minute recording of a gameplay. I’ll will show you some of my personal tips and tricks how to invite players into your world by making the videos more interesting. I will also share my experiences from the perspective both a filmmaker and game developer.\n\nFollow GIC on Facebook: https://www.facebook.com/gic\nFollow GIC on Twitter: https://twitter.com/gdcon\nOur website: https://gic.gd/",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 230,
+      "title": "<Untitled Chapter 1>"
+    },
+    {
+      "start": 230,
+      "end": 512,
+      "title": "The Role of Game Trailers"
+    },
+    {
+      "start": 512,
+      "end": 544,
+      "title": "What Are Game Trailers"
+    },
+    {
+      "start": 544,
+      "end": 622,
+      "title": "Teaser Trailer"
+    },
+    {
+      "start": 622,
+      "end": 731,
+      "title": "Launch Trailer"
+    },
+    {
+      "start": 731,
+      "end": 769,
+      "title": "Story Trailers"
+    },
+    {
+      "start": 769,
+      "end": 847,
+      "title": "Gameplay Trailer"
+    },
+    {
+      "start": 847,
+      "end": 899,
+      "title": "Cinematic Trailer"
+    },
+    {
+      "start": 899,
+      "end": 962,
+      "title": "Live Action Trailers"
+    },
+    {
+      "start": 962,
+      "end": 1008,
+      "title": "Marketing"
+    },
+    {
+      "start": 1008,
+      "end": 1072,
+      "title": "Planning the Game Trailer"
+    },
+    {
+      "start": 1072,
+      "end": 2550,
+      "title": "Communicate with Your Production"
+    },
+    {
+      "start": 2550,
+      "end": 2693,
+      "title": "Viewer Count"
+    },
+    {
+      "start": 2693,
+      "end": 2903,
+      "title": "Store Platforms"
+    },
+    {
+      "start": 2903,
+      "end": 3383,
+      "title": "Add Subtitles or Animated Text"
+    },
+    {
+      "start": 3383,
+      "end": 4016,
+      "title": "Questions"
+    }
+  ],
+  "captions": {
+    "language": "en-orig",
+    "kind": "automatic",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 10.24,
+      "end": 17.359,
+      "text": "okay i think we can slowly start"
+    },
+    {
+      "start": 13.84,
+      "end": 22.96,
+      "text": "welcoming one to game trailer challenge"
+    },
+    {
+      "start": 17.359,
+      "end": 26,
+      "text": "uh i'm your host today uh julius lechner"
+    },
+    {
+      "start": 22.96,
+      "end": 28.16,
+      "text": "and the second we'll start talk called"
+    },
+    {
+      "start": 26,
+      "end": 31.84,
+      "text": "your game trailer sucks here's why and"
+    },
+    {
+      "start": 28.16,
+      "end": 31.84,
+      "text": "how you can fix it"
+    },
+    {
+      "start": 48,
+      "end": 52.64,
+      "text": "okay so your gamer truck your game"
+    },
+    {
+      "start": 51.28,
+      "end": 56.64,
+      "text": "trader sucks and"
+    },
+    {
+      "start": 52.64,
+      "end": 59.76,
+      "text": "here's how and how we can fix it"
+    },
+    {
+      "start": 56.64,
+      "end": 64.08,
+      "text": "uh it's a it's a of course uh"
+    },
+    {
+      "start": 59.76,
+      "end": 67.28,
+      "text": "clickbait title but we'll get into it"
+    },
+    {
+      "start": 64.08,
+      "end": 70.479,
+      "text": "uh my name is is huge zachner i'm"
+    },
+    {
+      "start": 67.28,
+      "end": 73.68,
+      "text": "art director in robot gentlemen a"
+    },
+    {
+      "start": 70.479,
+      "end": 77.36,
+      "text": "small studio in poznan indie game dev"
+    },
+    {
+      "start": 73.68,
+      "end": 78.08,
+      "text": "before uh before games i was working in"
+    },
+    {
+      "start": 77.36,
+      "end": 80.64,
+      "text": "movies"
+    },
+    {
+      "start": 78.08,
+      "end": 81.92,
+      "text": "uh in studio called plotting image when"
+    },
+    {
+      "start": 80.64,
+      "end": 86.88,
+      "text": "i was working on"
+    },
+    {
+      "start": 81.92,
+      "end": 88.72,
+      "text": "films like melancholia by lars frontier"
+    },
+    {
+      "start": 86.88,
+      "end": 92.72,
+      "text": "when i was doing post-production made"
+    },
+    {
+      "start": 88.72,
+      "end": 94.24,
+      "text": "painting special effects and such"
+    },
+    {
+      "start": 92.72,
+      "end": 98.079,
+      "text": "other movies i was working on was"
+    },
+    {
+      "start": 94.24,
+      "end": 101.2,
+      "text": "influenced by lukasz barczyk"
+    },
+    {
+      "start": 98.079,
+      "end": 103.6,
+      "text": "it was also mostly post production"
+    },
+    {
+      "start": 101.2,
+      "end": 107.119,
+      "text": "special effects made painting"
+    },
+    {
+      "start": 103.6,
+      "end": 109.759,
+      "text": "um and the last movie"
+    },
+    {
+      "start": 107.119,
+      "end": 110.479,
+      "text": "i was working on before i switched to"
+    },
+    {
+      "start": 109.759,
+      "end": 114.079,
+      "text": "game dev"
+    },
+    {
+      "start": 110.479,
+      "end": 116.64,
+      "text": "was uh ambition by thomas baginski"
+    },
+    {
+      "start": 114.079,
+      "end": 118.88,
+      "text": "it was a short movie about how awesome"
+    },
+    {
+      "start": 116.64,
+      "end": 120.719,
+      "text": "it is to land the satellite on a moving"
+    },
+    {
+      "start": 118.88,
+      "end": 124.159,
+      "text": "asteroid"
+    },
+    {
+      "start": 120.719,
+      "end": 127.28,
+      "text": "for european space agency"
+    },
+    {
+      "start": 124.159,
+      "end": 130.879,
+      "text": "um okay and 2015"
+    },
+    {
+      "start": 127.28,
+      "end": 133.04,
+      "text": "i joined my friend dominique toyo uh"
+    },
+    {
+      "start": 130.879,
+      "end": 135.04,
+      "text": "in a studio called robot gentlemen"
+    },
+    {
+      "start": 133.04,
+      "end": 138.48,
+      "text": "actually there were like just two of us"
+    },
+    {
+      "start": 135.04,
+      "end": 142,
+      "text": "and we create a game called"
+    },
+    {
+      "start": 138.48,
+      "end": 145.76,
+      "text": "60 seconds which has"
+    },
+    {
+      "start": 142,
+      "end": 149.44,
+      "text": "released and was released in 2015"
+    },
+    {
+      "start": 145.76,
+      "end": 151.84,
+      "text": "may um it's our first game and"
+    },
+    {
+      "start": 149.44,
+      "end": 153.04,
+      "text": "uh it was quite a hit"
+    },
+    {
+      "start": 151.84,
+      "end": 155.599,
+      "text": "[Music]"
+    },
+    {
+      "start": 153.04,
+      "end": 158.16,
+      "text": "it was on every youtube channels on"
+    },
+    {
+      "start": 155.599,
+      "end": 159.81,
+      "text": "every twitch channel"
+    },
+    {
+      "start": 158.16,
+      "end": 161.599,
+      "text": "it went quite good for us"
+    },
+    {
+      "start": 159.81,
+      "end": 164.879,
+      "text": "[Music]"
+    },
+    {
+      "start": 161.599,
+      "end": 168.239,
+      "text": "later on we created a"
+    },
+    {
+      "start": 164.879,
+      "end": 170.56,
+      "text": "sequel called 60 parsecs"
+    },
+    {
+      "start": 168.239,
+      "end": 172.16,
+      "text": "same kind of game the last one it was"
+    },
+    {
+      "start": 170.56,
+      "end": 174.4,
+      "text": "kind of post-apocalyptic"
+    },
+    {
+      "start": 172.16,
+      "end": 176.08,
+      "text": "wasteland survival game and this was in"
+    },
+    {
+      "start": 174.4,
+      "end": 179.519,
+      "text": "space"
+    },
+    {
+      "start": 176.08,
+      "end": 183.2,
+      "text": "and this was 2018 a year later"
+    },
+    {
+      "start": 179.519,
+      "end": 187.28,
+      "text": "2019 really 60 seconds re-atomized uh"
+    },
+    {
+      "start": 183.2,
+      "end": 187.599,
+      "text": "upscale version of 60 seconds when we"
+    },
+    {
+      "start": 187.28,
+      "end": 191.76,
+      "text": "did"
+    },
+    {
+      "start": 187.599,
+      "end": 195.519,
+      "text": "4k graphics switched to new engine and"
+    },
+    {
+      "start": 191.76,
+      "end": 199.04,
+      "text": "added many features and"
+    },
+    {
+      "start": 195.519,
+      "end": 200.319,
+      "text": "those are games so let's focus on the"
+    },
+    {
+      "start": 199.04,
+      "end": 203.599,
+      "text": "subject"
+    },
+    {
+      "start": 200.319,
+      "end": 205.519,
+      "text": "so why your game trader sucks uh what"
+    },
+    {
+      "start": 203.599,
+      "end": 207.36,
+      "text": "are we going to do here"
+    },
+    {
+      "start": 205.519,
+      "end": 210.4,
+      "text": "basically we're going to touch the"
+    },
+    {
+      "start": 207.36,
+      "end": 212.08,
+      "text": "subject of game trailers"
+    },
+    {
+      "start": 210.4,
+      "end": 214.4,
+      "text": "i'm going to show you my tips and tricks"
+    },
+    {
+      "start": 212.08,
+      "end": 217.599,
+      "text": "do's and don'ts"
+    },
+    {
+      "start": 214.4,
+      "end": 220.239,
+      "text": "and show you some of my trailers and"
+    },
+    {
+      "start": 217.599,
+      "end": 221.92,
+      "text": "trailers that we did in robot gentlemen"
+    },
+    {
+      "start": 220.239,
+      "end": 224.239,
+      "text": "and the end there'll be some time for"
+    },
+    {
+      "start": 221.92,
+      "end": 226.48,
+      "text": "some questions if you have any and"
+    },
+    {
+      "start": 224.239,
+      "end": 228.319,
+      "text": "hopefully some answers if i will have"
+    },
+    {
+      "start": 226.48,
+      "end": 231.84,
+      "text": "any"
+    },
+    {
+      "start": 228.319,
+      "end": 236.159,
+      "text": "so let's get to the point the"
+    },
+    {
+      "start": 231.84,
+      "end": 238.159,
+      "text": "role of game trailers um"
+    },
+    {
+      "start": 236.159,
+      "end": 240.159,
+      "text": "basically game trailer is a marketing"
+    },
+    {
+      "start": 238.159,
+      "end": 242.64,
+      "text": "asset and as such it has"
+    },
+    {
+      "start": 240.159,
+      "end": 244.48,
+      "text": "everything that is bad and good about"
+    },
+    {
+      "start": 242.64,
+      "end": 247.84,
+      "text": "marketing assets so budget"
+    },
+    {
+      "start": 244.48,
+      "end": 251.519,
+      "text": "time but also helps you reach your"
+    },
+    {
+      "start": 247.84,
+      "end": 254.319,
+      "text": "viewers your potential players everyone"
+    },
+    {
+      "start": 251.519,
+      "end": 256.4,
+      "text": "that you want to you know like infect"
+    },
+    {
+      "start": 254.319,
+      "end": 259.12,
+      "text": "with the idea of your game"
+    },
+    {
+      "start": 256.4,
+      "end": 260.32,
+      "text": "uh do that inception all that good stuff"
+    },
+    {
+      "start": 259.12,
+      "end": 262.479,
+      "text": "uh that everybody's"
+    },
+    {
+      "start": 260.32,
+      "end": 263.84,
+      "text": "so hyped about your game so trailer is"
+    },
+    {
+      "start": 262.479,
+      "end": 266.24,
+      "text": "super important it's"
+    },
+    {
+      "start": 263.84,
+      "end": 266.88,
+      "text": "also very important on storefronts on"
+    },
+    {
+      "start": 266.24,
+      "end": 269.919,
+      "text": "steam"
+    },
+    {
+      "start": 266.88,
+      "end": 273.44,
+      "text": "xbox playstation switch"
+    },
+    {
+      "start": 269.919,
+      "end": 276.479,
+      "text": "app store google play and whatever"
+    },
+    {
+      "start": 273.44,
+      "end": 278.72,
+      "text": "kfc console whatever um"
+    },
+    {
+      "start": 276.479,
+      "end": 280.24,
+      "text": "trailer is important not everyone does"
+    },
+    {
+      "start": 278.72,
+      "end": 283.28,
+      "text": "though those because"
+    },
+    {
+      "start": 280.24,
+      "end": 285.199,
+      "text": "actually i saw many games"
+    },
+    {
+      "start": 283.28,
+      "end": 286.96,
+      "text": "which were popular but they didn't have"
+    },
+    {
+      "start": 285.199,
+      "end": 288.96,
+      "text": "game trader but still"
+    },
+    {
+      "start": 286.96,
+      "end": 290,
+      "text": "uh i would also always recommend doing"
+    },
+    {
+      "start": 288.96,
+      "end": 293.6,
+      "text": "them and"
+    },
+    {
+      "start": 290,
+      "end": 295.28,
+      "text": "steam also recommends them and"
+    },
+    {
+      "start": 293.6,
+      "end": 296.8,
+      "text": "the role of game trainer trailer is"
+    },
+    {
+      "start": 295.28,
+      "end": 299.68,
+      "text": "super important"
+    },
+    {
+      "start": 296.8,
+      "end": 300.08,
+      "text": "but then what i want to talk about also"
+    },
+    {
+      "start": 299.68,
+      "end": 302.639,
+      "text": "is"
+    },
+    {
+      "start": 300.08,
+      "end": 303.44,
+      "text": "something i call the setting which is"
+    },
+    {
+      "start": 302.639,
+      "end": 306.639,
+      "text": "what is"
+    },
+    {
+      "start": 303.44,
+      "end": 308.4,
+      "text": "uh game trailer 4 it's as i said before"
+    },
+    {
+      "start": 306.639,
+      "end": 310.479,
+      "text": "you want to you know like"
+    },
+    {
+      "start": 308.4,
+      "end": 311.759,
+      "text": "make the inception in the player's mind"
+    },
+    {
+      "start": 310.479,
+      "end": 315.12,
+      "text": "that your game is"
+    },
+    {
+      "start": 311.759,
+      "end": 317.28,
+      "text": "gonna be good and game trailer is"
+    },
+    {
+      "start": 315.12,
+      "end": 320.72,
+      "text": "supposed to sell the idea to the player"
+    },
+    {
+      "start": 317.28,
+      "end": 321.759,
+      "text": "uh sell the idea of your game tell them"
+    },
+    {
+      "start": 320.72,
+      "end": 324.479,
+      "text": "what is"
+    },
+    {
+      "start": 321.759,
+      "end": 326,
+      "text": "worth playing worth buying you know it's"
+    },
+    {
+      "start": 324.479,
+      "end": 327.84,
+      "text": "business you want to sell the game you"
+    },
+    {
+      "start": 326,
+      "end": 331.36,
+      "text": "want to"
+    },
+    {
+      "start": 327.84,
+      "end": 333.44,
+      "text": "you want your player base to grow"
+    },
+    {
+      "start": 331.36,
+      "end": 334.639,
+      "text": "and the game trader is one of those"
+    },
+    {
+      "start": 333.44,
+      "end": 337.039,
+      "text": "tools that can help you"
+    },
+    {
+      "start": 334.639,
+      "end": 338,
+      "text": "with that because you can show the idea"
+    },
+    {
+      "start": 337.039,
+      "end": 339.52,
+      "text": "you can show the story"
+    },
+    {
+      "start": 338,
+      "end": 341.36,
+      "text": "you can show the gameplay you can show"
+    },
+    {
+      "start": 339.52,
+      "end": 343.36,
+      "text": "features and"
+    },
+    {
+      "start": 341.36,
+      "end": 345.039,
+      "text": "in the way that games are played because"
+    },
+    {
+      "start": 343.36,
+      "end": 347.919,
+      "text": "you know like screenshots"
+    },
+    {
+      "start": 345.039,
+      "end": 349.759,
+      "text": "are not the same thing right you can you"
+    },
+    {
+      "start": 347.919,
+      "end": 352.32,
+      "text": "can always show a screenshot and"
+    },
+    {
+      "start": 349.759,
+      "end": 354.08,
+      "text": "game plays differently the video is the"
+    },
+    {
+      "start": 352.32,
+      "end": 355.919,
+      "text": "most reliable source of information"
+    },
+    {
+      "start": 354.08,
+      "end": 357.68,
+      "text": "about your game"
+    },
+    {
+      "start": 355.919,
+      "end": 359.12,
+      "text": "i won't talk about the result and the"
+    },
+    {
+      "start": 357.68,
+      "end": 362.08,
+      "text": "result usually sucks"
+    },
+    {
+      "start": 359.12,
+      "end": 362.96,
+      "text": "and most of the games have really bad"
+    },
+    {
+      "start": 362.08,
+      "end": 366.08,
+      "text": "game traders"
+    },
+    {
+      "start": 362.96,
+      "end": 366.56,
+      "text": "like sorry not sorry but i saw many of"
+    },
+    {
+      "start": 366.08,
+      "end": 369.68,
+      "text": "them"
+    },
+    {
+      "start": 366.56,
+      "end": 370.16,
+      "text": "and you probably too and sometimes it"
+    },
+    {
+      "start": 369.68,
+      "end": 372.639,
+      "text": "just"
+    },
+    {
+      "start": 370.16,
+      "end": 373.36,
+      "text": "meh you don't want to do you want to"
+    },
+    {
+      "start": 372.639,
+      "end": 376.639,
+      "text": "have"
+    },
+    {
+      "start": 373.36,
+      "end": 380.08,
+      "text": "rememberable video that is"
+    },
+    {
+      "start": 376.639,
+      "end": 381.52,
+      "text": "enjoyable entertaining and"
+    },
+    {
+      "start": 380.08,
+      "end": 385.039,
+      "text": "[Music]"
+    },
+    {
+      "start": 381.52,
+      "end": 388.639,
+      "text": "well it's an important marketing tool"
+    },
+    {
+      "start": 385.039,
+      "end": 392.639,
+      "text": "so you can't you you want"
+    },
+    {
+      "start": 388.639,
+      "end": 395.44,
+      "text": "you know like failure marketing right so"
+    },
+    {
+      "start": 392.639,
+      "end": 397.919,
+      "text": "um game traders are a thing and they"
+    },
+    {
+      "start": 395.44,
+      "end": 401.28,
+      "text": "were a thing for many years now"
+    },
+    {
+      "start": 397.919,
+      "end": 404.319,
+      "text": "and in 2002 there was even a"
+    },
+    {
+      "start": 401.28,
+      "end": 405.84,
+      "text": "site called gametrailers.com and on this"
+    },
+    {
+      "start": 404.319,
+      "end": 407.28,
+      "text": "side there were like"
+    },
+    {
+      "start": 405.84,
+      "end": 407.97,
+      "text": "you know like there were so many game"
+    },
+    {
+      "start": 407.28,
+      "end": 410.08,
+      "text": "trailers and"
+    },
+    {
+      "start": 407.97,
+      "end": 412.08,
+      "text": "[Music]"
+    },
+    {
+      "start": 410.08,
+      "end": 413.52,
+      "text": "games were expanding as a market as an"
+    },
+    {
+      "start": 412.08,
+      "end": 415.44,
+      "text": "industry"
+    },
+    {
+      "start": 413.52,
+      "end": 417.46,
+      "text": "uh there were so many material that you"
+    },
+    {
+      "start": 415.44,
+      "end": 419.12,
+      "text": "can actually weekly watch"
+    },
+    {
+      "start": 417.46,
+      "end": 422.4,
+      "text": "[Music]"
+    },
+    {
+      "start": 419.12,
+      "end": 423.919,
+      "text": "game trailer top 10"
+    },
+    {
+      "start": 422.4,
+      "end": 425.759,
+      "text": "ranks or something you know like"
+    },
+    {
+      "start": 423.919,
+      "end": 428.4,
+      "text": "playlists and"
+    },
+    {
+      "start": 425.759,
+      "end": 430.08,
+      "text": "um it actually spawned a whole whole"
+    },
+    {
+      "start": 428.4,
+      "end": 432,
+      "text": "culture of watching"
+    },
+    {
+      "start": 430.08,
+      "end": 433.52,
+      "text": "video game trailers like i remember me"
+    },
+    {
+      "start": 432,
+      "end": 435.68,
+      "text": "and my friend were just like"
+    },
+    {
+      "start": 433.52,
+      "end": 437.919,
+      "text": "sometimes meeting up and grabbing"
+    },
+    {
+      "start": 435.68,
+      "end": 440.319,
+      "text": "popcorn and watching"
+    },
+    {
+      "start": 437.919,
+      "end": 440.96,
+      "text": "just game trailers after some e3 or"
+    },
+    {
+      "start": 440.319,
+      "end": 442.8,
+      "text": "other"
+    },
+    {
+      "start": 440.96,
+      "end": 445.12,
+      "text": "showcase you know like this year we had"
+    },
+    {
+      "start": 442.8,
+      "end": 447.84,
+      "text": "so many showcases uh"
+    },
+    {
+      "start": 445.12,
+      "end": 449.039,
+      "text": "besides e3 there was like i don't know"
+    },
+    {
+      "start": 447.84,
+      "end": 451.44,
+      "text": "even though it was"
+    },
+    {
+      "start": 449.039,
+      "end": 453.84,
+      "text": "actually the e3 was the playstation"
+    },
+    {
+      "start": 451.44,
+      "end": 456,
+      "text": "showcase xbox shock is"
+    },
+    {
+      "start": 453.84,
+      "end": 458.16,
+      "text": "nintendo there was also the game awards"
+    },
+    {
+      "start": 456,
+      "end": 459.12,
+      "text": "showcase and every time we saw a bunch"
+    },
+    {
+      "start": 458.16,
+      "end": 462.319,
+      "text": "of new game"
+    },
+    {
+      "start": 459.12,
+      "end": 463.84,
+      "text": "trailers uh because"
+    },
+    {
+      "start": 462.319,
+      "end": 466.24,
+      "text": "lack of the events because of the"
+    },
+    {
+      "start": 463.84,
+      "end": 468.24,
+      "text": "situation in the world but"
+    },
+    {
+      "start": 466.24,
+      "end": 472,
+      "text": "anyway people are like waiting for those"
+    },
+    {
+      "start": 468.24,
+      "end": 473.919,
+      "text": "like it's a it's a cultural thing and"
+    },
+    {
+      "start": 472,
+      "end": 475.199,
+      "text": "it's the time when you see so many games"
+    },
+    {
+      "start": 473.919,
+      "end": 478.72,
+      "text": "for"
+    },
+    {
+      "start": 475.199,
+      "end": 480.8,
+      "text": "new platforms for new console generation"
+    },
+    {
+      "start": 478.72,
+      "end": 482.08,
+      "text": "uh for the next year what's going to"
+    },
+    {
+      "start": 480.8,
+      "end": 482.479,
+      "text": "happen what's going to be released you"
+    },
+    {
+      "start": 482.08,
+      "end": 485.84,
+      "text": "know"
+    },
+    {
+      "start": 482.479,
+      "end": 486.879,
+      "text": "all that good stuff and you always get"
+    },
+    {
+      "start": 485.84,
+      "end": 489.599,
+      "text": "hyped when you"
+    },
+    {
+      "start": 486.879,
+      "end": 490.56,
+      "text": "when you watch those five minute movies"
+    },
+    {
+      "start": 489.599,
+      "end": 492.08,
+      "text": "that's gonna"
+    },
+    {
+      "start": 490.56,
+      "end": 493.919,
+      "text": "tease you with something new or"
+    },
+    {
+      "start": 492.08,
+      "end": 497.199,
+      "text": "something all that you love you know"
+    },
+    {
+      "start": 493.919,
+      "end": 500.96,
+      "text": "game trailers were and are the thing"
+    },
+    {
+      "start": 497.199,
+      "end": 502.879,
+      "text": "gaintraders.com actually closed in 2016"
+    },
+    {
+      "start": 500.96,
+      "end": 504.24,
+      "text": "and then and it's gonna be missed but it"
+    },
+    {
+      "start": 502.879,
+      "end": 507.039,
+      "text": "spawned so many good"
+    },
+    {
+      "start": 504.24,
+      "end": 508.319,
+      "text": "things like a series like angry video"
+    },
+    {
+      "start": 507.039,
+      "end": 511.599,
+      "text": "game nerd which i"
+    },
+    {
+      "start": 508.319,
+      "end": 513.039,
+      "text": "really love and darkly and many many"
+    },
+    {
+      "start": 511.599,
+      "end": 516.8,
+      "text": "more"
+    },
+    {
+      "start": 513.039,
+      "end": 516.8,
+      "text": "so what are game trailers"
+    },
+    {
+      "start": 517.68,
+      "end": 524.159,
+      "text": "i kind of made my own selection and"
+    },
+    {
+      "start": 521.039,
+      "end": 527.36,
+      "text": "i divided them to some by the kind"
+    },
+    {
+      "start": 524.159,
+      "end": 529.839,
+      "text": "so it's it's my personal"
+    },
+    {
+      "start": 527.36,
+      "end": 531.12,
+      "text": "approach uh it's not"
+    },
+    {
+      "start": 529.839,
+      "end": 531.519,
+      "text": "scientific because i don't know if"
+    },
+    {
+      "start": 531.12,
+      "end": 533.76,
+      "text": "there's"
+    },
+    {
+      "start": 531.519,
+      "end": 534.72,
+      "text": "science beside behind the games release"
+    },
+    {
+      "start": 533.76,
+      "end": 537.839,
+      "text": "right now"
+    },
+    {
+      "start": 534.72,
+      "end": 541.68,
+      "text": "um but i separated them to"
+    },
+    {
+      "start": 537.839,
+      "end": 545.279,
+      "text": "to groups and first group is like"
+    },
+    {
+      "start": 541.68,
+      "end": 546.16,
+      "text": "big small time related first is a teaser"
+    },
+    {
+      "start": 545.279,
+      "end": 548.8,
+      "text": "trailer which is"
+    },
+    {
+      "start": 546.16,
+      "end": 549.68,
+      "text": "short and it's usually comes up at the"
+    },
+    {
+      "start": 548.8,
+      "end": 551.44,
+      "text": "beginning of the"
+    },
+    {
+      "start": 549.68,
+      "end": 553.36,
+      "text": "of the campaign marketing campaign"
+    },
+    {
+      "start": 551.44,
+      "end": 555.2,
+      "text": "usually is the same time when"
+    },
+    {
+      "start": 553.36,
+      "end": 558.399,
+      "text": "development starts"
+    },
+    {
+      "start": 555.2,
+      "end": 560.32,
+      "text": "and the marketing campaign starts"
+    },
+    {
+      "start": 558.399,
+      "end": 562.56,
+      "text": "usually sometime later if you have a"
+    },
+    {
+      "start": 560.32,
+      "end": 564.8,
+      "text": "product that you want to sell so"
+    },
+    {
+      "start": 562.56,
+      "end": 567.36,
+      "text": "usually teaser trailer announcement"
+    },
+    {
+      "start": 564.8,
+      "end": 570.48,
+      "text": "trailer there at the beginning"
+    },
+    {
+      "start": 567.36,
+      "end": 572.8,
+      "text": "of the campaign and so"
+    },
+    {
+      "start": 570.48,
+      "end": 574.72,
+      "text": "many people are telling in the game devs"
+    },
+    {
+      "start": 572.8,
+      "end": 576.48,
+      "text": "that hey you want to"
+    },
+    {
+      "start": 574.72,
+      "end": 578.32,
+      "text": "talk about your game as soon as possible"
+    },
+    {
+      "start": 576.48,
+      "end": 582.24,
+      "text": "if you have anything going on"
+    },
+    {
+      "start": 578.32,
+      "end": 583.6,
+      "text": "talk about it well in bigger companies"
+    },
+    {
+      "start": 582.24,
+      "end": 586.72,
+      "text": "it's sometimes different"
+    },
+    {
+      "start": 583.6,
+      "end": 589.519,
+      "text": "usually you have a prepared campaign"
+    },
+    {
+      "start": 586.72,
+      "end": 590.72,
+      "text": "and teaser trader announcement trader is"
+    },
+    {
+      "start": 589.519,
+      "end": 592,
+      "text": "something that's going on on the"
+    },
+    {
+      "start": 590.72,
+      "end": 595.519,
+      "text": "beginning"
+    },
+    {
+      "start": 592,
+      "end": 598.64,
+      "text": "uh then you have game trailer which is"
+    },
+    {
+      "start": 595.519,
+      "end": 599.76,
+      "text": "you know like a short video if you want"
+    },
+    {
+      "start": 598.64,
+      "end": 602.839,
+      "text": "to define it"
+    },
+    {
+      "start": 599.76,
+      "end": 605.279,
+      "text": "it's a short video that is defining the"
+    },
+    {
+      "start": 602.839,
+      "end": 608.32,
+      "text": "game"
+    },
+    {
+      "start": 605.279,
+      "end": 609.839,
+      "text": "show the features show the gameplay"
+    },
+    {
+      "start": 608.32,
+      "end": 612.959,
+      "text": "tell you about the story tell you about"
+    },
+    {
+      "start": 609.839,
+      "end": 616.32,
+      "text": "narrative it can be anything from"
+    },
+    {
+      "start": 612.959,
+      "end": 618.72,
+      "text": "animation to live action actor"
+    },
+    {
+      "start": 616.32,
+      "end": 620.399,
+      "text": "animation whatever it can be everything"
+    },
+    {
+      "start": 618.72,
+      "end": 621.279,
+      "text": "that's actually the movie about your"
+    },
+    {
+      "start": 620.399,
+      "end": 623.519,
+      "text": "game"
+    },
+    {
+      "start": 621.279,
+      "end": 624.72,
+      "text": "and there's a new thing called launch"
+    },
+    {
+      "start": 623.519,
+      "end": 627.76,
+      "text": "trailer um"
+    },
+    {
+      "start": 624.72,
+      "end": 629.279,
+      "text": "it's not anything specially new it's"
+    },
+    {
+      "start": 627.76,
+      "end": 631.76,
+      "text": "just something that people started doing"
+    },
+    {
+      "start": 629.279,
+      "end": 635.2,
+      "text": "it because of the"
+    },
+    {
+      "start": 631.76,
+      "end": 638.72,
+      "text": "popularity of of you know"
+    },
+    {
+      "start": 635.2,
+      "end": 642.32,
+      "text": "media youtube and every"
+    },
+    {
+      "start": 638.72,
+      "end": 644.64,
+      "text": "every internet related media"
+    },
+    {
+      "start": 642.32,
+      "end": 646.56,
+      "text": "people as i said before really liking"
+    },
+    {
+      "start": 644.64,
+      "end": 650.16,
+      "text": "traders and launch trailers are"
+    },
+    {
+      "start": 646.56,
+      "end": 652.48,
+      "text": "those game trailers that are uh"
+    },
+    {
+      "start": 650.16,
+      "end": 653.68,
+      "text": "usually released on the on the release"
+    },
+    {
+      "start": 652.48,
+      "end": 656,
+      "text": "day or maybe a few days"
+    },
+    {
+      "start": 653.68,
+      "end": 657.2,
+      "text": "before just to remind you that the game"
+    },
+    {
+      "start": 656,
+      "end": 659.36,
+      "text": "you were hyped about"
+    },
+    {
+      "start": 657.2,
+      "end": 661.12,
+      "text": "you know with all those game triggers"
+    },
+    {
+      "start": 659.36,
+      "end": 662.399,
+      "text": "around you're gonna they want to remind"
+    },
+    {
+      "start": 661.12,
+      "end": 664.72,
+      "text": "you that"
+    },
+    {
+      "start": 662.399,
+      "end": 667.279,
+      "text": "um this game you were hyped about is"
+    },
+    {
+      "start": 664.72,
+      "end": 670.64,
+      "text": "gonna be released today or tomorrow or"
+    },
+    {
+      "start": 667.279,
+      "end": 673.76,
+      "text": "anywhere soon so uh"
+    },
+    {
+      "start": 670.64,
+      "end": 674.079,
+      "text": "companies started doing that and if you"
+    },
+    {
+      "start": 673.76,
+      "end": 676,
+      "text": "have"
+    },
+    {
+      "start": 674.079,
+      "end": 677.76,
+      "text": "power you should do it too you know like"
+    },
+    {
+      "start": 676,
+      "end": 679.92,
+      "text": "uh"
+    },
+    {
+      "start": 677.76,
+      "end": 681.36,
+      "text": "just to remind for everyone who was"
+    },
+    {
+      "start": 679.92,
+      "end": 683.04,
+      "text": "interested before that yeah"
+    },
+    {
+      "start": 681.36,
+      "end": 684.48,
+      "text": "this game is gonna come out and oh"
+    },
+    {
+      "start": 683.04,
+      "end": 686.72,
+      "text": "here's a new feature or"
+    },
+    {
+      "start": 684.48,
+      "end": 688.079,
+      "text": "maybe oh here's a there's a new boss or"
+    },
+    {
+      "start": 686.72,
+      "end": 690.64,
+      "text": "maybe some kind of secret"
+    },
+    {
+      "start": 688.079,
+      "end": 692.48,
+      "text": "revealed that's uh should you know like"
+    },
+    {
+      "start": 690.64,
+      "end": 695.279,
+      "text": "keep the hype up and"
+    },
+    {
+      "start": 692.48,
+      "end": 697.76,
+      "text": "keep you constantly interested in in the"
+    },
+    {
+      "start": 695.279,
+      "end": 701.12,
+      "text": "game that's coming up"
+    },
+    {
+      "start": 697.76,
+      "end": 701.12,
+      "text": "so that's one of the approaches"
+    },
+    {
+      "start": 701.44,
+      "end": 705.279,
+      "text": "the other one i decided to make is a"
+    },
+    {
+      "start": 704.079,
+      "end": 708.32,
+      "text": "story"
+    },
+    {
+      "start": 705.279,
+      "end": 711.44,
+      "text": "uh trailer uh which is uh well"
+    },
+    {
+      "start": 708.32,
+      "end": 714.639,
+      "text": "supposed to give you the"
+    },
+    {
+      "start": 711.44,
+      "end": 719.839,
+      "text": "hook up on the story uh"
+    },
+    {
+      "start": 714.639,
+      "end": 721.839,
+      "text": "supposed to give you the imagination"
+    },
+    {
+      "start": 719.839,
+      "end": 723.12,
+      "text": "help you imagine what the story will be"
+    },
+    {
+      "start": 721.839,
+      "end": 724.8,
+      "text": "about you know like show you the"
+    },
+    {
+      "start": 723.12,
+      "end": 725.36,
+      "text": "characters through the plot through the"
+    },
+    {
+      "start": 724.8,
+      "end": 727.839,
+      "text": "world"
+    },
+    {
+      "start": 725.36,
+      "end": 730,
+      "text": "everything that's gonna be in the game"
+    },
+    {
+      "start": 727.839,
+      "end": 733.2,
+      "text": "too for you to explore to"
+    },
+    {
+      "start": 730,
+      "end": 734.399,
+      "text": "experience there are many story trailers"
+    },
+    {
+      "start": 733.2,
+      "end": 737.2,
+      "text": "or"
+    },
+    {
+      "start": 734.399,
+      "end": 737.92,
+      "text": "story related trailers like for example"
+    },
+    {
+      "start": 737.2,
+      "end": 740.079,
+      "text": "when you have"
+    },
+    {
+      "start": 737.92,
+      "end": 742.16,
+      "text": "a big expansion for world of warcraft"
+    },
+    {
+      "start": 740.079,
+      "end": 744.72,
+      "text": "they usually do these animations with"
+    },
+    {
+      "start": 742.16,
+      "end": 746,
+      "text": "showcasing new characters for for the"
+    },
+    {
+      "start": 744.72,
+      "end": 748.079,
+      "text": "expansion or"
+    },
+    {
+      "start": 746,
+      "end": 750.079,
+      "text": "characters that are related to the story"
+    },
+    {
+      "start": 748.079,
+      "end": 752.48,
+      "text": "of the of the expansion"
+    },
+    {
+      "start": 750.079,
+      "end": 752.48,
+      "text": "um"
+    },
+    {
+      "start": 753.36,
+      "end": 756.399,
+      "text": "and this is one of the this is one of"
+    },
+    {
+      "start": 756.079,
+      "end": 758.88,
+      "text": "the"
+    },
+    {
+      "start": 756.399,
+      "end": 760.88,
+      "text": "things that uh hype is built up on the"
+    },
+    {
+      "start": 758.88,
+      "end": 763.68,
+      "text": "story on the characters you know like"
+    },
+    {
+      "start": 760.88,
+      "end": 764.24,
+      "text": "recurring characters if this is a sequel"
+    },
+    {
+      "start": 763.68,
+      "end": 768.56,
+      "text": "to a"
+    },
+    {
+      "start": 764.24,
+      "end": 770.32,
+      "text": "other big title but also you have the"
+    },
+    {
+      "start": 768.56,
+      "end": 772.399,
+      "text": "totally opposite approach which is the"
+    },
+    {
+      "start": 770.32,
+      "end": 774.48,
+      "text": "gameplay trailer and it's focusing on"
+    },
+    {
+      "start": 772.399,
+      "end": 775.68,
+      "text": "showing casing the feature the mechanics"
+    },
+    {
+      "start": 774.48,
+      "end": 776.32,
+      "text": "you know like showing the gameplay"
+    },
+    {
+      "start": 775.68,
+      "end": 778.72,
+      "text": "itself"
+    },
+    {
+      "start": 776.32,
+      "end": 779.92,
+      "text": "with all the good things all the cool"
+    },
+    {
+      "start": 778.72,
+      "end": 782,
+      "text": "things you know"
+    },
+    {
+      "start": 779.92,
+      "end": 783.36,
+      "text": "sometimes those totally separate ways"
+    },
+    {
+      "start": 782,
+      "end": 784.8,
+      "text": "you have the story trailer you have the"
+    },
+    {
+      "start": 783.36,
+      "end": 787.2,
+      "text": "gameplay trailer"
+    },
+    {
+      "start": 784.8,
+      "end": 788.8,
+      "text": "uh big companies usually you know like"
+    },
+    {
+      "start": 787.2,
+      "end": 790.399,
+      "text": "spamming with different trailers you"
+    },
+    {
+      "start": 788.8,
+      "end": 793.2,
+      "text": "know like behind the scenes"
+    },
+    {
+      "start": 790.399,
+      "end": 795.04,
+      "text": "story trailer and this trailer this kind"
+    },
+    {
+      "start": 793.2,
+      "end": 798.959,
+      "text": "of mechanic trailer"
+    },
+    {
+      "start": 795.04,
+      "end": 802.079,
+      "text": "and the gameplay trailer is usually"
+    },
+    {
+      "start": 798.959,
+      "end": 803.519,
+      "text": "required very often uh"
+    },
+    {
+      "start": 802.079,
+      "end": 805.2,
+      "text": "well sometimes it's just the recording"
+    },
+    {
+      "start": 803.519,
+      "end": 806.959,
+      "text": "of the gameplay but"
+    },
+    {
+      "start": 805.2,
+      "end": 808.8,
+      "text": "having a gameplay trailer really helps"
+    },
+    {
+      "start": 806.959,
+      "end": 811.76,
+      "text": "you steam actually"
+    },
+    {
+      "start": 808.8,
+      "end": 814.16,
+      "text": "uh kind of encourages you to keep your"
+    },
+    {
+      "start": 811.76,
+      "end": 816.16,
+      "text": "gameplay trader or gameplay video"
+    },
+    {
+      "start": 814.16,
+      "end": 818.079,
+      "text": "at the beginning of your storefront page"
+    },
+    {
+      "start": 816.16,
+      "end": 820.56,
+      "text": "you know like to have it you know like"
+    },
+    {
+      "start": 818.079,
+      "end": 822.399,
+      "text": "when you open the store page and you can"
+    },
+    {
+      "start": 820.56,
+      "end": 823.04,
+      "text": "see already someone's playing the game"
+    },
+    {
+      "start": 822.399,
+      "end": 825.76,
+      "text": "that's"
+    },
+    {
+      "start": 823.04,
+      "end": 827.44,
+      "text": "that's interesting that's fun you know"
+    },
+    {
+      "start": 825.76,
+      "end": 830.639,
+      "text": "instead of screenshot"
+    },
+    {
+      "start": 827.44,
+      "end": 833.199,
+      "text": "well gameplay trailers are usually um"
+    },
+    {
+      "start": 830.639,
+      "end": 834.72,
+      "text": "also very required by players themselves"
+    },
+    {
+      "start": 833.199,
+      "end": 836.32,
+      "text": "because you know like and it's nice"
+    },
+    {
+      "start": 834.72,
+      "end": 837.839,
+      "text": "story that's a nice video there"
+    },
+    {
+      "start": 836.32,
+      "end": 839.6,
+      "text": "nice animation but what's the game i"
+    },
+    {
+      "start": 837.839,
+      "end": 842.16,
+      "text": "want to see the game so gameplay"
+    },
+    {
+      "start": 839.6,
+      "end": 846,
+      "text": "trailers super important"
+    },
+    {
+      "start": 842.16,
+      "end": 848,
+      "text": "and another one i kind of divided by"
+    },
+    {
+      "start": 846,
+      "end": 849.44,
+      "text": "the technique that they are made of and"
+    },
+    {
+      "start": 848,
+      "end": 852.399,
+      "text": "we have the cinematic trailer"
+    },
+    {
+      "start": 849.44,
+      "end": 854,
+      "text": "which is usually some kind of footage of"
+    },
+    {
+      "start": 852.399,
+      "end": 856.399,
+      "text": "in game cut scenes or maybe"
+    },
+    {
+      "start": 854,
+      "end": 859.04,
+      "text": "standalone movie you know like animation"
+    },
+    {
+      "start": 856.399,
+      "end": 862.48,
+      "text": "pre-rendered you have those those good"
+    },
+    {
+      "start": 859.04,
+      "end": 864.48,
+      "text": "big aaa pre-rendered"
+    },
+    {
+      "start": 862.48,
+      "end": 865.76,
+      "text": "cinematic trailers like for assassin's"
+    },
+    {
+      "start": 864.48,
+      "end": 868.839,
+      "text": "creed or maybe"
+    },
+    {
+      "start": 865.76,
+      "end": 871.87,
+      "text": "uh starcraft you know this huge"
+    },
+    {
+      "start": 868.839,
+      "end": 873.92,
+      "text": "epic animations and"
+    },
+    {
+      "start": 871.87,
+      "end": 876,
+      "text": "[Music]"
+    },
+    {
+      "start": 873.92,
+      "end": 877.68,
+      "text": "sometimes the trailers are made of"
+    },
+    {
+      "start": 876,
+      "end": 878.72,
+      "text": "cinematic in-game cinematics you know"
+    },
+    {
+      "start": 877.68,
+      "end": 882.56,
+      "text": "like in-game"
+    },
+    {
+      "start": 878.72,
+      "end": 884.48,
+      "text": "engine cinematics that are just"
+    },
+    {
+      "start": 882.56,
+      "end": 886,
+      "text": "like showcasing some story or if you"
+    },
+    {
+      "start": 884.48,
+      "end": 888.8,
+      "text": "have game with"
+    },
+    {
+      "start": 886,
+      "end": 890.32,
+      "text": "100 hours of cinematics because they are"
+    },
+    {
+      "start": 888.8,
+      "end": 892.48,
+      "text": "there are games like that"
+    },
+    {
+      "start": 890.32,
+      "end": 894.56,
+      "text": "um you can you know like make a college"
+    },
+    {
+      "start": 892.48,
+      "end": 894.88,
+      "text": "you know like edit it to show some kind"
+    },
+    {
+      "start": 894.56,
+      "end": 898,
+      "text": "of"
+    },
+    {
+      "start": 894.88,
+      "end": 900.639,
+      "text": "uh game trailer of the story"
+    },
+    {
+      "start": 898,
+      "end": 902,
+      "text": "and you can have uh live action trailers"
+    },
+    {
+      "start": 900.639,
+      "end": 904.48,
+      "text": "which are"
+    },
+    {
+      "start": 902,
+      "end": 907.6,
+      "text": "either super futuristic animation either"
+    },
+    {
+      "start": 904.48,
+      "end": 910.639,
+      "text": "with actors you know like you have those"
+    },
+    {
+      "start": 907.6,
+      "end": 913.199,
+      "text": "uh movie"
+    },
+    {
+      "start": 910.639,
+      "end": 914.639,
+      "text": "very movie game trailer for wasteland 2"
+    },
+    {
+      "start": 913.199,
+      "end": 916.16,
+      "text": "when you have people dressed up as"
+    },
+    {
+      "start": 914.639,
+      "end": 918.56,
+      "text": "business rangers"
+    },
+    {
+      "start": 916.16,
+      "end": 920.48,
+      "text": "uh they are like burying someone on the"
+    },
+    {
+      "start": 918.56,
+      "end": 922,
+      "text": "desert and they are just like people"
+    },
+    {
+      "start": 920.48,
+      "end": 924.56,
+      "text": "in the in the costumes that's really"
+    },
+    {
+      "start": 922,
+      "end": 924.56,
+      "text": "cool and"
+    },
+    {
+      "start": 924.8,
+      "end": 929.12,
+      "text": "back in a few years ago maybe even even"
+    },
+    {
+      "start": 927.76,
+      "end": 930.639,
+      "text": "in the 90s the"
+    },
+    {
+      "start": 929.12,
+      "end": 932.32,
+      "text": "people who were doing i was saying they"
+    },
+    {
+      "start": 930.639,
+      "end": 935.04,
+      "text": "were like really cool"
+    },
+    {
+      "start": 932.32,
+      "end": 937.6,
+      "text": "so yeah i wanted to like summarize those"
+    },
+    {
+      "start": 935.04,
+      "end": 940.079,
+      "text": "kind of different kind of trailers"
+    },
+    {
+      "start": 937.6,
+      "end": 942.079,
+      "text": "usually it's very the borders are really"
+    },
+    {
+      "start": 940.079,
+      "end": 943.12,
+      "text": "loose so you can have like a mix of"
+    },
+    {
+      "start": 942.079,
+      "end": 946.639,
+      "text": "everything"
+    },
+    {
+      "start": 943.12,
+      "end": 950.16,
+      "text": "uh it's all our like game trailers right"
+    },
+    {
+      "start": 946.639,
+      "end": 950.56,
+      "text": "so um i want to share my tips and tricks"
+    },
+    {
+      "start": 950.16,
+      "end": 954.72,
+      "text": "my"
+    },
+    {
+      "start": 950.56,
+      "end": 957.759,
+      "text": "do's and don'ts um"
+    },
+    {
+      "start": 954.72,
+      "end": 958.399,
+      "text": "hopefully they will help you with you"
+    },
+    {
+      "start": 957.759,
+      "end": 960.32,
+      "text": "know"
+    },
+    {
+      "start": 958.399,
+      "end": 961.92,
+      "text": "making your game trader a little bit"
+    },
+    {
+      "start": 960.32,
+      "end": 964.88,
+      "text": "more interesting and"
+    },
+    {
+      "start": 961.92,
+      "end": 966.959,
+      "text": "helpful with your marketing campaign so"
+    },
+    {
+      "start": 964.88,
+      "end": 969.199,
+      "text": "talking about marketing the first thing"
+    },
+    {
+      "start": 966.959,
+      "end": 971.279,
+      "text": "the one one of the most important things"
+    },
+    {
+      "start": 969.199,
+      "end": 973.68,
+      "text": "you have to plan ahead your game trailer"
+    },
+    {
+      "start": 971.279,
+      "end": 974.639,
+      "text": "it's like it is a marketing asset and"
+    },
+    {
+      "start": 973.68,
+      "end": 976.639,
+      "text": "with all good and"
+    },
+    {
+      "start": 974.639,
+      "end": 977.68,
+      "text": "bad you know like with the budget you"
+    },
+    {
+      "start": 976.639,
+      "end": 980.8,
+      "text": "have to deal with it"
+    },
+    {
+      "start": 977.68,
+      "end": 982.48,
+      "text": "uh it's important to you know like not"
+    },
+    {
+      "start": 980.8,
+      "end": 984.56,
+      "text": "to spend"
+    },
+    {
+      "start": 982.48,
+      "end": 985.6,
+      "text": "uh your all your budget on the game"
+    },
+    {
+      "start": 984.56,
+      "end": 987.199,
+      "text": "trailer but also"
+    },
+    {
+      "start": 985.6,
+      "end": 989.6,
+      "text": "you need to remember about it it's"
+    },
+    {
+      "start": 987.199,
+      "end": 990.88,
+      "text": "sometimes very expensive and if you're"
+    },
+    {
+      "start": 989.6,
+      "end": 994.639,
+      "text": "doing yourself"
+    },
+    {
+      "start": 990.88,
+      "end": 996.56,
+      "text": "your time is uh is is a"
+    },
+    {
+      "start": 994.639,
+      "end": 998.24,
+      "text": "currency here that you have to spend"
+    },
+    {
+      "start": 996.56,
+      "end": 1000.32,
+      "text": "right so if you're working in the game"
+    },
+    {
+      "start": 998.24,
+      "end": 1002.399,
+      "text": "trader you don't work on your game"
+    },
+    {
+      "start": 1000.32,
+      "end": 1004,
+      "text": "and if you're a bigger studio somebody"
+    },
+    {
+      "start": 1002.399,
+      "end": 1004.88,
+      "text": "actually has to do it and you need to"
+    },
+    {
+      "start": 1004,
+      "end": 1008.16,
+      "text": "you know like"
+    },
+    {
+      "start": 1004.88,
+      "end": 1009.04,
+      "text": "think about it so there are many things"
+    },
+    {
+      "start": 1008.16,
+      "end": 1012.48,
+      "text": "involved on"
+    },
+    {
+      "start": 1009.04,
+      "end": 1015.6,
+      "text": "planning the game trailer and"
+    },
+    {
+      "start": 1012.48,
+      "end": 1016,
+      "text": "what actually we do in the studio and i"
+    },
+    {
+      "start": 1015.6,
+      "end": 1018.32,
+      "text": "think"
+    },
+    {
+      "start": 1016,
+      "end": 1020.24,
+      "text": "that most of the studios are doing this"
+    },
+    {
+      "start": 1018.32,
+      "end": 1023.36,
+      "text": "or similar way"
+    },
+    {
+      "start": 1020.24,
+      "end": 1024,
+      "text": "is starting with a scenario or you know"
+    },
+    {
+      "start": 1023.36,
+      "end": 1027.439,
+      "text": "like"
+    },
+    {
+      "start": 1024,
+      "end": 1028.64,
+      "text": "you have a picture here uh from our"
+    },
+    {
+      "start": 1027.439,
+      "end": 1030.64,
+      "text": "meeting that was you know like"
+    },
+    {
+      "start": 1028.64,
+      "end": 1031.199,
+      "text": "brainstorming like what we want to do"
+    },
+    {
+      "start": 1030.64,
+      "end": 1033.36,
+      "text": "with"
+    },
+    {
+      "start": 1031.199,
+      "end": 1034.88,
+      "text": "the game so we we're kind of writing a"
+    },
+    {
+      "start": 1033.36,
+      "end": 1038.24,
+      "text": "scenario and also"
+    },
+    {
+      "start": 1034.88,
+      "end": 1039.679,
+      "text": "drawing the scenario so writing a center"
+    },
+    {
+      "start": 1038.24,
+      "end": 1041.039,
+      "text": "and drawing a storyboard when you have a"
+    },
+    {
+      "start": 1039.679,
+      "end": 1044.4,
+      "text": "scenario"
+    },
+    {
+      "start": 1041.039,
+      "end": 1047.12,
+      "text": "and what you see on the whiteboard is"
+    },
+    {
+      "start": 1044.4,
+      "end": 1048.48,
+      "text": "it is our kind of a storyboard so we"
+    },
+    {
+      "start": 1047.12,
+      "end": 1050.96,
+      "text": "could you know like plan you know"
+    },
+    {
+      "start": 1048.48,
+      "end": 1052.72,
+      "text": "how many assets do we need so how many"
+    },
+    {
+      "start": 1050.96,
+      "end": 1053.44,
+      "text": "assets we can reuse from the game"
+    },
+    {
+      "start": 1052.72,
+      "end": 1055.28,
+      "text": "already"
+    },
+    {
+      "start": 1053.44,
+      "end": 1056.64,
+      "text": "how many new assets we have to create"
+    },
+    {
+      "start": 1055.28,
+      "end": 1059.919,
+      "text": "how many animations"
+    },
+    {
+      "start": 1056.64,
+      "end": 1061.919,
+      "text": "how many special effects"
+    },
+    {
+      "start": 1059.919,
+      "end": 1063.919,
+      "text": "you know how much of a gameplay we need"
+    },
+    {
+      "start": 1061.919,
+      "end": 1067.2,
+      "text": "to create"
+    },
+    {
+      "start": 1063.919,
+      "end": 1070.64,
+      "text": "that kind of stuff so"
+    },
+    {
+      "start": 1067.2,
+      "end": 1071.44,
+      "text": "uh when you have you know your plans get"
+    },
+    {
+      "start": 1070.64,
+      "end": 1073.44,
+      "text": "out"
+    },
+    {
+      "start": 1071.44,
+      "end": 1075.12,
+      "text": "it's really important to communicate"
+    },
+    {
+      "start": 1073.44,
+      "end": 1077.6,
+      "text": "with your production and marketing like"
+    },
+    {
+      "start": 1075.12,
+      "end": 1080,
+      "text": "i know you can be like one person studio"
+    },
+    {
+      "start": 1077.6,
+      "end": 1080.64,
+      "text": "and you are all of those and it can be"
+    },
+    {
+      "start": 1080,
+      "end": 1083.36,
+      "text": "like 10"
+    },
+    {
+      "start": 1080.64,
+      "end": 1083.679,
+      "text": "studio or 100 it's important to you know"
+    },
+    {
+      "start": 1083.36,
+      "end": 1085.6,
+      "text": "like"
+    },
+    {
+      "start": 1083.679,
+      "end": 1087.76,
+      "text": "include your plans into your production"
+    },
+    {
+      "start": 1085.6,
+      "end": 1089.919,
+      "text": "and marketing to know the deadlines"
+    },
+    {
+      "start": 1087.76,
+      "end": 1091.76,
+      "text": "maybe there's a deadline because some"
+    },
+    {
+      "start": 1089.919,
+      "end": 1092.96,
+      "text": "kind of important showcase is going on"
+    },
+    {
+      "start": 1091.76,
+      "end": 1097.6,
+      "text": "you know like gamescom"
+    },
+    {
+      "start": 1092.96,
+      "end": 1100.72,
+      "text": "or pax or e3"
+    },
+    {
+      "start": 1097.6,
+      "end": 1102.96,
+      "text": "and yeah those deadlines would be kind"
+    },
+    {
+      "start": 1100.72,
+      "end": 1106.16,
+      "text": "of you know"
+    },
+    {
+      "start": 1102.96,
+      "end": 1108.24,
+      "text": "unbreachable so you need to know who"
+    },
+    {
+      "start": 1106.16,
+      "end": 1108.88,
+      "text": "will work on the on the trailer because"
+    },
+    {
+      "start": 1108.24,
+      "end": 1110.48,
+      "text": "as i said"
+    },
+    {
+      "start": 1108.88,
+      "end": 1112.559,
+      "text": "if you work on the trailer to work on a"
+    },
+    {
+      "start": 1110.48,
+      "end": 1112.96,
+      "text": "game or maybe you are working on both if"
+    },
+    {
+      "start": 1112.559,
+      "end": 1115.6,
+      "text": "you are"
+    },
+    {
+      "start": 1112.96,
+      "end": 1116.08,
+      "text": "actually reusing your assets but you"
+    },
+    {
+      "start": 1115.6,
+      "end": 1117.679,
+      "text": "know like"
+    },
+    {
+      "start": 1116.08,
+      "end": 1120,
+      "text": "it's uh it's an important thing to plan"
+    },
+    {
+      "start": 1117.679,
+      "end": 1123.2,
+      "text": "it and"
+    },
+    {
+      "start": 1120,
+      "end": 1125.919,
+      "text": "what we also are doing in our studio is"
+    },
+    {
+      "start": 1123.2,
+      "end": 1127.28,
+      "text": "that we create an animatic and animatic"
+    },
+    {
+      "start": 1125.919,
+      "end": 1130.64,
+      "text": "is you know like kind of a"
+    },
+    {
+      "start": 1127.28,
+      "end": 1132.559,
+      "text": "movie itself with you know"
+    },
+    {
+      "start": 1130.64,
+      "end": 1134.24,
+      "text": "pictures that are made for the"
+    },
+    {
+      "start": 1132.559,
+      "end": 1137.039,
+      "text": "storyboard or maybe improved"
+    },
+    {
+      "start": 1134.24,
+      "end": 1138.96,
+      "text": "that show that are showing the uh the"
+    },
+    {
+      "start": 1137.039,
+      "end": 1142.4,
+      "text": "flow of the video the"
+    },
+    {
+      "start": 1138.96,
+      "end": 1146.88,
+      "text": "uh first first phase of editing"
+    },
+    {
+      "start": 1142.4,
+      "end": 1148.88,
+      "text": "um uh you can also you know like uh"
+    },
+    {
+      "start": 1146.88,
+      "end": 1150.799,
+      "text": "find some music that is actually working"
+    },
+    {
+      "start": 1148.88,
+      "end": 1151.84,
+      "text": "for for the video you can work on many"
+    },
+    {
+      "start": 1150.799,
+      "end": 1154.799,
+      "text": "things with"
+    },
+    {
+      "start": 1151.84,
+      "end": 1156.64,
+      "text": "when you create an animatic and still"
+    },
+    {
+      "start": 1154.799,
+      "end": 1159.6,
+      "text": "you don't need to spend time"
+    },
+    {
+      "start": 1156.64,
+      "end": 1160.16,
+      "text": "to create uh final assets and this is"
+    },
+    {
+      "start": 1159.6,
+      "end": 1162.559,
+      "text": "actually"
+    },
+    {
+      "start": 1160.16,
+      "end": 1164.08,
+      "text": "very helpful because you will know for"
+    },
+    {
+      "start": 1162.559,
+      "end": 1166.72,
+      "text": "sure what can you cut out"
+    },
+    {
+      "start": 1164.08,
+      "end": 1168.96,
+      "text": "and what can you afford and what can you"
+    },
+    {
+      "start": 1166.72,
+      "end": 1171.679,
+      "text": "create to have a"
+    },
+    {
+      "start": 1168.96,
+      "end": 1173.039,
+      "text": "good trailer so i want to share with you"
+    },
+    {
+      "start": 1171.679,
+      "end": 1176.32,
+      "text": "uh"
+    },
+    {
+      "start": 1173.039,
+      "end": 1192.83,
+      "text": "one version of our animatic for"
+    },
+    {
+      "start": 1176.32,
+      "end": 1204.079,
+      "text": "60 parsecs trailer"
+    },
+    {
+      "start": 1192.83,
+      "end": 1204.079,
+      "text": "[Music]"
+    },
+    {
+      "start": 1204.84,
+      "end": 1207.84,
+      "text": "so"
+    },
+    {
+      "start": 1211.17,
+      "end": 1218.699,
+      "text": "[Music]"
+    },
+    {
+      "start": 1218.88,
+      "end": 1221.84,
+      "text": "oh"
+    },
+    {
+      "start": 1223.94,
+      "end": 1225.61,
+      "text": "[Music]"
+    },
+    {
+      "start": 1224.82,
+      "end": 1232.84,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1225.61,
+      "end": 1235.84,
+      "text": "[Music]"
+    },
+    {
+      "start": 1232.84,
+      "end": 1235.84,
+      "text": "so"
+    },
+    {
+      "start": 1240.39,
+      "end": 1256.979,
+      "text": "[Music]"
+    },
+    {
+      "start": 1260.33,
+      "end": 1268.84,
+      "text": "[Music]"
+    },
+    {
+      "start": 1267.44,
+      "end": 1276.28,
+      "text": "[Applause]"
+    },
+    {
+      "start": 1268.84,
+      "end": 1276.28,
+      "text": "[Music]"
+    },
+    {
+      "start": 1278.799,
+      "end": 1282.24,
+      "text": "yeah so that's one of the versions uh"
+    },
+    {
+      "start": 1281.039,
+      "end": 1283.6,
+      "text": "one of the first versions of the"
+    },
+    {
+      "start": 1282.24,
+      "end": 1285.679,
+      "text": "animatic and"
+    },
+    {
+      "start": 1283.6,
+      "end": 1287.12,
+      "text": "it was slowly you know like building up"
+    },
+    {
+      "start": 1285.679,
+      "end": 1290.96,
+      "text": "to be a trailer"
+    },
+    {
+      "start": 1287.12,
+      "end": 1294.32,
+      "text": "so the moments when you've seen like a"
+    },
+    {
+      "start": 1290.96,
+      "end": 1297.44,
+      "text": "scavenge gameplay survivor gameplay uh"
+    },
+    {
+      "start": 1294.32,
+      "end": 1297.76,
+      "text": "where you know like we were guessing"
+    },
+    {
+      "start": 1297.44,
+      "end": 1299.2,
+      "text": "that"
+    },
+    {
+      "start": 1297.76,
+      "end": 1301.52,
+      "text": "yeah we want to show a little bit of"
+    },
+    {
+      "start": 1299.2,
+      "end": 1304.4,
+      "text": "gameplay here we were drawing"
+    },
+    {
+      "start": 1301.52,
+      "end": 1306.4,
+      "text": "or writing down that you need to show"
+    },
+    {
+      "start": 1304.4,
+      "end": 1308.72,
+      "text": "this and that and this"
+    },
+    {
+      "start": 1306.4,
+      "end": 1310.799,
+      "text": "according to the music as you can put"
+    },
+    {
+      "start": 1308.72,
+      "end": 1312.559,
+      "text": "here the music was cut out in the"
+    },
+    {
+      "start": 1310.799,
+      "end": 1314.159,
+      "text": "in somewhere in the middle then we knew"
+    },
+    {
+      "start": 1312.559,
+      "end": 1314.88,
+      "text": "that we need to extend the music you"
+    },
+    {
+      "start": 1314.159,
+      "end": 1317.6,
+      "text": "know"
+    },
+    {
+      "start": 1314.88,
+      "end": 1318.4,
+      "text": "uh you can learn a lot and you can plan"
+    },
+    {
+      "start": 1317.6,
+      "end": 1321.679,
+      "text": "a lot with"
+    },
+    {
+      "start": 1318.4,
+      "end": 1325.52,
+      "text": "animatic and it helped us many times"
+    },
+    {
+      "start": 1321.679,
+      "end": 1329.36,
+      "text": "and to compare what is the final effect"
+    },
+    {
+      "start": 1325.52,
+      "end": 1331.36,
+      "text": "i want to show you the the neck"
+    },
+    {
+      "start": 1329.36,
+      "end": 1347.84,
+      "text": "i want to show you the final result of"
+    },
+    {
+      "start": 1331.36,
+      "end": 1347.84,
+      "text": "the 606 game trade"
+    },
+    {
+      "start": 1347.919,
+      "end": 1351.2,
+      "text": "welcome to the atomic space age"
+    },
+    {
+      "start": 1350.4,
+      "end": 1353.679,
+      "text": "yesterday"
+    },
+    {
+      "start": 1351.2,
+      "end": 1355.039,
+      "text": "mr and mrs average american dreamed of"
+    },
+    {
+      "start": 1353.679,
+      "end": 1357.2,
+      "text": "reaching the stars"
+    },
+    {
+      "start": 1355.039,
+      "end": 1358.64,
+      "text": "today they become astro citizens"
+    },
+    {
+      "start": 1357.2,
+      "end": 1362.799,
+      "text": "tomorrow"
+    },
+    {
+      "start": 1358.64,
+      "end": 1364.64,
+      "text": "nuclear war meanwhile in earth's orbit"
+    },
+    {
+      "start": 1362.799,
+      "end": 1367.12,
+      "text": "astro citizen cadets witnessed the end"
+    },
+    {
+      "start": 1364.64,
+      "end": 1369.76,
+      "text": "of civilization as we know it"
+    },
+    {
+      "start": 1367.12,
+      "end": 1371.44,
+      "text": "but no one is safe from nuclear bombs"
+    },
+    {
+      "start": 1369.76,
+      "end": 1377.679,
+      "text": "not even in space"
+    },
+    {
+      "start": 1371.44,
+      "end": 1377.679,
+      "text": "astro citizens 60 seconds to evacuate"
+    },
+    {
+      "start": 1378.88,
+      "end": 1382.159,
+      "text": "you will need supplies you will need a"
+    },
+    {
+      "start": 1381.28,
+      "end": 1384.559,
+      "text": "crew"
+    },
+    {
+      "start": 1382.159,
+      "end": 1385.36,
+      "text": "space is limited and time is running out"
+    },
+    {
+      "start": 1384.559,
+      "end": 1389.84,
+      "text": "three"
+    },
+    {
+      "start": 1385.36,
+      "end": 1389.84,
+      "text": "two one"
+    },
+    {
+      "start": 1392.4,
+      "end": 1396.799,
+      "text": "surviving humans is in your hands"
+    },
+    {
+      "start": 1394.4,
+      "end": 1399.12,
+      "text": "captain every day may end in a disaster"
+    },
+    {
+      "start": 1396.799,
+      "end": 1400.64,
+      "text": "and only your decisions can prevent it"
+    },
+    {
+      "start": 1399.12,
+      "end": 1402.799,
+      "text": "trapped together in a shuttle you will"
+    },
+    {
+      "start": 1400.64,
+      "end": 1404.24,
+      "text": "face soup shortages and other horrors of"
+    },
+    {
+      "start": 1402.799,
+      "end": 1406.72,
+      "text": "outer space"
+    },
+    {
+      "start": 1404.24,
+      "end": 1408,
+      "text": "until you find yourself on a strange new"
+    },
+    {
+      "start": 1406.72,
+      "end": 1409.919,
+      "text": "world"
+    },
+    {
+      "start": 1408,
+      "end": 1411.919,
+      "text": "explore this alien planet and discover"
+    },
+    {
+      "start": 1409.919,
+      "end": 1414.64,
+      "text": "its mysteries in an incredible adventure"
+    },
+    {
+      "start": 1411.919,
+      "end": 1415.36,
+      "text": "survive dangerous encounters with aliens"
+    },
+    {
+      "start": 1414.64,
+      "end": 1417.6,
+      "text": "robots"
+    },
+    {
+      "start": 1415.36,
+      "end": 1419.84,
+      "text": "communists space monsters pirates"
+    },
+    {
+      "start": 1417.6,
+      "end": 1420.88,
+      "text": "murderous ai and a pizza from unknown"
+    },
+    {
+      "start": 1419.84,
+      "end": 1422.559,
+      "text": "dimension"
+    },
+    {
+      "start": 1420.88,
+      "end": 1424,
+      "text": "but you're not alone on this journey"
+    },
+    {
+      "start": 1422.559,
+      "end": 1427.039,
+      "text": "become a fearless later"
+    },
+    {
+      "start": 1424,
+      "end": 1429.52,
+      "text": "a caring friend or a supporting tyrant"
+    },
+    {
+      "start": 1427.039,
+      "end": 1432.64,
+      "text": "and you and your crew survive against"
+    },
+    {
+      "start": 1429.52,
+      "end": 1436,
+      "text": "impossible odds in a world yet unknown"
+    },
+    {
+      "start": 1432.64,
+      "end": 1445.84,
+      "text": "buckle your seat belt captain this is"
+    },
+    {
+      "start": 1436,
+      "end": 1445.84,
+      "text": "60 parsecs"
+    },
+    {
+      "start": 1446.799,
+      "end": 1452.48,
+      "text": "okay so that's the final result of our"
+    },
+    {
+      "start": 1450.159,
+      "end": 1455.52,
+      "text": "work it was actually so much work"
+    },
+    {
+      "start": 1452.48,
+      "end": 1456.559,
+      "text": "uh thanks to the all the preparation and"
+    },
+    {
+      "start": 1455.52,
+      "end": 1459.039,
+      "text": "planning"
+    },
+    {
+      "start": 1456.559,
+      "end": 1460.24,
+      "text": "but uh there are still so many things we"
+    },
+    {
+      "start": 1459.039,
+      "end": 1463.84,
+      "text": "need to create for"
+    },
+    {
+      "start": 1460.24,
+      "end": 1466.4,
+      "text": "the for the trailer itself"
+    },
+    {
+      "start": 1463.84,
+      "end": 1467.76,
+      "text": "and many things we created and reused in"
+    },
+    {
+      "start": 1466.4,
+      "end": 1472,
+      "text": "the game like"
+    },
+    {
+      "start": 1467.76,
+      "end": 1474.159,
+      "text": "exploding space station flying off uh"
+    },
+    {
+      "start": 1472,
+      "end": 1476.32,
+      "text": "space shuttle you know space shuttle"
+    },
+    {
+      "start": 1474.159,
+      "end": 1479.12,
+      "text": "landing on the planet was also"
+    },
+    {
+      "start": 1476.32,
+      "end": 1481.36,
+      "text": "um reused in the game as you know like"
+    },
+    {
+      "start": 1479.12,
+      "end": 1484.4,
+      "text": "little cat scene when you're playing"
+    },
+    {
+      "start": 1481.36,
+      "end": 1486.4,
+      "text": "and you're crushing your ship and"
+    },
+    {
+      "start": 1484.4,
+      "end": 1489.679,
+      "text": "yeah you know like it takes time so"
+    },
+    {
+      "start": 1486.4,
+      "end": 1489.679,
+      "text": "what's important is that"
+    },
+    {
+      "start": 1490.08,
+      "end": 1494.4,
+      "text": "you cannot leave it to the last minute"
+    },
+    {
+      "start": 1491.919,
+      "end": 1496.32,
+      "text": "and i strongly"
+    },
+    {
+      "start": 1494.4,
+      "end": 1500.48,
+      "text": "recommend to think about the trailer as"
+    },
+    {
+      "start": 1496.32,
+      "end": 1502.799,
+      "text": "soon as possible"
+    },
+    {
+      "start": 1500.48,
+      "end": 1504.32,
+      "text": "well as for your whole marketing"
+    },
+    {
+      "start": 1502.799,
+      "end": 1506,
+      "text": "campaign actually"
+    },
+    {
+      "start": 1504.32,
+      "end": 1507.6,
+      "text": "but you know like it takes time and you"
+    },
+    {
+      "start": 1506,
+      "end": 1509.039,
+      "text": "need to think about when and how you"
+    },
+    {
+      "start": 1507.6,
+      "end": 1511.12,
+      "text": "want to do it if you want to"
+    },
+    {
+      "start": 1509.039,
+      "end": 1513.36,
+      "text": "go for many traders or you want to go"
+    },
+    {
+      "start": 1511.12,
+      "end": 1516,
+      "text": "for one and spam it or"
+    },
+    {
+      "start": 1513.36,
+      "end": 1517.36,
+      "text": "again if you if you're happy with it and"
+    },
+    {
+      "start": 1516,
+      "end": 1521.52,
+      "text": "if you think it's actually"
+    },
+    {
+      "start": 1517.36,
+      "end": 1524.32,
+      "text": "you know like does the job so"
+    },
+    {
+      "start": 1521.52,
+      "end": 1524.72,
+      "text": "there's a great graph made by my friend"
+    },
+    {
+      "start": 1524.32,
+      "end": 1528.88,
+      "text": "from"
+    },
+    {
+      "start": 1524.72,
+      "end": 1529.919,
+      "text": "studio um you have the game development"
+    },
+    {
+      "start": 1528.88,
+      "end": 1531.76,
+      "text": "time and"
+    },
+    {
+      "start": 1529.919,
+      "end": 1533.6,
+      "text": "usually the teaser trailer goes"
+    },
+    {
+      "start": 1531.76,
+      "end": 1534,
+      "text": "somewhere around at the beginning when"
+    },
+    {
+      "start": 1533.6,
+      "end": 1536.559,
+      "text": "you"
+    },
+    {
+      "start": 1534,
+      "end": 1537.52,
+      "text": "begin the campaign like it's usually"
+    },
+    {
+      "start": 1536.559,
+      "end": 1540.799,
+      "text": "this way"
+    },
+    {
+      "start": 1537.52,
+      "end": 1542.799,
+      "text": "it's rarely that you have already"
+    },
+    {
+      "start": 1540.799,
+      "end": 1545.52,
+      "text": "finished the game and start again"
+    },
+    {
+      "start": 1542.799,
+      "end": 1549.76,
+      "text": "playing after you finish the game"
+    },
+    {
+      "start": 1545.52,
+      "end": 1552.48,
+      "text": "those those those things are going um"
+    },
+    {
+      "start": 1549.76,
+      "end": 1553.52,
+      "text": "so on their separate ways uh but at the"
+    },
+    {
+      "start": 1552.48,
+      "end": 1555.52,
+      "text": "same time"
+    },
+    {
+      "start": 1553.52,
+      "end": 1557.2,
+      "text": "so you go over to the trailer somewhere"
+    },
+    {
+      "start": 1555.52,
+      "end": 1560.799,
+      "text": "at the beginning everything"
+    },
+    {
+      "start": 1557.2,
+      "end": 1562.559,
+      "text": "later is a any kind of game trailer"
+    },
+    {
+      "start": 1560.799,
+      "end": 1564.159,
+      "text": "and you start to create your launch"
+    },
+    {
+      "start": 1562.559,
+      "end": 1567.84,
+      "text": "trailer somewhere"
+    },
+    {
+      "start": 1564.159,
+      "end": 1569.919,
+      "text": "someone before the release after"
+    },
+    {
+      "start": 1567.84,
+      "end": 1571.44,
+      "text": "the release you have post development"
+    },
+    {
+      "start": 1569.919,
+      "end": 1573.76,
+      "text": "and"
+    },
+    {
+      "start": 1571.44,
+      "end": 1576.4,
+      "text": "not many people actually focusing on the"
+    },
+    {
+      "start": 1573.76,
+      "end": 1578.64,
+      "text": "marketing after the release"
+    },
+    {
+      "start": 1576.4,
+      "end": 1579.919,
+      "text": "maybe maybe if the the game is actually"
+    },
+    {
+      "start": 1578.64,
+      "end": 1582.84,
+      "text": "not really successful"
+    },
+    {
+      "start": 1579.919,
+      "end": 1585.12,
+      "text": "and you try to you know like lift it up"
+    },
+    {
+      "start": 1582.84,
+      "end": 1587.76,
+      "text": "and"
+    },
+    {
+      "start": 1585.12,
+      "end": 1588.48,
+      "text": "do something to you know like to to to"
+    },
+    {
+      "start": 1587.76,
+      "end": 1592.24,
+      "text": "help it"
+    },
+    {
+      "start": 1588.48,
+      "end": 1595.52,
+      "text": "be discovered um but mostly"
+    },
+    {
+      "start": 1592.24,
+      "end": 1596.559,
+      "text": "the biggest the biggest is always the"
+    },
+    {
+      "start": 1595.52,
+      "end": 1599.2,
+      "text": "first day of the game"
+    },
+    {
+      "start": 1596.559,
+      "end": 1600.24,
+      "text": "the opening the release day so you want"
+    },
+    {
+      "start": 1599.2,
+      "end": 1603.279,
+      "text": "to build up the hype"
+    },
+    {
+      "start": 1600.24,
+      "end": 1607.039,
+      "text": "before not after or just"
+    },
+    {
+      "start": 1603.279,
+      "end": 1609.84,
+      "text": "just just few days before right"
+    },
+    {
+      "start": 1607.039,
+      "end": 1611.12,
+      "text": "okay so um you're working on your game"
+    },
+    {
+      "start": 1609.84,
+      "end": 1613.36,
+      "text": "trailer"
+    },
+    {
+      "start": 1611.12,
+      "end": 1615.679,
+      "text": "you need to remember that this is kind"
+    },
+    {
+      "start": 1613.36,
+      "end": 1619.279,
+      "text": "of a form of a"
+    },
+    {
+      "start": 1615.679,
+      "end": 1622.4,
+      "text": "video a movie and"
+    },
+    {
+      "start": 1619.279,
+      "end": 1626.32,
+      "text": "you know it's not like it was discovered"
+    },
+    {
+      "start": 1622.4,
+      "end": 1629.84,
+      "text": "with the games the whole movie industry"
+    },
+    {
+      "start": 1626.32,
+      "end": 1632.64,
+      "text": "is like 100 years old more and"
+    },
+    {
+      "start": 1629.84,
+      "end": 1634.32,
+      "text": "the commercials and everything it's like"
+    },
+    {
+      "start": 1632.64,
+      "end": 1636.88,
+      "text": "going on forever"
+    },
+    {
+      "start": 1634.32,
+      "end": 1638.96,
+      "text": "and it's really good to look into that"
+    },
+    {
+      "start": 1636.88,
+      "end": 1639.279,
+      "text": "look what the others are doing like what"
+    },
+    {
+      "start": 1638.96,
+      "end": 1642.64,
+      "text": "the"
+    },
+    {
+      "start": 1639.279,
+      "end": 1644.559,
+      "text": "other industries are doing get inspired"
+    },
+    {
+      "start": 1642.64,
+      "end": 1646.72,
+      "text": "you know watch the cool movie"
+    },
+    {
+      "start": 1644.559,
+      "end": 1649.12,
+      "text": "you like what you see in this movie like"
+    },
+    {
+      "start": 1646.72,
+      "end": 1650.64,
+      "text": "explore the idea of using what you like"
+    },
+    {
+      "start": 1649.12,
+      "end": 1652.399,
+      "text": "in this movie or in this commercial"
+    },
+    {
+      "start": 1650.64,
+      "end": 1654,
+      "text": "our commercials are really smart they"
+    },
+    {
+      "start": 1652.399,
+      "end": 1657.919,
+      "text": "usually want to"
+    },
+    {
+      "start": 1654,
+      "end": 1661.44,
+      "text": "um implant the product idea in your head"
+    },
+    {
+      "start": 1657.919,
+      "end": 1663.52,
+      "text": "in 30 or less seconds and"
+    },
+    {
+      "start": 1661.44,
+      "end": 1665.52,
+      "text": "so you know like they did the research"
+    },
+    {
+      "start": 1663.52,
+      "end": 1666.96,
+      "text": "many many years ago and it's really cool"
+    },
+    {
+      "start": 1665.52,
+      "end": 1669.44,
+      "text": "you don't have to look up"
+    },
+    {
+      "start": 1666.96,
+      "end": 1670.159,
+      "text": "for the for the inspiration or for the"
+    },
+    {
+      "start": 1669.44,
+      "end": 1673.36,
+      "text": "signs"
+    },
+    {
+      "start": 1670.159,
+      "end": 1673.84,
+      "text": "behind commercials and movie trailers"
+    },
+    {
+      "start": 1673.36,
+      "end": 1676.64,
+      "text": "you know"
+    },
+    {
+      "start": 1673.84,
+      "end": 1677.44,
+      "text": "and even look up for other game trailers"
+    },
+    {
+      "start": 1676.64,
+      "end": 1681.039,
+      "text": "that you like"
+    },
+    {
+      "start": 1677.44,
+      "end": 1683.2,
+      "text": "see what others are doing how they are"
+    },
+    {
+      "start": 1681.039,
+      "end": 1684.64,
+      "text": "solving uh problems you know like how"
+    },
+    {
+      "start": 1683.2,
+      "end": 1688,
+      "text": "they are solving"
+    },
+    {
+      "start": 1684.64,
+      "end": 1690.559,
+      "text": "um showing the gameplay or"
+    },
+    {
+      "start": 1688,
+      "end": 1691.039,
+      "text": "merging editing you know like gameplay"
+    },
+    {
+      "start": 1690.559,
+      "end": 1693.279,
+      "text": "with"
+    },
+    {
+      "start": 1691.039,
+      "end": 1695.6,
+      "text": "cinematics you know like the way others"
+    },
+    {
+      "start": 1693.279,
+      "end": 1698.799,
+      "text": "are doing it and learn"
+    },
+    {
+      "start": 1695.6,
+      "end": 1701.039,
+      "text": "but it's very important to not jump"
+    },
+    {
+      "start": 1698.799,
+      "end": 1702.72,
+      "text": "too too far and assume that everything"
+    },
+    {
+      "start": 1701.039,
+      "end": 1705.279,
+      "text": "that works for them works for you"
+    },
+    {
+      "start": 1702.72,
+      "end": 1707.36,
+      "text": "because it's not working like that yeah"
+    },
+    {
+      "start": 1705.279,
+      "end": 1709.679,
+      "text": "you won't just see a cool game trailer"
+    },
+    {
+      "start": 1707.36,
+      "end": 1711.36,
+      "text": "and just take copy one to one and think"
+    },
+    {
+      "start": 1709.679,
+      "end": 1713.84,
+      "text": "it's gonna work for your game"
+    },
+    {
+      "start": 1711.36,
+      "end": 1714.96,
+      "text": "especially if you want to have a very"
+    },
+    {
+      "start": 1713.84,
+      "end": 1717.52,
+      "text": "funny trailer for"
+    },
+    {
+      "start": 1714.96,
+      "end": 1719.039,
+      "text": "a very serious game or maybe with"
+    },
+    {
+      "start": 1717.52,
+      "end": 1722.48,
+      "text": "subjects that are not"
+    },
+    {
+      "start": 1719.039,
+      "end": 1726,
+      "text": "really comparable on different platforms"
+    },
+    {
+      "start": 1722.48,
+      "end": 1727.679,
+      "text": "you know like on different um"
+    },
+    {
+      "start": 1726,
+      "end": 1729.6,
+      "text": "different uh different ways to show"
+    },
+    {
+      "start": 1727.679,
+      "end": 1732.32,
+      "text": "things right so"
+    },
+    {
+      "start": 1729.6,
+      "end": 1733.039,
+      "text": "uh there was this great game trailer for"
+    },
+    {
+      "start": 1732.32,
+      "end": 1735.52,
+      "text": "battle block"
+    },
+    {
+      "start": 1733.039,
+      "end": 1737.039,
+      "text": "theater and there was this was for the"
+    },
+    {
+      "start": 1735.52,
+      "end": 1740,
+      "text": "steam version so"
+    },
+    {
+      "start": 1737.039,
+      "end": 1741.52,
+      "text": "it was i think second or another game"
+    },
+    {
+      "start": 1740,
+      "end": 1744.159,
+      "text": "trailer for this game"
+    },
+    {
+      "start": 1741.52,
+      "end": 1745.76,
+      "text": "but it was focusing on the steam release"
+    },
+    {
+      "start": 1744.159,
+      "end": 1748.96,
+      "text": "and it was super funny"
+    },
+    {
+      "start": 1745.76,
+      "end": 1749.52,
+      "text": "and they definitely had the resources to"
+    },
+    {
+      "start": 1748.96,
+      "end": 1752.24,
+      "text": "do that"
+    },
+    {
+      "start": 1749.52,
+      "end": 1753.6,
+      "text": "with the comedian that made the funny"
+    },
+    {
+      "start": 1752.24,
+      "end": 1756.559,
+      "text": "narration"
+    },
+    {
+      "start": 1753.6,
+      "end": 1758.24,
+      "text": "and the jokes were there but if you"
+    },
+    {
+      "start": 1756.559,
+      "end": 1760,
+      "text": "would try to do something like that"
+    },
+    {
+      "start": 1758.24,
+      "end": 1763.679,
+      "text": "today i don't think it's gonna work"
+    },
+    {
+      "start": 1760,
+      "end": 1765.44,
+      "text": "or not if you actually copy"
+    },
+    {
+      "start": 1763.679,
+      "end": 1766.72,
+      "text": "this the same way of course you want to"
+    },
+    {
+      "start": 1765.44,
+      "end": 1768.88,
+      "text": "respect the others and"
+    },
+    {
+      "start": 1766.72,
+      "end": 1770.559,
+      "text": "don't just steal their ideas but i'm"
+    },
+    {
+      "start": 1768.88,
+      "end": 1774.24,
+      "text": "talking about you know like approaching"
+    },
+    {
+      "start": 1770.559,
+      "end": 1776.08,
+      "text": "the same same way things that"
+    },
+    {
+      "start": 1774.24,
+      "end": 1778.799,
+      "text": "working for others they might not work"
+    },
+    {
+      "start": 1776.08,
+      "end": 1782.08,
+      "text": "for you need to be smart and"
+    },
+    {
+      "start": 1778.799,
+      "end": 1785.36,
+      "text": "look how to how to you know"
+    },
+    {
+      "start": 1782.08,
+      "end": 1787.679,
+      "text": "make things fun in your own way but also"
+    },
+    {
+      "start": 1785.36,
+      "end": 1788.72,
+      "text": "learn how they get to the point when"
+    },
+    {
+      "start": 1787.679,
+      "end": 1791.679,
+      "text": "they know that"
+    },
+    {
+      "start": 1788.72,
+      "end": 1792.48,
+      "text": "their thing is funny uh it's kind of you"
+    },
+    {
+      "start": 1791.679,
+      "end": 1797.039,
+      "text": "know like a"
+    },
+    {
+      "start": 1792.48,
+      "end": 1797.039,
+      "text": "very very complicated and very"
+    },
+    {
+      "start": 1797.279,
+      "end": 1801.919,
+      "text": "not simple way to say how to find your"
+    },
+    {
+      "start": 1800.48,
+      "end": 1805.52,
+      "text": "own way for that"
+    },
+    {
+      "start": 1801.919,
+      "end": 1807.12,
+      "text": "but anyway this this video is super"
+    },
+    {
+      "start": 1805.52,
+      "end": 1808,
+      "text": "funny and you want to have funny you"
+    },
+    {
+      "start": 1807.12,
+      "end": 1811.2,
+      "text": "need to look for"
+    },
+    {
+      "start": 1808,
+      "end": 1814,
+      "text": "for your own approach for that"
+    },
+    {
+      "start": 1811.2,
+      "end": 1815.76,
+      "text": "so analyze what others are doing uh"
+    },
+    {
+      "start": 1814,
+      "end": 1817.6,
+      "text": "analyze why they are doing what they are"
+    },
+    {
+      "start": 1815.76,
+      "end": 1819.039,
+      "text": "doing maybe they have the resource maybe"
+    },
+    {
+      "start": 1817.6,
+      "end": 1819.679,
+      "text": "they have the connections maybe they"
+    },
+    {
+      "start": 1819.039,
+      "end": 1822.88,
+      "text": "know"
+    },
+    {
+      "start": 1819.679,
+      "end": 1824.88,
+      "text": "people that can help them to reach the"
+    },
+    {
+      "start": 1822.88,
+      "end": 1827.04,
+      "text": "points"
+    },
+    {
+      "start": 1824.88,
+      "end": 1828.72,
+      "text": "you will always notice the"
+    },
+    {
+      "start": 1827.04,
+      "end": 1830.48,
+      "text": "[Music]"
+    },
+    {
+      "start": 1828.72,
+      "end": 1832.399,
+      "text": "difference in quality when you are"
+    },
+    {
+      "start": 1830.48,
+      "end": 1836,
+      "text": "comparing aaa studios to"
+    },
+    {
+      "start": 1832.399,
+      "end": 1837.76,
+      "text": "indie games and you know everyone in"
+    },
+    {
+      "start": 1836,
+      "end": 1840.48,
+      "text": "between"
+    },
+    {
+      "start": 1837.76,
+      "end": 1842.559,
+      "text": "but uh what they will always say to"
+    },
+    {
+      "start": 1840.48,
+      "end": 1844.399,
+      "text": "indie game studios that they need to be"
+    },
+    {
+      "start": 1842.559,
+      "end": 1845.12,
+      "text": "very very smart with what they're doing"
+    },
+    {
+      "start": 1844.399,
+      "end": 1847.279,
+      "text": "so"
+    },
+    {
+      "start": 1845.12,
+      "end": 1848.72,
+      "text": "there's this classic movie called"
+    },
+    {
+      "start": 1847.279,
+      "end": 1850.96,
+      "text": "warcraft and"
+    },
+    {
+      "start": 1848.72,
+      "end": 1852.399,
+      "text": "there is a quote that they're stronger"
+    },
+    {
+      "start": 1850.96,
+      "end": 1854.399,
+      "text": "be smarter"
+    },
+    {
+      "start": 1852.399,
+      "end": 1856.72,
+      "text": "and this is what basically you need to"
+    },
+    {
+      "start": 1854.399,
+      "end": 1858.48,
+      "text": "do when when you are smaller you need to"
+    },
+    {
+      "start": 1856.72,
+      "end": 1860.08,
+      "text": "be smarter you need to be creative and"
+    },
+    {
+      "start": 1858.48,
+      "end": 1861.679,
+      "text": "your limitations and this is very"
+    },
+    {
+      "start": 1860.08,
+      "end": 1862.559,
+      "text": "important your limitations actually can"
+    },
+    {
+      "start": 1861.679,
+      "end": 1864.399,
+      "text": "be your"
+    },
+    {
+      "start": 1862.559,
+      "end": 1865.6,
+      "text": "biggest advantage of being creative"
+    },
+    {
+      "start": 1864.399,
+      "end": 1868.67,
+      "text": "because"
+    },
+    {
+      "start": 1865.6,
+      "end": 1870.159,
+      "text": "um you need to overcome the"
+    },
+    {
+      "start": 1868.67,
+      "end": 1871.76,
+      "text": "[Music]"
+    },
+    {
+      "start": 1870.159,
+      "end": 1873.36,
+      "text": "the big guys you know like you need to"
+    },
+    {
+      "start": 1871.76,
+      "end": 1875.6,
+      "text": "show something funny"
+    },
+    {
+      "start": 1873.36,
+      "end": 1878.24,
+      "text": "basically you want to have if you have a"
+    },
+    {
+      "start": 1875.6,
+      "end": 1881.039,
+      "text": "smaller game it has to be"
+    },
+    {
+      "start": 1878.24,
+      "end": 1882.24,
+      "text": "wiki and funny and playable and just"
+    },
+    {
+      "start": 1881.039,
+      "end": 1883.76,
+      "text": "enjoyable"
+    },
+    {
+      "start": 1882.24,
+      "end": 1886.159,
+      "text": "and same goes for the trailer you know"
+    },
+    {
+      "start": 1883.76,
+      "end": 1887.6,
+      "text": "like uh you need to have the same kind"
+    },
+    {
+      "start": 1886.159,
+      "end": 1889.2,
+      "text": "of energy"
+    },
+    {
+      "start": 1887.6,
+      "end": 1890.64,
+      "text": "when you're doing the trailer when you"
+    },
+    {
+      "start": 1889.2,
+      "end": 1892.159,
+      "text": "have the same energy when you're going"
+    },
+    {
+      "start": 1890.64,
+      "end": 1894.72,
+      "text": "the game if you think your game is"
+    },
+    {
+      "start": 1892.159,
+      "end": 1898.159,
+      "text": "unique you need to bring into the game"
+    },
+    {
+      "start": 1894.72,
+      "end": 1898.159,
+      "text": "and you want your game to be"
+    },
+    {
+      "start": 1898.64,
+      "end": 1902,
+      "text": "your game trailer to be as unique as"
+    },
+    {
+      "start": 1900.64,
+      "end": 1905.039,
+      "text": "your game"
+    },
+    {
+      "start": 1902,
+      "end": 1907.519,
+      "text": "so you need to be smart about it but"
+    },
+    {
+      "start": 1905.039,
+      "end": 1908.88,
+      "text": "don't get carried away like you know you"
+    },
+    {
+      "start": 1907.519,
+      "end": 1910,
+      "text": "have something good working you're"
+    },
+    {
+      "start": 1908.88,
+      "end": 1911.679,
+      "text": "working something good you have"
+    },
+    {
+      "start": 1910,
+      "end": 1913.36,
+      "text": "something good there"
+    },
+    {
+      "start": 1911.679,
+      "end": 1915.12,
+      "text": "and you want to show it in the game"
+    },
+    {
+      "start": 1913.36,
+      "end": 1918.159,
+      "text": "trailer um"
+    },
+    {
+      "start": 1915.12,
+      "end": 1921.039,
+      "text": "you need to take be cautious and if you"
+    },
+    {
+      "start": 1918.159,
+      "end": 1924.64,
+      "text": "know the game is funny and witty"
+    },
+    {
+      "start": 1921.039,
+      "end": 1925.2,
+      "text": "uh dialogues are great you cannot just"
+    },
+    {
+      "start": 1924.64,
+      "end": 1926.88,
+      "text": "spam"
+    },
+    {
+      "start": 1925.2,
+      "end": 1929.44,
+      "text": "all those things in the game trailer"
+    },
+    {
+      "start": 1926.88,
+      "end": 1931.84,
+      "text": "because you need to"
+    },
+    {
+      "start": 1929.44,
+      "end": 1933.279,
+      "text": "let players know that this is gonna be"
+    },
+    {
+      "start": 1931.84,
+      "end": 1934.96,
+      "text": "fun game"
+    },
+    {
+      "start": 1933.279,
+      "end": 1936.24,
+      "text": "or this is going to be a serious game or"
+    },
+    {
+      "start": 1934.96,
+      "end": 1938.24,
+      "text": "this game going to be shooting or"
+    },
+    {
+      "start": 1936.24,
+      "end": 1941.76,
+      "text": "whatever but you cannot just expand"
+    },
+    {
+      "start": 1938.24,
+      "end": 1943.279,
+      "text": "the main feature just you know make it"
+    },
+    {
+      "start": 1941.76,
+      "end": 1947.84,
+      "text": "short and"
+    },
+    {
+      "start": 1943.279,
+      "end": 1948.96,
+      "text": "focus on how to how to show the features"
+    },
+    {
+      "start": 1947.84,
+      "end": 1951.84,
+      "text": "um"
+    },
+    {
+      "start": 1948.96,
+      "end": 1953.12,
+      "text": "in a way that it's not gonna be too much"
+    },
+    {
+      "start": 1951.84,
+      "end": 1955.679,
+      "text": "right"
+    },
+    {
+      "start": 1953.12,
+      "end": 1958.24,
+      "text": "uh and for that it's usually best to"
+    },
+    {
+      "start": 1955.679,
+      "end": 1960.72,
+      "text": "actually know who are you aiming for so"
+    },
+    {
+      "start": 1958.24,
+      "end": 1961.36,
+      "text": "another tip is to know your audience if"
+    },
+    {
+      "start": 1960.72,
+      "end": 1964.72,
+      "text": "you have an"
+    },
+    {
+      "start": 1961.36,
+      "end": 1967.12,
+      "text": "audience it's good to actually you know"
+    },
+    {
+      "start": 1964.72,
+      "end": 1967.84,
+      "text": "uh learn what they like what they liked"
+    },
+    {
+      "start": 1967.12,
+      "end": 1970.96,
+      "text": "about your"
+    },
+    {
+      "start": 1967.84,
+      "end": 1972.159,
+      "text": "previous projects or maybe what they"
+    },
+    {
+      "start": 1970.96,
+      "end": 1974,
+      "text": "like about your game"
+    },
+    {
+      "start": 1972.159,
+      "end": 1975.2,
+      "text": "you know really read the comments go"
+    },
+    {
+      "start": 1974,
+      "end": 1978.72,
+      "text": "into discussions"
+    },
+    {
+      "start": 1975.2,
+      "end": 1980.88,
+      "text": "on message boards on reddit on steam"
+    },
+    {
+      "start": 1978.72,
+      "end": 1983.039,
+      "text": "wherever actually if you have a discord"
+    },
+    {
+      "start": 1980.88,
+      "end": 1985.519,
+      "text": "like we actually have a discord and it's"
+    },
+    {
+      "start": 1983.039,
+      "end": 1987.919,
+      "text": "really fun to interact with players and"
+    },
+    {
+      "start": 1985.519,
+      "end": 1990.159,
+      "text": "you know like learn what they like"
+    },
+    {
+      "start": 1987.919,
+      "end": 1992.08,
+      "text": "they like some silly funny things about"
+    },
+    {
+      "start": 1990.159,
+      "end": 1993.84,
+      "text": "their games and"
+    },
+    {
+      "start": 1992.08,
+      "end": 1995.6,
+      "text": "we try to you know like deliver the same"
+    },
+    {
+      "start": 1993.84,
+      "end": 1998.64,
+      "text": "kind of energy"
+    },
+    {
+      "start": 1995.6,
+      "end": 2000.159,
+      "text": "and if you don't have an audience"
+    },
+    {
+      "start": 1998.64,
+      "end": 2001.76,
+      "text": "you probably have some kind of"
+    },
+    {
+      "start": 2000.159,
+      "end": 2003.36,
+      "text": "perspective what kind of audience would"
+    },
+    {
+      "start": 2001.76,
+      "end": 2004,
+      "text": "be interested in your game so this is"
+    },
+    {
+      "start": 2003.36,
+      "end": 2005.919,
+      "text": "this is your"
+    },
+    {
+      "start": 2004,
+      "end": 2007.12,
+      "text": "audience so you need to look for similar"
+    },
+    {
+      "start": 2005.919,
+      "end": 2009.519,
+      "text": "titles or"
+    },
+    {
+      "start": 2007.12,
+      "end": 2011.12,
+      "text": "similar game trailers and see what"
+    },
+    {
+      "start": 2009.519,
+      "end": 2011.919,
+      "text": "others are doing what are they are"
+    },
+    {
+      "start": 2011.12,
+      "end": 2015.039,
+      "text": "aiming for"
+    },
+    {
+      "start": 2011.919,
+      "end": 2017.6,
+      "text": "is it for funny or childish funny"
+    },
+    {
+      "start": 2015.039,
+      "end": 2018.72,
+      "text": "or adult funny you know i'm sticking to"
+    },
+    {
+      "start": 2017.6,
+      "end": 2021.6,
+      "text": "funny but"
+    },
+    {
+      "start": 2018.72,
+      "end": 2022.799,
+      "text": "you get the idea and talking about the"
+    },
+    {
+      "start": 2021.6,
+      "end": 2025.2,
+      "text": "discord like this is"
+    },
+    {
+      "start": 2022.799,
+      "end": 2026.32,
+      "text": "this is what our audience is creating"
+    },
+    {
+      "start": 2025.2,
+      "end": 2028.08,
+      "text": "it's really"
+    },
+    {
+      "start": 2026.32,
+      "end": 2029.84,
+      "text": "showing us that kind of humor that we"
+    },
+    {
+      "start": 2028.08,
+      "end": 2033.12,
+      "text": "can actually learn for that"
+    },
+    {
+      "start": 2029.84,
+      "end": 2037.12,
+      "text": "from that how how the humor"
+    },
+    {
+      "start": 2033.12,
+      "end": 2039.12,
+      "text": "uh we created is received and"
+    },
+    {
+      "start": 2037.12,
+      "end": 2041.12,
+      "text": "processed and we can actually you know"
+    },
+    {
+      "start": 2039.12,
+      "end": 2042.48,
+      "text": "like if if this is what you like we can"
+    },
+    {
+      "start": 2041.12,
+      "end": 2043.279,
+      "text": "do something more of that you know like"
+    },
+    {
+      "start": 2042.48,
+      "end": 2047.2,
+      "text": "it's funny so"
+    },
+    {
+      "start": 2043.279,
+      "end": 2047.84,
+      "text": "it makes us happy that you find it funny"
+    },
+    {
+      "start": 2047.2,
+      "end": 2050.96,
+      "text": "and we can"
+    },
+    {
+      "start": 2047.84,
+      "end": 2052.56,
+      "text": "like go with the flow and make something"
+    },
+    {
+      "start": 2050.96,
+      "end": 2055.679,
+      "text": "more of it"
+    },
+    {
+      "start": 2052.56,
+      "end": 2058.32,
+      "text": "and of course there's gonna be memes"
+    },
+    {
+      "start": 2055.679,
+      "end": 2059.839,
+      "text": "somewhere but i would discourage you to"
+    },
+    {
+      "start": 2058.32,
+      "end": 2063.04,
+      "text": "use memes because"
+    },
+    {
+      "start": 2059.839,
+      "end": 2066.399,
+      "text": "it's a trap and why is trap"
+    },
+    {
+      "start": 2063.04,
+      "end": 2069.359,
+      "text": "because of the time frame and usually"
+    },
+    {
+      "start": 2066.399,
+      "end": 2070.639,
+      "text": "work on a trailer well sometimes it can"
+    },
+    {
+      "start": 2069.359,
+      "end": 2072.32,
+      "text": "be super fast if you just"
+    },
+    {
+      "start": 2070.639,
+      "end": 2074.72,
+      "text": "record some gameplay and you have some"
+    },
+    {
+      "start": 2072.32,
+      "end": 2077.04,
+      "text": "cool idea to make a short game trailer"
+    },
+    {
+      "start": 2074.72,
+      "end": 2079.44,
+      "text": "sure but usually it takes time it's time"
+    },
+    {
+      "start": 2077.04,
+      "end": 2082.8,
+      "text": "to make a music you know like"
+    },
+    {
+      "start": 2079.44,
+      "end": 2083.76,
+      "text": "edit and create assets animate record"
+    },
+    {
+      "start": 2082.8,
+      "end": 2087.679,
+      "text": "gameplays"
+    },
+    {
+      "start": 2083.76,
+      "end": 2088.96,
+      "text": "it all takes time so usually when memes"
+    },
+    {
+      "start": 2087.679,
+      "end": 2093.359,
+      "text": "are"
+    },
+    {
+      "start": 2088.96,
+      "end": 2096.56,
+      "text": "uh super popular you want to"
+    },
+    {
+      "start": 2093.359,
+      "end": 2097.359,
+      "text": "include them in your game trailer when"
+    },
+    {
+      "start": 2096.56,
+      "end": 2101.44,
+      "text": "you finish up"
+    },
+    {
+      "start": 2097.359,
+      "end": 2104.64,
+      "text": "they might be outdated and usually"
+    },
+    {
+      "start": 2101.44,
+      "end": 2106.48,
+      "text": "it usually is the case um just like be"
+    },
+    {
+      "start": 2104.64,
+      "end": 2107.44,
+      "text": "honest how much up to date are you with"
+    },
+    {
+      "start": 2106.48,
+      "end": 2111.119,
+      "text": "memes today like"
+    },
+    {
+      "start": 2107.44,
+      "end": 2114.16,
+      "text": "probably everyone is but uh"
+    },
+    {
+      "start": 2111.119,
+      "end": 2115.68,
+      "text": "how how can you determine that"
+    },
+    {
+      "start": 2114.16,
+      "end": 2118.48,
+      "text": "when you will finish your game trailer"
+    },
+    {
+      "start": 2115.68,
+      "end": 2121.359,
+      "text": "the memes will be still"
+    },
+    {
+      "start": 2118.48,
+      "end": 2122.4,
+      "text": "actual and still funny there was this"
+    },
+    {
+      "start": 2121.359,
+      "end": 2125.28,
+      "text": "case of"
+    },
+    {
+      "start": 2122.4,
+      "end": 2126.079,
+      "text": "using memes by big corporation working"
+    },
+    {
+      "start": 2125.28,
+      "end": 2129.359,
+      "text": "on"
+    },
+    {
+      "start": 2126.079,
+      "end": 2130.24,
+      "text": "burgers and they wanted to use a meme"
+    },
+    {
+      "start": 2129.359,
+      "end": 2133.44,
+      "text": "that was really"
+    },
+    {
+      "start": 2130.24,
+      "end": 2134.24,
+      "text": "really outdated and it totally backfired"
+    },
+    {
+      "start": 2133.44,
+      "end": 2136.8,
+      "text": "because"
+    },
+    {
+      "start": 2134.24,
+      "end": 2139.28,
+      "text": "people were hating it and they weren't"
+    },
+    {
+      "start": 2136.8,
+      "end": 2142.4,
+      "text": "loving it they were hating it and"
+    },
+    {
+      "start": 2139.28,
+      "end": 2143.28,
+      "text": "they actually showed that and it wasn't"
+    },
+    {
+      "start": 2142.4,
+      "end": 2146.48,
+      "text": "very good for"
+    },
+    {
+      "start": 2143.28,
+      "end": 2150.56,
+      "text": "for the company the campaign was a flop"
+    },
+    {
+      "start": 2146.48,
+      "end": 2153.68,
+      "text": "and it was kind of um"
+    },
+    {
+      "start": 2150.56,
+      "end": 2154.48,
+      "text": "good example for us to how you don't use"
+    },
+    {
+      "start": 2153.68,
+      "end": 2157.839,
+      "text": "memes in your"
+    },
+    {
+      "start": 2154.48,
+      "end": 2158.88,
+      "text": "game trader but you want to make it"
+    },
+    {
+      "start": 2157.839,
+      "end": 2160.96,
+      "text": "entertaining"
+    },
+    {
+      "start": 2158.88,
+      "end": 2162.56,
+      "text": "and this is the the most tricky part"
+    },
+    {
+      "start": 2160.96,
+      "end": 2165.119,
+      "text": "because"
+    },
+    {
+      "start": 2162.56,
+      "end": 2167.04,
+      "text": "how to make some stuff entertaining well"
+    },
+    {
+      "start": 2165.119,
+      "end": 2168.16,
+      "text": "i'm gonna go back to the watching what"
+    },
+    {
+      "start": 2167.04,
+      "end": 2170.48,
+      "text": "others are doing"
+    },
+    {
+      "start": 2168.16,
+      "end": 2171.52,
+      "text": "watching your favorite trailers movies"
+    },
+    {
+      "start": 2170.48,
+      "end": 2173.92,
+      "text": "you know"
+    },
+    {
+      "start": 2171.52,
+      "end": 2175.359,
+      "text": "and focusing on stuff that it's what's"
+    },
+    {
+      "start": 2173.92,
+      "end": 2178.64,
+      "text": "funny you know like it's"
+    },
+    {
+      "start": 2175.359,
+      "end": 2181.599,
+      "text": "easier to build around one suspense or"
+    },
+    {
+      "start": 2178.64,
+      "end": 2183.119,
+      "text": "one plot twist or some kind of well"
+    },
+    {
+      "start": 2181.599,
+      "end": 2186.56,
+      "text": "maybe cliffhanger"
+    },
+    {
+      "start": 2183.119,
+      "end": 2188.079,
+      "text": "one joke uh one smaller trailer then you"
+    },
+    {
+      "start": 2186.56,
+      "end": 2192.48,
+      "text": "know like try to make"
+    },
+    {
+      "start": 2188.079,
+      "end": 2195.92,
+      "text": "something big with everything and um"
+    },
+    {
+      "start": 2192.48,
+      "end": 2199.599,
+      "text": "it's uh it's really good to look for"
+    },
+    {
+      "start": 2195.92,
+      "end": 2201.2,
+      "text": "for the best ones and it's not like uh"
+    },
+    {
+      "start": 2199.599,
+      "end": 2203.04,
+      "text": "we don't have many examples in the"
+    },
+    {
+      "start": 2201.2,
+      "end": 2204.88,
+      "text": "culture we have those great"
+    },
+    {
+      "start": 2203.04,
+      "end": 2206.48,
+      "text": "assassin's creed trailers that were you"
+    },
+    {
+      "start": 2204.88,
+      "end": 2210.32,
+      "text": "know like pre-rendered"
+    },
+    {
+      "start": 2206.48,
+      "end": 2212.72,
+      "text": "uh animations with uh great"
+    },
+    {
+      "start": 2210.32,
+      "end": 2215.599,
+      "text": "cloth animations hair with the good"
+    },
+    {
+      "start": 2212.72,
+      "end": 2218.4,
+      "text": "music you know you watch them and"
+    },
+    {
+      "start": 2215.599,
+      "end": 2218.96,
+      "text": "it is entertaining it's like video clips"
+    },
+    {
+      "start": 2218.4,
+      "end": 2221.359,
+      "text": "uh"
+    },
+    {
+      "start": 2218.96,
+      "end": 2222.72,
+      "text": "this one is from uh assassin's creed uh"
+    },
+    {
+      "start": 2221.359,
+      "end": 2225.599,
+      "text": "renovations and"
+    },
+    {
+      "start": 2222.72,
+      "end": 2228,
+      "text": "uh with the famous truck uh music track"
+    },
+    {
+      "start": 2225.599,
+      "end": 2229.2,
+      "text": "by woodkid and it is entertaining and"
+    },
+    {
+      "start": 2228,
+      "end": 2231.52,
+      "text": "you know"
+    },
+    {
+      "start": 2229.2,
+      "end": 2232.32,
+      "text": "it's probably hard for every game to"
+    },
+    {
+      "start": 2231.52,
+      "end": 2235.599,
+      "text": "make an"
+    },
+    {
+      "start": 2232.32,
+      "end": 2237.52,
+      "text": "entertaining trailer but you can do it"
+    },
+    {
+      "start": 2235.599,
+      "end": 2240.88,
+      "text": "in so many ways you can just try"
+    },
+    {
+      "start": 2237.52,
+      "end": 2244.16,
+      "text": "dynamically editing your videos"
+    },
+    {
+      "start": 2240.88,
+      "end": 2245.68,
+      "text": "add some cool music you know"
+    },
+    {
+      "start": 2244.16,
+      "end": 2249.68,
+      "text": "you need to look for your own way to"
+    },
+    {
+      "start": 2245.68,
+      "end": 2254.079,
+      "text": "make your game trailer entertaining"
+    },
+    {
+      "start": 2249.68,
+      "end": 2257.2,
+      "text": "and entertainment costs time um"
+    },
+    {
+      "start": 2254.079,
+      "end": 2260.4,
+      "text": "it's harder to you know like make a long"
+    },
+    {
+      "start": 2257.2,
+      "end": 2261.2,
+      "text": "and entertaining game trailer and"
+    },
+    {
+      "start": 2260.4,
+      "end": 2263.92,
+      "text": "usually"
+    },
+    {
+      "start": 2261.2,
+      "end": 2264.56,
+      "text": "attention span of viewers is very very"
+    },
+    {
+      "start": 2263.92,
+      "end": 2267.92,
+      "text": "small"
+    },
+    {
+      "start": 2264.56,
+      "end": 2270.48,
+      "text": "so don't make longer than two minutes"
+    },
+    {
+      "start": 2267.92,
+      "end": 2271.52,
+      "text": "there is not much videos that are uh"
+    },
+    {
+      "start": 2270.48,
+      "end": 2274.72,
+      "text": "watched that are"
+    },
+    {
+      "start": 2271.52,
+      "end": 2276.32,
+      "text": "longer than two means and uh as a proof"
+    },
+    {
+      "start": 2274.72,
+      "end": 2279.119,
+      "text": "i can show you"
+    },
+    {
+      "start": 2276.32,
+      "end": 2279.599,
+      "text": "our graph we have a graph uh is the"
+    },
+    {
+      "start": 2279.119,
+      "end": 2285.2,
+      "text": "graph"
+    },
+    {
+      "start": 2279.599,
+      "end": 2285.2,
+      "text": "um at the beginning there's like 100"
+    },
+    {
+      "start": 2285.28,
+      "end": 2288.4,
+      "text": "viewers watching the the video and the"
+    },
+    {
+      "start": 2287.599,
+      "end": 2292.079,
+      "text": "video is"
+    },
+    {
+      "start": 2288.4,
+      "end": 2295.76,
+      "text": "one minute 17 seconds and"
+    },
+    {
+      "start": 2292.079,
+      "end": 2298,
+      "text": "the longer the longer you"
+    },
+    {
+      "start": 2295.76,
+      "end": 2299.599,
+      "text": "you look at the the graph that the less"
+    },
+    {
+      "start": 2298,
+      "end": 2301.599,
+      "text": "viewers are actually watching the video"
+    },
+    {
+      "start": 2299.599,
+      "end": 2304.8,
+      "text": "so at the end of the video"
+    },
+    {
+      "start": 2301.599,
+      "end": 2306.24,
+      "text": "so people who actually stayed on youtube"
+    },
+    {
+      "start": 2304.8,
+      "end": 2312.079,
+      "text": "and watched the video till the end"
+    },
+    {
+      "start": 2306.24,
+      "end": 2313.92,
+      "text": "one minute 17 seconds is 29.88"
+    },
+    {
+      "start": 2312.079,
+      "end": 2316.32,
+      "text": "almost thirty percent people are"
+    },
+    {
+      "start": 2313.92,
+      "end": 2319.599,
+      "text": "watching one minute video till the end"
+    },
+    {
+      "start": 2316.32,
+      "end": 2322.64,
+      "text": "and most of them just you know like"
+    },
+    {
+      "start": 2319.599,
+      "end": 2323.839,
+      "text": "uh turn it off so"
+    },
+    {
+      "start": 2322.64,
+      "end": 2326.48,
+      "text": "it's important to know those kind of"
+    },
+    {
+      "start": 2323.839,
+      "end": 2329.92,
+      "text": "statistics how long"
+    },
+    {
+      "start": 2326.48,
+      "end": 2330.24,
+      "text": "how much you know and this is the thing"
+    },
+    {
+      "start": 2329.92,
+      "end": 2332.88,
+      "text": "like"
+    },
+    {
+      "start": 2330.24,
+      "end": 2335.52,
+      "text": "uh it's easier to make a shorter video"
+    },
+    {
+      "start": 2332.88,
+      "end": 2338.96,
+      "text": "that is constantly entertaining"
+    },
+    {
+      "start": 2335.52,
+      "end": 2342.48,
+      "text": "and then you know longer one with"
+    },
+    {
+      "start": 2338.96,
+      "end": 2344.88,
+      "text": "different pacing so this is this uh"
+    },
+    {
+      "start": 2342.48,
+      "end": 2346.48,
+      "text": "famous quote that everybody thinks that"
+    },
+    {
+      "start": 2344.88,
+      "end": 2348.4,
+      "text": "alfred hitchcock said"
+    },
+    {
+      "start": 2346.48,
+      "end": 2351.28,
+      "text": "that i want a film that begins with an"
+    },
+    {
+      "start": 2348.4,
+      "end": 2353.68,
+      "text": "earthquake and work up to a climax"
+    },
+    {
+      "start": 2351.28,
+      "end": 2354.72,
+      "text": "well actually he wasn't the person who"
+    },
+    {
+      "start": 2353.68,
+      "end": 2357.44,
+      "text": "said that"
+    },
+    {
+      "start": 2354.72,
+      "end": 2358.64,
+      "text": "because it was robert montgomery but he"
+    },
+    {
+      "start": 2357.44,
+      "end": 2360.56,
+      "text": "actually wasn't"
+    },
+    {
+      "start": 2358.64,
+      "end": 2362.8,
+      "text": "this person it was uh someone else it"
+    },
+    {
+      "start": 2360.56,
+      "end": 2366,
+      "text": "was robert hart davis"
+    },
+    {
+      "start": 2362.8,
+      "end": 2367.76,
+      "text": "uh but also it wasn't him um he actually"
+    },
+    {
+      "start": 2366,
+      "end": 2371.359,
+      "text": "was the first one to use the quote"
+    },
+    {
+      "start": 2367.76,
+      "end": 2373.2,
+      "text": "in a review he wrote in 1938"
+    },
+    {
+      "start": 2371.359,
+      "end": 2374.8,
+      "text": "and he was in this review he actually"
+    },
+    {
+      "start": 2373.2,
+      "end": 2377.359,
+      "text": "was quoting some mystery man"
+    },
+    {
+      "start": 2374.8,
+      "end": 2378.96,
+      "text": "that was one just you know like he"
+    },
+    {
+      "start": 2377.359,
+      "end": 2383.359,
+      "text": "wanted a movie like that"
+    },
+    {
+      "start": 2378.96,
+      "end": 2384,
+      "text": "and it seems that for 100 years people"
+    },
+    {
+      "start": 2383.359,
+      "end": 2387.359,
+      "text": "are"
+    },
+    {
+      "start": 2384,
+      "end": 2391.359,
+      "text": "constantly wanting high tension"
+    },
+    {
+      "start": 2387.359,
+      "end": 2394.8,
+      "text": "high high entertainment i don't know"
+    },
+    {
+      "start": 2391.359,
+      "end": 2397.44,
+      "text": "action in the movies and"
+    },
+    {
+      "start": 2394.8,
+      "end": 2399.44,
+      "text": "nowadays it's even harder to keep the"
+    },
+    {
+      "start": 2397.44,
+      "end": 2402.48,
+      "text": "viewer attention and"
+    },
+    {
+      "start": 2399.44,
+      "end": 2406.079,
+      "text": "uh for the further longer time span"
+    },
+    {
+      "start": 2402.48,
+      "end": 2406.079,
+      "text": "so you need to have like"
+    },
+    {
+      "start": 2406.88,
+      "end": 2410.72,
+      "text": "you need to have the idea of how to how"
+    },
+    {
+      "start": 2409.68,
+      "end": 2412.48,
+      "text": "to keep that"
+    },
+    {
+      "start": 2410.72,
+      "end": 2416.319,
+      "text": "how to keep the story how to keep the"
+    },
+    {
+      "start": 2412.48,
+      "end": 2416.319,
+      "text": "viewer attention how to keep the viewer"
+    },
+    {
+      "start": 2416.48,
+      "end": 2420.4,
+      "text": "to watch your video and to remember the"
+    },
+    {
+      "start": 2419.2,
+      "end": 2424.4,
+      "text": "game you're trying to"
+    },
+    {
+      "start": 2420.4,
+      "end": 2426.079,
+      "text": "to you know like to sell there so it's"
+    },
+    {
+      "start": 2424.4,
+      "end": 2430,
+      "text": "very important to stay up"
+    },
+    {
+      "start": 2426.079,
+      "end": 2432.24,
+      "text": "uh stay up to date with the industry to"
+    },
+    {
+      "start": 2430,
+      "end": 2433.119,
+      "text": "you know like to actualize your your"
+    },
+    {
+      "start": 2432.24,
+      "end": 2438.16,
+      "text": "knowledge"
+    },
+    {
+      "start": 2433.119,
+      "end": 2440.56,
+      "text": "to um"
+    },
+    {
+      "start": 2438.16,
+      "end": 2441.28,
+      "text": "to understand what's going on what"
+    },
+    {
+      "start": 2440.56,
+      "end": 2445.2,
+      "text": "viewers are"
+    },
+    {
+      "start": 2441.28,
+      "end": 2447.76,
+      "text": "like what they don't like uh you know"
+    },
+    {
+      "start": 2445.2,
+      "end": 2449.28,
+      "text": "uh recently i noticed that so many"
+    },
+    {
+      "start": 2447.76,
+      "end": 2451.04,
+      "text": "players are"
+    },
+    {
+      "start": 2449.28,
+      "end": 2452.72,
+      "text": "not really happy with the trailers they"
+    },
+    {
+      "start": 2451.04,
+      "end": 2454.56,
+      "text": "see on those showcases"
+    },
+    {
+      "start": 2452.72,
+      "end": 2456.319,
+      "text": "especially the trailers that don't"
+    },
+    {
+      "start": 2454.56,
+      "end": 2460.48,
+      "text": "showcase the gameplay at all"
+    },
+    {
+      "start": 2456.319,
+      "end": 2460.48,
+      "text": "and focusing only on those"
+    },
+    {
+      "start": 2462.079,
+      "end": 2466,
+      "text": "focusing only on those cinematic things"
+    },
+    {
+      "start": 2465.599,
+      "end": 2469.599,
+      "text": "you know"
+    },
+    {
+      "start": 2466,
+      "end": 2472.72,
+      "text": "like um yeah it's nice to see these"
+    },
+    {
+      "start": 2469.599,
+      "end": 2475.119,
+      "text": "nice animations and great plots"
+    },
+    {
+      "start": 2472.72,
+      "end": 2476.079,
+      "text": "music yeah yeah that's great but how is"
+    },
+    {
+      "start": 2475.119,
+      "end": 2479.2,
+      "text": "it how the game"
+    },
+    {
+      "start": 2476.079,
+      "end": 2480.48,
+      "text": "looks like you know like what what is"
+    },
+    {
+      "start": 2479.2,
+      "end": 2484.4,
+      "text": "the gameplay"
+    },
+    {
+      "start": 2480.48,
+      "end": 2486.48,
+      "text": "so maybe the times are changing"
+    },
+    {
+      "start": 2484.4,
+      "end": 2488.8,
+      "text": "and maybe it's important to include more"
+    },
+    {
+      "start": 2486.48,
+      "end": 2489.119,
+      "text": "gameplay or think about the gameplay if"
+    },
+    {
+      "start": 2488.8,
+      "end": 2492.88,
+      "text": "you're"
+    },
+    {
+      "start": 2489.119,
+      "end": 2495.04,
+      "text": "if you're game trainers and"
+    },
+    {
+      "start": 2492.88,
+      "end": 2496.88,
+      "text": "saying about talking about that they"
+    },
+    {
+      "start": 2495.04,
+      "end": 2498.72,
+      "text": "just don't say that you don't want to"
+    },
+    {
+      "start": 2496.88,
+      "end": 2500.48,
+      "text": "record this gameplay put it out there of"
+    },
+    {
+      "start": 2498.72,
+      "end": 2505.44,
+      "text": "course you can do it like sometimes"
+    },
+    {
+      "start": 2500.48,
+      "end": 2507.839,
+      "text": "some showcases competitions"
+    },
+    {
+      "start": 2505.44,
+      "end": 2509.92,
+      "text": "for awards they require you to have that"
+    },
+    {
+      "start": 2507.839,
+      "end": 2512.88,
+      "text": "kind of video but you don't want to show"
+    },
+    {
+      "start": 2509.92,
+      "end": 2515.52,
+      "text": "that as your gameplay trailer even if"
+    },
+    {
+      "start": 2512.88,
+      "end": 2519.07,
+      "text": "you just want to focus on your gameplay"
+    },
+    {
+      "start": 2515.52,
+      "end": 2520.48,
+      "text": "it's still better to"
+    },
+    {
+      "start": 2519.07,
+      "end": 2524.319,
+      "text": "[Music]"
+    },
+    {
+      "start": 2520.48,
+      "end": 2527.2,
+      "text": "edit it and keep up some kind of story"
+    },
+    {
+      "start": 2524.319,
+      "end": 2528.319,
+      "text": "um you can tell a story with your"
+    },
+    {
+      "start": 2527.2,
+      "end": 2530.16,
+      "text": "gameplay"
+    },
+    {
+      "start": 2528.319,
+      "end": 2532.16,
+      "text": "even if it's a shooter or platformer you"
+    },
+    {
+      "start": 2530.16,
+      "end": 2534,
+      "text": "can still do a story with different"
+    },
+    {
+      "start": 2532.16,
+      "end": 2536.64,
+      "text": "pacing sometimes dynamics"
+    },
+    {
+      "start": 2534,
+      "end": 2538.16,
+      "text": "few scenes dynamics there is a pause"
+    },
+    {
+      "start": 2536.64,
+      "end": 2541.44,
+      "text": "there's another dynamic"
+    },
+    {
+      "start": 2538.16,
+      "end": 2545.2,
+      "text": "sequence you can do a lot with editing"
+    },
+    {
+      "start": 2541.44,
+      "end": 2547.28,
+      "text": "and still showing the gameplay so"
+    },
+    {
+      "start": 2545.2,
+      "end": 2548.8,
+      "text": "for example i can show you some"
+    },
+    {
+      "start": 2547.28,
+      "end": 2551.839,
+      "text": "statistics again"
+    },
+    {
+      "start": 2548.8,
+      "end": 2556.28,
+      "text": "and this is our viewer count for"
+    },
+    {
+      "start": 2551.839,
+      "end": 2560.16,
+      "text": "60 seconds game trailer uh"
+    },
+    {
+      "start": 2556.28,
+      "end": 2562.4,
+      "text": "770 000 and 60 seconds gameplay trailer"
+    },
+    {
+      "start": 2560.16,
+      "end": 2564.48,
+      "text": "which is mostly recorded gameplay but"
+    },
+    {
+      "start": 2562.4,
+      "end": 2566.24,
+      "text": "there is some editing to actually edit"
+    },
+    {
+      "start": 2564.48,
+      "end": 2568.72,
+      "text": "out some boring stuff"
+    },
+    {
+      "start": 2566.24,
+      "end": 2569.44,
+      "text": "uh but it's not really perfect and it's"
+    },
+    {
+      "start": 2568.72,
+      "end": 2572.16,
+      "text": "far from"
+    },
+    {
+      "start": 2569.44,
+      "end": 2574.88,
+      "text": "entertaining and you can see that's less"
+    },
+    {
+      "start": 2572.16,
+      "end": 2576.96,
+      "text": "than 100 000 views so"
+    },
+    {
+      "start": 2574.88,
+      "end": 2578.64,
+      "text": "i hadn't even looked at the viewer"
+    },
+    {
+      "start": 2576.96,
+      "end": 2581.04,
+      "text": "attention because this"
+    },
+    {
+      "start": 2578.64,
+      "end": 2582.72,
+      "text": "gameplay trailer is is longer it's i"
+    },
+    {
+      "start": 2581.04,
+      "end": 2584.96,
+      "text": "think like few minutes and i don't think"
+    },
+    {
+      "start": 2582.72,
+      "end": 2587.44,
+      "text": "anyone was watching that at the end"
+    },
+    {
+      "start": 2584.96,
+      "end": 2588.48,
+      "text": "uh but i know now it's but i wanted to"
+    },
+    {
+      "start": 2587.44,
+      "end": 2590,
+      "text": "have a"
+    },
+    {
+      "start": 2588.48,
+      "end": 2592,
+      "text": "gameplay trailer for our game for"
+    },
+    {
+      "start": 2590,
+      "end": 2594.4,
+      "text": "everyone to actually you know like"
+    },
+    {
+      "start": 2592,
+      "end": 2595.04,
+      "text": "know what is the gameplay about because"
+    },
+    {
+      "start": 2594.4,
+      "end": 2597.28,
+      "text": "the"
+    },
+    {
+      "start": 2595.04,
+      "end": 2599.04,
+      "text": "gameplay we showed the game trailer was"
+    },
+    {
+      "start": 2597.28,
+      "end": 2602.24,
+      "text": "a bit short and"
+    },
+    {
+      "start": 2599.04,
+      "end": 2604.64,
+      "text": "you're gonna see that later so"
+    },
+    {
+      "start": 2602.24,
+      "end": 2607.2,
+      "text": "remember about the platforms uh and i'm"
+    },
+    {
+      "start": 2604.64,
+      "end": 2609.68,
+      "text": "talking about platforms for your"
+    },
+    {
+      "start": 2607.2,
+      "end": 2610.319,
+      "text": "games uh store platforms and also"
+    },
+    {
+      "start": 2609.68,
+      "end": 2612.88,
+      "text": "platforms"
+    },
+    {
+      "start": 2610.319,
+      "end": 2614.56,
+      "text": "viewing platforms like youtube so"
+    },
+    {
+      "start": 2612.88,
+      "end": 2617.04,
+      "text": "talking about the youtube"
+    },
+    {
+      "start": 2614.56,
+      "end": 2619.68,
+      "text": "uh because it's one of the most popular"
+    },
+    {
+      "start": 2617.04,
+      "end": 2621.599,
+      "text": "viewing platforms in the internet"
+    },
+    {
+      "start": 2619.68,
+      "end": 2624.8,
+      "text": "there are many statistics on in the"
+    },
+    {
+      "start": 2621.599,
+      "end": 2626.32,
+      "text": "internet that can help you up"
+    },
+    {
+      "start": 2624.8,
+      "end": 2628.8,
+      "text": "with the"
+    },
+    {
+      "start": 2626.32,
+      "end": 2632.4,
+      "text": "[Music]"
+    },
+    {
+      "start": 2628.8,
+      "end": 2633.04,
+      "text": "with the science behind what viewers are"
+    },
+    {
+      "start": 2632.4,
+      "end": 2636.079,
+      "text": "doing"
+    },
+    {
+      "start": 2633.04,
+      "end": 2638.24,
+      "text": "and what kind of uh"
+    },
+    {
+      "start": 2636.079,
+      "end": 2640.079,
+      "text": "decisions they are making and that is"
+    },
+    {
+      "start": 2638.24,
+      "end": 2643.359,
+      "text": "everything for for you know like for"
+    },
+    {
+      "start": 2640.079,
+      "end": 2645.44,
+      "text": "apps and ads"
+    },
+    {
+      "start": 2643.359,
+      "end": 2647.68,
+      "text": "so basically most of the people are"
+    },
+    {
+      "start": 2645.44,
+      "end": 2648.319,
+      "text": "watching youtube videos on their phones"
+    },
+    {
+      "start": 2647.68,
+      "end": 2652.4,
+      "text": "and"
+    },
+    {
+      "start": 2648.319,
+      "end": 2655.119,
+      "text": "most of them are making decisions"
+    },
+    {
+      "start": 2652.4,
+      "end": 2656.4,
+      "text": "uh to buy a product based on what they"
+    },
+    {
+      "start": 2655.119,
+      "end": 2660.72,
+      "text": "are watching on youtube"
+    },
+    {
+      "start": 2656.4,
+      "end": 2662.8,
+      "text": "so this is like huge numbers and"
+    },
+    {
+      "start": 2660.72,
+      "end": 2665.04,
+      "text": "this actually makes you think that if"
+    },
+    {
+      "start": 2662.8,
+      "end": 2667.04,
+      "text": "you're doing a video that's gonna be"
+    },
+    {
+      "start": 2665.04,
+      "end": 2667.839,
+      "text": "watched on a smaller device you know"
+    },
+    {
+      "start": 2667.04,
+      "end": 2671.599,
+      "text": "like on a"
+    },
+    {
+      "start": 2667.839,
+      "end": 2673.599,
+      "text": "like a cell phone um"
+    },
+    {
+      "start": 2671.599,
+      "end": 2675.2,
+      "text": "you want to have you know like your"
+    },
+    {
+      "start": 2673.599,
+      "end": 2679.92,
+      "text": "video clear"
+    },
+    {
+      "start": 2675.2,
+      "end": 2679.92,
+      "text": "and message clear also"
+    },
+    {
+      "start": 2680.16,
+      "end": 2684,
+      "text": "youtube is a platform when you know like"
+    },
+    {
+      "start": 2681.839,
+      "end": 2685.1,
+      "text": "you have different different things like"
+    },
+    {
+      "start": 2684,
+      "end": 2687.68,
+      "text": "captions"
+    },
+    {
+      "start": 2685.1,
+      "end": 2689.52,
+      "text": "[Music]"
+    },
+    {
+      "start": 2687.68,
+      "end": 2691.119,
+      "text": "you can promote your video as a"
+    },
+    {
+      "start": 2689.52,
+      "end": 2692,
+      "text": "commercial everything that goes with"
+    },
+    {
+      "start": 2691.119,
+      "end": 2693.28,
+      "text": "youtube"
+    },
+    {
+      "start": 2692,
+      "end": 2694.72,
+      "text": "but we're also talking about the"
+    },
+    {
+      "start": 2693.28,
+      "end": 2695.839,
+      "text": "platforms you also have the store"
+    },
+    {
+      "start": 2694.72,
+      "end": 2699.119,
+      "text": "platforms so"
+    },
+    {
+      "start": 2695.839,
+      "end": 2700.079,
+      "text": "there's steams uh there's uh playstation"
+    },
+    {
+      "start": 2699.119,
+      "end": 2703.839,
+      "text": "xbox"
+    },
+    {
+      "start": 2700.079,
+      "end": 2705.119,
+      "text": "nintendo and they all have some kind of"
+    },
+    {
+      "start": 2703.839,
+      "end": 2707.839,
+      "text": "either requirements"
+    },
+    {
+      "start": 2705.119,
+      "end": 2709.92,
+      "text": "are the recommendations like for example"
+    },
+    {
+      "start": 2707.839,
+      "end": 2712,
+      "text": "steam has this recommendation to"
+    },
+    {
+      "start": 2709.92,
+      "end": 2713.76,
+      "text": "keep your gameplay trailer at the"
+    },
+    {
+      "start": 2712,
+      "end": 2718.48,
+      "text": "beginning of your"
+    },
+    {
+      "start": 2713.76,
+      "end": 2721.119,
+      "text": "gallery on the storefront and there is a"
+    },
+    {
+      "start": 2718.48,
+      "end": 2724.24,
+      "text": "there is this kind of uh recommendation"
+    },
+    {
+      "start": 2721.119,
+      "end": 2727.28,
+      "text": "or culture with nintendo games to show"
+    },
+    {
+      "start": 2724.24,
+      "end": 2728.72,
+      "text": "actors and game played on in the"
+    },
+    {
+      "start": 2727.28,
+      "end": 2731.76,
+      "text": "handheld with the"
+    },
+    {
+      "start": 2728.72,
+      "end": 2733.359,
+      "text": "hands visible so most of the games you"
+    },
+    {
+      "start": 2731.76,
+      "end": 2735.28,
+      "text": "on the switch you actually will be"
+    },
+    {
+      "start": 2733.359,
+      "end": 2738.319,
+      "text": "seeing the trade in the trailers"
+    },
+    {
+      "start": 2735.28,
+      "end": 2739.599,
+      "text": "people playing the games or game"
+    },
+    {
+      "start": 2738.319,
+      "end": 2742.72,
+      "text": "showcase"
+    },
+    {
+      "start": 2739.599,
+      "end": 2746.079,
+      "text": "on the handheld option on the switch"
+    },
+    {
+      "start": 2742.72,
+      "end": 2748.88,
+      "text": "nintendo switch so we did that also"
+    },
+    {
+      "start": 2746.079,
+      "end": 2750.48,
+      "text": "many years after the release and it's a"
+    },
+    {
+      "start": 2748.88,
+      "end": 2761.839,
+      "text": "short video that i'm gonna show you"
+    },
+    {
+      "start": 2750.48,
+      "end": 2761.839,
+      "text": "right now"
+    },
+    {
+      "start": 2763.599,
+      "end": 2767.28,
+      "text": "hello ted are you having fun in your"
+    },
+    {
+      "start": 2765.599,
+      "end": 2769.119,
+      "text": "nuclear fallout shelter"
+    },
+    {
+      "start": 2767.28,
+      "end": 2771.2,
+      "text": "no there must be something that will"
+    },
+    {
+      "start": 2769.119,
+      "end": 2771.839,
+      "text": "cheer you up shall we play a game then"
+    },
+    {
+      "start": 2771.2,
+      "end": 2774.48,
+      "text": "how about"
+    },
+    {
+      "start": 2771.839,
+      "end": 2776,
+      "text": "60 seconds that's more than enough time"
+    },
+    {
+      "start": 2774.48,
+      "end": 2777.68,
+      "text": "to collect supplies essential for"
+    },
+    {
+      "start": 2776,
+      "end": 2781.68,
+      "text": "survival"
+    },
+    {
+      "start": 2777.68,
+      "end": 2784.24,
+      "text": "don't forget your family duck and cover"
+    },
+    {
+      "start": 2781.68,
+      "end": 2785.599,
+      "text": "but this isn't over yet day by day you"
+    },
+    {
+      "start": 2784.24,
+      "end": 2787.92,
+      "text": "and your family must survive in a"
+    },
+    {
+      "start": 2785.599,
+      "end": 2789.599,
+      "text": "fallout shelter for as long as you can"
+    },
+    {
+      "start": 2787.92,
+      "end": 2791.44,
+      "text": "you have to ration food and water"
+    },
+    {
+      "start": 2789.599,
+      "end": 2793.68,
+      "text": "send expeditions into the wasteland when"
+    },
+    {
+      "start": 2791.44,
+      "end": 2794.88,
+      "text": "supplies run low and face unexpected"
+    },
+    {
+      "start": 2793.68,
+      "end": 2796.48,
+      "text": "situations"
+    },
+    {
+      "start": 2794.88,
+      "end": 2798.24,
+      "text": "making decisions that will affect your"
+    },
+    {
+      "start": 2796.48,
+      "end": 2801.44,
+      "text": "future sounds fun"
+    },
+    {
+      "start": 2798.24,
+      "end": 2803.52,
+      "text": "because it is tell your friends"
+    },
+    {
+      "start": 2801.44,
+      "end": 2804.72,
+      "text": "good luck ted the government is not"
+    },
+    {
+      "start": 2803.52,
+      "end": 2807.68,
+      "text": "guaranteed that you will survive long"
+    },
+    {
+      "start": 2804.72,
+      "end": 2810.64,
+      "text": "enough to tell your friends or get sued"
+    },
+    {
+      "start": 2807.68,
+      "end": 2810.64,
+      "text": "look at him go"
+    },
+    {
+      "start": 2814.8,
+      "end": 2817.92,
+      "text": "yes and we tried to include everything"
+    },
+    {
+      "start": 2817.04,
+      "end": 2820.88,
+      "text": "that i"
+    },
+    {
+      "start": 2817.92,
+      "end": 2821.599,
+      "text": "said like actors where we had one actor"
+    },
+    {
+      "start": 2820.88,
+      "end": 2825.04,
+      "text": "and"
+    },
+    {
+      "start": 2821.599,
+      "end": 2827.52,
+      "text": "um and you know like there was this"
+    },
+    {
+      "start": 2825.04,
+      "end": 2828.8,
+      "text": "moment of playing the the game with"
+    },
+    {
+      "start": 2827.52,
+      "end": 2831.599,
+      "text": "hands and"
+    },
+    {
+      "start": 2828.8,
+      "end": 2832.88,
+      "text": "i think nintendo culture of game"
+    },
+    {
+      "start": 2831.599,
+      "end": 2836.48,
+      "text": "trailers is like that"
+    },
+    {
+      "start": 2832.88,
+      "end": 2838.64,
+      "text": "and it was really fun to do actually and"
+    },
+    {
+      "start": 2836.48,
+      "end": 2841.04,
+      "text": "we were happy to do it"
+    },
+    {
+      "start": 2838.64,
+      "end": 2841.76,
+      "text": "um but yeah think about the platforms"
+    },
+    {
+      "start": 2841.04,
+      "end": 2845.04,
+      "text": "and"
+    },
+    {
+      "start": 2841.76,
+      "end": 2847.2,
+      "text": "there's another don't make your trailer"
+    },
+    {
+      "start": 2845.04,
+      "end": 2848.319,
+      "text": "sound dependable"
+    },
+    {
+      "start": 2847.2,
+      "end": 2850.319,
+      "text": "this is something that we actually"
+    },
+    {
+      "start": 2848.319,
+      "end": 2853.55,
+      "text": "you're not really doing"
+    },
+    {
+      "start": 2850.319,
+      "end": 2854.88,
+      "text": "but i would still try to"
+    },
+    {
+      "start": 2853.55,
+      "end": 2858.16,
+      "text": "[Music]"
+    },
+    {
+      "start": 2854.88,
+      "end": 2860,
+      "text": "encourage you to think about it like uh"
+    },
+    {
+      "start": 2858.16,
+      "end": 2862.079,
+      "text": "there's this thing on youtube when you"
+    },
+    {
+      "start": 2860,
+      "end": 2865.2,
+      "text": "can have captions so if you have a"
+    },
+    {
+      "start": 2862.079,
+      "end": 2868.319,
+      "text": "narrative on like uh narrator"
+    },
+    {
+      "start": 2865.2,
+      "end": 2870.64,
+      "text": "um the actor like we had on the trailer"
+    },
+    {
+      "start": 2868.319,
+      "end": 2872.079,
+      "text": "just second ago"
+    },
+    {
+      "start": 2870.64,
+      "end": 2875.76,
+      "text": "you can you know like write your own"
+    },
+    {
+      "start": 2872.079,
+      "end": 2876.88,
+      "text": "captions so you are you have um"
+    },
+    {
+      "start": 2875.76,
+      "end": 2878.079,
+      "text": "you can watch the video without the"
+    },
+    {
+      "start": 2876.88,
+      "end": 2879.28,
+      "text": "sound and still have like some"
+    },
+    {
+      "start": 2878.079,
+      "end": 2882.319,
+      "text": "information"
+    },
+    {
+      "start": 2879.28,
+      "end": 2884.4,
+      "text": "but videos like"
+    },
+    {
+      "start": 2882.319,
+      "end": 2885.52,
+      "text": "game creators like heavy and sound then"
+    },
+    {
+      "start": 2884.4,
+      "end": 2889.28,
+      "text": "can be"
+    },
+    {
+      "start": 2885.52,
+      "end": 2889.28,
+      "text": "can lose some kind of um"
+    },
+    {
+      "start": 2890.96,
+      "end": 2895.44,
+      "text": "quality when people are watching them"
+    },
+    {
+      "start": 2893.28,
+      "end": 2896.72,
+      "text": "without the sound obviously"
+    },
+    {
+      "start": 2895.44,
+      "end": 2898.48,
+      "text": "but need to think about the"
+    },
+    {
+      "start": 2896.72,
+      "end": 2900.8,
+      "text": "accessibility all the time"
+    },
+    {
+      "start": 2898.48,
+      "end": 2901.599,
+      "text": "and you need to think about who and how"
+    },
+    {
+      "start": 2900.8,
+      "end": 2904.72,
+      "text": "watches the"
+    },
+    {
+      "start": 2901.599,
+      "end": 2906.8,
+      "text": "the videos so it's a good thing to add"
+    },
+    {
+      "start": 2904.72,
+      "end": 2908.16,
+      "text": "subtitles or animated text to your game"
+    },
+    {
+      "start": 2906.8,
+      "end": 2910.64,
+      "text": "trailer"
+    },
+    {
+      "start": 2908.16,
+      "end": 2911.92,
+      "text": "uh you know like just to make sure that"
+    },
+    {
+      "start": 2910.64,
+      "end": 2915.359,
+      "text": "everybody got the"
+    },
+    {
+      "start": 2911.92,
+      "end": 2917.28,
+      "text": "idea and or maybe some kind of features"
+    },
+    {
+      "start": 2915.359,
+      "end": 2919.52,
+      "text": "like for example for borderlands there's"
+    },
+    {
+      "start": 2917.28,
+      "end": 2919.92,
+      "text": "this great game trailer with a lot of"
+    },
+    {
+      "start": 2919.52,
+      "end": 2922.64,
+      "text": "text"
+    },
+    {
+      "start": 2919.92,
+      "end": 2923.04,
+      "text": "and we know the loot is obscene it's"
+    },
+    {
+      "start": 2922.64,
+      "end": 2925.04,
+      "text": "hard"
+    },
+    {
+      "start": 2923.04,
+      "end": 2926.8,
+      "text": "not to notice that loot is obscene"
+    },
+    {
+      "start": 2925.04,
+      "end": 2928,
+      "text": "because the text is there and you can"
+    },
+    {
+      "start": 2926.8,
+      "end": 2930.319,
+      "text": "watch the video without"
+    },
+    {
+      "start": 2928,
+      "end": 2931.2,
+      "text": "sound at all and you will still know"
+    },
+    {
+      "start": 2930.319,
+      "end": 2934.24,
+      "text": "that the loot"
+    },
+    {
+      "start": 2931.2,
+      "end": 2937.839,
+      "text": "is obscene"
+    },
+    {
+      "start": 2934.24,
+      "end": 2940.559,
+      "text": "and what's important is that"
+    },
+    {
+      "start": 2937.839,
+      "end": 2941.52,
+      "text": "you want to show your game but you want"
+    },
+    {
+      "start": 2940.559,
+      "end": 2943.68,
+      "text": "to show your features"
+    },
+    {
+      "start": 2941.52,
+      "end": 2946.319,
+      "text": "but try not to show everything keep some"
+    },
+    {
+      "start": 2943.68,
+      "end": 2948.079,
+      "text": "stuff you know secret or maybe"
+    },
+    {
+      "start": 2946.319,
+      "end": 2951.2,
+      "text": "you don't want to you know like overdo"
+    },
+    {
+      "start": 2948.079,
+      "end": 2954.64,
+      "text": "it in terms of production and time"
+    },
+    {
+      "start": 2951.2,
+      "end": 2958.64,
+      "text": "management stuff uh i always"
+    },
+    {
+      "start": 2954.64,
+      "end": 2961.359,
+      "text": "try to you know like uh encourage you to"
+    },
+    {
+      "start": 2958.64,
+      "end": 2963.76,
+      "text": "show what's special about your game like"
+    },
+    {
+      "start": 2961.359,
+      "end": 2966,
+      "text": "find the uniqueness of your game"
+    },
+    {
+      "start": 2963.76,
+      "end": 2967.359,
+      "text": "uh if you're if you are a person who's"
+    },
+    {
+      "start": 2966,
+      "end": 2969.119,
+      "text": "working on the game trailer and you're"
+    },
+    {
+      "start": 2967.359,
+      "end": 2970.559,
+      "text": "not working on the games maybe you just"
+    },
+    {
+      "start": 2969.119,
+      "end": 2972.079,
+      "text": "have to talk with the person who's"
+    },
+    {
+      "start": 2970.559,
+      "end": 2975.359,
+      "text": "working on the game"
+    },
+    {
+      "start": 2972.079,
+      "end": 2978.4,
+      "text": "and you know find the"
+    },
+    {
+      "start": 2975.359,
+      "end": 2980.559,
+      "text": "the the unique"
+    },
+    {
+      "start": 2978.4,
+      "end": 2981.92,
+      "text": "special thing about this game and if you"
+    },
+    {
+      "start": 2980.559,
+      "end": 2983.44,
+      "text": "are a person who's working on the game"
+    },
+    {
+      "start": 2981.92,
+      "end": 2985.2,
+      "text": "and on the trailer you should know"
+    },
+    {
+      "start": 2983.44,
+      "end": 2987.04,
+      "text": "it's your game it's supposed to be"
+    },
+    {
+      "start": 2985.2,
+      "end": 2990.079,
+      "text": "special it's supposed to be"
+    },
+    {
+      "start": 2987.04,
+      "end": 2991.359,
+      "text": "unique and you want to tell that"
+    },
+    {
+      "start": 2990.079,
+      "end": 2993.44,
+      "text": "in your game trailer you want to tell"
+    },
+    {
+      "start": 2991.359,
+      "end": 2995.599,
+      "text": "that your audience and"
+    },
+    {
+      "start": 2993.44,
+      "end": 2996.559,
+      "text": "trailer is a really nice way to put it"
+    },
+    {
+      "start": 2995.599,
+      "end": 2998.16,
+      "text": "like"
+    },
+    {
+      "start": 2996.559,
+      "end": 2999.68,
+      "text": "text is important screenshots are"
+    },
+    {
+      "start": 2998.16,
+      "end": 3000.88,
+      "text": "important but game trailer is like"
+    },
+    {
+      "start": 2999.68,
+      "end": 3004,
+      "text": "everything in one place"
+    },
+    {
+      "start": 3000.88,
+      "end": 3004.8,
+      "text": "and you can hook up the player with a"
+    },
+    {
+      "start": 3004,
+      "end": 3008.16,
+      "text": "game trader"
+    },
+    {
+      "start": 3004.8,
+      "end": 3010.559,
+      "text": "very very well so"
+    },
+    {
+      "start": 3008.16,
+      "end": 3011.52,
+      "text": "yeah that's my do's and don'ts for game"
+    },
+    {
+      "start": 3010.559,
+      "end": 3013.2,
+      "text": "trailers"
+    },
+    {
+      "start": 3011.52,
+      "end": 3015.52,
+      "text": "and i want to show you our first game"
+    },
+    {
+      "start": 3013.2,
+      "end": 3018.559,
+      "text": "trailer that we did for 60 seconds"
+    },
+    {
+      "start": 3015.52,
+      "end": 3021.119,
+      "text": "but actually i think sold the idea"
+    },
+    {
+      "start": 3018.559,
+      "end": 3023.119,
+      "text": "of the game and hook up some players and"
+    },
+    {
+      "start": 3021.119,
+      "end": 3026.16,
+      "text": "build up the hype even if it was like"
+    },
+    {
+      "start": 3023.119,
+      "end": 3027.92,
+      "text": "released few months before the release"
+    },
+    {
+      "start": 3026.16,
+      "end": 3030.88,
+      "text": "of the game"
+    },
+    {
+      "start": 3027.92,
+      "end": 3031.599,
+      "text": "it still helped us to reach a lot of"
+    },
+    {
+      "start": 3030.88,
+      "end": 3034.96,
+      "text": "players"
+    },
+    {
+      "start": 3031.599,
+      "end": 3036.4,
+      "text": "and help us grow to the company we are"
+    },
+    {
+      "start": 3034.96,
+      "end": 3041.839,
+      "text": "right now"
+    },
+    {
+      "start": 3036.4,
+      "end": 3041.839,
+      "text": "so let's watch"
+    },
+    {
+      "start": 3045.76,
+      "end": 3049.44,
+      "text": "meet ted a hard-working citizen and a"
+    },
+    {
+      "start": 3048.24,
+      "end": 3052.319,
+      "text": "family man"
+    },
+    {
+      "start": 3049.44,
+      "end": 3053.359,
+      "text": "hello ted wait a minute what's that"
+    },
+    {
+      "start": 3052.319,
+      "end": 3056.8,
+      "text": "sound"
+    },
+    {
+      "start": 3053.359,
+      "end": 3058.8,
+      "text": "oh no it's the nuclear bomb alarm"
+    },
+    {
+      "start": 3056.8,
+      "end": 3060.559,
+      "text": "not to worry the government's superb"
+    },
+    {
+      "start": 3058.8,
+      "end": 3062.319,
+      "text": "early warning system gives ted enough"
+    },
+    {
+      "start": 3060.559,
+      "end": 3064.88,
+      "text": "time to take cover"
+    },
+    {
+      "start": 3062.319,
+      "end": 3066.96,
+      "text": "don't just stand there ted you've got 60"
+    },
+    {
+      "start": 3064.88,
+      "end": 3068.559,
+      "text": "seconds"
+    },
+    {
+      "start": 3066.96,
+      "end": 3070.559,
+      "text": "that's more than ted needs to collect"
+    },
+    {
+      "start": 3068.559,
+      "end": 3073.04,
+      "text": "supplies essential for survival"
+    },
+    {
+      "start": 3070.559,
+      "end": 3075.52,
+      "text": "aren't you forgetting something ted"
+    },
+    {
+      "start": 3073.04,
+      "end": 3079.44,
+      "text": "remember to take your family with you"
+    },
+    {
+      "start": 3075.52,
+      "end": 3080.16,
+      "text": "that's it take cover but this isn't over"
+    },
+    {
+      "start": 3079.44,
+      "end": 3082.16,
+      "text": "yet"
+    },
+    {
+      "start": 3080.16,
+      "end": 3083.839,
+      "text": "day by day ted and his family must"
+    },
+    {
+      "start": 3082.16,
+      "end": 3085.119,
+      "text": "survive in the fallout shelter for as"
+    },
+    {
+      "start": 3083.839,
+      "end": 3087.599,
+      "text": "long as they can"
+    },
+    {
+      "start": 3085.119,
+      "end": 3089.04,
+      "text": "they have to ration food and water send"
+    },
+    {
+      "start": 3087.599,
+      "end": 3090.24,
+      "text": "expeditions to the wasteland when"
+    },
+    {
+      "start": 3089.04,
+      "end": 3092.88,
+      "text": "supplies run low"
+    },
+    {
+      "start": 3090.24,
+      "end": 3094.4,
+      "text": "and cope with unexpected situations"
+    },
+    {
+      "start": 3092.88,
+      "end": 3095.76,
+      "text": "making decisions that will affect their"
+    },
+    {
+      "start": 3094.4,
+      "end": 3098.079,
+      "text": "future"
+    },
+    {
+      "start": 3095.76,
+      "end": 3099.359,
+      "text": "that's right ted you show those mutant"
+    },
+    {
+      "start": 3098.079,
+      "end": 3101.2,
+      "text": "cockroaches"
+    },
+    {
+      "start": 3099.359,
+      "end": 3103.04,
+      "text": "ted can now safely enjoy those charming"
+    },
+    {
+      "start": 3101.2,
+      "end": 3104.319,
+      "text": "sunsets over the radioactive wasteland"
+    },
+    {
+      "start": 3103.04,
+      "end": 3106.24,
+      "text": "with his loved ones"
+    },
+    {
+      "start": 3104.319,
+      "end": 3107.52,
+      "text": "good luck ted the government does not"
+    },
+    {
+      "start": 3106.24,
+      "end": 3108.88,
+      "text": "take responsibility for hardship"
+    },
+    {
+      "start": 3107.52,
+      "end": 3112.16,
+      "text": "difficult and irreversible decisions and"
+    },
+    {
+      "start": 3108.88,
+      "end": 3112.16,
+      "text": "can soup diet that will follow"
+    },
+    {
+      "start": 3116.72,
+      "end": 3120.96,
+      "text": "i saw a question i think there was a"
+    },
+    {
+      "start": 3122.839,
+      "end": 3127.76,
+      "text": "question"
+    },
+    {
+      "start": 3125.2,
+      "end": 3128.64,
+      "text": "about which trader was proud and why i"
+    },
+    {
+      "start": 3127.76,
+      "end": 3132,
+      "text": "think this is"
+    },
+    {
+      "start": 3128.64,
+      "end": 3135.76,
+      "text": "one of the most important traders for me"
+    },
+    {
+      "start": 3132,
+      "end": 3138,
+      "text": "and this is what i wanted to show you is"
+    },
+    {
+      "start": 3135.76,
+      "end": 3139.44,
+      "text": "there's a whole lot a lot of references"
+    },
+    {
+      "start": 3138,
+      "end": 3141.599,
+      "text": "in this"
+    },
+    {
+      "start": 3139.44,
+      "end": 3144.16,
+      "text": "short video it's not a perfect trader"
+    },
+    {
+      "start": 3141.599,
+      "end": 3147.359,
+      "text": "it's not the greatest piece of art"
+    },
+    {
+      "start": 3144.16,
+      "end": 3151.2,
+      "text": "and i learned a lot till"
+    },
+    {
+      "start": 3147.359,
+      "end": 3153.599,
+      "text": "till then it was like five years ago and"
+    },
+    {
+      "start": 3151.2,
+      "end": 3154.4,
+      "text": "i'm think i think i would do better this"
+    },
+    {
+      "start": 3153.599,
+      "end": 3156.88,
+      "text": "time"
+    },
+    {
+      "start": 3154.4,
+      "end": 3158.4,
+      "text": "this year if i need to create a trailer"
+    },
+    {
+      "start": 3156.88,
+      "end": 3159.92,
+      "text": "for this game"
+    },
+    {
+      "start": 3158.4,
+      "end": 3162,
+      "text": "but i'm still very proud of it it"
+    },
+    {
+      "start": 3159.92,
+      "end": 3163.92,
+      "text": "actually solved the idea it was fun it"
+    },
+    {
+      "start": 3162,
+      "end": 3166.319,
+      "text": "was you know like"
+    },
+    {
+      "start": 3163.92,
+      "end": 3167.52,
+      "text": "based on so many things uh like"
+    },
+    {
+      "start": 3166.319,
+      "end": 3170.079,
+      "text": "animation about"
+    },
+    {
+      "start": 3167.52,
+      "end": 3170.88,
+      "text": "how to avoid nuclear launch uh like"
+    },
+    {
+      "start": 3170.079,
+      "end": 3173.04,
+      "text": "nuclear bomb"
+    },
+    {
+      "start": 3170.88,
+      "end": 3174.64,
+      "text": "uh in the 1950s there was this animation"
+    },
+    {
+      "start": 3173.04,
+      "end": 3175.359,
+      "text": "called duck and cover and it was you"
+    },
+    {
+      "start": 3174.64,
+      "end": 3177.44,
+      "text": "know like"
+    },
+    {
+      "start": 3175.359,
+      "end": 3180.4,
+      "text": "about the turtle that was supposed to"
+    },
+    {
+      "start": 3177.44,
+      "end": 3184.72,
+      "text": "like survive this really green"
+    },
+    {
+      "start": 3180.4,
+      "end": 3189.04,
+      "text": "vision of you know atomic blast and"
+    },
+    {
+      "start": 3184.72,
+      "end": 3190.96,
+      "text": "yeah it was it was fun to do"
+    },
+    {
+      "start": 3189.04,
+      "end": 3192.48,
+      "text": "we actually reused so many things from"
+    },
+    {
+      "start": 3190.96,
+      "end": 3194.24,
+      "text": "this"
+    },
+    {
+      "start": 3192.48,
+      "end": 3195.599,
+      "text": "trailer later in the game because the"
+    },
+    {
+      "start": 3194.24,
+      "end": 3198,
+      "text": "game wasn't finished yet"
+    },
+    {
+      "start": 3195.599,
+      "end": 3199.52,
+      "text": "and we decided like hey it looks cool"
+    },
+    {
+      "start": 3198,
+      "end": 3201.839,
+      "text": "like put it in the game and"
+    },
+    {
+      "start": 3199.52,
+      "end": 3202.64,
+      "text": "there you go like it's uh if you can do"
+    },
+    {
+      "start": 3201.839,
+      "end": 3204.48,
+      "text": "some stuff"
+    },
+    {
+      "start": 3202.64,
+      "end": 3206.16,
+      "text": "for the trailer for the game it's a"
+    },
+    {
+      "start": 3204.48,
+      "end": 3208.319,
+      "text": "win-win situation so"
+    },
+    {
+      "start": 3206.16,
+      "end": 3211.2,
+      "text": "so yeah and the next trailer uh i will"
+    },
+    {
+      "start": 3208.319,
+      "end": 3214.64,
+      "text": "show you is uh"
+    },
+    {
+      "start": 3211.2,
+      "end": 3217.68,
+      "text": "um is the for the re-atomized version so"
+    },
+    {
+      "start": 3214.64,
+      "end": 3220.8,
+      "text": "four years later same kind of you know"
+    },
+    {
+      "start": 3217.68,
+      "end": 3222.079,
+      "text": "challenges and uh people already knew"
+    },
+    {
+      "start": 3220.8,
+      "end": 3224.72,
+      "text": "the game we know"
+    },
+    {
+      "start": 3222.079,
+      "end": 3226,
+      "text": "we knew that many people who know the"
+    },
+    {
+      "start": 3224.72,
+      "end": 3227.599,
+      "text": "game we know that"
+    },
+    {
+      "start": 3226,
+      "end": 3230.4,
+      "text": "there's a person who's turning into"
+    },
+    {
+      "start": 3227.599,
+      "end": 3231.599,
+      "text": "mutant and we have some new features"
+    },
+    {
+      "start": 3230.4,
+      "end": 3235.359,
+      "text": "that we wanted to show"
+    },
+    {
+      "start": 3231.599,
+      "end": 3239.119,
+      "text": "like growing hair and progress of the of"
+    },
+    {
+      "start": 3235.359,
+      "end": 3242.16,
+      "text": "the characters so again we created"
+    },
+    {
+      "start": 3239.119,
+      "end": 3245.119,
+      "text": "something new for the same kind of uh"
+    },
+    {
+      "start": 3242.16,
+      "end": 3246.319,
+      "text": "environment for the better version of"
+    },
+    {
+      "start": 3245.119,
+      "end": 3251.839,
+      "text": "the of the"
+    },
+    {
+      "start": 3246.319,
+      "end": 3251.839,
+      "text": "kind of same game so let's see that"
+    },
+    {
+      "start": 3261.28,
+      "end": 3267.119,
+      "text": "meet ted dolores mary jane"
+    },
+    {
+      "start": 3264.319,
+      "end": 3267.839,
+      "text": "and little timmy a true american nuclear"
+    },
+    {
+      "start": 3267.119,
+      "end": 3271.04,
+      "text": "family"
+    },
+    {
+      "start": 3267.839,
+      "end": 3273.28,
+      "text": "how do you do fellow family"
+    },
+    {
+      "start": 3271.04,
+      "end": 3275.359,
+      "text": "what was that ted i can't hear you over"
+    },
+    {
+      "start": 3273.28,
+      "end": 3278.88,
+      "text": "the sound of the nuclear bomb a lot"
+    },
+    {
+      "start": 3275.359,
+      "end": 3280.96,
+      "text": "the nuclear bomb alarm there there"
+    },
+    {
+      "start": 3278.88,
+      "end": 3285.2,
+      "text": "remain calm there is plenty of time to"
+    },
+    {
+      "start": 3280.96,
+      "end": 3285.2,
+      "text": "take cover you've got 60 seconds"
+    },
+    {
+      "start": 3286.079,
+      "end": 3292.24,
+      "text": "make it count soup water supplies"
+    },
+    {
+      "start": 3289.599,
+      "end": 3293.52,
+      "text": "and everything nice oh i almost forgot"
+    },
+    {
+      "start": 3292.24,
+      "end": 3298.16,
+      "text": "make room for the family"
+    },
+    {
+      "start": 3293.52,
+      "end": 3300.48,
+      "text": "three two one duck and cover"
+    },
+    {
+      "start": 3298.16,
+      "end": 3301.68,
+      "text": "welcome to your fallout shelter make"
+    },
+    {
+      "start": 3300.48,
+      "end": 3304.16,
+      "text": "yourselves comfortable"
+    },
+    {
+      "start": 3301.68,
+      "end": 3305.28,
+      "text": "you will be staying here for a while"
+    },
+    {
+      "start": 3304.16,
+      "end": 3308.079,
+      "text": "it's time to"
+    },
+    {
+      "start": 3305.28,
+      "end": 3309.839,
+      "text": "ration food and water send expedition to"
+    },
+    {
+      "start": 3308.079,
+      "end": 3311.68,
+      "text": "the nuclear wasteland"
+    },
+    {
+      "start": 3309.839,
+      "end": 3314.16,
+      "text": "cope with unexpected situations making"
+    },
+    {
+      "start": 3311.68,
+      "end": 3318.319,
+      "text": "decisions that will affect your future"
+    },
+    {
+      "start": 3314.16,
+      "end": 3322.64,
+      "text": "then maybe survive or not"
+    },
+    {
+      "start": 3318.319,
+      "end": 3324.96,
+      "text": "well hello there ted dolores mary jane"
+    },
+    {
+      "start": 3322.64,
+      "end": 3326.88,
+      "text": "and little timmy a true post nuclear"
+    },
+    {
+      "start": 3324.96,
+      "end": 3329.28,
+      "text": "family it might just be the fallout"
+    },
+    {
+      "start": 3326.88,
+      "end": 3331.599,
+      "text": "but you folks are positively glowing"
+    },
+    {
+      "start": 3329.28,
+      "end": 3332.48,
+      "text": "enjoy living the radioactive american"
+    },
+    {
+      "start": 3331.599,
+      "end": 3333.599,
+      "text": "dream"
+    },
+    {
+      "start": 3332.48,
+      "end": 3335.28,
+      "text": "the government does not guarantee an"
+    },
+    {
+      "start": 3333.599,
+      "end": 3336.559,
+      "text": "enjoyable radioactive american dream but"
+    },
+    {
+      "start": 3335.28,
+      "end": 3339.68,
+      "text": "it can deliver on amazingly improved"
+    },
+    {
+      "start": 3336.559,
+      "end": 3339.68,
+      "text": "views sounds and hats"
+    },
+    {
+      "start": 3342.24,
+      "end": 3347.599,
+      "text": "okay and that was 60 seconds to atomize"
+    },
+    {
+      "start": 3346,
+      "end": 3349.28,
+      "text": "game trader"
+    },
+    {
+      "start": 3347.599,
+      "end": 3350.72,
+      "text": "like we broke some rules that i was"
+    },
+    {
+      "start": 3349.28,
+      "end": 3351.68,
+      "text": "talking about earlier like showing"
+    },
+    {
+      "start": 3350.72,
+      "end": 3354.4,
+      "text": "everything because"
+    },
+    {
+      "start": 3351.68,
+      "end": 3355.839,
+      "text": "this time we showed a cat a dog a mutant"
+    },
+    {
+      "start": 3354.4,
+      "end": 3357.28,
+      "text": "everything but this is kind of different"
+    },
+    {
+      "start": 3355.839,
+      "end": 3357.68,
+      "text": "thing because people already knew the"
+    },
+    {
+      "start": 3357.28,
+      "end": 3361.04,
+      "text": "game"
+    },
+    {
+      "start": 3357.68,
+      "end": 3362.72,
+      "text": "or we wanted to hook up"
+    },
+    {
+      "start": 3361.04,
+      "end": 3365.2,
+      "text": "new players that there's a lot of going"
+    },
+    {
+      "start": 3362.72,
+      "end": 3367.76,
+      "text": "on and there are still some secrets that"
+    },
+    {
+      "start": 3365.2,
+      "end": 3370.319,
+      "text": "we didn't show on this trailer so"
+    },
+    {
+      "start": 3367.76,
+      "end": 3371.359,
+      "text": "um i think every case is kind of"
+    },
+    {
+      "start": 3370.319,
+      "end": 3374.16,
+      "text": "different and"
+    },
+    {
+      "start": 3371.359,
+      "end": 3374.799,
+      "text": "we approach it this way if it's the best"
+    },
+    {
+      "start": 3374.16,
+      "end": 3377.76,
+      "text": "way"
+    },
+    {
+      "start": 3374.799,
+      "end": 3378.96,
+      "text": "it was when we were doing it so i guess"
+    },
+    {
+      "start": 3377.76,
+      "end": 3382.48,
+      "text": "it was"
+    },
+    {
+      "start": 3378.96,
+      "end": 3384.319,
+      "text": "okay so that's all from me uh"
+    },
+    {
+      "start": 3382.48,
+      "end": 3386,
+      "text": "and we have still some time for"
+    },
+    {
+      "start": 3384.319,
+      "end": 3387.44,
+      "text": "questions so i already see some"
+    },
+    {
+      "start": 3386,
+      "end": 3390.799,
+      "text": "questions"
+    },
+    {
+      "start": 3387.44,
+      "end": 3394.24,
+      "text": "question by arnold"
+    },
+    {
+      "start": 3390.799,
+      "end": 3397.68,
+      "text": "so arnold person uh"
+    },
+    {
+      "start": 3394.24,
+      "end": 3400.559,
+      "text": "you mentioned talking taking films as"
+    },
+    {
+      "start": 3397.68,
+      "end": 3402.319,
+      "text": "references as well as games um"
+    },
+    {
+      "start": 3400.559,
+      "end": 3403.68,
+      "text": "do you think it's the same genre of"
+    },
+    {
+      "start": 3402.319,
+      "end": 3405.28,
+      "text": "trailers"
+    },
+    {
+      "start": 3403.68,
+      "end": 3406.799,
+      "text": "like they're close enough to base games"
+    },
+    {
+      "start": 3405.28,
+      "end": 3409.119,
+      "text": "and films"
+    },
+    {
+      "start": 3406.799,
+      "end": 3410.72,
+      "text": "yeah i think so but depends on the film"
+    },
+    {
+      "start": 3409.119,
+      "end": 3411.599,
+      "text": "and depends on the game because you have"
+    },
+    {
+      "start": 3410.72,
+      "end": 3415.52,
+      "text": "so many"
+    },
+    {
+      "start": 3411.599,
+      "end": 3417.839,
+      "text": "movie kind of games and so many"
+    },
+    {
+      "start": 3415.52,
+      "end": 3420.16,
+      "text": "tedious movies that you can still do a"
+    },
+    {
+      "start": 3417.839,
+      "end": 3422.079,
+      "text": "very uh"
+    },
+    {
+      "start": 3420.16,
+      "end": 3424.4,
+      "text": "cool looking trailer like people are"
+    },
+    {
+      "start": 3422.079,
+      "end": 3426.4,
+      "text": "toying around in internet with different"
+    },
+    {
+      "start": 3424.4,
+      "end": 3429.76,
+      "text": "trailers for example"
+    },
+    {
+      "start": 3426.4,
+      "end": 3432.88,
+      "text": "uh there is this uh funny"
+    },
+    {
+      "start": 3429.76,
+      "end": 3436.48,
+      "text": "uh trailer of shining"
+    },
+    {
+      "start": 3432.88,
+      "end": 3439.359,
+      "text": "fan made uh making it look like a comedy"
+    },
+    {
+      "start": 3436.48,
+      "end": 3439.76,
+      "text": "uh or family family movie you know like"
+    },
+    {
+      "start": 3439.359,
+      "end": 3443.04,
+      "text": "it's a"
+    },
+    {
+      "start": 3439.76,
+      "end": 3447.04,
+      "text": "it's a it's a crazy thriller"
+    },
+    {
+      "start": 3443.04,
+      "end": 3447.44,
+      "text": "horror even movie but still you can you"
+    },
+    {
+      "start": 3447.04,
+      "end": 3450.319,
+      "text": "can"
+    },
+    {
+      "start": 3447.44,
+      "end": 3453.68,
+      "text": "take some pictures and make it look like"
+    },
+    {
+      "start": 3450.319,
+      "end": 3457.44,
+      "text": "a fun story about family in the hotel"
+    },
+    {
+      "start": 3453.68,
+      "end": 3460.72,
+      "text": "and and yeah yeah i think you can"
+    },
+    {
+      "start": 3457.44,
+      "end": 3462.319,
+      "text": "do a lot with the same tools you have"
+    },
+    {
+      "start": 3460.72,
+      "end": 3465.359,
+      "text": "for movie industry in the game industry"
+    },
+    {
+      "start": 3462.319,
+      "end": 3465.359,
+      "text": "especially with the traders"
+    },
+    {
+      "start": 3466.64,
+      "end": 3470.24,
+      "text": "next question would you say that the"
+    },
+    {
+      "start": 3468.319,
+      "end": 3471.68,
+      "text": "trailer needs to be informative about"
+    },
+    {
+      "start": 3470.24,
+      "end": 3475.76,
+      "text": "the game itself or"
+    },
+    {
+      "start": 3471.68,
+      "end": 3478.88,
+      "text": "is it entertainment most important"
+    },
+    {
+      "start": 3475.76,
+      "end": 3478.88,
+      "text": "now load up the pads"
+    },
+    {
+      "start": 3480.24,
+      "end": 3486.24,
+      "text": "i think it should be informative like"
+    },
+    {
+      "start": 3483.68,
+      "end": 3486.24,
+      "text": "in a way"
+    },
+    {
+      "start": 3487.52,
+      "end": 3492.72,
+      "text": "um but you need to inform there's gonna"
+    },
+    {
+      "start": 3491.52,
+      "end": 3494.96,
+      "text": "be a game like that"
+    },
+    {
+      "start": 3492.72,
+      "end": 3497.839,
+      "text": "and it's gonna be super cool like this"
+    },
+    {
+      "start": 3494.96,
+      "end": 3500.96,
+      "text": "kind of information"
+    },
+    {
+      "start": 3497.839,
+      "end": 3502.24,
+      "text": "but you don't need to if like put all"
+    },
+    {
+      "start": 3500.96,
+      "end": 3506.079,
+      "text": "the informations"
+    },
+    {
+      "start": 3502.24,
+      "end": 3510.64,
+      "text": "uh out there like when how and"
+    },
+    {
+      "start": 3506.079,
+      "end": 3510.64,
+      "text": "what way because it's like with a"
+    },
+    {
+      "start": 3510.96,
+      "end": 3514.72,
+      "text": "washing powder commercials or any kind"
+    },
+    {
+      "start": 3513.04,
+      "end": 3517.2,
+      "text": "of detergent you know"
+    },
+    {
+      "start": 3514.72,
+      "end": 3519.119,
+      "text": "when you're gonna when you want to buy"
+    },
+    {
+      "start": 3517.2,
+      "end": 3521.52,
+      "text": "it then you know it's there you know"
+    },
+    {
+      "start": 3519.119,
+      "end": 3523.119,
+      "text": "that kind of information when you're"
+    },
+    {
+      "start": 3521.52,
+      "end": 3524.48,
+      "text": "like i would like to play something you"
+    },
+    {
+      "start": 3523.119,
+      "end": 3526.079,
+      "text": "know like some kind of exploration"
+    },
+    {
+      "start": 3524.48,
+      "end": 3528.64,
+      "text": "oh i saw this awesome trailer of this"
+    },
+    {
+      "start": 3526.079,
+      "end": 3530.319,
+      "text": "game that was you know like"
+    },
+    {
+      "start": 3528.64,
+      "end": 3532.079,
+      "text": "having this and that and then you"
+    },
+    {
+      "start": 3530.319,
+      "end": 3533.04,
+      "text": "remember this kind of information this"
+    },
+    {
+      "start": 3532.079,
+      "end": 3536.319,
+      "text": "is gonna be the game"
+    },
+    {
+      "start": 3533.04,
+      "end": 3539.52,
+      "text": "this game gonna be cool because of that"
+    },
+    {
+      "start": 3536.319,
+      "end": 3540.079,
+      "text": "so so yeah i would say you can acquire"
+    },
+    {
+      "start": 3539.52,
+      "end": 3543.44,
+      "text": "that"
+    },
+    {
+      "start": 3540.079,
+      "end": 3546.16,
+      "text": "by having the trailer entertaining"
+    },
+    {
+      "start": 3543.44,
+      "end": 3547.599,
+      "text": "so entertainment is super important tool"
+    },
+    {
+      "start": 3546.16,
+      "end": 3551.76,
+      "text": "to make the information"
+    },
+    {
+      "start": 3547.599,
+      "end": 3553.92,
+      "text": "sync into the viewer so so yeah"
+    },
+    {
+      "start": 3551.76,
+      "end": 3556,
+      "text": "well there are also especially specific"
+    },
+    {
+      "start": 3553.92,
+      "end": 3558.559,
+      "text": "genres of the games like there is"
+    },
+    {
+      "start": 3556,
+      "end": 3560.319,
+      "text": "this public of people playing for"
+    },
+    {
+      "start": 3558.559,
+      "end": 3564.88,
+      "text": "example strategy games right"
+    },
+    {
+      "start": 3560.319,
+      "end": 3566.559,
+      "text": "so those people will be very um"
+    },
+    {
+      "start": 3564.88,
+      "end": 3568.559,
+      "text": "very interested information in the game"
+    },
+    {
+      "start": 3566.559,
+      "end": 3572.72,
+      "text": "trailer for example if there's another"
+    },
+    {
+      "start": 3568.559,
+      "end": 3575.04,
+      "text": "historical turn-based european"
+    },
+    {
+      "start": 3572.72,
+      "end": 3576.559,
+      "text": "kingdom kind of game they want to know"
+    },
+    {
+      "start": 3575.04,
+      "end": 3578.88,
+      "text": "what's new in it and"
+    },
+    {
+      "start": 3576.559,
+      "end": 3580.4,
+      "text": "their information is much more crucial"
+    },
+    {
+      "start": 3578.88,
+      "end": 3582.88,
+      "text": "than entertaining"
+    },
+    {
+      "start": 3580.4,
+      "end": 3584.16,
+      "text": "but they also would like to have an"
+    },
+    {
+      "start": 3582.88,
+      "end": 3586.4,
+      "text": "entertaining kind of"
+    },
+    {
+      "start": 3584.16,
+      "end": 3587.28,
+      "text": "trailer to you know like uh bring new"
+    },
+    {
+      "start": 3586.4,
+      "end": 3592,
+      "text": "players to the"
+    },
+    {
+      "start": 3587.28,
+      "end": 3592,
+      "text": "uh to the to the bunch you know so"
+    },
+    {
+      "start": 3592.24,
+      "end": 3596.799,
+      "text": "yeah i think that's that's that's it uh"
+    },
+    {
+      "start": 3595.28,
+      "end": 3598.799,
+      "text": "which robot gentleman game trailer are"
+    },
+    {
+      "start": 3596.799,
+      "end": 3601.92,
+      "text": "you most proud of and why i"
+    },
+    {
+      "start": 3598.799,
+      "end": 3604.88,
+      "text": "actually answered that before uh"
+    },
+    {
+      "start": 3601.92,
+      "end": 3605.52,
+      "text": "my first one for the 60 seconds it was"
+    },
+    {
+      "start": 3604.88,
+      "end": 3608.72,
+      "text": "fun"
+    },
+    {
+      "start": 3605.52,
+      "end": 3611.839,
+      "text": "to do and it was super quick"
+    },
+    {
+      "start": 3608.72,
+      "end": 3616.079,
+      "text": "like i never worked that fast before"
+    },
+    {
+      "start": 3611.839,
+      "end": 3616.079,
+      "text": "and it helped us a lot and this is"
+    },
+    {
+      "start": 3616.16,
+      "end": 3622.4,
+      "text": "this is important for me how to approach"
+    },
+    {
+      "start": 3619.839,
+      "end": 3623.359,
+      "text": "uh learning new skills of using video"
+    },
+    {
+      "start": 3622.4,
+      "end": 3625.68,
+      "text": "ethnic tools"
+    },
+    {
+      "start": 3623.359,
+      "end": 3627.839,
+      "text": "are there some good courses to learn and"
+    },
+    {
+      "start": 3625.68,
+      "end": 3630.799,
+      "text": "skills from scratch with goal of"
+    },
+    {
+      "start": 3627.839,
+      "end": 3630.799,
+      "text": "creating trailers"
+    },
+    {
+      "start": 3631.28,
+      "end": 3636.88,
+      "text": "uh pro they are but are they good"
+    },
+    {
+      "start": 3635.359,
+      "end": 3638.48,
+      "text": "i would need to you know like finish all"
+    },
+    {
+      "start": 3636.88,
+      "end": 3642,
+      "text": "of them to tell you but"
+    },
+    {
+      "start": 3638.48,
+      "end": 3646.319,
+      "text": "um there are many many many tutorials on"
+    },
+    {
+      "start": 3642,
+      "end": 3649.04,
+      "text": "on youtube itself are the good quality"
+    },
+    {
+      "start": 3646.319,
+      "end": 3649.68,
+      "text": "i don't know it's like the way i learned"
+    },
+    {
+      "start": 3649.04,
+      "end": 3652.319,
+      "text": "was"
+    },
+    {
+      "start": 3649.68,
+      "end": 3653.52,
+      "text": "watching and trying to recreate the"
+    },
+    {
+      "start": 3652.319,
+      "end": 3655.359,
+      "text": "feelings"
+    },
+    {
+      "start": 3653.52,
+      "end": 3656.72,
+      "text": "and feelings are super important trying"
+    },
+    {
+      "start": 3655.359,
+      "end": 3660.16,
+      "text": "to recreate"
+    },
+    {
+      "start": 3656.72,
+      "end": 3661.92,
+      "text": "the impressions uh but you have"
+    },
+    {
+      "start": 3660.16,
+      "end": 3663.28,
+      "text": "if you have money and you want to you"
+    },
+    {
+      "start": 3661.92,
+      "end": 3666.48,
+      "text": "know like learn"
+    },
+    {
+      "start": 3663.28,
+      "end": 3669.28,
+      "text": "there are a lot of video editors"
+    },
+    {
+      "start": 3666.48,
+      "end": 3670,
+      "text": "and creators on many sites that for the"
+    },
+    {
+      "start": 3669.28,
+      "end": 3672.319,
+      "text": "right price"
+    },
+    {
+      "start": 3670,
+      "end": 3675.04,
+      "text": "they can actually take you on a course"
+    },
+    {
+      "start": 3672.319,
+      "end": 3675.04,
+      "text": "and teach you stuff"
+    },
+    {
+      "start": 3675.28,
+      "end": 3678.4,
+      "text": "where do you see yourself in a couple of"
+    },
+    {
+      "start": 3676.799,
+      "end": 3679.76,
+      "text": "years in terms of trailer and movie"
+    },
+    {
+      "start": 3678.4,
+      "end": 3683.44,
+      "text": "making"
+    },
+    {
+      "start": 3679.76,
+      "end": 3687.2,
+      "text": "um i'm not sure if i want to do"
+    },
+    {
+      "start": 3683.44,
+      "end": 3690.72,
+      "text": "a lot of groundwork and i think i would"
+    },
+    {
+      "start": 3687.2,
+      "end": 3693.839,
+      "text": "like to do more in terms of"
+    },
+    {
+      "start": 3690.72,
+      "end": 3695.76,
+      "text": "creating the idea and maybe give it to"
+    },
+    {
+      "start": 3693.839,
+      "end": 3698.72,
+      "text": "someone else in the studio or maybe"
+    },
+    {
+      "start": 3695.76,
+      "end": 3700.24,
+      "text": "outsource it to create that because i do"
+    },
+    {
+      "start": 3698.72,
+      "end": 3703.839,
+      "text": "a lot of things myself"
+    },
+    {
+      "start": 3700.24,
+      "end": 3705.839,
+      "text": "and sometimes it's a it's a pain"
+    },
+    {
+      "start": 3703.839,
+      "end": 3707.52,
+      "text": "to get back to the same game and"
+    },
+    {
+      "start": 3705.839,
+      "end": 3710.16,
+      "text": "recreate some stuff"
+    },
+    {
+      "start": 3707.52,
+      "end": 3710.96,
+      "text": "like for example this year i was working"
+    },
+    {
+      "start": 3710.16,
+      "end": 3714.48,
+      "text": "on"
+    },
+    {
+      "start": 3710.96,
+      "end": 3717.76,
+      "text": "trailers for our console releases for"
+    },
+    {
+      "start": 3714.48,
+      "end": 3720.319,
+      "text": "60 seconds re-atomized and 60 parsecs"
+    },
+    {
+      "start": 3717.76,
+      "end": 3722.319,
+      "text": "and i had to record new gameplays for"
+    },
+    {
+      "start": 3720.319,
+      "end": 3723.68,
+      "text": "specific platforms so for example i had"
+    },
+    {
+      "start": 3722.319,
+      "end": 3726.079,
+      "text": "to record gameplay for"
+    },
+    {
+      "start": 3723.68,
+      "end": 3728.64,
+      "text": "playstation for playstation release and"
+    },
+    {
+      "start": 3726.079,
+      "end": 3728.64,
+      "text": "xbox"
+    },
+    {
+      "start": 3738.839,
+      "end": 3741.92,
+      "text": "gamepl"
+    },
+    {
+      "start": 3740,
+      "end": 3743.599,
+      "text": "better part of the creation but you know"
+    },
+    {
+      "start": 3741.92,
+      "end": 3745.92,
+      "text": "that that's that's just some personal"
+    },
+    {
+      "start": 3743.599,
+      "end": 3748,
+      "text": "stuff i guess"
+    },
+    {
+      "start": 3745.92,
+      "end": 3749.44,
+      "text": "hopefully and this is what we're aiming"
+    },
+    {
+      "start": 3748,
+      "end": 3752.079,
+      "text": "for in robot gentlemen"
+    },
+    {
+      "start": 3749.44,
+      "end": 3752.88,
+      "text": "we're gonna do more entertaining uh"
+    },
+    {
+      "start": 3752.079,
+      "end": 3755.92,
+      "text": "videos"
+    },
+    {
+      "start": 3752.88,
+      "end": 3759.119,
+      "text": "uh for our games more more"
+    },
+    {
+      "start": 3755.92,
+      "end": 3761.28,
+      "text": "more cartoonish and more fun to watch"
+    },
+    {
+      "start": 3759.119,
+      "end": 3763.68,
+      "text": "hopefully for for our viewers that's"
+    },
+    {
+      "start": 3761.28,
+      "end": 3766.64,
+      "text": "that's the plan"
+    },
+    {
+      "start": 3763.68,
+      "end": 3767.68,
+      "text": "any specific tips for casual type of"
+    },
+    {
+      "start": 3766.64,
+      "end": 3770.16,
+      "text": "mobile games"
+    },
+    {
+      "start": 3767.68,
+      "end": 3771.52,
+      "text": "what viewers that are not heavy gamers"
+    },
+    {
+      "start": 3770.16,
+      "end": 3773.52,
+      "text": "expect to see"
+    },
+    {
+      "start": 3771.52,
+      "end": 3774.559,
+      "text": "probably gameplay i would say they are"
+    },
+    {
+      "start": 3773.52,
+      "end": 3777.68,
+      "text": "they want to see"
+    },
+    {
+      "start": 3774.559,
+      "end": 3781.039,
+      "text": "how would they spend their 5 minutes"
+    },
+    {
+      "start": 3777.68,
+      "end": 3785.039,
+      "text": "or 10 minutes in public transport so"
+    },
+    {
+      "start": 3781.039,
+      "end": 3788.24,
+      "text": "i would just try to maybe those kind of"
+    },
+    {
+      "start": 3785.039,
+      "end": 3790.72,
+      "text": "gamers would like to be"
+    },
+    {
+      "start": 3788.24,
+      "end": 3792.24,
+      "text": "overloaded with information that you can"
+    },
+    {
+      "start": 3790.72,
+      "end": 3794.4,
+      "text": "you know like"
+    },
+    {
+      "start": 3792.24,
+      "end": 3795.599,
+      "text": "have some good fun but also you know"
+    },
+    {
+      "start": 3794.4,
+      "end": 3797.039,
+      "text": "they love unlocked"
+    },
+    {
+      "start": 3795.599,
+      "end": 3799.2,
+      "text": "stuff you know they love their"
+    },
+    {
+      "start": 3797.039,
+      "end": 3802.559,
+      "text": "currencies"
+    },
+    {
+      "start": 3799.2,
+      "end": 3804.559,
+      "text": "build their gardens or whatever and"
+    },
+    {
+      "start": 3802.559,
+      "end": 3806.319,
+      "text": "i think you need to show that this game"
+    },
+    {
+      "start": 3804.559,
+      "end": 3810.24,
+      "text": "is gonna have"
+    },
+    {
+      "start": 3806.319,
+      "end": 3811.119,
+      "text": "this huge amount of fun in a very short"
+    },
+    {
+      "start": 3810.24,
+      "end": 3815.119,
+      "text": "amount of time"
+    },
+    {
+      "start": 3811.119,
+      "end": 3817.359,
+      "text": "so um i would focus on that"
+    },
+    {
+      "start": 3815.119,
+      "end": 3818.72,
+      "text": "actually to show that it's gonna be fun"
+    },
+    {
+      "start": 3817.359,
+      "end": 3820.559,
+      "text": "and there's gonna be a lot more and"
+    },
+    {
+      "start": 3818.72,
+      "end": 3824.319,
+      "text": "even more and there's be collectibles"
+    },
+    {
+      "start": 3820.559,
+      "end": 3827.44,
+      "text": "and unlockables and you know just"
+    },
+    {
+      "start": 3824.319,
+      "end": 3830.48,
+      "text": "this this kind of audience uh"
+    },
+    {
+      "start": 3827.44,
+      "end": 3833.599,
+      "text": "might be different than you know like"
+    },
+    {
+      "start": 3830.48,
+      "end": 3835.359,
+      "text": "other audiences you just don't know that"
+    },
+    {
+      "start": 3833.599,
+      "end": 3836.96,
+      "text": "what if you have a game with a unique"
+    },
+    {
+      "start": 3835.359,
+      "end": 3839.28,
+      "text": "general like"
+    },
+    {
+      "start": 3836.96,
+      "end": 3840.96,
+      "text": "slate spire how do you prepare a trailer"
+    },
+    {
+      "start": 3839.28,
+      "end": 3844.72,
+      "text": "for that kind of game"
+    },
+    {
+      "start": 3840.96,
+      "end": 3845.119,
+      "text": "well you can also you can always watch"
+    },
+    {
+      "start": 3844.72,
+      "end": 3848,
+      "text": "how"
+    },
+    {
+      "start": 3845.119,
+      "end": 3850.24,
+      "text": "how they did their trailer and think if"
+    },
+    {
+      "start": 3848,
+      "end": 3853.039,
+      "text": "they actually made it"
+    },
+    {
+      "start": 3850.24,
+      "end": 3853.92,
+      "text": "uh i would actually would like to do it"
+    },
+    {
+      "start": 3853.039,
+      "end": 3858.4,
+      "text": "but"
+    },
+    {
+      "start": 3853.92,
+      "end": 3861.599,
+      "text": "later and that's an interesting question"
+    },
+    {
+      "start": 3858.4,
+      "end": 3863.119,
+      "text": "i think that what i said about"
+    },
+    {
+      "start": 3861.599,
+      "end": 3865.68,
+      "text": "uniqueness about the"
+    },
+    {
+      "start": 3863.119,
+      "end": 3867.359,
+      "text": "of your game is the most important so if"
+    },
+    {
+      "start": 3865.68,
+      "end": 3871.92,
+      "text": "you have a new unique genre"
+    },
+    {
+      "start": 3867.359,
+      "end": 3873.2,
+      "text": "and um slate aspire is a very unique"
+    },
+    {
+      "start": 3871.92,
+      "end": 3875.599,
+      "text": "game"
+    },
+    {
+      "start": 3873.2,
+      "end": 3876.319,
+      "text": "but also it's a card game so there are"
+    },
+    {
+      "start": 3875.599,
+      "end": 3878.799,
+      "text": "many"
+    },
+    {
+      "start": 3876.319,
+      "end": 3879.68,
+      "text": "many things that are around for years"
+    },
+    {
+      "start": 3878.799,
+      "end": 3883.2,
+      "text": "like cards"
+    },
+    {
+      "start": 3879.68,
+      "end": 3885.28,
+      "text": "yeah like i love card games and"
+    },
+    {
+      "start": 3883.2,
+      "end": 3886.72,
+      "text": "snakespire has so many things they"
+    },
+    {
+      "start": 3885.28,
+      "end": 3890.4,
+      "text": "already know"
+    },
+    {
+      "start": 3886.72,
+      "end": 3893.68,
+      "text": "and they know that so"
+    },
+    {
+      "start": 3890.4,
+      "end": 3895.599,
+      "text": "you can play on that card you can play"
+    },
+    {
+      "start": 3893.68,
+      "end": 3896.96,
+      "text": "on that card and actually"
+    },
+    {
+      "start": 3895.599,
+      "end": 3898.799,
+      "text": "show that this is a card game you like"
+    },
+    {
+      "start": 3896.96,
+      "end": 3899.28,
+      "text": "currency card game this is a card game"
+    },
+    {
+      "start": 3898.799,
+      "end": 3902.88,
+      "text": "for you"
+    },
+    {
+      "start": 3899.28,
+      "end": 3905.44,
+      "text": "but it has some specific new mechanics"
+    },
+    {
+      "start": 3902.88,
+      "end": 3906.839,
+      "text": "and you want to show them in a way that"
+    },
+    {
+      "start": 3905.44,
+      "end": 3909.839,
+      "text": "everybody would understand"
+    },
+    {
+      "start": 3906.839,
+      "end": 3909.839,
+      "text": "so"
+    },
+    {
+      "start": 3910.319,
+      "end": 3913.68,
+      "text": "if you have a game that is nobody seen"
+    },
+    {
+      "start": 3912.24,
+      "end": 3916.48,
+      "text": "before"
+    },
+    {
+      "start": 3913.68,
+      "end": 3917.119,
+      "text": "you need to tell that but maybe not with"
+    },
+    {
+      "start": 3916.48,
+      "end": 3919.839,
+      "text": "a text"
+    },
+    {
+      "start": 3917.119,
+      "end": 3921.359,
+      "text": "like it's a game that nobody seen before"
+    },
+    {
+      "start": 3919.839,
+      "end": 3924.559,
+      "text": "it's maybe"
+    },
+    {
+      "start": 3921.359,
+      "end": 3926.48,
+      "text": "it's maybe not a good idea um"
+    },
+    {
+      "start": 3924.559,
+      "end": 3928.319,
+      "text": "what do you want to tell them either of"
+    },
+    {
+      "start": 3926.48,
+      "end": 3931.44,
+      "text": "maybe some text either maybe with some"
+    },
+    {
+      "start": 3928.319,
+      "end": 3935.44,
+      "text": "voice actor or maybe showing something"
+    },
+    {
+      "start": 3931.44,
+      "end": 3937.28,
+      "text": "similar at the first glance"
+    },
+    {
+      "start": 3935.44,
+      "end": 3938.72,
+      "text": "and then it's whoa it's totally"
+    },
+    {
+      "start": 3937.28,
+      "end": 3940.4,
+      "text": "different than i'd expected i thought"
+    },
+    {
+      "start": 3938.72,
+      "end": 3942.799,
+      "text": "it's gonna be you know like a"
+    },
+    {
+      "start": 3940.4,
+      "end": 3944.48,
+      "text": "dungeon crawler or platformer but it's"
+    },
+    {
+      "start": 3942.799,
+      "end": 3946.079,
+      "text": "not it's uh"
+    },
+    {
+      "start": 3944.48,
+      "end": 3947.68,
+      "text": "i don't know what what is it because"
+    },
+    {
+      "start": 3946.079,
+      "end": 3950.16,
+      "text": "it's unique right so"
+    },
+    {
+      "start": 3947.68,
+      "end": 3952.72,
+      "text": "you want to you want to show that and"
+    },
+    {
+      "start": 3950.16,
+      "end": 3956.559,
+      "text": "it's a bit of a"
+    },
+    {
+      "start": 3952.72,
+      "end": 3958.559,
+      "text": "very creative question and as such"
+    },
+    {
+      "start": 3956.559,
+      "end": 3960.319,
+      "text": "it's fun to actually explore and you"
+    },
+    {
+      "start": 3958.559,
+      "end": 3963.599,
+      "text": "know like to look around to"
+    },
+    {
+      "start": 3960.319,
+      "end": 3964.559,
+      "text": "to see dancer so if you have a game like"
+    },
+    {
+      "start": 3963.599,
+      "end": 3966.72,
+      "text": "that"
+    },
+    {
+      "start": 3964.559,
+      "end": 3967.76,
+      "text": "then congratulations it's a it's a fun"
+    },
+    {
+      "start": 3966.72,
+      "end": 3971.44,
+      "text": "challenge"
+    },
+    {
+      "start": 3967.76,
+      "end": 3974.48,
+      "text": "to to show it to the world"
+    },
+    {
+      "start": 3971.44,
+      "end": 3977.76,
+      "text": "okay i don't see any other questions"
+    },
+    {
+      "start": 3974.48,
+      "end": 3981.44,
+      "text": "so i want to thank you all for"
+    },
+    {
+      "start": 3977.76,
+      "end": 3982.72,
+      "text": "watching and hopefully it was helpful"
+    },
+    {
+      "start": 3981.44,
+      "end": 3984.24,
+      "text": "for you"
+    },
+    {
+      "start": 3982.72,
+      "end": 3986.319,
+      "text": "and wish you all luck with the game"
+    },
+    {
+      "start": 3984.24,
+      "end": 3989.68,
+      "text": "trailer challenge so"
+    },
+    {
+      "start": 3986.319,
+      "end": 3992.64,
+      "text": "thank you so much uh"
+    },
+    {
+      "start": 3989.68,
+      "end": 3996.559,
+      "text": "this is me you can contact me and if you"
+    },
+    {
+      "start": 3992.64,
+      "end": 3996.559,
+      "text": "want to show me your trailer and ask for"
+    },
+    {
+      "start": 3997.28,
+      "end": 4001.68,
+      "text": "some tips and some questions like i'm"
+    },
+    {
+      "start": 4000.72,
+      "end": 4004.72,
+      "text": "always happy to"
+    },
+    {
+      "start": 4001.68,
+      "end": 4007.44,
+      "text": "answer maybe not really fast but still"
+    },
+    {
+      "start": 4004.72,
+      "end": 4010.319,
+      "text": "like try to answer all the questions"
+    },
+    {
+      "start": 4007.44,
+      "end": 4016,
+      "text": "and yeah that's all thank you so much"
+    },
+    {
+      "start": 4010.319,
+      "end": 4016,
+      "text": "bye bye"
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+# Capturing Clear, Intentional Footage for Game Trailers
+
+Derek Lieu explains composition, readability, performance, debug cameras, and the practical tools that turn gameplay recording into purposeful trailer footage.
+
+Source: [GDC 2018 - Capturing Great Footage For Game Trailers](https://www.youtube.com/watch?v=XpMBxfqc67A) · Derek Lieu · Published 2018-04-06
+Video: 46:43 · Reading: ~20 minutes · Basis: captions + 18 inspected snapshots
+
+[Web edition](capturing-clear-intentional-footage-for-game-trailers.html)
+
+Topics: Game marketing · Trailers
+Generated: November 2026
+Processing tokens: ~33,000 (estimated) — Rough visible-text workload estimate: 132,461 characters divided by four, rounded to the nearest thousand. Counted the complete transcript, outline, metadata excerpt, repository/skill/format guidance, and final authoring, frame-sheet, and verification code once per artifact, including two reused code references read during this run. Transcript characters were counted after decoding PowerShell’s UTF-16 output. Shared setup is charged in full to this completed reading; work on the separate captionless trailer is excluded. Excludes image tokens, hidden reasoning, unmeasured context replay, uncaptured tool text, intermediate edits, and later revisions. This is a partial workload proxy, not complete billed usage.
+
+## Overview
+
+Derek Lieu’s re-recording of his 2018 GDC talk treats capture as filmmaking inside a game. The capture artist directs attention, operates a camera, and performs through an avatar. The aim is not simply excellent play or attractive screenshots: each moving shot should communicate an intended idea to someone who does not have a controller in hand.
+
+The talk moves from capture equipment and the factors that make a game difficult to explain, through composition, eye trace, readability, and performance, into a detailed catalogue of useful developer tools. It finishes with first-person, third-person, 2D, and VR considerations and games for practice. Eighteen selected snapshots support the reading, including useful comparisons and setup commands that the spoken captions leave on screen.
+
+### What the snapshots add
+
+- The inspected examples show how negative space separates a figure from a crowd, how a closer crop simplifies a platforming shot, and how VR hand position changes what the external recording contains. The Quadrilateral Cowboy slide supplies four exact setup commands omitted from the spoken captions. A cursor slide is labeled Thimbleweed Park, while the spoken cleanup anecdote concerns Unavowed; this reading keeps those examples distinct.
+
+## Key takeaways
+
+- **Decide what each shot communicates** Start with one action, intention, or emotion. Refine the capture until that idea is visible, rather than hoping ordinary play produces the right moment.
+- **Clarity depends on more than visual spectacle** Object count, camera distance, visible cause and effect, and audience familiarity determine how much interpretation a viewer must do.
+- **Stage the performance for the viewer** Movement, pauses, looking, and camera speed can make the same interaction feel deliberate, nervous, graceful, or playful.
+- **Build tools that make good takes repeatable** HUD and music toggles, location shortcuts, controllable game state, and smooth cameras save time while expanding the shots a trailer can contain.
+
+## Capture is the first impression many people will actually see
+
+Source timestamp: [0:00](https://www.youtube.com/watch?v=XpMBxfqc67A&t=0s)
+
+Lieu introduces this as a re-recording of his GDC presentation, made so developers and trailer makers can use it without attending the conference or accessing its recordings. His examples draw on indie projects such as Firewatch, Ooblets, Dead Cells, Subnautica, and Tacoma, alongside agency editing work on larger games. Different projects supplied different debug tools; the talk gathers the most useful practices he encountered.
+
+Capture serves trailers, animated GIFs, development updates, press material, and montages. His central framing is that more people will see this footage than play the game. The footage chosen by the team is an opportunity to control how the game is introduced; once it is released, somebody’s first encounter might instead be any player’s recording.
+
+Successful capture therefore communicates. If a viewer cannot understand what a shot is showing or why it is there, technical image quality alone has not made it successful. The viewer lacks the physical feedback and accumulated knowledge of the person playing, so the shot has to carry its meaning visually.
+
+## Choose recording and editing tools for the job
+
+Source timestamp: [2:33](https://www.youtube.com/watch?v=XpMBxfqc67A&t=153s)
+
+Lieu’s equipment overview is from 2018. For PC capture he discusses ShadowPlay and Bandicam, describing GPU-assisted recording and high-bitrate H.264 MP4 files as sufficient for his indie trailer work, including large-screen presentations. He mentions ScreenFlow on Mac and the conversion or file-size inconveniences he encountered with other tools. Those are historical workflow observations, not a current comparison of software versions.
+
+For consoles he lists capture hardware from Elgato, AverMedia, Hauppauge, and Razer, alongside Blackmagic devices that can capture uncompressed video. He warns against assuming uncompressed is automatically the better production choice. It can be easier to edit, but the files are enormous, and a visible quality difference may matter less after online recompression and viewing on a phone. The important basics are the required resolution and frame rate.
+
+He edits in Premiere Pro but recommends using an editor the creator knows, provided it supports the needed video and audio tracks, resolutions, and frame rates. He also names alternatives and free editions available at the time, advising trials before purchasing. For GIFs he mentions Honeycam, GIF Brewery, and GIF Gun for After Effects. Familiarity, budget, compatibility, and manageable files should support the work rather than become a distraction from making clear shots.
+
+## Assess four factors that make capture difficult
+
+Source timestamp: [5:20](https://www.youtube.com/watch?v=XpMBxfqc67A&t=320s)
+
+The first factor is visual feedback: can a spectator see an action changing something? Mario landing on an enemy or a Street Fighter hit can communicate immediately. Flashy animation alone is insufficient. Lieu contrasts those examples with games where repeated attacks mainly reduce a health meter until something finally dies; a newcomer may not understand the effect of each action.
+
+The second factor is the number of objects competing for attention. Multiplayer, strategy, and MOBA footage can require the spectator to identify many independently moving elements. The third is camera distance, which often increases that information load. The factors interact rather than form absolute rules: Limbo has a relatively distant view but a clear lone character, so it can still be easy to read.
+
+The fourth factor is audience familiarity. Cars, fishing rods, and guns arrive with everyday associations. Mario’s jumping is familiar to many viewers. A MOBA’s units, abilities, and objectives may not be. Capture intended for existing players can assume knowledge that a broader introduction has to establish. Lieu uses this to explain why some mechanically dense games choose pre-rendered introductions; he is not judging those games as better or worse.
+
+A crowded image can still have focus. The inspected Kids example places one figure in an open white circle within a dense crowd, making that figure easy to find. Coordinated action by several similar units can likewise create a single readable event. Lieu suggests these questions can even help development: if an effect is hard to communicate visually, the game’s feedback itself may be worth reconsidering.
+
+![The Kids example shows one outlined figure isolated in a white circular opening within a dense crowd of similar figures. Negative space creates a clear focal point despite the many objects.](../assets/gdc-2018-capturing-great-footage-for-game-trailers/frames/frame-00-09-25.jpg)
+
+[9:25](https://www.youtube.com/watch?v=XpMBxfqc67A&t=565s) — One figure is isolated by open space within a crowd. The number of objects is high, but the composition still supplies an immediate focal point.
+
+## Treat capture as directing, operating a camera, and performing
+
+Source timestamp: [10:04](https://www.youtube.com/watch?v=XpMBxfqc67A&t=604s)
+
+Playing normally can help discover a promising moment. Capture begins to become purposeful when the artist then refines that moment into the shot needed. Perfect gameplay is not necessarily the goal; the best take is the one that communicates the intended action or idea.
+
+Lieu describes three roles. As director, the artist chooses the shot’s purpose, framing, movement, and tempo. As camera operator, the artist positions and moves the view. As puppeteer, the artist gives the controlled character a performance. All three operate through film language because the audience is watching rather than participating. His next three priorities—composition, readability, and performance—follow from that distinction.
+
+## Compose deliberately and give yourself room to reframe
+
+Source timestamp: [11:14](https://www.youtube.com/watch?v=XpMBxfqc67A&t=674s)
+
+Centering the important action is a useful default, particularly when several shots must cut together quickly. Lieu also recommends the rule of thirds: divide the image into a 3×3 grid and place subjects along its lines or regions. The inspected monitor photograph shows an inexpensive physical guide made with string and tape. An image of a grid can provide the equivalent guide in an editor.
+
+When turning off a game’s crosshair, a small physical sticky marker on the monitor can retain a center reference without recording it. For footage that will be reframed, capturing above the final output resolution provides room to crop without enlarging the image as aggressively. He does not say every shot must be recorded at a higher resolution.
+
+For pixel art, he relays Kert Gartner’s After Effects technique: use the layer’s Draft quality setting for nearest-neighbor scaling, enlarge a 1080p clip to 4K, precompose it, then edit in a 1080p sequence. This preserves hard pixel edges during reframing better than soft interpolation. Lieu also says he personally often tolerates enlargements around 150%, given the eventual recompression. That is his practical judgment, not a promise that any source can be enlarged that far without damage.
+
+![The composition tip displays a photograph of a monitor with a physical 3×3 grid over the image and recommends making it with string and tape.](../assets/gdc-2018-capturing-great-footage-for-game-trailers/frames/frame-00-12-10.jpg)
+
+[12:10](https://www.youtube.com/watch?v=XpMBxfqc67A&t=730s) — The monitor grid makes composition guides available during capture, using string and tape rather than a special game feature.
+
+## Use eye trace to make fast cuts easier to follow
+
+Source timestamp: [13:56](https://www.youtube.com/watch?v=XpMBxfqc67A&t=836s)
+
+Eye trace concerns where the viewer is looking before and after a cut. If the important subject suddenly moves to a distant part of the frame, the audience spends time locating it again. In a fast trailer, that search can consume much of the next shot and prevent the intended information from registering.
+
+Lieu uses Kert Gartner’s Celeste trailer, with a pink circle marking the subject, and contrasts it with a deliberately difficult edit. The inspected still confirms the annotation around the small character; it does not by itself demonstrate the continuity of every cut. His practical recommendation is to plan or reframe shots so the viewer can keep following the action without repeatedly hunting for it.
+
+For further study he names Lindsay Ellis’s Transformers essay, Vashi Nedomansky’s Mad Max center-framing video, and Jackie Chan: My Stunts. The latter shows accepted and rejected takes, including the effort to get a bottle break to happen in the center of the image. The lesson is that making an action readable can require deliberately repeating it, not simply keeping the first technically successful take.
+
+## Simplify the image until its main idea reads immediately
+
+Source timestamp: [15:36](https://www.youtube.com/watch?v=XpMBxfqc67A&t=936s)
+
+Readability is related to framing but emphasizes how quickly the image can be understood. The inspected cat comparison makes this plain: both photographs contain two black cats, but the left also contains dark clothing and a bag. The right separates the cats against relatively uncluttered carpet. Removing competing shapes makes the intended information easier to extract.
+
+A player can filter the noise of damage numbers, enemies, and effects while actively playing. A spectator receiving a rapid sequence of unfamiliar shots has less help. Lieu says he removed extraneous enemies from much of his Dead Cells capture so they would not compete with the intended action. Trying to show many things at once can mean the audience remembers none of them.
+
+The Spelunky comparison shows another solution: crop closer. The inspected original includes more level geometry, smaller action, and HUD information; the enlarged version directs attention toward the nearby character and interaction. The trade is deliberate selection, not a claim that zooming is always best. Removing enemies or items can also reduce clutter.
+
+He proposes two quick tests. Squint at the image to see which large shapes attract attention when fine detail disappears; if the wrong element dominates, change the shot. Also watch candidate footage at high speed: if its basic action remains understandable, it is likely to read more easily at normal speed. He mentions the then-active microtrailers account as a source of very short examples, not as a verified current service.
+
+![The Spelunky comparison labels an Original wide view and a Zoomed in crop. The crop enlarges the player and nearby action while excluding much of the surrounding level and HUD.](../assets/gdc-2018-capturing-great-footage-for-game-trailers/frames/frame-00-17-05.jpg)
+
+[17:05](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1025s) — The closer Spelunky crop enlarges the intended action and excludes competing information. A quick shot needs to be readable before the edit moves on.
+
+## Choose whether the performance belongs to the character or the player
+
+Source timestamp: [18:20](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1100s)
+
+Capture can present a character convincingly inhabiting a scene, or show the person at the controls interacting with a game. Lieu contrasts impressive Uncharted footage from SunhiLegend with a more obviously playful approach. Both can be appropriate; they communicate different experiences.
+
+For a character-driven story, acting according to the character’s situation often makes sense. Competitive or multiplayer footage may instead need to show what actual players do. Some games sit between those approaches. The capture artist should choose consciously rather than assume every game should look like either flawless cinematic action or ordinary couch play.
+
+Movement itself carries personality. A spectator makes judgments about a driver from how the car moves, even without seeing the driver. The same is true of an avatar, a first-person camera, or a cursor. Speed, direction, hesitation, and rhythm supply a performance even when the artist cannot change the underlying animation.
+
+## Build intention through looking, pauses, and movement
+
+Source timestamp: [20:18](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1218s)
+
+In first person, what the camera notices can imply what the character thinks. Lieu describes a Firewatch shot in which Henry appears to consider throwing fireworks into a fire pit. Another example follows him taking a boombox near a lake: a calm approach, a look toward the teenagers, a pause, the throw, and a retreat without immediately looking away. He contrasts that with rushing in, throwing the object, and leaving before it lands. The same basic interaction produces a different impression through timing.
+
+The inspected lake still shows the boombox held against the sunset scene; the calm-versus-frantic sequence is described here from Lieu’s explanation, not inferred from one image. His Spelunky examples make the same point through reckless, quick play versus cautious, novice-like movement. A game’s apparent personality changes with the performance chosen for the camera.
+
+He also plays Firewatch dialogue with and without small movement pauses. The captions do not transcribe all dialogue in those embedded clips, so this reading preserves his stated comparison without inventing missing lines. His advice is to capture one idea at a time—one action, intention, or emotion—and then build on it. Not every shot needs elaborate acting; some simply need competent gameplay.
+
+He recommends Tony Zhou’s Every Frame a Painting episode about the Spielberg oner, which examines long takes containing several compositions. A continuous game capture can similarly stage several readable moments within one take.
+
+## Match the controls and timing aids to the movement
+
+Source timestamp: [23:32](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1412s)
+
+Analog controllers make slow, smooth moves easier. Lieu cites an Xbox Elite controller for situations requiring simultaneous camera adjustment and face-button actions, including a moving interaction in The Wild Eternal. Keyboard and mouse are useful for sudden turns: he used that control scheme for a fast Firewatch reaction intended to support a joke.
+
+Each option has limits. Sticks make very rapid camera movements harder; ordinary keyboard movement may be effectively on or off unless the game exposes speed settings. Choose the input method for the shot’s required motion rather than treating one as universally superior.
+
+For coordinated actions, use a metronome set to the trailer music’s tempo. Lieu did this for Cosmic Trip so gestures would line up with the beat. Looping the actual music while capturing is another method he has used. These tools make timing something that can be rehearsed and repeated rather than repaired entirely in the edit.
+
+## Plan debug tools before the trailer becomes urgent
+
+Source timestamp: [25:20](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1520s)
+
+Capture tools save time, but they also change the range of possible shots. Lieu asks developers to consider them early, especially when planning regular updates or expecting another person to create a trailer. He explicitly acknowledges finite development time: the catalogue is a set of useful possibilities, not a demand to implement every feature.
+
+He plays an Ooblets teaser comparison with and without the debug camera. The inspected frame confirms the side-by-side labeling and one shared subject, a yellow creature outdoors; a still cannot establish the full difference in motion or shot variety. The role of the example is to demonstrate why access to a controllable camera can matter creatively, rather than merely make normal gameplay capture more convenient.
+
+## Separate presentation overlays and audio from the useful capture
+
+Source timestamp: [26:53](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1613s)
+
+A HUD toggle is his first essential. Text and overlays draw attention away from the image, and platform-specific button prompts can force a team to recapture or replace graphics for different versions. He recalls agency work where that replacement was necessary. The underwater HUD-off example illustrates a less obstructed view, though the still does not show the act of switching the HUD.
+
+Music needs its own toggle, separate from sound effects. If the recorded gameplay already contains music, using its effects under a different trailer track becomes difficult; the editor may have to rebuild them manually. Capturing effects without the game music can also preserve useful spatial panning that would take more work to recreate afterward. These small options prevent substantial repetitive postproduction.
+
+## Make locations and game states quick to restore
+
+Source timestamp: [28:13](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1693s)
+
+Level skipping and teleportation let the capture artist return to useful material. Lieu describes using coordinates and warp commands in Subnautica, and visible level numbers in The Adventure Pals. A first exploratory pass can identify shots; labels and shortcuts make the later, more deliberate pass repeatable.
+
+Inventory controls let the artist choose items and modifiers rather than acquire them through normal play. Enemy spawning lets a promising location host repeated takes without reloading or losing a procedurally generated layout. Dead Cells supplied both kinds of control. The purpose is to construct a useful capture situation and repeat the action until it works.
+
+Invincibility avoids constant restarts. A fast mode, as in his Octogeddon work, helps reach later material; Dead Cells’ tourist mode let him pass enemies while scouting. These are time-saving capture conditions, not necessarily features being advertised to the player. Their value is preserving the artist’s attention for the shot rather than repeatedly paying the cost of setup.
+
+## Hide distractions and control the available light
+
+Source timestamp: [29:58](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1798s)
+
+Cursor visibility matters for point-and-click capture: the artist still needs to activate things, but the pointer need not appear in the finished shot. The inspected slide labels its current example Thimbleweed Park. Lieu’s spoken anecdote then concerns Unavowed, where he used a patchwork of footage in After Effects to remove a cursor from a party-selection shot. He says a hide-cursor option would have saved hours. The pictured example and that anecdote are distinct.
+
+Object highlights are another deliberate attention magnet that may be unnecessary unless the shot is specifically about the interface. A toggle gives the artist a choice. Time-of-day control is likewise valuable for selecting light: in Subnautica he could accelerate the cycle to find a look, then slow it down to capture. It avoids waiting through an entire cycle each time a take needs repeating.
+
+## First-person cameras need smooth, adjustable motion
+
+Source timestamp: [30:59](https://www.youtube.com/watch?v=XpMBxfqc67A&t=1859s)
+
+A head-bob toggle allows a choice between the protagonist’s embodied movement and a smooth environmental view. A freecam supplies angles, object closeups, and movement that normal player controls cannot easily provide. Lieu often asks for vertical movement on the triggers because they add analog control beyond the two sticks.
+
+For capture, an immediately responsive competitive camera can be the wrong tool. He wants speed settings that support both fast repositioning and slow recording. In Subnautica he could trigger an event, move quickly into place, then reduce camera speed for the take. Sliders and hotkeys are easier to use than guessing arbitrary numerical console values.
+
+Dead zones reduce unintended stick movement, and smoothing can average input over a short period so starts, stops, and transitions are less abrupt. He describes The Wild Eternal’s smoothing and graduated sensitivity as helpful when changing from two-stick movement to one-stick movement. The inspected landscape frame shows the setting being discussed, not the temporal effect of smoothing itself. The aim is movement that can begin and end gracefully.
+
+## Third-person capture must coordinate camera and character
+
+Source timestamp: [33:22](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2002s)
+
+Ooblets supplies Lieu’s main example. The normal camera follows the character positionally. In its capture mode, other controls can offset the camera while it continues following, allowing wider framing, side angles, orbiting, and moves that combine travel with a push-in. He could also detach the camera and leave it fixed while moving the character, useful for decorating or farming montages. Hiding the player is helpful when filming environments or NPCs.
+
+He qualifies the recommendation: Ooblets uses relatively simple character controls, leaving buttons available for the camera. The same mapping would conflict with an action game that uses every button. For such games he suggests setting an offset, locking it, then controlling the character normally from that framing.
+
+Mad Max’s 2015 retail video mode provides another solution: a second controller operates the camera while the first operates Max. The inspected help panel documents camera functions including field of view, alternate cameras, tracking, and attachment. Lieu also discusses vertical movement, tilt, slow motion, and preset angles. One person can alternate between setup and play, or two people can divide the jobs.
+
+His criticism of that mode is its high default sensitivity without useful speed settings. He distinguishes this moving-video functionality from a photo mode that only helps with stills, and wishes similar features were easier to access in other games. That comparison belongs to his 2018 experience, not a survey of today’s games.
+
+![Mad Max (2015) displays a capture-video help panel listing second-controller camera controls, including field of view, slow motion, alternate cameras, camera tracking, and attachment to Max.](../assets/gdc-2018-capturing-great-footage-for-game-trailers/frames/frame-00-35-40.jpg)
+
+[35:40](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2140s) — Mad Max’s capture-video help screen documents a second controller for the camera. Independent camera operation supports shots that ordinary player controls make difficult.
+
+## For 2D games, add only the camera controls that help
+
+Source timestamp: [36:31](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2191s)
+
+Two-dimensional capture has fewer axes to manage, but a freecam can still show levels independently of the player. Lieu used that ability for new Dead Cells environments.
+
+He also proposes zoom and position offsets inside the game, qualified by an important condition: they are worthwhile if the assets scale better there than in the editor. He suggests pixel art as a possible application, rather than claiming that every 2D game gains quality from an in-engine zoom. This is a proposed tool, distinct from the features he reports actually using.
+
+## Extra controls can improve staging without distorting the game
+
+Source timestamp: [37:11](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2231s)
+
+NPC control can make composition repeatable; in Unavowed he could arrange other characters directly. A separately operated camera can also support complex third-person shots. Lieu recalls simultaneously using a gamepad and a keyboard for an Ooblets shot, an awkward workaround a second person could simplify. In co-op, a third controller dedicated to the camera would free both players to perform.
+
+Time freezing lets the artist pause action, reposition the view, and resume. It helps when playing from an unusual angle would be difficult, and supports match cuts. Slow motion can likewise make complex sequences easier to perform, but Lieu is cautious about leaving it in a trailer if the game has no corresponding ability.
+
+He describes SunhiLegend recording Uncharted in slow motion and restoring normal speed for the finished GIFs. Simple, predictable time-scale ratios are more useful for that workflow than excessively fine numerical precision. The distinction is between using a capture aid to produce a normal-speed performance and advertising a slower game experience that players will not actually receive.
+
+## VR requires staging for the external image, not only the headset
+
+Source timestamp: [39:04](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2344s)
+
+Lieu points to Kert Gartner’s work on virtual cinematography and agrees that a person’s head is not automatically a good camera. An alternate view showing an avatar can communicate more than a headset-only view, just as a freecam expands a first-person game’s options. If first-person VR capture is necessary, the external recording needs deliberate attention.
+
+He recommends motion smoothing for the monitor output and checking that it does not break filters or effects. Shaky footage can be unpleasant even for a person merely reviewing it. Use the eye that corresponds to the mirrored monitor image: composing through the other eye can put an aimed object at the wrong angle in the actual recording.
+
+Find the center of the recorded view through test capture. Lieu describes a small sticky marker on the corresponding lens, adjusted until an intended subject is actually centered. His recommendation is a calibration technique from his workflow, not an assumption that where an object feels centered in the headset is where it appears on the monitor.
+
+Hands also need to be staged for the picture. The inspected comparison shows prominent virtual hands and tools in the centered version, while the comfortable natural position largely leaves them outside the image. It may feel awkward to hold the controllers high enough, but the audience cannot understand a gesture that is outside the captured frame.
+
+A partner watching the monitor can direct framing and hand placement. Check that the mouse cursor is not sitting over the recording or likely to be nudged. He also suggests a dancer, martial artist, or similarly practiced performer for repeatable, energetic choreography: in VR, tiny physical movements are directly visible. An independent camera remains valuable for variety.
+
+![The VR comparison labels the left view Hands centered and the right Hands in natural position. The left visibly includes large virtual hands/tools, while the right largely leaves them outside the image.](../assets/gdc-2018-capturing-great-footage-for-game-trailers/frames/frame-00-41-37.jpg)
+
+[41:37](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2497s) — The external image records different information depending on hand placement. A comfortable headset performance can leave the relevant virtual tools outside the recorded frame.
+
+## Practice with repeatable scenes and accessible camera tools
+
+Source timestamp: [42:48](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2568s)
+
+Lieu recommends Mad Max for third-person capture practice because its retail release includes the video tools discussed earlier. For first-person work he suggests Quadrilateral Cowboy, where the console and a freecam are accessible. The inspected setup slide supplies details that the spoken captions refer to without reading aloud.
+
+His displayed sequence is to enable the debug console in Advanced Settings, open it in the game with the tilde key, then enter four commands: in\_usejoystick 1; exec default\_joystick.cfg; pm\_walkbob 0; and g\_showhud 0. They enable joystick use, load the joystick configuration, disable walking bob, and hide the HUD in the setup he demonstrates. The leading bracket visible on each console line is the prompt, not part of the command. Press F1 in the game to activate freecam. He also mentions FIND for exploring other commands. These are the talk’s historical game-specific instructions, not newly tested compatibility claims.
+
+Tacoma offers another kind of practice: scenes can be rewound, making repeated camera positions and NPC framing easy to try. Lieu describes it as a virtual film set where the same performances can support different angles and edits. The shared advantage of these examples is access to repeatable material, so attention can go into composition and visual storytelling.
+
+![The Quadrilateral Cowboy slide gives Advanced Settings/tilde-console instructions and the commands in\_usejoystick 1, exec default\_joystick.cfg, pm\_walkbob 0, and g\_showhud 0; F1 activates freecam. Leading closing brackets are console prompts, not part of the commands.](../assets/gdc-2018-capturing-great-footage-for-game-trailers/frames/frame-00-43-35.jpg)
+
+[43:35](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2615s) — The Quadrilateral Cowboy setup slide preserves the exact commands omitted from the spoken captions, followed by F1 to activate freecam.
+
+## Study visual craft and keep the shot’s intention clear
+
+Source timestamp: [44:23](https://www.youtube.com/watch?v=XpMBxfqc67A&t=2663s)
+
+Lieu’s inspiration list includes Andy Kelly’s Other Places environmental videos, SunhiLegend’s gameplay GIFs, Rebecca Cordingley’s Ooblets posts as nonplayercat, Composition Cam’s film-frame analysis, and One Perfect Shot. His comments about whether particular accounts were still updating describe the time of the recording. The useful reason for studying them is to see how framing, movement, and selection make game footage readable and appealing.
+
+He also encourages watching film craft: Kurosawa for framing, and action work associated with Jackie Chan, Yuen Woo-ping, John Wick, Edgar Wright, and Guillermo del Toro for blocking, spatial clarity, and editing. He is offering sources of ideas, not demanding that a small game trailer imitate a Hollywood production.
+
+The closing advice returns to the same practical chain. Think about capture early; provide the tools that make useful shots possible; treat control as a performance; decide what each shot is meant to convey; and strip away what interferes with that message. A Jackie Chan excerpt closes the lesson, but the manual captions omit its spoken content and one inspected still does not establish the complete advice, so it is not reconstructed here.
+
+## Source and limitations
+
+- Based on the complete manual English-caption transcript of Derek Lieu’s 46:43 re-recording of his 2018 GDC talk. Embedded demonstrations include intervals without transcribed dialogue; missing lines are not invented.
+- Eighteen targeted snapshots were inspected. Reproduced images and readable slide details are verified at those moments, including the Quadrilateral Cowboy commands. Still images do not verify motion, camera smoothing, every cut, complete performances, or the full contents of uninspected clips. Descriptions of sequences rely on Lieu’s spoken explanation where indicated.
+- Capture software, hardware, prices, available editions, game controls, and resource-account status reflect the 2018 talk. This reading does not verify present-day availability or compatibility, and its game-specific commands were transcribed from the slide rather than executed.
+- The inspected cursor slide is labeled Thimbleweed Park. The later spoken account of removing a pointer in postproduction concerns Unavowed; the image is not treated as proof of that separate anecdote.
+
+[Timestamped source captions](../../sources/gdc-2018-capturing-great-footage-for-game-trailers/source.json)
+[Snapshot observations](../../sources/gdc-2018-capturing-great-footage-for-game-trailers/visuals.json)

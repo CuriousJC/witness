@@ -1,0 +1,4674 @@
+{
+  "videoId": "XpMBxfqc67A",
+  "slug": "gdc-2018-capturing-great-footage-for-game-trailers",
+  "url": "https://www.youtube.com/watch?v=XpMBxfqc67A",
+  "title": "GDC 2018 - Capturing Great Footage For Game Trailers",
+  "channel": "Derek Lieu",
+  "published": "2018-04-06",
+  "duration": 2803,
+  "description": "Timestamps in the description!\n\nSlides available at http://bit.ly/GreatGameCapture\n\n0:00 - Introductions\n1:28 - Why Care About Game Capture?\n2:33 - Capture Tools\n5:20 - Capture Difficulty Factors\n10:04 - Game Capture Is Filmmaking\n11:06 - Three things to focus on for game capture\n11:14 - Composition\n11:44 - Capture Tip: Use the rule of thirds\n12:05 - Capture Tip: Create a 3x3 grid on your monitor\n12:36 - Capture Tip: Create a 3x3 grid for your editing software\n12:45 - Capture Tip: Put a sticky on your monitor\n12:59 - Capture Tip: Capture at higher resolution than your output\n13:17 - Capture Tip: Upscale video of pixel art in After Effects\n13:56 - Eyetrace\n14:55 - Recommended Viewing about Eyetrace\n15:36 - Readability\n17:19 - Capture Tip: Squint at your shots\n17:53 - Readability Tip: Watch clips at fast speed\n18:20 - Performance\n19:35 - How to act with a controller\n20:18 - Performing as the character - Firewatch examples\n23:32 - Recommended Viewing: The Spielberg Oner\n23:46 - Capture Tip: Controllers are best for slow movement\n24:11 - Capture Tip: Keyboard and mouse are best for sudden movements\n24:37 - Capture Tip: Use a metronome\n25:20 - Debug Tools for Capture\n25:54 - Ooblets Trailer with and without debug camera\n26:53 - Debug Tool Essentials\n27:01 - HUD Toggle\n27:48 - Music Toggle\n28:13 - Level Skip\n28:20 - Teleport\n28:33 - Level Number Display\n28:54 - Inventory Management \n29:12 - Spawn Enemy\n29:32 - Invincibility\n29:39 - Fast Mode\n29:47 - Tourist Mode\n29:59 - Cursor Visibility\n30:35 - Object Highlights\n30:44 - Time of Day\n31:01 - Debug tools for first person games\n31:08 - Headbob Toggle\n31:22 - First person freecam\n33:23 - Debug tools for 3rd person games\n33:36 - Ooblets 3rd person debug tools\n35:18 - Mad Max 3rd person debug tools\n36:33 - Debug tools for 2D games\n37:11 - Debug tool extras\n37:16 - NPC control\n37:27 - Camera controlled via 2nd controller\n38:07 - Time freeze\n38:25 - Slow motion\n39:04 - Capturing for VR\n39:07 - Kert Gartner http://www.kertgartner.com/virtual-cinematography-for-vr-trailers/\n39:45 - Motion smoothing\n40:17 - Use the eye that corresponds to the PC monitor window\n40:37 - Find the center of your view\n41:05 - Put a sticky on the lens of the monitor eye\n41:19 - Be aware of hand position\n41:46 - Capture with a partner\n42:00 - Mind the mouse cursor\n42:13 - Hire someone with physical training\n42:38 - Freecam\n42:48 - Games for Capture Practice\n44:22 - Capture inspiration links\n45:02 - Summary\n\nHoneycam\nhttps://www.bandisoft.com/honeycam/\n\nGIF Brewery 3\nhttp://gifbrewery.com/\n\nGIF Gun\nhttps://aescripts.com/gifgun/\n\nFollow me at\nhttp://www.twitter.com/derek_lieu\nhttp://www.derek-lieu.com\nhttp://www.trailernewsletter.com\nhttp://www.gametrailerspecs.com\nhttp://www.instagram.com/uniandebi",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 88,
+      "title": "Introductions"
+    },
+    {
+      "start": 88,
+      "end": 153,
+      "title": "Why Care About Game Capture?"
+    },
+    {
+      "start": 153,
+      "end": 320,
+      "title": "Capture Tools"
+    },
+    {
+      "start": 320,
+      "end": 604,
+      "title": "Capture Difficulty Factors"
+    },
+    {
+      "start": 604,
+      "end": 666,
+      "title": "Game Capture Is Filmmaking"
+    },
+    {
+      "start": 666,
+      "end": 674,
+      "title": "Three things to focus on for game capture"
+    },
+    {
+      "start": 674,
+      "end": 704,
+      "title": "Composition"
+    },
+    {
+      "start": 704,
+      "end": 725,
+      "title": "Capture Tip: Use the rule of thirds"
+    },
+    {
+      "start": 725,
+      "end": 756,
+      "title": "Capture Tip: Create a 3x3 grid on your monitor"
+    },
+    {
+      "start": 756,
+      "end": 765,
+      "title": "Capture Tip: Create a 3x3 grid for your editing software"
+    },
+    {
+      "start": 765,
+      "end": 779,
+      "title": "Capture Tip: Put a sticky on your monitor"
+    },
+    {
+      "start": 779,
+      "end": 797,
+      "title": "Capture Tip: Capture at higher resolution than your output"
+    },
+    {
+      "start": 797,
+      "end": 836,
+      "title": "Capture Tip: Upscale video of pixel art in After Effects"
+    },
+    {
+      "start": 836,
+      "end": 895,
+      "title": "Eyetrace"
+    },
+    {
+      "start": 895,
+      "end": 936,
+      "title": "Recommended Viewing about Eyetrace"
+    },
+    {
+      "start": 936,
+      "end": 1039,
+      "title": "Readability"
+    },
+    {
+      "start": 1039,
+      "end": 1073,
+      "title": "Capture Tip: Squint at your shots"
+    },
+    {
+      "start": 1073,
+      "end": 1100,
+      "title": "Readability Tip: Watch clips at fast speed"
+    },
+    {
+      "start": 1100,
+      "end": 1175,
+      "title": "Performance"
+    },
+    {
+      "start": 1175,
+      "end": 1218,
+      "title": "How to act with a controller"
+    },
+    {
+      "start": 1218,
+      "end": 1412,
+      "title": "Performing as the character - Firewatch examples"
+    },
+    {
+      "start": 1412,
+      "end": 1426,
+      "title": "Recommended Viewing: The Spielberg Oner"
+    },
+    {
+      "start": 1426,
+      "end": 1451,
+      "title": "Capture Tip: Controllers are best for slow movement"
+    },
+    {
+      "start": 1451,
+      "end": 1477,
+      "title": "Capture Tip: Keyboard and mouse are best for sudden movements"
+    },
+    {
+      "start": 1477,
+      "end": 1520,
+      "title": "Capture Tip: Use a metronome"
+    },
+    {
+      "start": 1520,
+      "end": 1554,
+      "title": "Debug Tools for Capture"
+    },
+    {
+      "start": 1554,
+      "end": 1613,
+      "title": "Ooblets Trailer with and without debug camera"
+    },
+    {
+      "start": 1613,
+      "end": 1621,
+      "title": "Debug Tool Essentials"
+    },
+    {
+      "start": 1621,
+      "end": 1668,
+      "title": "HUD Toggle"
+    },
+    {
+      "start": 1668,
+      "end": 1693,
+      "title": "Music Toggle"
+    },
+    {
+      "start": 1693,
+      "end": 1700,
+      "title": "Level Skip"
+    },
+    {
+      "start": 1700,
+      "end": 1713,
+      "title": "Teleport"
+    },
+    {
+      "start": 1713,
+      "end": 1734,
+      "title": "Level Number Display"
+    },
+    {
+      "start": 1734,
+      "end": 1752,
+      "title": "Inventory Management"
+    },
+    {
+      "start": 1752,
+      "end": 1772,
+      "title": "Spawn Enemy"
+    },
+    {
+      "start": 1772,
+      "end": 1779,
+      "title": "Invincibility"
+    },
+    {
+      "start": 1779,
+      "end": 1787,
+      "title": "Fast Mode"
+    },
+    {
+      "start": 1787,
+      "end": 1799,
+      "title": "Tourist Mode"
+    },
+    {
+      "start": 1799,
+      "end": 1835,
+      "title": "Cursor Visibility"
+    },
+    {
+      "start": 1835,
+      "end": 1844,
+      "title": "Object Highlights"
+    },
+    {
+      "start": 1844,
+      "end": 1861,
+      "title": "Time of Day"
+    },
+    {
+      "start": 1861,
+      "end": 1868,
+      "title": "Debug tools for first person games"
+    },
+    {
+      "start": 1868,
+      "end": 1882,
+      "title": "Headbob Toggle"
+    },
+    {
+      "start": 1882,
+      "end": 2003,
+      "title": "First person freecam"
+    },
+    {
+      "start": 2003,
+      "end": 2016,
+      "title": "Debug tools for 3rd person games"
+    },
+    {
+      "start": 2016,
+      "end": 2118,
+      "title": "Ooblets 3rd person debug tools"
+    },
+    {
+      "start": 2118,
+      "end": 2193,
+      "title": "Mad Max 3rd person debug tools"
+    },
+    {
+      "start": 2193,
+      "end": 2231,
+      "title": "Debug tools for 2D games"
+    },
+    {
+      "start": 2231,
+      "end": 2236,
+      "title": "Debug tool extras"
+    },
+    {
+      "start": 2236,
+      "end": 2247,
+      "title": "NPC control"
+    },
+    {
+      "start": 2247,
+      "end": 2287,
+      "title": "Camera controlled via 2nd controller"
+    },
+    {
+      "start": 2287,
+      "end": 2305,
+      "title": "Time freeze"
+    },
+    {
+      "start": 2305,
+      "end": 2344,
+      "title": "Slow motion"
+    },
+    {
+      "start": 2344,
+      "end": 2347,
+      "title": "Capturing for VR"
+    },
+    {
+      "start": 2347,
+      "end": 2385,
+      "title": "Kert Gartner"
+    },
+    {
+      "start": 2385,
+      "end": 2417,
+      "title": "Motion smoothing"
+    },
+    {
+      "start": 2417,
+      "end": 2437,
+      "title": "Use the eye that corresponds to the PC monitor window"
+    },
+    {
+      "start": 2437,
+      "end": 2465,
+      "title": "Find the center of your view"
+    },
+    {
+      "start": 2465,
+      "end": 2479,
+      "title": "Put a sticky on the lens of the monitor eye"
+    },
+    {
+      "start": 2479,
+      "end": 2506,
+      "title": "Be aware of hand position"
+    },
+    {
+      "start": 2506,
+      "end": 2520,
+      "title": "Capture with a partner"
+    },
+    {
+      "start": 2520,
+      "end": 2533,
+      "title": "Mind the mouse cursor"
+    },
+    {
+      "start": 2533,
+      "end": 2558,
+      "title": "Hire someone with physical training"
+    },
+    {
+      "start": 2558,
+      "end": 2568,
+      "title": "Freecam"
+    },
+    {
+      "start": 2568,
+      "end": 2662,
+      "title": "Games for Capture Practice"
+    },
+    {
+      "start": 2662,
+      "end": 2702,
+      "title": "Capture inspiration links"
+    },
+    {
+      "start": 2702,
+      "end": 2803,
+      "title": "Summary"
+    }
+  ],
+  "captions": {
+    "language": "en",
+    "kind": "manual",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0.733,
+      "end": 4.1,
+      "text": "Hello! My name is Derek Lieu and at GDC this year..."
+    },
+    {
+      "start": 4.166,
+      "end": 7.6,
+      "text": "I did a talk about capturing great footage for game trailers."
+    },
+    {
+      "start": 7.666,
+      "end": 10.233,
+      "text": "I decided to re-record it since I want"
+    },
+    {
+      "start": 10.3,
+      "end": 14.2,
+      "text": "as many developers, trailer editors and capture artists to see this..."
+    },
+    {
+      "start": 14.266,
+      "end": 17.7,
+      "text": "since not everyone can afford the luxury of going to GDC..."
+    },
+    {
+      "start": 17.766,
+      "end": 20.3,
+      "text": "or even getting access to the GDC Vault."
+    },
+    {
+      "start": 20.366,
+      "end": 22.333,
+      "text": "And I think it's very useful information."
+    },
+    {
+      "start": 22.666,
+      "end": 24.933,
+      "text": "If you aren’t already familiar with my work,"
+    },
+    {
+      "start": 25,
+      "end": 28.766,
+      "text": "as of this recording I’ve been making game trailers for about five years,"
+    },
+    {
+      "start": 28.833,
+      "end": 32.4,
+      "text": "and I’ve been working as an editor for about 15 years."
+    },
+    {
+      "start": 32.4,
+      "end": 34.566,
+      "text": "By the way, if you go to this link,"
+    },
+    {
+      "start": 34.633,
+      "end": 38.066,
+      "text": "you can download a PDF of the slides from this talk."
+    },
+    {
+      "start": 38.133,
+      "end": 42.6,
+      "text": "So like I said, I’m a trailer editor, and some games I've worked on include:"
+    },
+    {
+      "start": 42.666,
+      "end": 48.133,
+      "text": "Firewatch, Ooblets, Dead Cells, BattleBlock Theater, Subnautica, Tacoma and lots more."
+    },
+    {
+      "start": 48.433,
+      "end": 53.733,
+      "text": "I've also worked as an editor at agencies in Los Angeles, where I cut some trailers for AAA games like:"
+    },
+    {
+      "start": 53.8,
+      "end": 58.366,
+      "text": "Mortal Kombat X, Shadow of Mordor, Mad Max, and lots of LEGO games."
+    },
+    {
+      "start": 58.433,
+      "end": 61,
+      "text": "I've worked on games from a wide variety of genres,"
+    },
+    {
+      "start": 61.066,
+      "end": 64.433,
+      "text": "and they all have unique needs when it comes to capturing footage from them..."
+    },
+    {
+      "start": 64.5,
+      "end": 66.933,
+      "text": "and the tools that make it easy to do."
+    },
+    {
+      "start": 67.166,
+      "end": 69.233,
+      "text": "I’m going to talk a lot about shot composition..."
+    },
+    {
+      "start": 69.3,
+      "end": 73.566,
+      "text": "and how to make shots both aesthetically pleasing and easy to understand."
+    },
+    {
+      "start": 73.633,
+      "end": 77.666,
+      "text": "I originally came up with the idea for this talk in 2017 because..."
+    },
+    {
+      "start": 77.833,
+      "end": 81.233,
+      "text": "Every developer I've worked with had different debug tools. So..."
+    },
+    {
+      "start": 81.3,
+      "end": 83.633,
+      "text": "I thought I'd aggregate all that information,"
+    },
+    {
+      "start": 83.7,
+      "end": 86.033,
+      "text": "and share the best of everyone's tools that helped me..."
+    },
+    {
+      "start": 86.1,
+      "end": 88.633,
+      "text": "get the best possible shots for trailers I made."
+    },
+    {
+      "start": 89.166,
+      "end": 91,
+      "text": "Why care about game capture?"
+    },
+    {
+      "start": 91.066,
+      "end": 94.4,
+      "text": "Game capture is simply video footage of the game."
+    },
+    {
+      "start": 94.466,
+      "end": 97.7,
+      "text": "You need it for trailers, animated gifs, dev logs,"
+    },
+    {
+      "start": 97.766,
+      "end": 100.366,
+      "text": "b-roll for montages, and press coverage."
+    },
+    {
+      "start": 100.433,
+      "end": 103.8,
+      "text": "But most importantly, a good way to think about it is:"
+    },
+    {
+      "start": 104,
+      "end": 107.4,
+      "text": "More people will see your game capture than play your game."
+    },
+    {
+      "start": 107.5,
+      "end": 110.566,
+      "text": "We'd love to think that every trailer view turns into a sale,"
+    },
+    {
+      "start": 110.633,
+      "end": 115,
+      "text": "but far more people will see footage of your game than actually play it."
+    },
+    {
+      "start": 115.066,
+      "end": 120.2,
+      "text": "The game capture you release is the only time you ever have full control over how your game looks."
+    },
+    {
+      "start": 120.366,
+      "end": 125.666,
+      "text": "Once it’s released, you have NO IDEA what kind of footage will be someone’s first impression of your game."
+    },
+    {
+      "start": 125.833,
+      "end": 127.966,
+      "text": "So, you should want to make it look good."
+    },
+    {
+      "start": 128.1,
+      "end": 132.133,
+      "text": "Also, if your friends, parents or extended family don't play games,"
+    },
+    {
+      "start": 132.2,
+      "end": 136.433,
+      "text": "then game capture might be the only way you can show them what it is you do."
+    },
+    {
+      "start": 136.633,
+      "end": 138.633,
+      "text": "The main thing to think about is:"
+    },
+    {
+      "start": 138.8,
+      "end": 142.066,
+      "text": "Successful game capture communicates effectively."
+    },
+    {
+      "start": 142.4,
+      "end": 144.533,
+      "text": "This seems like an obvious thing to say,"
+    },
+    {
+      "start": 144.6,
+      "end": 146.9,
+      "text": "but if someone watches a shot that you captured,"
+    },
+    {
+      "start": 146.966,
+      "end": 151.2,
+      "text": "and they don’t have any idea what’s happening, or what the shot is trying to say,"
+    },
+    {
+      "start": 151.266,
+      "end": 153.033,
+      "text": "then it’s not good capture."
+    },
+    {
+      "start": 153.333,
+      "end": 156.933,
+      "text": "Here's a quick overview of software and hardware for capturing and editing."
+    },
+    {
+      "start": 157.133,
+      "end": 161.666,
+      "text": "There are a bunch of solutions for PC game capture, but they all essentially do the same thing."
+    },
+    {
+      "start": 161.866,
+      "end": 164.8,
+      "text": "Just make sure it can capture at the framerate, and resolution you want."
+    },
+    {
+      "start": 165.2,
+      "end": 169.433,
+      "text": "For my indie work I use Nvidia Shadowplay which requires an Nvidia card,"
+    },
+    {
+      "start": 169.666,
+      "end": 173.933,
+      "text": "but it's free, and it's good because it uses the GPU instead of the CPU"
+    },
+    {
+      "start": 174.066,
+      "end": 177.166,
+      "text": "same goes for Bandicam which you can buy for $50."
+    },
+    {
+      "start": 177.466,
+      "end": 183.366,
+      "text": "These both capture to h.264 compressed MP4s, but at high bitrates the quality is still very good."
+    },
+    {
+      "start": 183.533,
+      "end": 187.9,
+      "text": "I've had trailers on big screens at press shows, and video quality has never been an issue."
+    },
+    {
+      "start": 188.266,
+      "end": 191.7,
+      "text": "On Mac I use Screenflow which has a lot of very nice features,"
+    },
+    {
+      "start": 192.066,
+      "end": 195.466,
+      "text": "It can be used for editing, and that costs $129."
+    },
+    {
+      "start": 195.566,
+      "end": 197.833,
+      "text": "There's also FRAPS and OBS,"
+    },
+    {
+      "start": 197.9,
+      "end": 202.6,
+      "text": "but they can be a pain because the files need to be converted before I can edit with them,"
+    },
+    {
+      "start": 202.666,
+      "end": 206.033,
+      "text": "and with FRAPS especially the files can get ENORMOUS."
+    },
+    {
+      "start": 206.4,
+      "end": 209.766,
+      "text": "There are also a lot of hardware options for console capture. There's devices by..."
+    },
+    {
+      "start": 209.833,
+      "end": 215.633,
+      "text": "Elgato, Avermedia, Hauppauge, Razer, and they all capture to h.264."
+    },
+    {
+      "start": 215.9,
+      "end": 221.666,
+      "text": "There's also the Blackmagic Intensity Pro and Intensity Shuttle, which capture uncompressed video,"
+    },
+    {
+      "start": 221.8,
+      "end": 223.866,
+      "text": "and right now you might be thinking:"
+    },
+    {
+      "start": 223.966,
+      "end": 229.1,
+      "text": "“Oh, well obviously I should get capture uncompressed video instead of h.264, right?"
+    },
+    {
+      "start": 229.566,
+      "end": 231,
+      "text": "Not really."
+    },
+    {
+      "start": 231.3,
+      "end": 233.966,
+      "text": "it doesn't really matter THAT much."
+    },
+    {
+      "start": 234.266,
+      "end": 238.3,
+      "text": "Uncompressed video is way faster to edit with, but the files are enormous,"
+    },
+    {
+      "start": 238.366,
+      "end": 241.2,
+      "text": "and most people won't be able to tell the difference in quality..."
+    },
+    {
+      "start": 241.266,
+      "end": 244.3,
+      "text": "unless MAYBE they're played side by side,"
+    },
+    {
+      "start": 244.4,
+      "end": 246.8,
+      "text": "and in the end they're all going to get filtered through..."
+    },
+    {
+      "start": 246.866,
+      "end": 249.9,
+      "text": "YouTube compression and watched on someone’s phone."
+    },
+    {
+      "start": 249.966,
+      "end": 252.966,
+      "text": "I edit with Premiere Pro, but I tell people to"
+    },
+    {
+      "start": 253.033,
+      "end": 256.333,
+      "text": "just use whatever editing software they're most comfortable with."
+    },
+    {
+      "start": 256.4,
+      "end": 259.533,
+      "text": "As long as the software supports multiple tracks of video and audio,"
+    },
+    {
+      "start": 259.6,
+      "end": 263.066,
+      "text": "at the resolution and framerates you want, It doesn't matter."
+    },
+    {
+      "start": 263.133,
+      "end": 267.2,
+      "text": "especially if you’re not sharing project files or working with someone else's equipment."
+    },
+    {
+      "start": 267.4,
+      "end": 271.066,
+      "text": "I’ve also used Final Cut Pro, and Avid Media Composer."
+    },
+    {
+      "start": 271.433,
+      "end": 277.4,
+      "text": "Sony Vegas, Hitfilm and Lightworks are others I just know exist, but I've never used them"
+    },
+    {
+      "start": 277.7,
+      "end": 280.933,
+      "text": "they all have different pricing structures, so pick what’s right for your budget."
+    },
+    {
+      "start": 281.266,
+      "end": 285.333,
+      "text": "They also all have trial versions too, so do that before dropping money on them."
+    },
+    {
+      "start": 285.6,
+      "end": 287.366,
+      "text": "There are also a few free options:"
+    },
+    {
+      "start": 287.566,
+      "end": 293.366,
+      "text": "Avid Media Composer First, Da Vinci Resolve, Hitfilm Express and Lightworks Express."
+    },
+    {
+      "start": 293.533,
+      "end": 296.166,
+      "text": "These are all worth looking into if you have a limited budget,"
+    },
+    {
+      "start": 296.233,
+      "end": 300.6,
+      "text": "and they’ll all have WAY more features than iMovie or Windows Movie Maker."
+    },
+    {
+      "start": 300.666,
+      "end": 304.333,
+      "text": "And lastly here are a few options for easily making animated gifs."
+    },
+    {
+      "start": 304.5,
+      "end": 307.233,
+      "text": "Honeycam and GIF Brewery all have a lot of features like:"
+    },
+    {
+      "start": 307.366,
+      "end": 311.066,
+      "text": "being able to convert video or just capture straight from your screen."
+    },
+    {
+      "start": 311.266,
+      "end": 314.2,
+      "text": "You can adjust the resolution and lots of other things."
+    },
+    {
+      "start": 314.3,
+      "end": 318.166,
+      "text": "And GIF Gun is a great script for easily making GIFs straight out of After Effects."
+    },
+    {
+      "start": 318.366,
+      "end": 320.566,
+      "text": "I put links in the description for all of these."
+    },
+    {
+      "start": 320.766,
+      "end": 323,
+      "text": "Okay, next I want to talk about:"
+    },
+    {
+      "start": 323.266,
+      "end": 325.2,
+      "text": "Capture difficulty factors."
+    },
+    {
+      "start": 325.366,
+      "end": 330.066,
+      "text": "These are four things that determine just how difficult it will be to make capture for a game."
+    },
+    {
+      "start": 330.5,
+      "end": 332.2,
+      "text": "Visual feedback,"
+    },
+    {
+      "start": 332.4,
+      "end": 334,
+      "text": "Camera Distance,"
+    },
+    {
+      "start": 334.2,
+      "end": 335.833,
+      "text": "Number of objects on screen"
+    },
+    {
+      "start": 335.866,
+      "end": 338.066,
+      "text": "and Audience familiarity."
+    },
+    {
+      "start": 338.333,
+      "end": 340.766,
+      "text": "If you look at your game through all four of these things factors,"
+    },
+    {
+      "start": 340.833,
+      "end": 344.133,
+      "text": "you can generally tell how hard a job you have ahead of you."
+    },
+    {
+      "start": 344.2,
+      "end": 349.733,
+      "text": "Visual feedback is simply how easy it is to see something changing or being affected on screen..."
+    },
+    {
+      "start": 350,
+      "end": 354.233,
+      "text": "and understanding what’s happening without prior knowledge of the game."
+    },
+    {
+      "start": 354.433,
+      "end": 357.466,
+      "text": "High visual feedback is usually great for capture!"
+    },
+    {
+      "start": 357.766,
+      "end": 360.833,
+      "text": "At the highest end you have action based games like:"
+    },
+    {
+      "start": 361.066,
+      "end": 363.333,
+      "text": "like Super Mario and Street Fighter."
+    },
+    {
+      "start": 363.466,
+      "end": 366.166,
+      "text": "You can clearly see something on screen being affected."
+    },
+    {
+      "start": 366.5,
+      "end": 369.933,
+      "text": "Enemies are defeated, people are punched and go flying in the air."
+    },
+    {
+      "start": 370.133,
+      "end": 374.466,
+      "text": "But action and hitting things doesn’t necessarily mean high visual feedback."
+    },
+    {
+      "start": 374.633,
+      "end": 378.533,
+      "text": "For example in games like Clash Royale there are characters hitting things,"
+    },
+    {
+      "start": 378.733,
+      "end": 382.766,
+      "text": "but their effect generally isn’t apparent until something dies or blows up"
+    },
+    {
+      "start": 382.966,
+      "end": 386.366,
+      "text": "everything before then is just a health meter slowly going down."
+    },
+    {
+      "start": 386.633,
+      "end": 391.033,
+      "text": "Then you have games like MOBAs which have very flashy animation and visual effects,"
+    },
+    {
+      "start": 391.133,
+      "end": 394.233,
+      "text": "but they still take a while before anything seems to be affected..."
+    },
+    {
+      "start": 394.3,
+      "end": 397.1,
+      "text": "in a way an uninformed person can understand."
+    },
+    {
+      "start": 397.166,
+      "end": 399.666,
+      "text": "Then you have games like Everybody’s Gone to the Rapture..."
+    },
+    {
+      "start": 399.733,
+      "end": 402.466,
+      "text": "where there are very few moving objects on screen."
+    },
+    {
+      "start": 402.566,
+      "end": 406.733,
+      "text": "To figure out how much visual feedback a game has, the question you need to ask is:"
+    },
+    {
+      "start": 406.966,
+      "end": 408.7,
+      "text": "When the player does something,"
+    },
+    {
+      "start": 408.766,
+      "end": 412.7,
+      "text": "would someone not at the controls see anything changing on screen?"
+    },
+    {
+      "start": 412.766,
+      "end": 414.1,
+      "text": "The next factor is:"
+    },
+    {
+      "start": 414.3,
+      "end": 415.866,
+      "text": "The number of objects on screen."
+    },
+    {
+      "start": 416,
+      "end": 419.7,
+      "text": "Generally, capture is more difficult when there are more objects on screen,"
+    },
+    {
+      "start": 419.866,
+      "end": 422.933,
+      "text": "especially if they’re all moving like they have minds of their own."
+    },
+    {
+      "start": 423.1,
+      "end": 426.1,
+      "text": "Depending on the game it can be a lot of information to process."
+    },
+    {
+      "start": 426.366,
+      "end": 428.1,
+      "text": "For example, games like:"
+    },
+    {
+      "start": 428.433,
+      "end": 432.6,
+      "text": "Single screen multiplayer games, strategy games, and MOBAs"
+    },
+    {
+      "start": 432.666,
+      "end": 438.033,
+      "text": "all have a lot of stuff on screen at any given time, so you have to mitigate the confusion"
+    },
+    {
+      "start": 438.1,
+      "end": 442.966,
+      "text": "Whereas games like LEGO games, The Batman Arkham games, and Super Mario"
+    },
+    {
+      "start": 443.033,
+      "end": 446.533,
+      "text": "have fewer moving parts, and can be captured with their in-game camera..."
+    },
+    {
+      "start": 446.6,
+      "end": 448.333,
+      "text": "with some a debug camera shots mixed in."
+    },
+    {
+      "start": 448.5,
+      "end": 452.733,
+      "text": "Then games like Street Fighter, Limbo, and Everybody’s Gone to the Rapture..."
+    },
+    {
+      "start": 452.9,
+      "end": 455.833,
+      "text": "can often be captured with very few debug camera shots."
+    },
+    {
+      "start": 456.1,
+      "end": 458.833,
+      "text": "The number of objects on screen is closely related to:"
+    },
+    {
+      "start": 458.933,
+      "end": 460.033,
+      "text": "the camera distance."
+    },
+    {
+      "start": 460.266,
+      "end": 463.266,
+      "text": "Pretty much, the further away the camera is in the game,"
+    },
+    {
+      "start": 463.333,
+      "end": 465.8,
+      "text": "the more difficult it’s going to be to capture for,"
+    },
+    {
+      "start": 465.866,
+      "end": 470.166,
+      "text": "a far away camera makes it more likely that there are more objects on screen at any given time."
+    },
+    {
+      "start": 470.5,
+      "end": 471.966,
+      "text": "You can see that in games like:"
+    },
+    {
+      "start": 472.3,
+      "end": 474.6,
+      "text": "League of Legends where the camera is very far away,"
+    },
+    {
+      "start": 474.666,
+      "end": 476.8,
+      "text": "which makes it very hard to capture for."
+    },
+    {
+      "start": 476.866,
+      "end": 479.6,
+      "text": "Conversely in Limbo, the camera is far away,"
+    },
+    {
+      "start": 479.666,
+      "end": 483.1,
+      "text": "but since there’s only one character, it’s not as hard to capture for."
+    },
+    {
+      "start": 483.166,
+      "end": 486.833,
+      "text": "In LEGO games, the camera isn’t as far, so it’s not as difficult."
+    },
+    {
+      "start": 487,
+      "end": 490.333,
+      "text": "And games like Street Fighter the default camera works as is."
+    },
+    {
+      "start": 490.566,
+      "end": 495.933,
+      "text": "The final thing that can make your job either incredibly easy or incredibly hard is:"
+    },
+    {
+      "start": 496,
+      "end": 497.133,
+      "text": "Audience Familiarity"
+    },
+    {
+      "start": 497.333,
+      "end": 500.4,
+      "text": "which is simply how likely it is your audience..."
+    },
+    {
+      "start": 500.466,
+      "end": 503.533,
+      "text": "will already have some knowledge of what they’re looking at when they see it."
+    },
+    {
+      "start": 503.6,
+      "end": 507,
+      "text": "It’s easier to capture for an informed audience than one you have to teach."
+    },
+    {
+      "start": 507.233,
+      "end": 511.166,
+      "text": "For example, we can generally assume people understand real life objects like:"
+    },
+    {
+      "start": 511.266,
+      "end": 513.966,
+      "text": "a car, fishing rod or gun."
+    },
+    {
+      "start": 514.3,
+      "end": 517.866,
+      "text": "And at this point Nintendo can pretty safely assume that..."
+    },
+    {
+      "start": 517.966,
+      "end": 520.8,
+      "text": "people don’t need to be taught that Mario jumps on enemies."
+    },
+    {
+      "start": 521.066,
+      "end": 524.666,
+      "text": "Whereas most people aren’t going to understand footage from a MOBA if you show it to them."
+    },
+    {
+      "start": 524.866,
+      "end": 526.533,
+      "text": "So when capturing you have to think:"
+    },
+    {
+      "start": 526.766,
+      "end": 530.333,
+      "text": "are you targeting people who will have familiarity with the game,"
+    },
+    {
+      "start": 530.533,
+      "end": 532.4,
+      "text": "or are you trying to get people who aren’t?"
+    },
+    {
+      "start": 532.633,
+      "end": 537.1,
+      "text": "Because it’s very different when you can’t assume a base level of knowledge from the audience."
+    },
+    {
+      "start": 537.333,
+      "end": 541.133,
+      "text": "And now you know why Clash of Clans, League of Legends, DOTA 2,"
+    },
+    {
+      "start": 541.2,
+      "end": 544.4,
+      "text": "and World of Warcraft, Hearthstone and strategy games..."
+    },
+    {
+      "start": 544.466,
+      "end": 547.833,
+      "text": "tend to make make fancy pre-rendered trailers instead of gameplay trailers."
+    },
+    {
+      "start": 547.966,
+      "end": 550.866,
+      "text": "There are a ton of objects on screen at any given time,"
+    },
+    {
+      "start": 551.066,
+      "end": 552.566,
+      "text": "the camera is very far away,"
+    },
+    {
+      "start": 552.8,
+      "end": 556.133,
+      "text": "it takes so much prior knowledge to know what is doing what and why,"
+    },
+    {
+      "start": 556.333,
+      "end": 560.033,
+      "text": "and even though there’s lots of animation, it’s hard to see what’s changing."
+    },
+    {
+      "start": 560.366,
+      "end": 564.266,
+      "text": "That said, if there are a large number of objects and a far away camera,"
+    },
+    {
+      "start": 564.333,
+      "end": 568.2,
+      "text": "but there’s a way to create focus, it'll be easier to watch."
+    },
+    {
+      "start": 568.266,
+      "end": 571.4,
+      "text": "I added this slide after seeing “Kids” at Day of the Devs."
+    },
+    {
+      "start": 571.9,
+      "end": 577.4,
+      "text": "Or imagine in a realtime strategy game several copies of one unit attaching simultaneously,"
+    },
+    {
+      "start": 577.466,
+      "end": 580.3,
+      "text": "like Firebats or zerglings in Starcraft."
+    },
+    {
+      "start": 580.533,
+      "end": 583.833,
+      "text": "Anything that helps the audience see something other than random chaos."
+    },
+    {
+      "start": 584,
+      "end": 586.8,
+      "text": "This isn’t to make a qualitative judgement about these games,"
+    },
+    {
+      "start": 586.866,
+      "end": 592.166,
+      "text": "it’s just that looking at these factors will help you know just how hard it’s going to be to capture for."
+    },
+    {
+      "start": 592.5,
+      "end": 595.633,
+      "text": "This exercise might also help developers design their game,"
+    },
+    {
+      "start": 595.7,
+      "end": 599.466,
+      "text": "because if they’re finding that their game doesn’t communicate very well visually,"
+    },
+    {
+      "start": 599.533,
+      "end": 601.533,
+      "text": "there might be a way to improve it."
+    },
+    {
+      "start": 601.6,
+      "end": 604.4,
+      "text": "Okay, so now that we know what we’re in for, let’s clear something up..."
+    },
+    {
+      "start": 604.6,
+      "end": 609.633,
+      "text": "Game Capture isn’t just playing the game and hoping you get something good."
+    },
+    {
+      "start": 609.8,
+      "end": 613.666,
+      "text": "That’s how you start the process, but once you find a good moment,"
+    },
+    {
+      "start": 613.733,
+      "end": 616.233,
+      "text": "what you want to do is then perfect that moment..."
+    },
+    {
+      "start": 616.3,
+      "end": 618.666,
+      "text": "until it’s the ideal version of what you want."
+    },
+    {
+      "start": 618.866,
+      "end": 621.7,
+      "text": "This doesn’t necessarily mean perfectly played gameplay,"
+    },
+    {
+      "start": 621.866,
+      "end": 625.6,
+      "text": "it means getting a shot that shows what you want it to."
+    },
+    {
+      "start": 625.966,
+      "end": 627.6,
+      "text": "Game capture is filmmaking!"
+    },
+    {
+      "start": 627.833,
+      "end": 631.033,
+      "text": "You're communicating with film language, not game language."
+    },
+    {
+      "start": 631.133,
+      "end": 635.466,
+      "text": "So you have to think purely visually since the audience doesn't have their hands on the controller."
+    },
+    {
+      "start": 635.833,
+      "end": 638.033,
+      "text": "As a capture artist you're wearing multiple hats:"
+    },
+    {
+      "start": 638.266,
+      "end": 641.733,
+      "text": "You're the Director, because you're deciding the purpose of the shot,"
+    },
+    {
+      "start": 642,
+      "end": 645.2,
+      "text": "how to frame the action, where and how the characters move,"
+    },
+    {
+      "start": 645.3,
+      "end": 647.033,
+      "text": "and the tempo of all those things."
+    },
+    {
+      "start": 647.3,
+      "end": 651,
+      "text": "You're the camera person, because obviously you have to move the camera."
+    },
+    {
+      "start": 651.266,
+      "end": 653.933,
+      "text": "You're a Puppeteer, because when you capture..."
+    },
+    {
+      "start": 654,
+      "end": 656.533,
+      "text": "you’re not really playing the game like you normally would."
+    },
+    {
+      "start": 656.6,
+      "end": 660.966,
+      "text": "You’re controlling the game and trying to create shots for a specific purpose."
+    },
+    {
+      "start": 661.1,
+      "end": 665.6,
+      "text": "And like a puppeteer you’re trying to give a performance through the avatar you’re controlling."
+    },
+    {
+      "start": 665.8,
+      "end": 669.033,
+      "text": "With that in mind, here are three things to focus on:"
+    },
+    {
+      "start": 669.366,
+      "end": 670.566,
+      "text": "Composition,"
+    },
+    {
+      "start": 670.733,
+      "end": 671.8,
+      "text": "readability,"
+    },
+    {
+      "start": 671.9,
+      "end": 673.533,
+      "text": "and performance."
+    },
+    {
+      "start": 673.733,
+      "end": 678.433,
+      "text": "Composition is simply deciding how to frame the characters, objects or environment."
+    },
+    {
+      "start": 678.733,
+      "end": 681.2,
+      "text": "Depending on the game, the default camera will be different."
+    },
+    {
+      "start": 681.566,
+      "end": 683.966,
+      "text": "3rd person games tend to be center framed."
+    },
+    {
+      "start": 684.033,
+      "end": 687.3,
+      "text": "Centering is a good safe way to compose your shots."
+    },
+    {
+      "start": 687.366,
+      "end": 689.366,
+      "text": "If you want to keep things simple,"
+    },
+    {
+      "start": 689.433,
+      "end": 692.9,
+      "text": "keep the focus of the shot as close to the center at all times."
+    },
+    {
+      "start": 693.033,
+      "end": 697.133,
+      "text": "2D games like platformers sometimes need some re-framing in post..."
+    },
+    {
+      "start": 697.233,
+      "end": 700.1,
+      "text": "because either the character jumps all over the screen..."
+    },
+    {
+      "start": 700.266,
+      "end": 703.566,
+      "text": "or favors the left or right like in a point and click adventure game."
+    },
+    {
+      "start": 703.8,
+      "end": 706.2,
+      "text": "Which brings me to my first capture tip, which is:"
+    },
+    {
+      "start": 706.366,
+      "end": 709,
+      "text": "Use the rule of 3rds to help your shot composition."
+    },
+    {
+      "start": 709.2,
+      "end": 712.4,
+      "text": "This is simply dividing your shot into a 3x3 grid,"
+    },
+    {
+      "start": 712.633,
+      "end": 715.733,
+      "text": "and composing your shots so that the subject or subjects..."
+    },
+    {
+      "start": 715.8,
+      "end": 718.533,
+      "text": "generally fall on the lines or in the thirds."
+    },
+    {
+      "start": 718.633,
+      "end": 721.633,
+      "text": "When you do this, the shots tend to look very aesthetically pleasing."
+    },
+    {
+      "start": 721.9,
+      "end": 725,
+      "text": "If you’re not going to center frame things, this is a good way to do it."
+    },
+    {
+      "start": 725.3,
+      "end": 727.933,
+      "text": "Which brings me to my next tip which is to:"
+    },
+    {
+      "start": 728.2,
+      "end": 732,
+      "text": "Create a 3x3 grid on your monitor with string & tape..."
+    },
+    {
+      "start": 732.066,
+      "end": 733.866,
+      "text": "or whatever else you have available."
+    },
+    {
+      "start": 734.033,
+      "end": 736.2,
+      "text": "This is a photo of my TV when I'm capturing..."
+    },
+    {
+      "start": 736.266,
+      "end": 740.566,
+      "text": "which has my makeshift grid that I just made out of string and some blue painter’s tape."
+    },
+    {
+      "start": 740.766,
+      "end": 743.066,
+      "text": "When I’m setting it up, I just open a JPEG of a..."
+    },
+    {
+      "start": 743.133,
+      "end": 745.233,
+      "text": "3x3 grid that I have on my computer,"
+    },
+    {
+      "start": 745.433,
+      "end": 748.433,
+      "text": "display it at full screen, and then align the string with the lines."
+    },
+    {
+      "start": 748.866,
+      "end": 752.4,
+      "text": "A lot of cameras have 3x3 grids built into them to help composition,"
+    },
+    {
+      "start": 752.466,
+      "end": 756.033,
+      "text": "so it makes sense to do the same for our monitors when capturing."
+    },
+    {
+      "start": 756.833,
+      "end": 760.566,
+      "text": "Create a 3x3 grid image to overlay in your editing software."
+    },
+    {
+      "start": 760.833,
+      "end": 764.666,
+      "text": "This will give you some nice guides if you ever need to zoom in and re-frame your shots."
+    },
+    {
+      "start": 764.966,
+      "end": 767.633,
+      "text": "Put a sticky on your monitor to replace the crosshairs"
+    },
+    {
+      "start": 767.7,
+      "end": 770.333,
+      "text": "whether for a first or third person game."
+    },
+    {
+      "start": 770.466,
+      "end": 774.1,
+      "text": "When you’re capturing you usually don’t want to have the in-game crosshairs on,"
+    },
+    {
+      "start": 774.233,
+      "end": 778.133,
+      "text": "so putting a sticky on your monitor allows you to know where the center is"
+    },
+    {
+      "start": 778.2,
+      "end": 779.266,
+      "text": "even when it’s turned off."
+    },
+    {
+      "start": 779.333,
+      "end": 782.1,
+      "text": "If you can, capture at higher resolution than your final output."
+    },
+    {
+      "start": 782.266,
+      "end": 784.666,
+      "text": "You don’t have to do this with all your capture,"
+    },
+    {
+      "start": 784.733,
+      "end": 787.333,
+      "text": "but for shots that are going to be re-framed in post,"
+    },
+    {
+      "start": 787.4,
+      "end": 789.966,
+      "text": "this lets you avoid blurriness if you scale the image up."
+    },
+    {
+      "start": 790.266,
+      "end": 793.066,
+      "text": "Or alternately, if you’re working on a pixel art game..."
+    },
+    {
+      "start": 793.133,
+      "end": 796.233,
+      "text": "here’s a tip I learned from fellow trailer maker Kert Gartner…"
+    },
+    {
+      "start": 796.3,
+      "end": 799.033,
+      "text": "Which is to upscale video of pixel art in After Effects."
+    },
+    {
+      "start": 799.3,
+      "end": 803.7,
+      "text": "If you put your video into After Effects change the quality setting for the layer to “draft”..."
+    },
+    {
+      "start": 803.9,
+      "end": 806,
+      "text": "which enables nearest neighbor scaling..."
+    },
+    {
+      "start": 806.066,
+      "end": 808.666,
+      "text": "so that the pixels won’t get as blurry when you scale it up."
+    },
+    {
+      "start": 808.733,
+      "end": 811.533,
+      "text": "So, for example you take a 1080p clip,"
+    },
+    {
+      "start": 811.6,
+      "end": 814.2,
+      "text": "scale it up to 4K, then pre comp it..."
+    },
+    {
+      "start": 814.4,
+      "end": 816.966,
+      "text": "and edit in a 1080p sequence."
+    },
+    {
+      "start": 817.166,
+      "end": 820.466,
+      "text": "This lets you keep the pixel art looking sharp for when you want to zoom in."
+    },
+    {
+      "start": 820.6,
+      "end": 824.4,
+      "text": "That said, I frequently scale up footage to about 150%,"
+    },
+    {
+      "start": 824.533,
+      "end": 827.6,
+      "text": "and it doesn’t cause that much visual degradation,"
+    },
+    {
+      "start": 827.833,
+      "end": 830.933,
+      "text": "and again, all of this is getting recompressed on YouTube anyway."
+    },
+    {
+      "start": 831.3,
+      "end": 834.233,
+      "text": "Another VERY important consideration for shot composition..."
+    },
+    {
+      "start": 834.3,
+      "end": 836.3,
+      "text": "and editing of your trailers is:"
+    },
+    {
+      "start": 836.366,
+      "end": 837.2,
+      "text": "Eyetrace"
+    },
+    {
+      "start": 837.266,
+      "end": 841.1,
+      "text": "Eyetrace is simply being aware of what the audience's eyes are looking at,"
+    },
+    {
+      "start": 841.3,
+      "end": 843.633,
+      "text": "and making sure that when you cut to a new shot,"
+    },
+    {
+      "start": 843.7,
+      "end": 846.433,
+      "text": "you're not forcing them to re-orient their eye too much."
+    },
+    {
+      "start": 846.5,
+      "end": 850.9,
+      "text": "This is especially important for games where the camera doesn’t move much, but the characters do."
+    },
+    {
+      "start": 851.133,
+      "end": 854.666,
+      "text": "For most of the games I’ve worked on the action is pretty centered, so..."
+    },
+    {
+      "start": 855,
+      "end": 858.966,
+      "text": "here’s Kert Gartner’s trailer for Celeste which has very good eye trace,."
+    },
+    {
+      "start": 859.166,
+      "end": 863.233,
+      "text": "I overlayed a pink circle to show how the subject moves around the frame from cut to cut,"
+    },
+    {
+      "start": 863.3,
+      "end": 864.866,
+      "text": "so you can see what I’m talking about."
+    },
+    {
+      "start": 864.933,
+      "end": 869.266,
+      "text": "Just to give you an idea of how bad eye trace can affect the trailer,"
+    },
+    {
+      "start": 869.333,
+      "end": 871.266,
+      "text": "I cut together this reel."
+    },
+    {
+      "start": 871.466,
+      "end": 874.466,
+      "text": "While watching it just try to keep track of the action,"
+    },
+    {
+      "start": 874.633,
+      "end": 878.2,
+      "text": "and pay attention to how much more work it is to do just that."
+    },
+    {
+      "start": 878.366,
+      "end": 881.833,
+      "text": "Trailers are generally cut pretty fast, so if you have bad eye-trace,"
+    },
+    {
+      "start": 881.9,
+      "end": 885.033,
+      "text": "that forces the audience to work really hard to watch the trailer,"
+    },
+    {
+      "start": 886.133,
+      "end": 890.333,
+      "text": "When the audience’s eyes get lost, they stop retaining information."
+    },
+    {
+      "start": 890.433,
+      "end": 893.466,
+      "text": "So you have to make your footage as easy to watch as possible."
+    },
+    {
+      "start": 893.766,
+      "end": 897.133,
+      "text": "To this point I have some recommended viewing about eyetrace."
+    },
+    {
+      "start": 897.3,
+      "end": 901.8,
+      "text": "First is: \"Why is it, So Hard, to Remember, What Happens, in Transformers?\""
+    },
+    {
+      "start": 901.866,
+      "end": 903,
+      "text": "by Lindsay Ellis"
+    },
+    {
+      "start": 903.133,
+      "end": 906.666,
+      "text": "and Mad Max: Center Framed by Vashi Nedomansky."
+    },
+    {
+      "start": 907,
+      "end": 910.966,
+      "text": "Also, I highly recommend watching the documentary \"Jackie Chan: My Stunts\""
+    },
+    {
+      "start": 911.166,
+      "end": 914.7,
+      "text": "which it’s hard to find a DVD for, but it’s also on YouTube."
+    },
+    {
+      "start": 914.9,
+      "end": 919.533,
+      "text": "This documentary is great, first because it's AMAZING, and very inspiring,"
+    },
+    {
+      "start": 919.6,
+      "end": 921.766,
+      "text": "but mostly because at the end of it..."
+    },
+    {
+      "start": 921.966,
+      "end": 925.866,
+      "text": "at the end of it, he choreographs a fight scene then shows you both the good and bad takes,"
+    },
+    {
+      "start": 925.933,
+      "end": 929.2,
+      "text": "and why a shot was rejected or put into the final edit."
+    },
+    {
+      "start": 929.466,
+      "end": 934.333,
+      "text": "So for example in this shot they did multiple takes until the glass bottle broke in the center of the frame."
+    },
+    {
+      "start": 935.333,
+      "end": 937.333,
+      "text": "Moving onto readability."
+    },
+    {
+      "start": 937.433,
+      "end": 941.466,
+      "text": "which is related to composition, but it has more to do with simplifying your shot"
+    },
+    {
+      "start": 941.533,
+      "end": 943.766,
+      "text": "so that it's easy to digest very quickly."
+    },
+    {
+      "start": 943.933,
+      "end": 947.1,
+      "text": "You can see that each of these photos there are two cats..."
+    },
+    {
+      "start": 947.266,
+      "end": 951.5,
+      "text": "but the one on the left takes you ever so slightly longer to be sure of it..."
+    },
+    {
+      "start": 951.6,
+      "end": 955.566,
+      "text": "because one of my shirts is on the floor and I have a black shoulder bag."
+    },
+    {
+      "start": 955.8,
+      "end": 959.166,
+      "text": "Whereas in the photo on the right, there's nothing else dark in the frame..."
+    },
+    {
+      "start": 959.233,
+      "end": 960.7,
+      "text": "so it’s much easier to read."
+    },
+    {
+      "start": 960.8,
+      "end": 963.533,
+      "text": "Sometimes games can be very chaotic."
+    },
+    {
+      "start": 963.6,
+      "end": 967.633,
+      "text": "There're numbers and visual effects and explosions everywhere."
+    },
+    {
+      "start": 967.7,
+      "end": 971,
+      "text": "It’s easy to understand when you’re playing and being selective about your focus,"
+    },
+    {
+      "start": 971.2,
+      "end": 974.666,
+      "text": "but when the game is being shown to you as a series of rapid images,"
+    },
+    {
+      "start": 974.766,
+      "end": 976.633,
+      "text": "the simpler the frame, the better."
+    },
+    {
+      "start": 976.933,
+      "end": 979.4,
+      "text": "You might WANT to show as much as possible,"
+    },
+    {
+      "start": 979.533,
+      "end": 982.8,
+      "text": "but the goal is to make sure the audience REMEMBERS what they see,"
+    },
+    {
+      "start": 982.866,
+      "end": 985,
+      "text": "otherwise it's all useless."
+    },
+    {
+      "start": 985.066,
+      "end": 987.133,
+      "text": "For example, in most of my Dead Cells capture..."
+    },
+    {
+      "start": 987.2,
+      "end": 991.4,
+      "text": "I made sure to kill all the extraneous enemies that would’ve been competing for attention."
+    },
+    {
+      "start": 991.766,
+      "end": 992.933,
+      "text": "The thing I say is:"
+    },
+    {
+      "start": 993,
+      "end": 996.9,
+      "text": "A shot that tries to say too much, communicates nothing."
+    },
+    {
+      "start": 996.966,
+      "end": 999.866,
+      "text": "If I flashed this photo of cats onto the screen,"
+    },
+    {
+      "start": 1000,
+      "end": 1003.833,
+      "text": "the only information you could retain is probably “That’s a whole lot of cats.”"
+    },
+    {
+      "start": 1004.033,
+      "end": 1008.166,
+      "text": "But if what I wanted you to know is how many gray tabbies there are,"
+    },
+    {
+      "start": 1008.3,
+      "end": 1010.333,
+      "text": "there’s no way you’d be able to figure that out."
+    },
+    {
+      "start": 1010.5,
+      "end": 1014.366,
+      "text": "It's much better if you show the audience one thing and they remember it,"
+    },
+    {
+      "start": 1014.666,
+      "end": 1018.133,
+      "text": "than showing them multiple things, and they forget them all."
+    },
+    {
+      "start": 1018.433,
+      "end": 1020.6,
+      "text": "Sometimes it can be as simple as..."
+    },
+    {
+      "start": 1020.866,
+      "end": 1023.966,
+      "text": "Zooming in on the frame, especially with 2D platformers."
+    },
+    {
+      "start": 1024.166,
+      "end": 1026.933,
+      "text": "These are both the same shot, but the right one is zoomed in."
+    },
+    {
+      "start": 1027.133,
+      "end": 1030.4,
+      "text": "You can see that there’s so much more information on the left screen than the right..."
+    },
+    {
+      "start": 1030.666,
+      "end": 1034.433,
+      "text": "it takes longer to read, and by the time the audience finds the subject,"
+    },
+    {
+      "start": 1034.5,
+      "end": 1035.833,
+      "text": "the shot might be over."
+    },
+    {
+      "start": 1035.9,
+      "end": 1038.766,
+      "text": "There’s a simple thing you can do to test how readable a shot is, and that is to..."
+    },
+    {
+      "start": 1039.066,
+      "end": 1040.133,
+      "text": "Squint at your shots."
+    },
+    {
+      "start": 1040.333,
+      "end": 1042.833,
+      "text": "This blurs your vision and instantly shows you..."
+    },
+    {
+      "start": 1042.9,
+      "end": 1045.833,
+      "text": "what stands out when you can’t pay attention to the details."
+    },
+    {
+      "start": 1045.9,
+      "end": 1047.3,
+      "text": "Take a look at these shots again."
+    },
+    {
+      "start": 1047.633,
+      "end": 1050.366,
+      "text": "these shots again. If I blur them out like you were squinting,"
+    },
+    {
+      "start": 1050.433,
+      "end": 1054.2,
+      "text": "you can tell right away that there are a lot of things competing for your attention on the left."
+    },
+    {
+      "start": 1054.466,
+      "end": 1058.8,
+      "text": "If the thing that your eye gravitates to in the shot when it's blurry isn't what you want it to be,"
+    },
+    {
+      "start": 1058.866,
+      "end": 1060.466,
+      "text": "consider how you can change it."
+    },
+    {
+      "start": 1060.533,
+      "end": 1064.233,
+      "text": "Zooming in is just one possible solution to reduce the clutter in your shot."
+    },
+    {
+      "start": 1064.366,
+      "end": 1067.866,
+      "text": "It could be as simple as removing items or enemies from the screen."
+    },
+    {
+      "start": 1068.1,
+      "end": 1070.933,
+      "text": "For example if I removed all the other yetis and gold,"
+    },
+    {
+      "start": 1071,
+      "end": 1073.6,
+      "text": "the shot on the left would be much easier to understand."
+    },
+    {
+      "start": 1073.666,
+      "end": 1076.166,
+      "text": "Another tip for checking readability..."
+    },
+    {
+      "start": 1076.233,
+      "end": 1078.1,
+      "text": "is to watch clips at fast speed."
+    },
+    {
+      "start": 1078.166,
+      "end": 1080.666,
+      "text": "I often do this when I have a whole bunch of clips in Premiere..."
+    },
+    {
+      "start": 1080.733,
+      "end": 1082.466,
+      "text": "and I'm looking for a shot to use."
+    },
+    {
+      "start": 1082.733,
+      "end": 1086.3,
+      "text": "If you can basically understand what's going on at fast speed..."
+    },
+    {
+      "start": 1086.533,
+      "end": 1089.066,
+      "text": "then you should have no problem when it's playing at normal speed."
+    },
+    {
+      "start": 1089.266,
+      "end": 1091.9,
+      "text": "A good Twitter account to follow is @microtrailers..."
+    },
+    {
+      "start": 1092,
+      "end": 1095.633,
+      "text": "Which takes 6 random seconds for the trailer of every new Steam release."
+    },
+    {
+      "start": 1095.8,
+      "end": 1099.533,
+      "text": "It's a good way to see what games look good in very short video clips."
+    },
+    {
+      "start": 1100.466,
+      "end": 1102.666,
+      "text": "Moving onto: Performance!"
+    },
+    {
+      "start": 1102.8,
+      "end": 1105.633,
+      "text": "Like I said before, when you’re doing capture you’re essentially..."
+    },
+    {
+      "start": 1105.7,
+      "end": 1108.733,
+      "text": "puppet-ing the game character and creating a performance."
+    },
+    {
+      "start": 1108.8,
+      "end": 1110.333,
+      "text": "What you need to think about is:"
+    },
+    {
+      "start": 1110.466,
+      "end": 1113.266,
+      "text": "are you performing as the CHARACTER in the game,"
+    },
+    {
+      "start": 1113.733,
+      "end": 1117.2,
+      "text": "or are you capturing the PLAYER interacting with the game?"
+    },
+    {
+      "start": 1117.6,
+      "end": 1119.3,
+      "text": "Because there’s a big difference!"
+    },
+    {
+      "start": 1119.5,
+      "end": 1122.333,
+      "text": "Here's some capture for Uncharted: The Lost Legacy that I got from..."
+    },
+    {
+      "start": 1122.4,
+      "end": 1126.266,
+      "text": "from @Sunhilegend on Twitter who posts amazing animated GIFs."
+    },
+    {
+      "start": 1126.333,
+      "end": 1131,
+      "text": "This is captured like Chloe Frazer is just the most amazing adventurer in the world."
+    },
+    {
+      "start": 1131.4,
+      "end": 1133.966,
+      "text": "Whereas in this version..."
+    },
+    {
+      "start": 1134.266,
+      "end": 1138.666,
+      "text": "it looks like it’s by a person messing around on a couch in front of their TV."
+    },
+    {
+      "start": 1138.833,
+      "end": 1140.8,
+      "text": "Each of these approaches are valid,"
+    },
+    {
+      "start": 1140.866,
+      "end": 1144.066,
+      "text": "it just depends on the context the capture is being used in."
+    },
+    {
+      "start": 1144.133,
+      "end": 1145.933,
+      "text": "Every game has different capture needs."
+    },
+    {
+      "start": 1146.2,
+      "end": 1148.633,
+      "text": "For games focused on the characters and story..."
+    },
+    {
+      "start": 1148.8,
+      "end": 1153.133,
+      "text": "it usually makes most sense to perform according to what's happening in the scene,"
+    },
+    {
+      "start": 1153.2,
+      "end": 1155.3,
+      "text": "and play like you are the character in the game."
+    },
+    {
+      "start": 1155.533,
+      "end": 1157.633,
+      "text": "Whereas multiplayer and competitive games..."
+    },
+    {
+      "start": 1157.7,
+      "end": 1159.6,
+      "text": "are all about the people at the controls,"
+    },
+    {
+      "start": 1159.666,
+      "end": 1162.066,
+      "text": "so that capture is about showing the audience..."
+    },
+    {
+      "start": 1162.133,
+      "end": 1165.133,
+      "text": "what they’ll literally be doing in the game."
+    },
+    {
+      "start": 1165.2,
+      "end": 1167.133,
+      "text": "And then some games tread the line because..."
+    },
+    {
+      "start": 1167.2,
+      "end": 1169.166,
+      "text": "because they can both be about..."
+    },
+    {
+      "start": 1169.233,
+      "end": 1170.666,
+      "text": "the characters in the game"
+    },
+    {
+      "start": 1170.733,
+      "end": 1173.533,
+      "text": "or the player expressing themselves through the game."
+    },
+    {
+      "start": 1173.6,
+      "end": 1175.466,
+      "text": "So you have to capture accordingly."
+    },
+    {
+      "start": 1175.766,
+      "end": 1179.2,
+      "text": "How the heck can you give a performance with a keyboard or controller?"
+    },
+    {
+      "start": 1179.566,
+      "end": 1182.033,
+      "text": "The thing you need to remember is that:"
+    },
+    {
+      "start": 1182.333,
+      "end": 1183.966,
+      "text": "Movement is character."
+    },
+    {
+      "start": 1184.266,
+      "end": 1187.9,
+      "text": "You might not have much or any control over character animation,"
+    },
+    {
+      "start": 1187.966,
+      "end": 1192.566,
+      "text": "but how you MOVE a character or the camera conveys so much personality..."
+    },
+    {
+      "start": 1192.666,
+      "end": 1194.833,
+      "text": "whether for a 2D platformer,"
+    },
+    {
+      "start": 1194.9,
+      "end": 1197.8,
+      "text": "a 3rd person game, a first person game, or others."
+    },
+    {
+      "start": 1197.866,
+      "end": 1201.3,
+      "text": "Even just how a mouse cursor moves can show character and personality."
+    },
+    {
+      "start": 1201.7,
+      "end": 1203.733,
+      "text": "Think about when you’re looking at a car driving."
+    },
+    {
+      "start": 1204,
+      "end": 1208.3,
+      "text": "You make assumptions about them that are usually not based on looking at the driver,"
+    },
+    {
+      "start": 1208.433,
+      "end": 1210.233,
+      "text": "but from how the car moves."
+    },
+    {
+      "start": 1210.533,
+      "end": 1211.866,
+      "text": "What do you think of this driver?"
+    },
+    {
+      "start": 1212.1,
+      "end": 1214.833,
+      "text": "and what do you think about this driver?"
+    },
+    {
+      "start": 1215.2,
+      "end": 1217.833,
+      "text": "The assumptions you make are all based on movement."
+    },
+    {
+      "start": 1218.133,
+      "end": 1220.666,
+      "text": "In first person games, how you move the camera,"
+    },
+    {
+      "start": 1220.733,
+      "end": 1223.733,
+      "text": "and what you look at, communicates the thoughts of the character."
+    },
+    {
+      "start": 1223.8,
+      "end": 1225.666,
+      "text": "This is from one of my Firewatch trailers..."
+    },
+    {
+      "start": 1225.733,
+      "end": 1228.4,
+      "text": "where I wanted to put you in Henry’s head as he decides..."
+    },
+    {
+      "start": 1228.5,
+      "end": 1230.833,
+      "text": "whether or not to throw the fireworks into the fire pit."
+    },
+    {
+      "start": 1231.166,
+      "end": 1233.066,
+      "text": "Here’s another example I made where..."
+    },
+    {
+      "start": 1233.233,
+      "end": 1235.366,
+      "text": "Henry walks to the lake,"
+    },
+    {
+      "start": 1236.266,
+      "end": 1238.766,
+      "text": "calmly picks up the boombox,"
+    },
+    {
+      "start": 1241.633,
+      "end": 1243.3,
+      "text": "looks at the teenagers,"
+    },
+    {
+      "start": 1243.533,
+      "end": 1244.9,
+      "text": "walks to the water,"
+    },
+    {
+      "start": 1246.933,
+      "end": 1248.2,
+      "text": "thinks for a moment,"
+    },
+    {
+      "start": 1248.733,
+      "end": 1250.366,
+      "text": "then throws the boombox in the water,"
+    },
+    {
+      "start": 1250.833,
+      "end": 1254.6,
+      "text": "then kind of backs away without breaking eye contact."
+    },
+    {
+      "start": 1255.266,
+      "end": 1258.3,
+      "text": "Based on this, what kind of person do you think this Henry is?"
+    },
+    {
+      "start": 1258.666,
+      "end": 1261.733,
+      "text": "Whereas this Henry is a total spaz who just..."
+    },
+    {
+      "start": 1261.966,
+      "end": 1262.933,
+      "text": "runs in,"
+    },
+    {
+      "start": 1263,
+      "end": 1264.733,
+      "text": "then grabs the boombox,"
+    },
+    {
+      "start": 1264.8,
+      "end": 1266.433,
+      "text": "and then throws it in the lake,"
+    },
+    {
+      "start": 1266.5,
+      "end": 1268.366,
+      "text": "and runs away before it even hits the water!"
+    },
+    {
+      "start": 1268.433,
+      "end": 1270.833,
+      "text": "See how different the capture is all just from changing..."
+    },
+    {
+      "start": 1270.9,
+      "end": 1273.366,
+      "text": "the speed of the player movement and their actions."
+    },
+    {
+      "start": 1273.433,
+      "end": 1275.3,
+      "text": "Here's another example from Spelunky."
+    },
+    {
+      "start": 1275.533,
+      "end": 1277.7,
+      "text": "Here I’m playing quickly and recklessly,"
+    },
+    {
+      "start": 1277.8,
+      "end": 1281.4,
+      "text": "and I get into some very typical Spelunky moments."
+    },
+    {
+      "start": 1282.4,
+      "end": 1285.3,
+      "text": "Whereas in this version I played very slowly,"
+    },
+    {
+      "start": 1285.366,
+      "end": 1287.866,
+      "text": "as if I didn’t have much experience playing it."
+    },
+    {
+      "start": 1287.933,
+      "end": 1290.6,
+      "text": "The game looks very different depending on how you play it,"
+    },
+    {
+      "start": 1290.7,
+      "end": 1294.433,
+      "text": "and thus, these two approaches communicate very differently to the audience."
+    },
+    {
+      "start": 1294.833,
+      "end": 1296.6,
+      "text": "Here's another example from Firewatch."
+    },
+    {
+      "start": 1296.766,
+      "end": 1299.833,
+      "text": "In the game you can easily select dialogue options while walking.."
+    },
+    {
+      "start": 1299.966,
+      "end": 1303.7,
+      "text": "but in this clip I changed up my movement to give the performance more character."
+    },
+    {
+      "start": 1350.333,
+      "end": 1354.066,
+      "text": "Now take a look at what it would look like if I didn't add in those little pauses."
+    },
+    {
+      "start": 1395.5,
+      "end": 1400.266,
+      "text": "This isn't to say you need to think of character and emotion for every single thing you capture"
+    },
+    {
+      "start": 1400.333,
+      "end": 1403.166,
+      "text": "sometimes you just want to show competently done gameplay."
+    },
+    {
+      "start": 1403.3,
+      "end": 1407.7,
+      "text": "So capture one idea at a time, and then build upon it."
+    },
+    {
+      "start": 1407.866,
+      "end": 1412,
+      "text": "Just one action, intent or emotion, and find the best way to show it."
+    },
+    {
+      "start": 1412.4,
+      "end": 1414,
+      "text": "Some more recommended viewing I have..."
+    },
+    {
+      "start": 1414.066,
+      "end": 1418.95,
+      "text": "is an episode of Every Frame a Painting by Tony Zhou called \"The Spielberg Oner\""
+    },
+    {
+      "start": 1419,
+      "end": 1423.733,
+      "text": "which is about how Steven Spielberg does long shots that are essentially multiple shots in one."
+    },
+    {
+      "start": 1423.9,
+      "end": 1425.766,
+      "text": "Game capture can be like this sometimes."
+    },
+    {
+      "start": 1426,
+      "end": 1430.133,
+      "text": "New tip: Analog controllers are great for slow and smooth camera moves."
+    },
+    {
+      "start": 1430.366,
+      "end": 1433.066,
+      "text": "I have an Xbox Elite controller for the games..."
+    },
+    {
+      "start": 1433.133,
+      "end": 1436.133,
+      "text": "where I want to be constantly adjusting the camera with my thumbs,"
+    },
+    {
+      "start": 1436.2,
+      "end": 1438.166,
+      "text": "but still need to press the face buttons."
+    },
+    {
+      "start": 1438.266,
+      "end": 1442,
+      "text": "This sometimes is useful for shots like this one for The Wild Eternal trailer..."
+    },
+    {
+      "start": 1442.066,
+      "end": 1445.866,
+      "text": "where I was moving alongside this marker, and wanted to activate it while moving."
+    },
+    {
+      "start": 1446,
+      "end": 1450.4,
+      "text": "The downside of a controller of course is that it's difficult to do fast camera movements."
+    },
+    {
+      "start": 1450.6,
+      "end": 1453.2,
+      "text": "Which is what a keyboard & mouse is good for."
+    },
+    {
+      "start": 1453.333,
+      "end": 1455.95,
+      "text": "because sometimes you want quick and fast movements."
+    },
+    {
+      "start": 1455.991,
+      "end": 1459.866,
+      "text": "I used keyboard and mouse in the opening shot of Firewatch’s trailer..."
+    },
+    {
+      "start": 1459.933,
+      "end": 1464.066,
+      "text": "because I really wanted to be able to spin around very quickly for when Henry says:"
+    },
+    {
+      "start": 1464.266,
+      "end": 1464.833,
+      "text": "Delilah: HENRY!"
+    },
+    {
+      "start": 1464.9,
+      "end": 1466.4,
+      "text": "Henry: Seriously, it's completely fine in here."
+    },
+    {
+      "start": 1466.466,
+      "end": 1467.366,
+      "text": "Delilah: Dammit."
+    },
+    {
+      "start": 1467.433,
+      "end": 1468.933,
+      "text": "And hopefully that made it funnier."
+    },
+    {
+      "start": 1469.133,
+      "end": 1472.833,
+      "text": "The downside of keyboard and mouse is you can't vary your walking speed"
+    },
+    {
+      "start": 1472.9,
+      "end": 1475.364,
+      "text": "unless you have speed settings for movement."
+    },
+    {
+      "start": 1475.533,
+      "end": 1477.466,
+      "text": "Next performance tip is:"
+    },
+    {
+      "start": 1477.7,
+      "end": 1482.966,
+      "text": "Use a metronome or metronome app when timing/choreographing multiple actions."
+    },
+    {
+      "start": 1483.1,
+      "end": 1486.666,
+      "text": "This is especially good when you want to synchronize movements to the beat of your music."
+    },
+    {
+      "start": 1487.033,
+      "end": 1489.4,
+      "text": "This is something I did for my Cosmic Trip trailers."
+    },
+    {
+      "start": 1489.533,
+      "end": 1492.5,
+      "text": "By using a metronome set to the tempo of the trailer's music..."
+    },
+    {
+      "start": 1492.566,
+      "end": 1496.466,
+      "text": "I could add some visual interest by having the capture and music in sync."
+    },
+    {
+      "start": 1514.8,
+      "end": 1518.866,
+      "text": "Another solution I've used is to loop the trailer music on my computer while capturing."
+    },
+    {
+      "start": 1519.166,
+      "end": 1520.1,
+      "text": "Moving onto:"
+    },
+    {
+      "start": 1520.433,
+      "end": 1523.666,
+      "text": "debug tools that specifically benefit game capture."
+    },
+    {
+      "start": 1524,
+      "end": 1526.166,
+      "text": "A lot of these are about saving time, but..."
+    },
+    {
+      "start": 1526.266,
+      "end": 1529.9,
+      "text": "they’re also about the ability to capture a wide variety of shots."
+    },
+    {
+      "start": 1530.066,
+      "end": 1532.533,
+      "text": "Now, I'm not saying you must implement all of these,"
+    },
+    {
+      "start": 1532.6,
+      "end": 1535.7,
+      "text": "because obviously time and resources are a finite thing"
+    },
+    {
+      "start": 1535.833,
+      "end": 1538.833,
+      "text": "but I just want to show you what's worked best for me, and why."
+    },
+    {
+      "start": 1539.2,
+      "end": 1540.733,
+      "text": "Think about this stuff EARLY,"
+    },
+    {
+      "start": 1541.033,
+      "end": 1543.8,
+      "text": "especially if you're planning on lots of developer updates..."
+    },
+    {
+      "start": 1543.9,
+      "end": 1547.366,
+      "text": "or having someone else do your capture or trailer work."
+    },
+    {
+      "start": 1547.433,
+      "end": 1550.633,
+      "text": "Just to give you an idea of what a difference a nice debug camera makes,"
+    },
+    {
+      "start": 1550.7,
+      "end": 1555.033,
+      "text": "here's the trailer I made for Ooblets, and a version I made without using the debug camera."
+    },
+    {
+      "start": 1611.1,
+      "end": 1613.2,
+      "text": "I'm going to start with what I consider..."
+    },
+    {
+      "start": 1613.266,
+      "end": 1615.933,
+      "text": "the essential time saving debug tools."
+    },
+    {
+      "start": 1616,
+      "end": 1619.433,
+      "text": "Some of these might already have been implemented for making the game,"
+    },
+    {
+      "start": 1619.5,
+      "end": 1620.9,
+      "text": "but just in case."
+    },
+    {
+      "start": 1621.066,
+      "end": 1624.433,
+      "text": "Number one thing you need is the ability to turn off the HUD,"
+    },
+    {
+      "start": 1624.666,
+      "end": 1627.4,
+      "text": "on screen text or any overlays."
+    },
+    {
+      "start": 1627.533,
+      "end": 1630.966,
+      "text": "I’m still surprised at how many trailers out there have the HUD on."
+    },
+    {
+      "start": 1631.1,
+      "end": 1634.533,
+      "text": "It’s very distracting, especially anything with text."
+    },
+    {
+      "start": 1634.666,
+      "end": 1637.133,
+      "text": "I mean have you ever tried not reading subtitles?"
+    },
+    {
+      "start": 1637.366,
+      "end": 1639.5,
+      "text": "This is especially important for button prompts,"
+    },
+    {
+      "start": 1639.566,
+      "end": 1642,
+      "text": "because if you have a cross platform game,"
+    },
+    {
+      "start": 1642.066,
+      "end": 1644.533,
+      "text": "you don't want to have to capture multiple times"
+    },
+    {
+      "start": 1644.6,
+      "end": 1647.366,
+      "text": "or digitally add in button prompts, because..."
+    },
+    {
+      "start": 1647.6,
+      "end": 1650.433,
+      "text": "yes, I’ve worked at agencies that had to do that."
+    },
+    {
+      "start": 1650.6,
+      "end": 1653.166,
+      "text": "The way I think of the HUD in game capture is..."
+    },
+    {
+      "start": 1653.466,
+      "end": 1656.766,
+      "text": "It’s like when you're in a car and suddenly there’s something on your windshield."
+    },
+    {
+      "start": 1656.833,
+      "end": 1658.266,
+      "text": "It’s so distracting,"
+    },
+    {
+      "start": 1658.466,
+      "end": 1661.633,
+      "text": "it feels so invasive because you can't not look at it."
+    },
+    {
+      "start": 1661.933,
+      "end": 1663.7,
+      "text": "This is what you’re doing to the audience,"
+    },
+    {
+      "start": 1663.766,
+      "end": 1665.366,
+      "text": "so the option to..."
+    },
+    {
+      "start": 1665.6,
+      "end": 1667.598,
+      "text": "turn it off is essential."
+    },
+    {
+      "start": 1668.066,
+      "end": 1668.833,
+      "text": "Music toggle."
+    },
+    {
+      "start": 1668.9,
+      "end": 1670.307,
+      "text": "This seems like an obvious thing,"
+    },
+    {
+      "start": 1670.365,
+      "end": 1671.949,
+      "text": "but I’ve worked on several games..."
+    },
+    {
+      "start": 1672,
+      "end": 1674.772,
+      "text": "which didn’t even have an option to turn off the music."
+    },
+    {
+      "start": 1674.933,
+      "end": 1677.033,
+      "text": "This saves time when making trailers because..."
+    },
+    {
+      "start": 1677.1,
+      "end": 1680.933,
+      "text": "if music is mixed in, you can’t use any of the sound effects from that capture..."
+    },
+    {
+      "start": 1681,
+      "end": 1683.633,
+      "text": "which means manually adding sound effects later..."
+    },
+    {
+      "start": 1683.733,
+      "end": 1685.833,
+      "text": "which is very tedious and time consuming."
+    },
+    {
+      "start": 1686.066,
+      "end": 1688,
+      "text": "Also, if the game has nice audio panning,"
+    },
+    {
+      "start": 1688.066,
+      "end": 1690.266,
+      "text": "this is an easy way to have it tied to the footage,"
+    },
+    {
+      "start": 1690.333,
+      "end": 1692.9,
+      "text": "whereas doing it in post requires extra work."
+    },
+    {
+      "start": 1693.233,
+      "end": 1694.033,
+      "text": "Level skip"
+    },
+    {
+      "start": 1694.166,
+      "end": 1697.233,
+      "text": "This just saves a ton of time going from place to place."
+    },
+    {
+      "start": 1697.5,
+      "end": 1699.633,
+      "text": "Related is an option to…"
+    },
+    {
+      "start": 1699.7,
+      "end": 1700.5,
+      "text": "Teleport"
+    },
+    {
+      "start": 1700.566,
+      "end": 1702.933,
+      "text": "This is especially helpful for very big games..."
+    },
+    {
+      "start": 1703,
+      "end": 1705.1,
+      "text": "where even flying around takes a while."
+    },
+    {
+      "start": 1705.166,
+      "end": 1707.766,
+      "text": "Subnautica for example has a coordinates system..."
+    },
+    {
+      "start": 1707.833,
+      "end": 1710.1,
+      "text": "that you can use to display your current position,"
+    },
+    {
+      "start": 1710.166,
+      "end": 1713.166,
+      "text": "and then you can use a warp command to just go straight there."
+    },
+    {
+      "start": 1713.333,
+      "end": 1714.5,
+      "text": "Level number display."
+    },
+    {
+      "start": 1714.8,
+      "end": 1717.8,
+      "text": "At the time of this recording I'm working on The Adventure Pals..."
+    },
+    {
+      "start": 1717.866,
+      "end": 1720.2,
+      "text": "and in their menu they have a “dev mode”"
+    },
+    {
+      "start": 1720.533,
+      "end": 1723.766,
+      "text": "and one thing it turns on is the level number on the top right hand corner."
+    },
+    {
+      "start": 1723.866,
+      "end": 1725.466,
+      "text": "This is super useful because..."
+    },
+    {
+      "start": 1725.533,
+      "end": 1728.533,
+      "text": "I did a first pass of capture just to see what was in the game,"
+    },
+    {
+      "start": 1728.633,
+      "end": 1731.433,
+      "text": "and because of this label combined with a level skip ability,"
+    },
+    {
+      "start": 1731.5,
+      "end": 1733.966,
+      "text": "it’s super easy to go back to redo a shot."
+    },
+    {
+      "start": 1734.3,
+      "end": 1735.533,
+      "text": "Inventory management."
+    },
+    {
+      "start": 1735.666,
+      "end": 1738.666,
+      "text": "This was really important for games like Ooblets and Dead Cells..."
+    },
+    {
+      "start": 1738.733,
+      "end": 1740.4,
+      "text": "which have a lot of objects in them."
+    },
+    {
+      "start": 1740.566,
+      "end": 1742.8,
+      "text": "It meant I could do a lot of customizing,"
+    },
+    {
+      "start": 1742.866,
+      "end": 1745.4,
+      "text": "and also tailor make scenarios to capture for the trailer."
+    },
+    {
+      "start": 1745.466,
+      "end": 1747.533,
+      "text": "Dead Cells in particular has a really good system..."
+    },
+    {
+      "start": 1747.6,
+      "end": 1751.066,
+      "text": "which let me spawn any item in the game in any iteration,"
+    },
+    {
+      "start": 1751.133,
+      "end": 1752.7,
+      "text": "and change its modifiers."
+    },
+    {
+      "start": 1752.966,
+      "end": 1757.1,
+      "text": "Another nice tool for Dead Cells was the ability to spawn any enemy from the game."
+    },
+    {
+      "start": 1757.2,
+      "end": 1761.733,
+      "text": "Sometimes I wanted to do this because I found a very aesthetically pleasing part of a level..."
+    },
+    {
+      "start": 1761.8,
+      "end": 1764.366,
+      "text": "and then needed to do multiple takes to get the shot right..."
+    },
+    {
+      "start": 1764.433,
+      "end": 1766.433,
+      "text": "without reloading the game every time."
+    },
+    {
+      "start": 1766.6,
+      "end": 1768.9,
+      "text": "And if the layout is procedurally generated,"
+    },
+    {
+      "start": 1768.966,
+      "end": 1771.933,
+      "text": "it’ll be even harder to redo the shot without this sort of feature."
+    },
+    {
+      "start": 1772.333,
+      "end": 1773.433,
+      "text": "Invincibility."
+    },
+    {
+      "start": 1773.6,
+      "end": 1778.466,
+      "text": "This is just to avoid having to restart the game all the time if it has a health system."
+    },
+    {
+      "start": 1778.666,
+      "end": 1782.966,
+      "text": "Another mode I had for Octogeddon was the ability to make everything go super fast,"
+    },
+    {
+      "start": 1783.033,
+      "end": 1786.133,
+      "text": "this let me skip to different parts of a level very quickly."
+    },
+    {
+      "start": 1786.4,
+      "end": 1787.133,
+      "text": "Tourist Mode."
+    },
+    {
+      "start": 1787.466,
+      "end": 1789.266,
+      "text": "This is a mode I had for Dead Cells."
+    },
+    {
+      "start": 1789.333,
+      "end": 1791.366,
+      "text": "In a similar fashion to the fast mode,"
+    },
+    {
+      "start": 1791.433,
+      "end": 1795.4,
+      "text": "this let me just walk past all the enemies which was great for saving time..."
+    },
+    {
+      "start": 1795.666,
+      "end": 1798.6,
+      "text": "and scouting out a level to see which parts I want to capture."
+    },
+    {
+      "start": 1798.933,
+      "end": 1800.066,
+      "text": "Cursor visibility."
+    },
+    {
+      "start": 1800.166,
+      "end": 1803,
+      "text": "This is especially important for point and click adventure games."
+    },
+    {
+      "start": 1803.133,
+      "end": 1806.533,
+      "text": "There’s really no reason in these trailers to ever see the cursor,"
+    },
+    {
+      "start": 1806.6,
+      "end": 1811.166,
+      "text": "but of course in your capture you still need to be able to activate objects and move around."
+    },
+    {
+      "start": 1811.3,
+      "end": 1816.033,
+      "text": "In Wadjet Eye’s Unavowed there wasn’t an option to hide the cursor when I was working on it,"
+    },
+    {
+      "start": 1816.1,
+      "end": 1819.133,
+      "text": "and I wanted this shot where you’re choosing your party members."
+    },
+    {
+      "start": 1819.2,
+      "end": 1823.8,
+      "text": "So I had to erase the cursor in After Effects by using a patchwork of clips."
+    },
+    {
+      "start": 1823.866,
+      "end": 1827.566,
+      "text": "If I just had the ability to turn off the cursor it would’ve saved me hours of time."
+    },
+    {
+      "start": 1827.8,
+      "end": 1830.4,
+      "text": "I put this GIF in my blog post about the trailer, and..."
+    },
+    {
+      "start": 1830.466,
+      "end": 1834.7,
+      "text": "Dave Gilbert, the creator felt bad when he found out I had to do all this."
+    },
+    {
+      "start": 1834.933,
+      "end": 1836.4,
+      "text": "Object highlights toggle."
+    },
+    {
+      "start": 1836.633,
+      "end": 1839.833,
+      "text": "These are distracting because by their nature they draw attention,"
+    },
+    {
+      "start": 1839.9,
+      "end": 1844.8,
+      "text": "and unless you're capturing for showcasing UI, there's usually no reason to have it on."
+    },
+    {
+      "start": 1845.166,
+      "end": 1848.2,
+      "text": "Time of Day If your game has a day/night cycle,"
+    },
+    {
+      "start": 1848.266,
+      "end": 1851.866,
+      "text": "this option makes it very easy to get a variety of shots very quickly."
+    },
+    {
+      "start": 1851.933,
+      "end": 1855.866,
+      "text": "With Subnautica’s time of day system I could speed up the rate that the day went by,"
+    },
+    {
+      "start": 1855.933,
+      "end": 1858.8,
+      "text": "and then slow it down once I found the pattern of light that I liked."
+    },
+    {
+      "start": 1859.033,
+      "end": 1861.066,
+      "text": "Onto some genre specifics."
+    },
+    {
+      "start": 1861.266,
+      "end": 1863.866,
+      "text": "First person games have their own unique needs."
+    },
+    {
+      "start": 1864.166,
+      "end": 1867.6,
+      "text": "First thing you need specific to first person games is:"
+    },
+    {
+      "start": 1867.866,
+      "end": 1869,
+      "text": "a toggle for headbob."
+    },
+    {
+      "start": 1869.166,
+      "end": 1872.666,
+      "text": "This is a very exaggerated example from Quadrilateral Cowboy."
+    },
+    {
+      "start": 1872.833,
+      "end": 1876.866,
+      "text": "Sometimes you want to use head bob to show the POV of the protagonist,"
+    },
+    {
+      "start": 1876.933,
+      "end": 1880.5,
+      "text": "but other times you just want a smooth camera move showing the environment."
+    },
+    {
+      "start": 1880.7,
+      "end": 1882.366,
+      "text": "So, put a toggle for headbob."
+    },
+    {
+      "start": 1882.6,
+      "end": 1885.5,
+      "text": "The other essential thing is a freecam which can fly around freely ..."
+    },
+    {
+      "start": 1885.566,
+      "end": 1888.613,
+      "text": "to get shots of the environment, and closeups on objects."
+    },
+    {
+      "start": 1888.666,
+      "end": 1891.766,
+      "text": "Or just to get to one area of the game really quickly."
+    },
+    {
+      "start": 1891.933,
+      "end": 1895.8,
+      "text": "This is especially important for trailers because it adds to the variety of possible shots..."
+    },
+    {
+      "start": 1895.866,
+      "end": 1898.2,
+      "text": "which opens up the ways you can tell the story."
+    },
+    {
+      "start": 1898.433,
+      "end": 1902.033,
+      "text": "Standard first person game controls are typically how freecams are mapped"
+    },
+    {
+      "start": 1902.1,
+      "end": 1905.066,
+      "text": "I usually request the ability to move up and down with the triggers..."
+    },
+    {
+      "start": 1905.133,
+      "end": 1908.733,
+      "text": "since they're the only analog controls available in addition to the thumbsticks."
+    },
+    {
+      "start": 1909,
+      "end": 1911.366,
+      "text": "The most important thing about a freecam is that..."
+    },
+    {
+      "start": 1911.533,
+      "end": 1913.733,
+      "text": "You optimize it for smooth movement."
+    },
+    {
+      "start": 1913.833,
+      "end": 1916.9,
+      "text": "You basically want the camera controls to be the exact opposite..."
+    },
+    {
+      "start": 1917,
+      "end": 1920.1,
+      "text": "of high fidelity 1:1 super precise controls."
+    },
+    {
+      "start": 1920.366,
+      "end": 1922.766,
+      "text": "This means adjustable camera speed."
+    },
+    {
+      "start": 1922.966,
+      "end": 1925.2,
+      "text": "Most of the time I want slow camera moves,"
+    },
+    {
+      "start": 1925.266,
+      "end": 1927.566,
+      "text": "but sometimes it helps to move it really fast."
+    },
+    {
+      "start": 1927.633,
+      "end": 1930.566,
+      "text": "For example on Subnautica, I could trigger an event,"
+    },
+    {
+      "start": 1930.633,
+      "end": 1933.866,
+      "text": "press 5 to make the freecam really fast to get it into position,"
+    },
+    {
+      "start": 1933.933,
+      "end": 1937.866,
+      "text": "then press a lower number to make the camera move slow as I captured the shot."
+    },
+    {
+      "start": 1938.033,
+      "end": 1940.4,
+      "text": "In terms of how to adjust these settings..."
+    },
+    {
+      "start": 1940.6,
+      "end": 1945.333,
+      "text": "Sliders and hotkeys are most user friendly way to adjust camera speed and sensitivity."
+    },
+    {
+      "start": 1945.666,
+      "end": 1947.933,
+      "text": "Console commands are difficult, because..."
+    },
+    {
+      "start": 1948,
+      "end": 1951.6,
+      "text": "a setting of say, 1 can be totally different game to game."
+    },
+    {
+      "start": 1951.9,
+      "end": 1953.633,
+      "text": "Next freecam tip is that..."
+    },
+    {
+      "start": 1953.8,
+      "end": 1955.133,
+      "text": "Dead zones are great!"
+    },
+    {
+      "start": 1955.2,
+      "end": 1958.733,
+      "text": "If you don’t know, dead zones are how far the thumbstick has to move..."
+    },
+    {
+      "start": 1958.8,
+      "end": 1960.166,
+      "text": "before the input is read."
+    },
+    {
+      "start": 1960.333,
+      "end": 1962.5,
+      "text": "This is to prevent sudden jerky movements,"
+    },
+    {
+      "start": 1962.566,
+      "end": 1964.9,
+      "text": "and allows for smoother camera transitions."
+    },
+    {
+      "start": 1964.966,
+      "end": 1967.833,
+      "text": "Another thing that helps is camera smoothing."
+    },
+    {
+      "start": 1968,
+      "end": 1970.6,
+      "text": "I worked with Scott Goodrow on The Wild Eternal,"
+    },
+    {
+      "start": 1970.666,
+      "end": 1973.666,
+      "text": "and on that game they had an option for camera smoothing..."
+    },
+    {
+      "start": 1973.733,
+      "end": 1977.433,
+      "text": "where the game averaged out the inputs within a certain time frame,"
+    },
+    {
+      "start": 1977.5,
+      "end": 1980.166,
+      "text": "and made it easier for me to get nice smooth movements."
+    },
+    {
+      "start": 1980.233,
+      "end": 1984.533,
+      "text": "The hardest thing in this shot was transitioning from using both sticks to only one..."
+    },
+    {
+      "start": 1984.6,
+      "end": 1986.1,
+      "text": "for when I track in at the end."
+    },
+    {
+      "start": 1986.166,
+      "end": 1987.533,
+      "text": "Camera smoothing helped a bunch."
+    },
+    {
+      "start": 1987.7,
+      "end": 1991.433,
+      "text": "The other nice thing was that the sensitivity of the movement was on a gradient..."
+    },
+    {
+      "start": 1991.5,
+      "end": 1994.633,
+      "text": "so that in the center position, the stick was less sensitive,"
+    },
+    {
+      "start": 1994.7,
+      "end": 1997,
+      "text": "and further out it was more sensitive."
+    },
+    {
+      "start": 1997.2,
+      "end": 2001.8,
+      "text": "All of this is just so I can start a camera move gradually, and end it gradually."
+    },
+    {
+      "start": 2002,
+      "end": 2004.266,
+      "text": "Moving onto 3rd person games."
+    },
+    {
+      "start": 2004.4,
+      "end": 2008.566,
+      "text": "Camera controls here get more complicated because you have a character on screen."
+    },
+    {
+      "start": 2008.7,
+      "end": 2012.2,
+      "text": "Here's when I tell you to just copy these controls that I had for Ooblets,"
+    },
+    {
+      "start": 2012.266,
+      "end": 2016.3,
+      "text": "because it has the best options I've used for a 3rd person game so far."
+    },
+    {
+      "start": 2016.433,
+      "end": 2019.566,
+      "text": "In Ooblets, the camera is always in a fixed position..."
+    },
+    {
+      "start": 2019.633,
+      "end": 2021.866,
+      "text": "and follows the player character positionally,"
+    },
+    {
+      "start": 2021.933,
+      "end": 2024.233,
+      "text": "so moving the left stick moves the character,"
+    },
+    {
+      "start": 2024.3,
+      "end": 2025.811,
+      "text": "and the camera follows along"
+    },
+    {
+      "start": 2026,
+      "end": 2027.7,
+      "text": "When freecam mode is activated,"
+    },
+    {
+      "start": 2027.766,
+      "end": 2030.3,
+      "text": "the camera STILL follows the character positionally,"
+    },
+    {
+      "start": 2030.366,
+      "end": 2033.8,
+      "text": "but the triggers, bumpers, face buttons and right thumbstick..."
+    },
+    {
+      "start": 2033.866,
+      "end": 2035.633,
+      "text": "can offset the position of the camera."
+    },
+    {
+      "start": 2035.833,
+      "end": 2038.3,
+      "text": "This let me get some great wide shots."
+    },
+    {
+      "start": 2038.933,
+      "end": 2040.5,
+      "text": "Steadicam shots"
+    },
+    {
+      "start": 2041.233,
+      "end": 2042.666,
+      "text": "Side angle shots"
+    },
+    {
+      "start": 2043.4,
+      "end": 2045.566,
+      "text": "and I could even adjust the camera while moving."
+    },
+    {
+      "start": 2045.633,
+      "end": 2048.966,
+      "text": "So for example in this shot I'm moving with the left thumbstick..."
+    },
+    {
+      "start": 2049.033,
+      "end": 2052.1,
+      "text": "and tracking in at the same time by holding the right trigger."
+    },
+    {
+      "start": 2052.266,
+      "end": 2054.633,
+      "text": "I could also rotate around the character while moving,"
+    },
+    {
+      "start": 2054.8,
+      "end": 2056.7,
+      "text": "and since the camera was always attached,"
+    },
+    {
+      "start": 2056.766,
+      "end": 2059.4,
+      "text": "I didn't have to worry about keeping track of the character."
+    },
+    {
+      "start": 2059.666,
+      "end": 2063.6,
+      "text": "Like I showed earlier, I could also change the speed of the camera using hot keys,"
+    },
+    {
+      "start": 2063.666,
+      "end": 2068.233,
+      "text": "and there were some nice pop ups that told me how much higher or lower the speed was set to."
+    },
+    {
+      "start": 2068.433,
+      "end": 2070.733,
+      "text": "The other great camera option was the ability to..."
+    },
+    {
+      "start": 2070.8,
+      "end": 2073.4,
+      "text": "detach the camera from the character by pressing Y."
+    },
+    {
+      "start": 2073.466,
+      "end": 2077,
+      "text": "This meant I could lock the camera in place, and move the character freely..."
+    },
+    {
+      "start": 2077.1,
+      "end": 2078.2,
+      "text": "which for example..."
+    },
+    {
+      "start": 2078.333,
+      "end": 2081.7,
+      "text": "What let me make these montages of the character decorating the house..."
+    },
+    {
+      "start": 2081.766,
+      "end": 2083.4,
+      "text": "or planting crops."
+    },
+    {
+      "start": 2083.533,
+      "end": 2085.566,
+      "text": "Another option good for a 3rd person game..."
+    },
+    {
+      "start": 2085.633,
+      "end": 2087.566,
+      "text": "is a toggle for player visibility."
+    },
+    {
+      "start": 2087.633,
+      "end": 2091.6,
+      "text": "this is good for when you need to capture shots of the environment or NPCs."
+    },
+    {
+      "start": 2091.666,
+      "end": 2093.6,
+      "text": "One caveat to all of this is that..."
+    },
+    {
+      "start": 2093.666,
+      "end": 2096.233,
+      "text": "these camera controls worked great for Ooblets because..."
+    },
+    {
+      "start": 2096.3,
+      "end": 2100.1,
+      "text": "the player controls are just movement and interacting with the A button."
+    },
+    {
+      "start": 2100.166,
+      "end": 2102.666,
+      "text": "This setup wouldn't work with a game like Uncharted..."
+    },
+    {
+      "start": 2102.733,
+      "end": 2105.233,
+      "text": "where you're using all the buttons to control the character."
+    },
+    {
+      "start": 2105.3,
+      "end": 2107.366,
+      "text": "The ideal scenario for doing this would be..."
+    },
+    {
+      "start": 2107.433,
+      "end": 2109.666,
+      "text": "the ability to offset the camera position,"
+    },
+    {
+      "start": 2109.733,
+      "end": 2111.7,
+      "text": "lock those settings in and then..."
+    },
+    {
+      "start": 2111.766,
+      "end": 2113.866,
+      "text": "control the character from that position like normal."
+    },
+    {
+      "start": 2113.933,
+      "end": 2117.766,
+      "text": "Another great example of a 3rd person game with a great debug camera is:"
+    },
+    {
+      "start": 2117.833,
+      "end": 2120.166,
+      "text": "The Mad Max game from 2015,"
+    },
+    {
+      "start": 2120.233,
+      "end": 2122.933,
+      "text": "which I worked on at an agency in Los Angeles."
+    },
+    {
+      "start": 2123,
+      "end": 2126.166,
+      "text": "The capture team there actually captured everything in the trailer I worked on..."
+    },
+    {
+      "start": 2126.233,
+      "end": 2128.933,
+      "text": "using the retail version which shipped with a video mode!"
+    },
+    {
+      "start": 2129.166,
+      "end": 2132.733,
+      "text": "If you hook up a second controller, that becomes the camera controls..."
+    },
+    {
+      "start": 2132.8,
+      "end": 2136.633,
+      "text": "which have all these additional options while the 1st controller plays as Max."
+    },
+    {
+      "start": 2136.833,
+      "end": 2140.266,
+      "text": "So just like in Ooblets the camera follows positionally..."
+    },
+    {
+      "start": 2140.333,
+      "end": 2142.8,
+      "text": "and you can reposition it,"
+    },
+    {
+      "start": 2143.133,
+      "end": 2145.533,
+      "text": "you can change the field of view,"
+    },
+    {
+      "start": 2147.397,
+      "end": 2149.901,
+      "text": "you can move it up and down,"
+    },
+    {
+      "start": 2151,
+      "end": 2153.8,
+      "text": "you can detach Max from camera,"
+    },
+    {
+      "start": 2153.966,
+      "end": 2156.366,
+      "text": "you can activate slow motion,"
+    },
+    {
+      "start": 2156.7,
+      "end": 2157.966,
+      "text": "tilt the camera,"
+    },
+    {
+      "start": 2158.1,
+      "end": 2160.533,
+      "text": "and you can even set a couple camera angles,"
+    },
+    {
+      "start": 2160.6,
+      "end": 2162.332,
+      "text": "which are switchable back and forth."
+    },
+    {
+      "start": 2162.733,
+      "end": 2167.333,
+      "text": "All of this you can do either by yourself by moving the camera, then playing..."
+    },
+    {
+      "start": 2167.4,
+      "end": 2171.6,
+      "text": "or you can do it with another person where the 2nd controller is camera person."
+    },
+    {
+      "start": 2171.866,
+      "end": 2175.3,
+      "text": "The only thing that would’ve made this mode better are speed settings for the camera,"
+    },
+    {
+      "start": 2175.366,
+      "end": 2178.166,
+      "text": "because the default sensitivity is quite high."
+    },
+    {
+      "start": 2178.333,
+      "end": 2180.066,
+      "text": "There are a lot of games now with a photo mode,"
+    },
+    {
+      "start": 2180.133,
+      "end": 2183.666,
+      "text": "but this is the only AAA game I can think of that has a video mode."
+    },
+    {
+      "start": 2183.733,
+      "end": 2186.666,
+      "text": "I’d LOVE to see this sort of feature in more AAA games,"
+    },
+    {
+      "start": 2186.733,
+      "end": 2190.5,
+      "text": "especially if they find an elegant way to do it without requiring a second controller."
+    },
+    {
+      "start": 2191.466,
+      "end": 2193.733,
+      "text": "Okay, moving onto debug tools for:"
+    },
+    {
+      "start": 2193.966,
+      "end": 2194.9,
+      "text": "2D games..."
+    },
+    {
+      "start": 2194.966,
+      "end": 2198.766,
+      "text": "which aren’t as complicated since you're only dealing with X and Y axes,"
+    },
+    {
+      "start": 2198.833,
+      "end": 2200.3,
+      "text": "but here are a couple things."
+    },
+    {
+      "start": 2200.466,
+      "end": 2202.266,
+      "text": "First is a freecam mode."
+    },
+    {
+      "start": 2202.333,
+      "end": 2206.006,
+      "text": "This isn't as important as in 3D games, but sometimes it's useful."
+    },
+    {
+      "start": 2206.133,
+      "end": 2208.3,
+      "text": "For example in a trailer I made for Dead Cells,"
+    },
+    {
+      "start": 2208.366,
+      "end": 2210.433,
+      "text": "the freecam let me show off the new levels."
+    },
+    {
+      "start": 2210.5,
+      "end": 2212.9,
+      "text": "This next one is more an idea of mine..."
+    },
+    {
+      "start": 2212.966,
+      "end": 2215.6,
+      "text": "that would only really work if the game assets..."
+    },
+    {
+      "start": 2215.666,
+      "end": 2218.233,
+      "text": "scale better in game than via editing software."
+    },
+    {
+      "start": 2218.3,
+      "end": 2220.766,
+      "text": "But if there was a way to have a debug camera..."
+    },
+    {
+      "start": 2220.833,
+      "end": 2223.033,
+      "text": "that allowed zooming and position offsetting,"
+    },
+    {
+      "start": 2223.1,
+      "end": 2224.7,
+      "text": "that would be a great thing to have."
+    },
+    {
+      "start": 2224.766,
+      "end": 2226.7,
+      "text": "Again, only if the assets scale."
+    },
+    {
+      "start": 2226.766,
+      "end": 2228.866,
+      "text": "I’m guessing this would work best with pixel art."
+    },
+    {
+      "start": 2228.933,
+      "end": 2232.3,
+      "text": "And lastly here are some debug tool extras."
+    },
+    {
+      "start": 2232.366,
+      "end": 2235.866,
+      "text": "These aren't essential, but they’re very handy tools to have."
+    },
+    {
+      "start": 2235.966,
+      "end": 2239.2,
+      "text": "Wadjet Eye’s game Unavowed they had a nice debug option..."
+    },
+    {
+      "start": 2239.266,
+      "end": 2242.4,
+      "text": "where I could switch control to the other characters and move them around."
+    },
+    {
+      "start": 2242.5,
+      "end": 2245.833,
+      "text": "This helped for when I wanted the characters in a certain arrangement on screen..."
+    },
+    {
+      "start": 2245.9,
+      "end": 2247.466,
+      "text": "to make the composition better"
+    },
+    {
+      "start": 2247.533,
+      "end": 2250.733,
+      "text": "Like I discussed with Mad Max, a camera attached to a 2nd controller..."
+    },
+    {
+      "start": 2250.8,
+      "end": 2252.866,
+      "text": "is great to have for 3rd person games,"
+    },
+    {
+      "start": 2252.933,
+      "end": 2255.4,
+      "text": "because it allows for much more dynamic shots."
+    },
+    {
+      "start": 2255.466,
+      "end": 2257.833,
+      "text": "In the second trailer for Ooblets I was able to..."
+    },
+    {
+      "start": 2257.9,
+      "end": 2259.733,
+      "text": "move a camera via the keyboard and mouse"
+    },
+    {
+      "start": 2259.8,
+      "end": 2262.033,
+      "text": "while controlling the character with the gamepad."
+    },
+    {
+      "start": 2262.133,
+      "end": 2264.6,
+      "text": "This would've been easier if I had a second set of hands,"
+    },
+    {
+      "start": 2264.666,
+      "end": 2267.7,
+      "text": "but for this shot I was literally holding the gamepad,"
+    },
+    {
+      "start": 2267.766,
+      "end": 2270.366,
+      "text": "and with a free finger, pressing forward to move the camera."
+    },
+    {
+      "start": 2270.433,
+      "end": 2273.3,
+      "text": "Having a separate controller act as a camera also helps immensely..."
+    },
+    {
+      "start": 2273.366,
+      "end": 2275.5,
+      "text": "for 3D games that have co-op play."
+    },
+    {
+      "start": 2275.566,
+      "end": 2278.9,
+      "text": "I’ve worked on games where getting shots of 2 players moving at once..."
+    },
+    {
+      "start": 2278.966,
+      "end": 2281.433,
+      "text": "required some very hacky solutions."
+    },
+    {
+      "start": 2281.5,
+      "end": 2284.566,
+      "text": "In that case, having a 3rd controller be the camera would be ideal."
+    },
+    {
+      "start": 2284.733,
+      "end": 2287.525,
+      "text": "Another very handy tool for 3D games is..."
+    },
+    {
+      "start": 2287.691,
+      "end": 2288.6,
+      "text": "Time freezing."
+    },
+    {
+      "start": 2288.666,
+      "end": 2291.8,
+      "text": "This is very useful for 3D games that have a lot of action."
+    },
+    {
+      "start": 2291.866,
+      "end": 2294.1,
+      "text": "It’s just a button to freeze the action,"
+    },
+    {
+      "start": 2294.166,
+      "end": 2296.5,
+      "text": "then reposition the camera to a new angle,"
+    },
+    {
+      "start": 2296.566,
+      "end": 2297.994,
+      "text": "and then resume the action."
+    },
+    {
+      "start": 2298.066,
+      "end": 2300.133,
+      "text": "This saves a lot of time for when it might be hard..."
+    },
+    {
+      "start": 2300.2,
+      "end": 2302.3,
+      "text": "to control a game at a certain angle,"
+    },
+    {
+      "start": 2302.366,
+      "end": 2304.566,
+      "text": "and it’s great for creating match cuts."
+    },
+    {
+      "start": 2304.833,
+      "end": 2307.133,
+      "text": "Slow motion is sometimes nice to have,"
+    },
+    {
+      "start": 2307.2,
+      "end": 2309.166,
+      "text": "but I'm usually wary of using it..."
+    },
+    {
+      "start": 2309.233,
+      "end": 2312.933,
+      "text": "because if the game doesn't have some sort of slow motion bullet time mode,"
+    },
+    {
+      "start": 2313,
+      "end": 2315.066,
+      "text": "I don't want to misrepresent the game."
+    },
+    {
+      "start": 2315.133,
+      "end": 2317.366,
+      "text": "But it can help make some very cool shots..."
+    },
+    {
+      "start": 2317.433,
+      "end": 2321.066,
+      "text": "or make it easier to perform a succession of complex actions."
+    },
+    {
+      "start": 2321.133,
+      "end": 2324.8,
+      "text": "For example @Sunhilegend does a lot of his Uncharted capture in slow motion..."
+    },
+    {
+      "start": 2324.866,
+      "end": 2327.2,
+      "text": "so it's easier to queue up actions and react,"
+    },
+    {
+      "start": 2327.266,
+      "end": 2330.366,
+      "text": "and then later set the speed back to normal speed for their gifs."
+    },
+    {
+      "start": 2330.433,
+      "end": 2334.6,
+      "text": "Some games I’ve worked on let me control the time scale down to the third or fourth decimal,"
+    },
+    {
+      "start": 2334.666,
+      "end": 2337.066,
+      "text": "but I never needed something so granular."
+    },
+    {
+      "start": 2337.133,
+      "end": 2340.1,
+      "text": "If adding options for multiple time scales, whole numbers are better..."
+    },
+    {
+      "start": 2340.166,
+      "end": 2343.766,
+      "text": "so that it’s easier to set something back to normal speed in editing software."
+    },
+    {
+      "start": 2344.1,
+      "end": 2347.033,
+      "text": "I'm just going to talk briefly about VR capture..."
+    },
+    {
+      "start": 2347.1,
+      "end": 2350.8,
+      "text": "because fellow indie trailer maker Kert Gartner has an entire talk about..."
+    },
+    {
+      "start": 2350.866,
+      "end": 2353.366,
+      "text": "capturing footage for VR games that I'll link to."
+    },
+    {
+      "start": 2353.433,
+      "end": 2355.866,
+      "text": "On his website he has an in-depth article about..."
+    },
+    {
+      "start": 2355.933,
+      "end": 2358.666,
+      "text": "virtual cinematography for VR trailers."
+    },
+    {
+      "start": 2358.733,
+      "end": 2362.633,
+      "text": "In his talk he has this slide where he says: Your head is not a camera!"
+    },
+    {
+      "start": 2362.7,
+      "end": 2365.5,
+      "text": "because using footage of only the first person view..."
+    },
+    {
+      "start": 2365.566,
+      "end": 2367.833,
+      "text": "isn’t the best way to show VR games."
+    },
+    {
+      "start": 2367.9,
+      "end": 2370.7,
+      "text": "I agree that having the option to show an avatar..."
+    },
+    {
+      "start": 2370.766,
+      "end": 2372.933,
+      "text": "playing the game in VR is the best way to go..."
+    },
+    {
+      "start": 2373,
+      "end": 2376.366,
+      "text": "because just like having a freecam for first person games,"
+    },
+    {
+      "start": 2376.433,
+      "end": 2380.433,
+      "text": "an alternate angle gives you more options for interesting shots, especially in VR."
+    },
+    {
+      "start": 2380.5,
+      "end": 2384.1,
+      "text": "That said, if you HAVE TO do first person VR capture..."
+    },
+    {
+      "start": 2384.166,
+      "end": 2385.1,
+      "text": "here are some tips."
+    },
+    {
+      "start": 2385.2,
+      "end": 2387.566,
+      "text": "Implement motion smoothing on the external monitor."
+    },
+    {
+      "start": 2387.633,
+      "end": 2390.633,
+      "text": "I'm still amazed how many trailers for VR games..."
+    },
+    {
+      "start": 2390.7,
+      "end": 2391.933,
+      "text": "don't have motion smoothing."
+    },
+    {
+      "start": 2392,
+      "end": 2394.666,
+      "text": "It looks terrible and shaky,"
+    },
+    {
+      "start": 2394.733,
+      "end": 2397.6,
+      "text": "and might make your audience sick just from looking at it."
+    },
+    {
+      "start": 2397.666,
+      "end": 2400.633,
+      "text": "I once had to work on a VR game where there was no motion smoothing,"
+    },
+    {
+      "start": 2400.7,
+      "end": 2403.333,
+      "text": "and I got nauseated just from going through footage."
+    },
+    {
+      "start": 2403.466,
+      "end": 2408.166,
+      "text": "If the footage is smooth, the audience can simply focus on what is happening in the shot,"
+    },
+    {
+      "start": 2408.233,
+      "end": 2410.3,
+      "text": "and everything will look much better."
+    },
+    {
+      "start": 2410.733,
+      "end": 2413.1,
+      "text": "Also, with a motion smoothed camera,"
+    },
+    {
+      "start": 2413.166,
+      "end": 2415.733,
+      "text": "make sure it doesn’t break all your filters and effects."
+    },
+    {
+      "start": 2415.8,
+      "end": 2416.9,
+      "text": "Next tip is:"
+    },
+    {
+      "start": 2416.966,
+      "end": 2420.4,
+      "text": "Only use the eye that corresponds to the PC monitor window."
+    },
+    {
+      "start": 2420.466,
+      "end": 2423.333,
+      "text": "The window that displays on your PC when in VR is usually..."
+    },
+    {
+      "start": 2423.4,
+      "end": 2426,
+      "text": "either the signal for the right or left eye."
+    },
+    {
+      "start": 2426.066,
+      "end": 2429.133,
+      "text": "So naturally you should only be using that eye when capturing…"
+    },
+    {
+      "start": 2429.266,
+      "end": 2432.466,
+      "text": "otherwise footage will be at a slight angle you’re lining it up."
+    },
+    {
+      "start": 2432.533,
+      "end": 2435.433,
+      "text": "This is especially obvious when trying to do something like..."
+    },
+    {
+      "start": 2435.5,
+      "end": 2437.3,
+      "text": "aim down the sight of a gun."
+    },
+    {
+      "start": 2437.366,
+      "end": 2439.866,
+      "text": "Another tip is to find the center of your field of view."
+    },
+    {
+      "start": 2439.933,
+      "end": 2442.733,
+      "text": "If you're just capturing by yourself you have to do some extra work..."
+    },
+    {
+      "start": 2442.8,
+      "end": 2444.7,
+      "text": "to make sure everything is composed well."
+    },
+    {
+      "start": 2444.766,
+      "end": 2448.7,
+      "text": "In VR, a lot of the time you can feel like you've centered something in your view,"
+    },
+    {
+      "start": 2448.766,
+      "end": 2453.533,
+      "text": "when actually you're looking too high, too low, or too much to either side."
+    },
+    {
+      "start": 2453.6,
+      "end": 2456.3,
+      "text": "In this capture I didn’t have any guide for the center,"
+    },
+    {
+      "start": 2456.366,
+      "end": 2458.233,
+      "text": "but it FELT like things were centered."
+    },
+    {
+      "start": 2458.3,
+      "end": 2461.766,
+      "text": "But in this capture I’m mostly looking just a bit too high."
+    },
+    {
+      "start": 2461.833,
+      "end": 2464.6,
+      "text": "The best way I’ve found to center my view is to..."
+    },
+    {
+      "start": 2464.7,
+      "end": 2467.233,
+      "text": "Put a sticky on the lens of the monitor eye."
+    },
+    {
+      "start": 2467.333,
+      "end": 2469.233,
+      "text": "I’ll start by just putting it on the eye,"
+    },
+    {
+      "start": 2469.3,
+      "end": 2472,
+      "text": "then do some test capture of an object I want centered,"
+    },
+    {
+      "start": 2472.066,
+      "end": 2475.233,
+      "text": "then adjust its position until I know everything will be centered."
+    },
+    {
+      "start": 2475.3,
+      "end": 2479.233,
+      "text": "It takes some trial and error, but it makes first person VR capture way easier"
+    },
+    {
+      "start": 2479.533,
+      "end": 2480.866,
+      "text": "Figure out where your hands should be."
+    },
+    {
+      "start": 2480.933,
+      "end": 2483.566,
+      "text": "You can play most VR games with your hand in a position..."
+    },
+    {
+      "start": 2483.633,
+      "end": 2485.6,
+      "text": "that the external monitor will never see."
+    },
+    {
+      "start": 2485.666,
+      "end": 2488.233,
+      "text": "If you want the controllers be visible in your capture,"
+    },
+    {
+      "start": 2488.3,
+      "end": 2491.233,
+      "text": "you have to test to see just how high you should hold them."
+    },
+    {
+      "start": 2491.3,
+      "end": 2494.5,
+      "text": "Most of the time it will feel really unnatural to hold your hands so high,"
+    },
+    {
+      "start": 2494.566,
+      "end": 2497.5,
+      "text": "but it'll look better if you want the audience to see the controllers."
+    },
+    {
+      "start": 2497.566,
+      "end": 2500.933,
+      "text": "In the right screen I was holding my hands in a comfortable position,"
+    },
+    {
+      "start": 2501,
+      "end": 2503.233,
+      "text": "and you can see I play the game just fine,"
+    },
+    {
+      "start": 2503.3,
+      "end": 2506.233,
+      "text": "but everything isn’t as clear as in the left version."
+    },
+    {
+      "start": 2506.733,
+      "end": 2509.6,
+      "text": "Have a partner directing or monitoring the external view."
+    },
+    {
+      "start": 2509.733,
+      "end": 2512.566,
+      "text": "All the previous tips were for if you're capturing alone,"
+    },
+    {
+      "start": 2512.633,
+      "end": 2514.8,
+      "text": "but capturing with a partner is ideal because then..."
+    },
+    {
+      "start": 2514.866,
+      "end": 2517.233,
+      "text": "you'll always know when you need to be looking in a particular spot,"
+    },
+    {
+      "start": 2517.3,
+      "end": 2519.5,
+      "text": "or have your hands in a certain position."
+    },
+    {
+      "start": 2519.8,
+      "end": 2523.633,
+      "text": "Also, when capturing VR, double check that the cursor isn’t on the monitor window..."
+    },
+    {
+      "start": 2523.7,
+      "end": 2528,
+      "text": "or that the mouse isn't vulnerable to being nudged by pets when you’re not looking."
+    },
+    {
+      "start": 2528.066,
+      "end": 2530.633,
+      "text": "I’ve never seen the cursor on a VR game trailer,"
+    },
+    {
+      "start": 2530.7,
+      "end": 2532.766,
+      "text": "but I just want to save you some time."
+    },
+    {
+      "start": 2532.833,
+      "end": 2536.633,
+      "text": "For VR capture considering hiring a professional dancer or martial artist..."
+    },
+    {
+      "start": 2536.7,
+      "end": 2539.033,
+      "text": "or someone who’s just very good with their hands."
+    },
+    {
+      "start": 2539.1,
+      "end": 2541.866,
+      "text": "It's easier for them to repeat choreography,"
+    },
+    {
+      "start": 2541.933,
+      "end": 2545.333,
+      "text": "make graceful motions, and they probably won't get tired very quickly."
+    },
+    {
+      "start": 2545.4,
+      "end": 2547.633,
+      "text": "Performance in VR is so much more important"
+    },
+    {
+      "start": 2547.7,
+      "end": 2550.866,
+      "text": "because every little head and hand movement is seen 1:1."
+    },
+    {
+      "start": 2550.933,
+      "end": 2553.7,
+      "text": "It's very easy for the performance to lack energy and flow,"
+    },
+    {
+      "start": 2553.766,
+      "end": 2557.133,
+      "text": "so getting a dancer or martial artist can make a big difference."
+    },
+    {
+      "start": 2557.233,
+      "end": 2558.133,
+      "text": "And lastly..."
+    },
+    {
+      "start": 2558.2,
+      "end": 2560.3,
+      "text": "make a freecam for your VR game."
+    },
+    {
+      "start": 2560.433,
+      "end": 2562.666,
+      "text": "More shot variety makes the footage more fun to watch."
+    },
+    {
+      "start": 2562.733,
+      "end": 2564.966,
+      "text": "So whatever you can do to create more shots..."
+    },
+    {
+      "start": 2565.033,
+      "end": 2567.066,
+      "text": "that aren’t from the first person perspective,"
+    },
+    {
+      "start": 2567.133,
+      "end": 2567.9,
+      "text": "do it."
+    },
+    {
+      "start": 2568.166,
+      "end": 2571.3,
+      "text": "Here are some great games for if you want to practice game capture."
+    },
+    {
+      "start": 2571.366,
+      "end": 2574.866,
+      "text": "Disclaimer: I'm not being paid by any of these companies to mention them,"
+    },
+    {
+      "start": 2574.933,
+      "end": 2577.2,
+      "text": "though I did work on trailers for all of them."
+    },
+    {
+      "start": 2577.3,
+      "end": 2580.266,
+      "text": "Like I said earlier, the retail version of this Mad Max game..."
+    },
+    {
+      "start": 2580.333,
+      "end": 2582.666,
+      "text": "has tremendous options for video capture."
+    },
+    {
+      "start": 2582.733,
+      "end": 2585.733,
+      "text": "So get this if you want to practice for 3rd person games."
+    },
+    {
+      "start": 2585.9,
+      "end": 2588.666,
+      "text": "For first person games, Quadrilateral Cowboy is great..."
+    },
+    {
+      "start": 2588.733,
+      "end": 2591,
+      "text": "because using a freecam is part of the game."
+    },
+    {
+      "start": 2591.066,
+      "end": 2593.433,
+      "text": "You have to enter some commands to be able to use a controller,"
+    },
+    {
+      "start": 2593.5,
+      "end": 2596.233,
+      "text": "but since it’s a game about hacking, the debug console..."
+    },
+    {
+      "start": 2596.3,
+      "end": 2598.6,
+      "text": "is still in the game, under the advanced options,"
+    },
+    {
+      "start": 2598.666,
+      "end": 2600.166,
+      "text": "because of course it is."
+    },
+    {
+      "start": 2600.266,
+      "end": 2603.566,
+      "text": "Here’s what you need to do to set up the freecam in Quadrilateral Cowboy."
+    },
+    {
+      "start": 2603.633,
+      "end": 2606.8,
+      "text": "You need to activate the debug console via advanced settings,"
+    },
+    {
+      "start": 2606.866,
+      "end": 2610,
+      "text": "Then when you're in the game you press the tilde (~) key to open the console,"
+    },
+    {
+      "start": 2610.066,
+      "end": 2613.6,
+      "text": "To activate gamepad support, turn off headbob and hide the HUD..."
+    },
+    {
+      "start": 2613.666,
+      "end": 2615.333,
+      "text": "type the following commands:"
+    },
+    {
+      "start": 2615.4,
+      "end": 2618.5,
+      "text": "And then when you're in-game press F1 to activate the freecam."
+    },
+    {
+      "start": 2618.733,
+      "end": 2622.9,
+      "text": "Also, in the console you can just type \"FIND\" to look for additional commands..."
+    },
+    {
+      "start": 2622.966,
+      "end": 2624,
+      "text": "and mess around with the game."
+    },
+    {
+      "start": 2624.066,
+      "end": 2626.866,
+      "text": "Which I'm sure the creator of the game would LOVE for you to do."
+    },
+    {
+      "start": 2626.933,
+      "end": 2628.966,
+      "text": "Like really, I'm sure he would love you to do that."
+    },
+    {
+      "start": 2629.166,
+      "end": 2633.373,
+      "text": "And, Tacoma is fantastic to practice, framing NPCs with a first person camera."
+    },
+    {
+      "start": 2633.466,
+      "end": 2636.3,
+      "text": "You can literally rewind every scene..."
+    },
+    {
+      "start": 2636.366,
+      "end": 2639.733,
+      "text": "and easily try different angles over and over again."
+    },
+    {
+      "start": 2639.8,
+      "end": 2644.566,
+      "text": "Next to Ooblets and Quadrilateral Cowboy, Tacoma was the easiest game to capture for."
+    },
+    {
+      "start": 2644.633,
+      "end": 2647,
+      "text": "You could even use it like a virtual film set..."
+    },
+    {
+      "start": 2647.066,
+      "end": 2649.666,
+      "text": "and practice cutting scenes together like it's a movie."
+    },
+    {
+      "start": 2649.733,
+      "end": 2650.2,
+      "text": "E.V.: Until she—"
+    },
+    {
+      "start": 2650.2,
+      "end": 2651.633,
+      "text": "E.V.: Until she— -Clive: E.V. we're about to cut the cake."
+    },
+    {
+      "start": 2652.333,
+      "end": 2654.233,
+      "text": "E.V.: Ah, right. Be right there!"
+    },
+    {
+      "start": 2654.5,
+      "end": 2658,
+      "text": "Andrew: Here it is! ODIN's masterpiece."
+    },
+    {
+      "start": 2658,
+      "end": 2659,
+      "text": "Nat: Serah, come on up..."
+    },
+    {
+      "start": 2659.7,
+      "end": 2660.966,
+      "text": "Nat: It's ready!"
+    },
+    {
+      "start": 2661.1,
+      "end": 2662.6,
+      "text": "Serah: Okay, just a minute!"
+    },
+    {
+      "start": 2663.1,
+      "end": 2667.2,
+      "text": "And here are some good examples of video game and film resources for inspiration."
+    },
+    {
+      "start": 2667.3,
+      "end": 2671.866,
+      "text": "Other Places by Andy Kelly which is all about showing the pretty environments in video games."
+    },
+    {
+      "start": 2671.933,
+      "end": 2673.866,
+      "text": "Unfortunately he doesn’t update anymore,"
+    },
+    {
+      "start": 2673.933,
+      "end": 2676.8,
+      "text": "but there are still a lot of great videos on his YouTube channel."
+    },
+    {
+      "start": 2676.866,
+      "end": 2681.133,
+      "text": "@SunhiLegend on Twitter posts TONS of amazing animated GIFs."
+    },
+    {
+      "start": 2681.233,
+      "end": 2684.733,
+      "text": "I also recommend following Rebecca Cordingley's Twitter for Ooblets GIFs"
+    },
+    {
+      "start": 2684.8,
+      "end": 2689.03,
+      "text": "she’s @nonplayercat; her development gifs are always a lot of fun to look at."
+    },
+    {
+      "start": 2689.3,
+      "end": 2692.533,
+      "text": "Composition cam is an Instagram account that’s no longer updated,"
+    },
+    {
+      "start": 2692.6,
+      "end": 2696.8,
+      "text": "but they overlay grids and lines to show how a lot of great shots from films are composed."
+    },
+    {
+      "start": 2697.066,
+      "end": 2701.633,
+      "text": "And @OnePerfectShot tweets shots from films, and articles about film."
+    },
+    {
+      "start": 2701.833,
+      "end": 2703.3,
+      "text": "So, in summary."
+    },
+    {
+      "start": 2703.4,
+      "end": 2705.733,
+      "text": "Think about capture EARLY."
+    },
+    {
+      "start": 2705.8,
+      "end": 2708.8,
+      "text": "The sooner you think about how your game looks in video, the better."
+    },
+    {
+      "start": 2708.866,
+      "end": 2710.6,
+      "text": "It'll help you market your game,"
+    },
+    {
+      "start": 2710.666,
+      "end": 2712.966,
+      "text": "and it might even help you with the game’s design."
+    },
+    {
+      "start": 2713.033,
+      "end": 2716.8,
+      "text": "Watch films with great cinematography, good visual flow and camera moves."
+    },
+    {
+      "start": 2716.866,
+      "end": 2719.866,
+      "text": "I’m not saying your shots have to rival great Hollywood directors,"
+    },
+    {
+      "start": 2719.933,
+      "end": 2722.4,
+      "text": "but it might inspire you or give you ideas."
+    },
+    {
+      "start": 2722.466,
+      "end": 2724.1,
+      "text": "Watch films with good framing."
+    },
+    {
+      "start": 2724.2,
+      "end": 2727.6,
+      "text": "There are a lot of great directors out there, but just start with Kurosawa."
+    },
+    {
+      "start": 2727.8,
+      "end": 2730.5,
+      "text": "Watch films with good blocking for their action scenes,"
+    },
+    {
+      "start": 2730.566,
+      "end": 2732.3,
+      "text": "good spatial awareness and editing."
+    },
+    {
+      "start": 2732.366,
+      "end": 2735.266,
+      "text": "Jackie Chan films, Yuen Woo-Ping choreographed films,"
+    },
+    {
+      "start": 2735.333,
+      "end": 2739.446,
+      "text": "the John Wick films, and films by Edgar Wright, and Guillermo Del Toro."
+    },
+    {
+      "start": 2739.6,
+      "end": 2742.1,
+      "text": "Give yourself the tools to create good shots in your game."
+    },
+    {
+      "start": 2742.166,
+      "end": 2745.133,
+      "text": "Without good tools, you just make everything harder for everyone."
+    },
+    {
+      "start": 2745.3,
+      "end": 2746.866,
+      "text": "Think of yourself as a puppeteer!"
+    },
+    {
+      "start": 2746.933,
+      "end": 2750.166,
+      "text": "Good capture isn’t simply playing, it’s a performance."
+    },
+    {
+      "start": 2750.233,
+      "end": 2751.766,
+      "text": "And capture with intention."
+    },
+    {
+      "start": 2751.833,
+      "end": 2753.966,
+      "text": "Think of what the intent of each shot is,"
+    },
+    {
+      "start": 2754.033,
+      "end": 2756.633,
+      "text": "and find how to best achieve that visually."
+    },
+    {
+      "start": 2756.7,
+      "end": 2759.033,
+      "text": "Simplify your shots! It makes them more readable."
+    },
+    {
+      "start": 2759.1,
+      "end": 2761.5,
+      "text": "So strip away anything inessential."
+    },
+    {
+      "start": 2761.6,
+      "end": 2764.866,
+      "text": "And I’ll leave you with some good advice from Jackie Chan."
+    },
+    {
+      "start": 2781.633,
+      "end": 2786.2,
+      "text": "Thanks for watching this presentation about how to make great capture for games."
+    },
+    {
+      "start": 2786.466,
+      "end": 2790.533,
+      "text": "You can follow me on Twitter where I talk about trailers and post cat photos,"
+    },
+    {
+      "start": 2790.6,
+      "end": 2792.733,
+      "text": "on my website I write about trailers I make,"
+    },
+    {
+      "start": 2792.8,
+      "end": 2796.066,
+      "text": "I also have a page with trailer submission specs for all consoles,"
+    },
+    {
+      "start": 2796.133,
+      "end": 2799.533,
+      "text": "and I write a weekly newsletter where I talk about movie and game trailers."
+    },
+    {
+      "start": 2799.7,
+      "end": 2802.233,
+      "text": "And if you have any questions, leave them in the comments below."
+    },
+    {
+      "start": 2802.3,
+      "end": 2803,
+      "text": "Thank you!"
+    }
+  ]
+}

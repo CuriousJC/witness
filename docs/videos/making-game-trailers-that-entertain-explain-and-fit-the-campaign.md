@@ -1,0 +1,213 @@
+# Making Game Trailers That Entertain, Explain, and Fit the Campaign
+
+Robot Gentleman’s Juliusz Zenkner explains trailer planning, animatics, tone, editing, audience expectations, and the differences between showing gameplay and selling an experience.
+
+Source: [Your Game Trailer sucks. Here’s why and how you can fix it! | Juliusz Zenkner Robot Gentleman](https://www.youtube.com/watch?v=QGumvc0MsAI) · Game Industry Conference · Published 2021-02-11
+Video: 1:06:56 · Reading: ~14 minutes · Basis: captions + 17 inspected snapshots
+
+[Web edition](making-game-trailers-that-entertain-explain-and-fit-the-campaign.html)
+
+Topics: Game marketing · Trailers
+Generated: November 2026
+Processing tokens: ~39,000 (estimated) — Rough visible-text workload estimate: 155,608 characters divided by four and rounded to the nearest thousand. Counted complete transcript and outline once, selected transcript rereads, repository and skill guidance twice, article-format guidance once, and final authored article/observation and verification code once. Shared guidance and verification are charged in full to each video for an independent estimate; adding the two estimates double-counts that overlap. Excludes image tokens, unmeasured context replay, hidden reasoning, uncaptured tool text, unrelated work, and later revisions. This is a partial workload proxy, not complete billed usage.
+
+## Overview
+
+Juliusz Zenkner approaches game trailers with experience in both filmmaking and development at Robot Gentleman, the studio behind 60 Seconds! and 60 Parsecs!. His central argument is that a trailer needs its own entertaining shape while representing the game honestly. Planning, editing, music, and a clear sense of the audience matter more than simply collecting impressive shots. The talk moves from campaign roles and production methods to concrete studio examples, then answers questions about genre, learning, and platform-specific work.
+
+The examples make this a practical production talk rather than a formula guaranteeing sales. A rough animatic exposes missing footage before expensive work begins; a retention chart illustrates how viewers leave even a short trailer; and the original and remastered 60 Seconds! trailers show how prior audience knowledge changes what needs explaining.
+
+### What the snapshots add
+
+- Seventeen inspected snapshots document the scenario and animatic, selected finished gameplay, campaign timeline, retention figures, view-count comparison, and an animated-text example. The chart’s 65% average viewed and the later 29.8% endpoint are different measurements. The example uploads also have different dates, so their view totals do not establish causation.
+
+## Key takeaways
+
+- **Give each trailer a job** A teaser, general game trailer, and launch trailer serve different moments. Content and production technique are separate choices.
+- **Test the edit while changes are cheap** A scenario, storyboard, and rough animatic reveal missing assets, timing problems, and music requirements before final production.
+- **Build an entertaining sequence** A joke, twist, or miniature story can make information memorable. A feature inventory or unedited session does not automatically hold attention.
+- **Make the promise legible** Tone, mobile readability, genre familiarity, subtitles, and the viewer’s existing knowledge all affect what the same footage communicates.
+
+## A trailer is a production with a marketing purpose
+
+Source timestamp: [0:00](https://www.youtube.com/watch?v=QGumvc0MsAI&t=0s)
+
+Zenkner introduces himself through his work in film and at Robot Gentleman. That combination matters because making a trailer involves both audiovisual storytelling and understanding the game being sold. The studio’s 60 Seconds!, 60 Parsecs!, and 60 Seconds! Reatomized provide the recurring examples, including work made under practical constraints rather than the resources of a large film production.
+
+His advice is grounded in those projects and in what he has learned by making and watching trailers. It is not presented as a requirement to possess a film career before attempting one. The useful connection is that choices about shots, performance, music, and editing serve a particular impression, and those choices can be planned rather than discovered only after capturing hours of footage.
+
+## Sell the game’s appeal through something worth watching
+
+Source timestamp: [3:48](https://www.youtube.com/watch?v=QGumvc0MsAI&t=228s)
+
+A trailer belongs in the marketing budget. Zenkner’s starting point is its job: help people become interested in the game and want to play it. It is possible to provide extensive information while failing at that job. Conversely, a strong impression can create interest without explaining every system, provided the impression is appropriate to the game.
+
+He also treats trailers as entertainment in their own right. People seek them out, share them, discuss them, and enjoy watching them before deciding whether to buy. That viewing culture changes the creative task. The trailer competes for attention as a short video, not only as a container for information that an already committed customer is obliged to finish.
+
+This does not excuse misleading footage or eliminate explanation. It means the information needs a form that holds attention: an emotional beat, an amusing situation, or a sequence with a payoff. The game’s appeal and the pleasure of watching the trailer should reinforce one another.
+
+## Separate campaign timing, content, and technique
+
+Source timestamp: [8:34](https://www.youtube.com/watch?v=QGumvc0MsAI&t=514s)
+
+Zenkner distinguishes several ways of naming trailers. A teaser is short and withholds much of the information in order to establish curiosity. A broader game trailer introduces the game more fully. A launch trailer supports the moment of release. These names describe campaign functions and how much the audience already knows, rather than a single mandatory editing style.
+
+Story and gameplay trailers describe emphasis. One may foreground characters, setting, or a dramatic situation; another may foreground what the player does. Those approaches can coexist in the same video. A trailer need not choose between an intelligible premise and useful gameplay footage as though one prevents the other.
+
+Cinematic, in-engine, and live-action labels describe production methods. A cinematic approach can involve pre-rendered work or game-engine imagery; live action introduces filmed people and physical production. These techniques are not a separate marketing objective. The important question is whether the chosen method communicates the intended experience at a cost the team can support.
+
+The practical distinction prevents an unhelpful brief such as simply wanting an expensive cinematic trailer. Decide what the asset needs to achieve and for whom; then select the mix of footage and techniques that can achieve it.
+
+## Write the scenario and budget the work before polishing shots
+
+Source timestamp: [15:48](https://www.youtube.com/watch?v=QGumvc0MsAI&t=948s)
+
+Planning starts with a scenario: what will happen, in what order, and what must be made to show it. Zenkner recommends breaking the idea into concrete production requirements. Identify assets that already exist, assets that need adapting, and material that needs creating. Animation, effects, gameplay capture, voice work, and editing all take time, including contributions from other people.
+
+A storyboard turns the sequence into shots. Its drawings can be rough; their purpose is to communicate composition and order while changes remain inexpensive. The inspected scenario slide contains sketched panels and planning notes, demonstrating that useful preproduction need not look like finished promotional art.
+
+This is also where budget and schedule become real. A creative idea can be appealing but impossible to finish with the people and time available. Planning exposes that mismatch before the team commits to final animation, and gives collaborators a clearer request than a vague instruction to make something exciting.
+
+![The scenario slide combines sketched storyboard panels with planning notes for the trailer.](../assets/your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman/frames/frame-00-17-15.jpg)
+
+[17:15](https://www.youtube.com/watch?v=QGumvc0MsAI&t=1035s) — The scenario combines rough shot sketches with production planning. Its value is making the sequence and required work discussable before final animation.
+
+## Use an animatic to find timing problems early
+
+Source timestamp: [19:40](https://www.youtube.com/watch?v=QGumvc0MsAI&t=1180s)
+
+The talk plays a rough animatic for 60 Parsecs!. An animatic places storyboard material into an edit so the team can test duration, sequence, and the relation between pictures and sound. A shot can be a drawing rather than finished animation; a missing gameplay segment can be a labeled placeholder. This makes an incomplete production watchable enough to evaluate its structure.
+
+At 19:55, the inspected panel shows four figures at a station window facing Earth, with a camera-direction note. At 20:50, a simple card reserves space for the survival and planet-phase gameplay. Those placeholders are evidence of planning a whole sequence without waiting for every asset. They are not evidence of what the eventual movement or gameplay looked like.
+
+Zenkner discusses music as part of this timing work. The final sequence required extending music to fit. An animatic can expose that need while there is still time to change the arrangement or the edit. Its purpose is to avoid discovering a structural problem only after the expensive shots are complete.
+
+![The animatic uses a plain placeholder card labeled SURVIVAL – PLANET PHASE GAMEPLAY.](../assets/your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman/frames/frame-00-20-50.jpg)
+
+[20:50](https://www.youtube.com/watch?v=QGumvc0MsAI&t=1250s) — A plain gameplay placeholder keeps the animatic’s overall timing testable while the corresponding footage is unfinished.
+
+## Carry the plan into the finished trailer and the wider campaign
+
+Source timestamp: [22:05](https://www.youtube.com/watch?v=QGumvc0MsAI&t=1325s)
+
+The finished 60 Parsecs! example combines a retro space-age premise with the game’s timed scavenging and survival decisions. In the spoken explanation and trailer narration, the emergency pushes the crew to gather supplies and people, leave the station, and confront the uncertainty of surviving afterward. The selected finished-gameplay frame shows a colorful station scene with crew portraits and a countdown gauge. It confirms one concrete part of that presentation, not every event in the full clip.
+
+Zenkner points out that production can flow in both directions. Material made for the trailer, such as station and shuttle sequences, was also useful in the game. A trailer need not be an isolated expense if its assets and the game’s production needs can sensibly overlap. That benefit depends on planning; it does not mean all promotional shots automatically become useful gameplay assets.
+
+He then places trailers along a development timeline. The inspected diagram locates teasers earlier, a general game trailer across development, and a launch trailer around release. The intent is to build interest before the game is available rather than first beginning the conversation afterward. The diagram is a campaign model, not a schedule assigning a universal number of weeks to every game.
+
+![A campaign diagram places teasers earlier in development, a game trailer across development, and a launch trailer near release.](../assets/your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman/frames/frame-00-25-35.jpg)
+
+[25:35](https://www.youtube.com/watch?v=QGumvc0MsAI&t=1535s) — The timeline assigns different campaign roles to teasers, a general game trailer, and a launch trailer near release.
+
+## Study references for their effect, and match your own tone
+
+Source timestamp: [26:47](https://www.youtube.com/watch?v=QGumvc0MsAI&t=1607s)
+
+References can come from films, advertisements, and other game trailers. Zenkner’s suggestion is to study how a piece produces a feeling or delivers a joke, rather than simply borrowing its surface. Timing, escalation, contrast, and the relationship between music and images can transfer between media even when the original subject does not.
+
+His BattleBlock Theater example illustrates the danger of copying a successful voice. A funny release announcement works because the performance and delivery fit that game and its existing personality. Repeating a similar joke without those conditions may produce something derivative or awkward. A small team can use constraints creatively, but it still needs an idea suited to its resources and identity.
+
+Tone is part of representing the game. A humorous game gives the trailer permission to be funny; that does not require squeezing every available joke into one video. Too many competing bits weaken the build and payoff. The same principle applies to other moods: the viewer should leave with a coherent sense of what spending time with this game will feel like.
+
+## Learn the audience’s language without chasing every meme
+
+Source timestamp: [32:33](https://www.youtube.com/watch?v=QGumvc0MsAI&t=1953s)
+
+Zenkner recommends listening to the audience already gathering around the game. Comments, community discussions, Reddit, and Discord can reveal what people find funny, which characters they care about, and which parts of the premise they repeat to one another. That is useful creative evidence because it shows what is connecting rather than what the developer merely hopes will connect.
+
+He distinguishes that understanding from inserting a currently popular meme. Production takes time, and a joke circulating today may be exhausted before the trailer is finished. A brand can look late to its own reference. The relevant question is whether a joke belongs to the game and its audience, not simply whether it has been widely shared elsewhere.
+
+The inspected audience slide is a heading with a cartoon character, not a documented survey or a set of community messages. The recommendation comes from his explanation; the page does not treat that slide as measured proof of audience preferences.
+
+## Give the edit a shape and keep attention in mind
+
+Source timestamp: [35:57](https://www.youtube.com/watch?v=QGumvc0MsAI&t=2157s)
+
+A short entertainment piece needs selection. Zenkner favors a focused idea, joke, twist, or narrative progression over a succession of everything the game contains. He cites an Assassin’s Creed cinematic paired with Woodkid’s music as an entertaining piece of audiovisual construction. A small production can seek its own effect through dynamic editing and music rather than reproduce that scale of animation. The aim is for each part to lead into the next rather than leave the viewer wondering why another unrelated shot has appeared.
+
+He recommends keeping a trailer below two minutes, while his own retention example demonstrates that even much shorter footage loses viewers. The inspected YouTube chart covers approximately 77 seconds and reports an average view duration of 50 seconds, or 65% viewed on average. Its line falls to around 30% at the end. The subsequent slide explicitly displays 29.8%.
+
+These numbers describe different things: the average share of the video watched is not the proportion still watching at its final moment. The example supports his concern about spending attention carefully; it does not identify two minutes as a scientifically established optimum for every game. A trailer’s job and audience still matter. His practical objection is to letting a video grow because the creator cannot bear to remove material.
+
+![The retention chart covers about 1:17, reports average view duration 0:50 and average percentage viewed 65%, and falls to roughly 30% near the end.](../assets/your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman/frames/frame-00-38-10.jpg)
+
+[38:10](https://www.youtube.com/watch?v=QGumvc0MsAI&t=2290s) — The chart reports a 50-second average view duration and 65% average viewed across a roughly 77-second trailer. End-of-video retention is a separate, lower figure.
+
+## Edited gameplay can tell a more compelling story than a recording
+
+Source timestamp: [41:04](https://www.youtube.com/watch?v=QGumvc0MsAI&t=2464s)
+
+Showing the game does not have to mean uploading an ordinary play session. Zenkner notes frustration with cinematic showcases that leave viewers unsure how a game plays. His answer is not to abandon entertainment but to give gameplay an entertaining edit: dynamic sequences, pauses, and changes of pace can tell a story even in a shooter or platformer. Straight recordings still have uses, including submissions that explicitly request them. They serve a different purpose from the main trailer.
+
+The comparison slide shows 770,237 views for a 60 Seconds! trailer uploaded May 15, 2015 and 97,883 for a gameplay video uploaded May 24, 2015. He uses that contrast to argue for the effort of making a trailer. The slide does not control for release timing, distribution, audience, or promotion. It establishes the displayed totals for two different uploads, not that editing alone caused the difference or that every trailer will outperform every gameplay video.
+
+## Make the footage readable where it will actually be watched
+
+Source timestamp: [43:22](https://www.youtube.com/watch?v=QGumvc0MsAI&t=2602s)
+
+The viewing device changes what an image communicates. Zenkner asks developers to consider people watching on a phone, where a detail that is clear on an editing monitor can become hard to recognize. A trailer should make its important action understandable at the size viewers are likely to encounter it.
+
+Stores and platforms also have different presentation conventions. He describes Steam’s emphasis on gameplay and demonstrates a Switch-oriented video that uses the context of playing on the hardware. These are observations and choices from the period of the talk, not verified current platform requirements. The idea is to plan the asset for its destination rather than assume one edit will fit every context.
+
+The selected Switch-example frames show a logo card and then house gameplay. They do not show the live-action console handling discussed in the talk, so no visual description of that handling is inferred from them. The broader production implication remains: platform-specific presentation and footage can require additional work.
+
+## Support silent viewing and show the distinctive promise
+
+Source timestamp: [47:21](https://www.youtube.com/watch?v=QGumvc0MsAI&t=2841s)
+
+Zenkner recommends subtitles or animated text because some people will watch without sound. He acknowledges that the studio’s own narration-heavy examples can depend on audio. The solution is to consider what meaning survives when that audio is absent, rather than assume the viewer will turn it on.
+
+The inspected Borderlands example makes the recommendation concrete: large yellow lettering about abundant loot is superimposed on game footage. The text supplies a readable message while participating in the visual style of the trailer. That differs from adding small text that technically contains information but is difficult to read on a phone.
+
+The message should also reveal what makes this game worth noticing. Zenkner argues for showing a distinctive feature or experience without exhausting all the surprises. A trailer needs enough specificity to create desire, but it does not have to disclose every discovery a player could make.
+
+![The example combines Borderlands footage with large yellow text emphasizing abundant loot, under the subtitles or animated text heading.](../assets/your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman/frames/frame-00-48-40.jpg)
+
+[48:40](https://www.youtube.com/watch?v=QGumvc0MsAI&t=2920s) — The animated-text example places a large, legible loot message directly over the footage, supporting comprehension without depending entirely on narration.
+
+## A first introduction and a remaster need different explanations
+
+Source timestamp: [50:08](https://www.youtube.com/watch?v=QGumvc0MsAI&t=3008s)
+
+Zenkner revisits the original 60 Seconds! trailer, which draws on the language of retro civil-defense films. The contrast between cheerful instruction and an atomic emergency fits the game’s dark humor. He recalls making it quickly and remains proud of how much it helped the project. Its job included introducing a premise the audience did not yet know, at a stage when not all of the game was complete.
+
+The Reatomized trailer starts from a different relationship with viewers. Many already know the family, shelter, and survival setup. Zenkner discusses showing changes and additions—such as character variations and other surprises—rather than delivering the entire original introduction again. Familiarity permits selective rule-breaking, though he still wants discoveries left for play.
+
+At 55:10, the inspected remaster frame shows the shelter journal on Day 9, describing a ventilation problem with item choices below. That supports the presence of the familiar decision-making interface. The selected snapshots do not independently establish every new feature he mentions. The useful campaign lesson is that what must be explained depends partly on what viewers bring with them.
+
+## Questions: film grammar, information, and entertainment
+
+Source timestamp: [56:20](https://www.youtube.com/watch?v=QGumvc0MsAI&t=3380s)
+
+Asked whether films are close enough to games to provide references, Zenkner returns to the effect of editing. His example of a fan recut presenting The Shining as a comedy illustrates how selection, music, and ordering can change a viewer’s interpretation. The transferable skill is understanding those mechanisms, rather than assuming game trailers and film trailers have identical content requirements.
+
+He also rejects a simple choice between information and entertainment. Entertainment helps information stay with the viewer. Some audiences, particularly people evaluating a strategy game with familiar historical or mechanical foundations, may care strongly about what is new. They still benefit from an engaging presentation, but novelty and mechanical specificity can deserve more emphasis than they would in a broad introductory teaser.
+
+## Questions: learning the craft and sharing the production load
+
+Source timestamp: [1:00:00](https://www.youtube.com/watch?v=QGumvc0MsAI&t=3600s)
+
+Zenkner names the first 60 Seconds! trailer as a favorite because it was enjoyable, unusually fast to make, and useful for the studio. Asked about courses, he does not endorse a specific training program. He says much of his own learning came from watching work and trying to recreate the feelings and impressions it produced. Tutorials and paid instruction exist, but he does not claim to have evaluated them all.
+
+His own next step would be spending more time on ideas and delegating more execution, either within the studio or through outsourcing. Handling many parts himself becomes tiring when returning to the same game for repeated releases. He cites having to record new gameplay for particular console versions, including PlayStation and Xbox. That work makes the earlier scheduling advice tangible: adapting an existing trailer can still require substantial capture and production.
+
+## Questions: casual mobile play and unfamiliar genres
+
+Source timestamp: [1:02:43](https://www.youtube.com/watch?v=QGumvc0MsAI&t=3763s)
+
+For casual mobile games, Zenkner suggests showing what makes a short session enjoyable. His examples include play during a few minutes on public transport, collecting things, unlocking content, and seeing more to do afterward. These are suggestions for that audience, not a claim that every mobile player wants the same progression loop. The trailer should quickly communicate the kind of fun the intended viewer is seeking.
+
+For a game that seems to invent its own genre, he recommends using familiar elements as an entry point. Slay the Spire is his example: its combination may feel distinctive, but cards give many viewers something they already understand. Establish that recognizable foundation, then demonstrate the new mechanic or unexpected combination clearly.
+
+Simply writing that nobody has seen a game like this is weaker than letting the viewer recognize something and then discover how it differs. He treats that as a creative challenge with several possible tools—footage, text, performance, or a reveal—rather than a fixed template. The talk closes with an invitation to share trailers and ask questions.
+
+## Source and limitations
+
+- Based on the complete English automatic-caption transcript. Names and game titles were normalized where source metadata or clear context supports them; some caption wording remains uncertain.
+- Seventeen targeted snapshots were inspected across the 66-minute recording. They verify the reproduced slides and selected stills, not continuous action or the complete contents of the played trailers. The live-action handling in the Switch example was not visible in the selected frames.
+- Retention and view counts are historical examples reported in the talk. The inspected endpoint slide reads 29.8%; average percentage viewed is a different 65% metric. The two view-count examples are uploads with different dates, not a controlled performance experiment.
+- Platform conventions, audience preferences, and production recommendations are attributed to this talk; present-day store policies and a universal optimal trailer length were not established.
+
+[Timestamped source captions](../../sources/your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman/source.json)
+[Snapshot observations](../../sources/your-game-trailer-sucks-here-s-why-and-how-you-can-fix-it-juliusz-zenkner-robot-gentleman/visuals.json)

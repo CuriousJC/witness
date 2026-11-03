@@ -1,0 +1,2759 @@
+{
+  "videoId": "2F5WBfqf0Sc",
+  "slug": "the-best-game-trailer-template-video-game-trailer-academy",
+  "url": "https://www.youtube.com/watch?v=2F5WBfqf0Sc",
+  "title": "The Best Game Trailer Template | Video Game Trailer Academy",
+  "channel": "Derek Lieu",
+  "published": "2026-07-14",
+  "duration": 1868,
+  "description": "What shots should you put into your game trailer and in what order? Here's a game trailer template for a solid verbal pitch which will translate into a great skeleton for an indie game trailer which will clearly and compellingly pitch your game.\n\nHire me as a consultant for your trailer! https://www.derek-lieu.com/consultation\n\nChapters:\n00:00 - Intro\n00:42 - Common Mistakes - Environment Montage\n02:04 - Common Mistakes - Mid-to-Late Game Only\n03:47 - Common Mistakes - Not Focused Enough\n06:45 - Stop making it \"look\" like a trailer\n08:12 - What order to show things in your game\n10:18 - Template for verbal pitch & trailer\n11:21 - What a verbal pitch trailer looks like - Papers Please\n13:28 - What a verbal pitch trailer looks like - Unpacking\n14:36 - How to structure a game trailer\n15:14 - How to structure a game trailer - Anchors\n17:09 - How to structure a game trailer - Hooks\n20:31 - What a verbal pitch trailer looks like - Super Mario Odyssey\n23:39 - Why to include the Goal in the trailer\n24:37 - Dosa Divas Case Study 1st Draft\n25:49 - Dosa Divas Announce Trailer Draft Critique\n27:20 - Dosa Divas Announce Trailer (Final version)\n28:40 - Verbal Pitch Template for Game Trailers\n29:56 - Game trailer story act template\n\nLinks:\n@JonasTyroller - You Don't Need a Hook: What Sells on Steam https://www.youtube.com/watch?v=uiBDyZ-Pf2M\n—\nFOLLOW ME!\n\nPortfolio: http://www.derek-lieu.com\nOnline Course: http://www.howtomakeagametrailer.com/\nTrailer making tips - http://www.GameTrailerTips.com\nTikTok Tips: https://www.tiktok.com/@derek_lieu\nInstagram Trailer Tips: http://www.instagram.com/derek_lieu\nBluesky: https://bsky.app/profile/derek-lieu.com\nPodcast: http://www.cutdowncast.com\n\n—\nABOUT ME\n\nHi, I'm Derek Lieu and I make indie game trailers! I got my start in the movie trailer industry as an assistant editor at a house which produced trailers for: The Matrix Trilogy, Spider-Man, Pirates of the Caribbean and many more.\n\nOver many years I worked as an editor and started making fan trailers for games, until eventually I got jobs at game trailer houses in Los Angeles where I worked on games like Mortal Kombat X, Shadow of Mordor and lots of LEGO games. Independently I've helped make trailers for games like: Among Us, Half-Life: Alyx, Psychonauts 2, The Long Dark, Firewatch, Dead Cells, Subnautica, Spelunky 2, Ooblets, BattleBlock Theater and a lot more.\n\nI'm using this channel to teach people about the art of making trailers via video essays, tutorials, reviews, and behind-the-scenes looks at my own work. I think about trailers a lot both for work and fun, so I have A LOT to say about them.",
+  "chapters": [
+    {
+      "start": 0,
+      "end": 42,
+      "title": "Intro"
+    },
+    {
+      "start": 42,
+      "end": 124,
+      "title": "Common Mistakes - Environment Montage"
+    },
+    {
+      "start": 124,
+      "end": 227,
+      "title": "Common Mistakes - Mid-to-Late Game Only"
+    },
+    {
+      "start": 227,
+      "end": 405,
+      "title": "Common Mistakes - Not Focused Enough"
+    },
+    {
+      "start": 405,
+      "end": 492,
+      "title": "Stop making it \"look\" like a trailer"
+    },
+    {
+      "start": 492,
+      "end": 618,
+      "title": "What order to show things in your game"
+    },
+    {
+      "start": 618,
+      "end": 681,
+      "title": "Template for verbal pitch & trailer"
+    },
+    {
+      "start": 681,
+      "end": 808,
+      "title": "What a verbal pitch trailer looks like - Papers Please"
+    },
+    {
+      "start": 808,
+      "end": 876,
+      "title": "What a verbal pitch trailer looks like - Unpacking"
+    },
+    {
+      "start": 876,
+      "end": 914,
+      "title": "How to structure a game trailer"
+    },
+    {
+      "start": 914,
+      "end": 1029,
+      "title": "How to structure a game trailer - Anchors"
+    },
+    {
+      "start": 1029,
+      "end": 1231,
+      "title": "How to structure a game trailer - Hooks"
+    },
+    {
+      "start": 1231,
+      "end": 1419,
+      "title": "What a verbal pitch trailer looks like - Super Mario Odyssey"
+    },
+    {
+      "start": 1419,
+      "end": 1477,
+      "title": "Why to include the Goal in the trailer"
+    },
+    {
+      "start": 1477,
+      "end": 1549,
+      "title": "Dosa Divas Case Study 1st Draft"
+    },
+    {
+      "start": 1549,
+      "end": 1640,
+      "title": "Dosa Divas Announce Trailer Draft Critique"
+    },
+    {
+      "start": 1640,
+      "end": 1720,
+      "title": "Dosa Divas Announce Trailer (Final version)"
+    },
+    {
+      "start": 1720,
+      "end": 1796,
+      "title": "Verbal Pitch Template for Game Trailers"
+    },
+    {
+      "start": 1796,
+      "end": 1868,
+      "title": "Game trailer story act template"
+    }
+  ],
+  "captions": {
+    "language": "en",
+    "kind": "manual",
+    "format": "json3"
+  },
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.433,
+      "text": "I've made hundreds of game trailers over the past ten years."
+    },
+    {
+      "start": 3.65,
+      "end": 6.45,
+      "text": "And the number one question I get aside from:"
+    },
+    {
+      "start": 6.516,
+      "end": 8.15,
+      "text": "“Do you actually get to PLAY the games!?”"
+    },
+    {
+      "start": 8.216,
+      "end": 9.583,
+      "text": "YES OF COURSE I PLAY THE GAME!"
+    },
+    {
+      "start": 9.65,
+      "end": 11.666,
+      "text": "The number one question is:"
+    },
+    {
+      "start": 11.733,
+      "end": 15.766,
+      "text": "What do I put in my trailer and in what order?"
+    },
+    {
+      "start": 16.05,
+      "end": 22.283,
+      "text": "All you need to do is make your trailer feel like a good verbal pitch."
+    },
+    {
+      "start": 22.366,
+      "end": 24.216,
+      "text": "But there's so much more to it than that."
+    },
+    {
+      "start": 24.283,
+      "end": 27.283,
+      "text": "Hi, I'm Derek Lieu, and this is Video Game Trailer Academy."
+    },
+    {
+      "start": 27.383,
+      "end": 30.5,
+      "text": "A series of videos to help you make better game trailers."
+    },
+    {
+      "start": 30.65,
+      "end": 33.533,
+      "text": "One of the biggest challenges of making a great game trailer..."
+    },
+    {
+      "start": 33.883,
+      "end": 36.933,
+      "text": "is choosing what to show and in what order."
+    },
+    {
+      "start": 37.016,
+      "end": 40.85,
+      "text": "I think most people overthink this problem and end up making their trailers"
+    },
+    {
+      "start": 40.916,
+      "end": 42.5,
+      "text": "way worse."
+    },
+    {
+      "start": 42.566,
+      "end": 45.116,
+      "text": "These are the most common mistakes I see."
+    },
+    {
+      "start": 45.183,
+      "end": 49.816,
+      "text": "Starting with what I call: The indie game trailer environment montage."
+    },
+    {
+      "start": 50.033,
+      "end": 51.416,
+      "text": "I've done this type of shot too,"
+    },
+    {
+      "start": 51.483,
+      "end": 54.816,
+      "text": "BUT I never put it at the beginning,"
+    },
+    {
+      "start": 54.883,
+      "end": 56.616,
+      "text": "because all it says is, look how many biomes there are in this game."
+    },
+    {
+      "start": 56.65,
+      "end": 58.533,
+      "text": "LOOK HOW MANY BIOMES THERE ARE IN THIS GAME!"
+    },
+    {
+      "start": 58.683,
+      "end": 65.433,
+      "text": "How can we care about biomes before seeing what you do in the game and what makes it unique?"
+    },
+    {
+      "start": 65.5,
+      "end": 69.466,
+      "text": "Related, lot of trailers are front loaded with montages of..."
+    },
+    {
+      "start": 69.533,
+      "end": 73.883,
+      "text": "cosmetics and things which aren't related to gameplay."
+    },
+    {
+      "start": 73.966,
+      "end": 78.866,
+      "text": "This is like trying to sell me on an ice cream shop a 30 minute drive away by saying..."
+    },
+    {
+      "start": 78.933,
+      "end": 82.2,
+      "text": "OH MY GOD, LOOK! WE HAVE SO MANY FLAVORS!"
+    },
+    {
+      "start": 82.266,
+      "end": 84.55,
+      "text": "strawberry, chocolate, vanilla, coffee."
+    },
+    {
+      "start": 84.85,
+      "end": 86.466,
+      "text": "ALSO, CHECK OUT THESE TOPPINGS!"
+    },
+    {
+      "start": 86.533,
+      "end": 88.983,
+      "text": "Sprinkles. Peanut butter cups. M&Ms."
+    },
+    {
+      "start": 89.05,
+      "end": 91.466,
+      "text": "every ice cream shop has flavors and toppings."
+    },
+    {
+      "start": 91.533,
+      "end": 95.65,
+      "text": "So if that's your pitch, that's not worth the 30 minute drive."
+    },
+    {
+      "start": 95.716,
+      "end": 97.633,
+      "text": "You can't sell something new."
+    },
+    {
+      "start": 97.7,
+      "end": 101.716,
+      "text": "By describing all the ways, it's the same as what came before."
+    },
+    {
+      "start": 101.95,
+      "end": 105.05,
+      "text": "It's okay to have this montage in the trailer."
+    },
+    {
+      "start": 105.116,
+      "end": 109.166,
+      "text": "Just wait until at least halfway through the trailer to show it."
+    },
+    {
+      "start": 109.516,
+      "end": 114.666,
+      "text": "Once we have a taste, only then will we care at all about the thing..."
+    },
+    {
+      "start": 114.733,
+      "end": 118.1,
+      "text": "which extends out the gameplay, like collecting hats."
+    },
+    {
+      "start": 118.316,
+      "end": 123.833,
+      "text": "Variety is a value multiplier and you can't multiply nothing."
+    },
+    {
+      "start": 124.05,
+      "end": 129.35,
+      "text": "The second mistake are trailers which show only shots from mid to late game."
+    },
+    {
+      "start": 129.766,
+      "end": 133.916,
+      "text": "I think this is to skip the boring stuff and get to the most exciting shots."
+    },
+    {
+      "start": 134.333,
+      "end": 138.633,
+      "text": "The problem is, these shots are often too much to process..."
+    },
+    {
+      "start": 138.7,
+      "end": 141.7,
+      "text": "because we weren’t given a basic understanding of the game..."
+    },
+    {
+      "start": 141.766,
+      "end": 143.366,
+      "text": "before seeing all the bells and whistles."
+    },
+    {
+      "start": 143.483,
+      "end": 147,
+      "text": "It would be like if this great trailer for Factorio,,,"
+    },
+    {
+      "start": 147.133,
+      "end": 152.216,
+      "text": "started here: where the factory is already huge with tons of moving parts,"
+    },
+    {
+      "start": 152.65,
+      "end": 156.816,
+      "text": "Rather than here: where we're looking at a single unit operating a tiny part of a factory"
+    },
+    {
+      "start": 156.883,
+      "end": 160.4,
+      "text": "with just a few machines and one conveyor belt."
+    },
+    {
+      "start": 160.5,
+      "end": 164.15,
+      "text": "admittedly, I've made trailers which start with scenes from mid to late game,"
+    },
+    {
+      "start": 164.216,
+      "end": 166.283,
+      "text": "like in my trailers for Skin Deep,"
+    },
+    {
+      "start": 169.366,
+      "end": 170.5,
+      "text": "NINA: Nothing left."
+    },
+    {
+      "start": 170.566,
+      "end": 171.8,
+      "text": "GUARD: She's getting away!"
+    },
+    {
+      "start": 173.583,
+      "end": 174.783,
+      "text": "Spelunky 2,"
+    },
+    {
+      "start": 180.583,
+      "end": 181.583,
+      "text": "and Noita."
+    },
+    {
+      "start": 189.133,
+      "end": 192.033,
+      "text": "But in those trailers, after the cold open,"
+    },
+    {
+      "start": 192.1,
+      "end": 195.95,
+      "text": "I go back to the beginning to explain the basics of the game."
+    },
+    {
+      "start": 196.016,
+      "end": 199.666,
+      "text": "In Skin Deep, you emerge on to a ship, find the members of the cat crew,"
+    },
+    {
+      "start": 199.733,
+      "end": 203.333,
+      "text": "look for keys to get them out, and deal with guards along the way."
+    },
+    {
+      "start": 205.15,
+      "end": 209.833,
+      "text": "In Spelunky 2, you start in the first level, jump around and fight enemies."
+    },
+    {
+      "start": 209.916,
+      "end": 210.516,
+      "text": "In Noita,"
+    },
+    {
+      "start": 210.55,
+      "end": 213.7,
+      "text": "you're trying to go as deep into the cave as possible,"
+    },
+    {
+      "start": 213.9,
+      "end": 217.05,
+      "text": "and everything in the game burns, crumbles, flows, and shatters."
+    },
+    {
+      "start": 217.116,
+      "end": 217.983,
+      "text": "Like in real life."
+    },
+    {
+      "start": 220.133,
+      "end": 222.533,
+      "text": "A section which shows the fundamentals..."
+    },
+    {
+      "start": 222.6,
+      "end": 226.683,
+      "text": "is the key to understanding anything from mid to late game."
+    },
+    {
+      "start": 226.95,
+      "end": 227.85,
+      "text": "More on this later."
+    },
+    {
+      "start": 227.916,
+      "end": 230.133,
+      "text": "The third mistake I see most often are:"
+    },
+    {
+      "start": 230.2,
+      "end": 233.016,
+      "text": "trailers which show too many aspects of the game."
+    },
+    {
+      "start": 233.566,
+      "end": 234.716,
+      "text": "I know why they do this."
+    },
+    {
+      "start": 234.783,
+      "end": 236.816,
+      "text": "Again, it's to show variety."
+    },
+    {
+      "start": 236.883,
+      "end": 239.7,
+      "text": "And because after spending years making a game,"
+    },
+    {
+      "start": 239.766,
+      "end": 243.5,
+      "text": "developers are eager to show everything."
+    },
+    {
+      "start": 243.566,
+      "end": 244.683,
+      "text": "This trailer for Hollow Knight"
+    },
+    {
+      "start": 244.683,
+      "end": 248.366,
+      "text": "is actually a great example because look at all these title cards."
+    },
+    {
+      "start": 248.45,
+      "end": 251.2,
+      "text": "This is just a laundry list of every feature,"
+    },
+    {
+      "start": 251.266,
+      "end": 254.266,
+      "text": "which is a really boring way to talk about the game."
+    },
+    {
+      "start": 254.333,
+      "end": 258.3,
+      "text": "But of course, the game was so transcendentally well made..."
+    },
+    {
+      "start": 258.366,
+      "end": 259.533,
+      "text": "that this didn't matter."
+    },
+    {
+      "start": 259.533,
+      "end": 262.15,
+      "text": "BUT MOST GAMES ARE NOT HOLLOW KNIGHT!"
+    },
+    {
+      "start": 262.216,
+      "end": 265.733,
+      "text": "the problem here, is by calling out so many aspects of the game,"
+    },
+    {
+      "start": 265.933,
+      "end": 267.783,
+      "text": "you're reducing their significance."
+    },
+    {
+      "start": 268.016,
+      "end": 273.416,
+      "text": "Giving equal weight to every feature means no one or two stand out."
+    },
+    {
+      "start": 273.633,
+      "end": 274.5,
+      "text": "For example,"
+    },
+    {
+      "start": 274.566,
+      "end": 278.85,
+      "text": "if a trailer for The Legend of Zelda Breath of the Wild gave equal time to:"
+    },
+    {
+      "start": 279,
+      "end": 281.666,
+      "text": "Climbing, fishing, combat, cooking,"
+    },
+    {
+      "start": 281.7,
+      "end": 285.516,
+      "text": "talking to NPCs, solving puzzles, and decorating your house."
+    },
+    {
+      "start": 285.866,
+      "end": 289.316,
+      "text": "This would be a terrible trailer for Breath of the Wild,"
+    },
+    {
+      "start": 289.55,
+      "end": 294.683,
+      "text": "because it wouldn't showcase how game changing the exploration is."
+    },
+    {
+      "start": 295.016,
+      "end": 299.2,
+      "text": "The actual trailers for Breath of the Wild spent a lot of time showing the climbing"
+    },
+    {
+      "start": 299.266,
+      "end": 304.366,
+      "text": "and exploration not just in quantity, but the cinematography also highlights it."
+    },
+    {
+      "start": 304.5,
+      "end": 309.516,
+      "text": "But if the trailers didn't make it clear, exploring and climbing is THE THING..."
+    },
+    {
+      "start": 309.583,
+      "end": 310.6,
+      "text": "in this game,"
+    },
+    {
+      "start": 310.683,
+      "end": 315.15,
+      "text": "people might get the impression there's just a few climbable surfaces."
+    },
+    {
+      "start": 315.35,
+      "end": 318.933,
+      "text": "Of course, in the end, Nintendo in this hypothetical scenario,"
+    },
+    {
+      "start": 319,
+      "end": 320.883,
+      "text": "botching that trailer would have been fine."
+    },
+    {
+      "start": 320.95,
+      "end": 324.1,
+      "text": "But if you're an indie game dev with little to no reputation"
+    },
+    {
+      "start": 324.166,
+      "end": 327.283,
+      "text": "or marketing muscle, first impressions matter."
+    },
+    {
+      "start": 327.55,
+      "end": 333.316,
+      "text": "So a trailer which doesn't accurately show your game can make a HUGE DIFFERENCE!"
+    },
+    {
+      "start": 333.85,
+      "end": 340.483,
+      "text": "I think the best trailers pick 1 to 3 pillars and make those the key messages."
+    },
+    {
+      "start": 340.616,
+      "end": 341.4,
+      "text": "Think of it this way:"
+    },
+    {
+      "start": 341.466,
+      "end": 345.616,
+      "text": "how would you describe a friend or family member to someone who's never met them before?"
+    },
+    {
+      "start": 345.883,
+      "end": 349,
+      "text": "For example, my friend Julio is Puerto Rican,"
+    },
+    {
+      "start": 349.183,
+      "end": 353.316,
+      "text": "really good at Chinese kung fu and knows all there is to know about beer."
+    },
+    {
+      "start": 353.416,
+      "end": 354.05,
+      "text": "That's Julio."
+    },
+    {
+      "start": 354.083,
+      "end": 354.933,
+      "text": "We love Julio."
+    },
+    {
+      "start": 355,
+      "end": 357.333,
+      "text": "Think about your game in these terms."
+    },
+    {
+      "start": 357.4,
+      "end": 360.4,
+      "text": "For example, in Firewatch, you're a fire lookout"
+    },
+    {
+      "start": 360.583,
+      "end": 363.483,
+      "text": "who uses their walkie talkie to communicate with their boss."
+    },
+    {
+      "start": 363.5,
+      "end": 364.816,
+      "text": "And there's a mystery."
+    },
+    {
+      "start": 364.883,
+      "end": 367.883,
+      "text": "Stray Gods is about Greek gods in a modern environment."
+    },
+    {
+      "start": 367.966,
+      "end": 371.033,
+      "text": "There's a murder mystery, and it's an interactive musical."
+    },
+    {
+      "start": 371.233,
+      "end": 374.966,
+      "text": "Venba is about Indian immigrants, cooking, and family."
+    },
+    {
+      "start": 375.15,
+      "end": 379.916,
+      "text": "Breath of the Wild’s key features are: climbing and exploring, Link's new magic abilities,"
+    },
+    {
+      "start": 380.1,
+      "end": 384.5,
+      "text": "and the physics sandbox design, which allows for play and experimentation."
+    },
+    {
+      "start": 384.566,
+      "end": 388.35,
+      "text": "Give more significance to the key pillars of the game..."
+    },
+    {
+      "start": 388.583,
+      "end": 392.15,
+      "text": "by dedicating the most time to them in the trailer."
+    },
+    {
+      "start": 392.383,
+      "end": 396.566,
+      "text": "If your game is 3% story and 97% gameplay,"
+    },
+    {
+      "start": 396.85,
+      "end": 400.95,
+      "text": "don't make the trailer 50% story and 50% gameplay."
+    },
+    {
+      "start": 401.033,
+      "end": 404.283,
+      "text": "So how should you structure your game's trailer?"
+    },
+    {
+      "start": 404.65,
+      "end": 411.916,
+      "text": "First, stop making a trailer based off what you think a typical trailer “looks” like."
+    },
+    {
+      "start": 411.983,
+      "end": 416.533,
+      "text": "NARRATOR: HERE WE GOOOOOOO!!!"
+    },
+    {
+      "start": 418.516,
+      "end": 422.733,
+      "text": "This means no protracted sequences of logos at the start."
+    },
+    {
+      "start": 423.1,
+      "end": 425.883,
+      "text": "No title cards Just for the sake of it."
+    },
+    {
+      "start": 425.95,
+      "end": 428.416,
+      "text": "No voiceover just for the sake of it."
+    },
+    {
+      "start": 428.483,
+      "end": 432.733,
+      "text": "No empty environment shots to slowly ease people into the trailer."
+    },
+    {
+      "start": 432.883,
+      "end": 436.466,
+      "text": "Easing the audience into the trailer is a luxury you can afford."
+    },
+    {
+      "start": 436.533,
+      "end": 442.05,
+      "text": "IF AND ONLY IF you know the trailer will play in front of a captive audience"
+    },
+    {
+      "start": 442.116,
+      "end": 443.583,
+      "text": "who either can't look away"
+    },
+    {
+      "start": 443.583,
+      "end": 447.45,
+      "text": "or has already decided to watch trailers for the next 1 to 3 hours of their life."
+    },
+    {
+      "start": 447.533,
+      "end": 450.583,
+      "text": "A trailer doesn't need to “look” like a trailer"
+    },
+    {
+      "start": 455.833,
+      "end": 458.866,
+      "text": "or “feel” like a trailer to be a legit trailer."
+    },
+    {
+      "start": 459.016,
+      "end": 463.933,
+      "text": "It just has to be a short video, which quickly sums up what the game is."
+    },
+    {
+      "start": 464.05,
+      "end": 469.1,
+      "text": "For example, this trailer for Tiny Glade is a GREAT trailer for Tiny Glade."
+    },
+    {
+      "start": 470.283,
+      "end": 475.616,
+      "text": "It's just five shots, but it perfectly shows what Tiny Glade is and isn't."
+    },
+    {
+      "start": 475.85,
+      "end": 478.85,
+      "text": "Also, it has perfect eye trace."
+    },
+    {
+      "start": 478.966,
+      "end": 481.583,
+      "text": "Just watch as the cursor here goes..."
+    },
+    {
+      "start": 481.633,
+      "end": 483.583,
+      "text": "Oh, yeah, that's the stuff."
+    },
+    {
+      "start": 483.65,
+      "end": 485,
+      "text": "the music is chill."
+    },
+    {
+      "start": 485.066,
+      "end": 487.05,
+      "text": "Each shot builds upon the last one."
+    },
+    {
+      "start": 487.05,
+      "end": 490.2,
+      "text": "Introducing more game mechanics which keep things interesting."
+    },
+    {
+      "start": 492.566,
+      "end": 496.716,
+      "text": "So, what order should you show the parts of your game in a trailer?"
+    },
+    {
+      "start": 496.816,
+      "end": 501.266,
+      "text": "Like I said at the start, structure of the trailer like a good verbal pitch."
+    },
+    {
+      "start": 501.583,
+      "end": 505.25,
+      "text": "This ensures you show things in an order which makes sense"
+    },
+    {
+      "start": 505.483,
+      "end": 508.766,
+      "text": "and layers new ideas through the trailer."
+    },
+    {
+      "start": 509.066,
+      "end": 513.233,
+      "text": "For example, I'm going to give you a TERRIBLE pitch for Spelunky 2."
+    },
+    {
+      "start": 513.316,
+      "end": 516.883,
+      "text": "Spelunky 2 is a game where you have a jetpack, save cats,"
+    },
+    {
+      "start": 516.95,
+      "end": 518.833,
+      "text": "There are boss battles, randomized levels."
+    },
+    {
+      "start": 518.9,
+      "end": 523.1,
+      "text": "You dig holes, fight enemies, collect gems and money, and buy items and upgrades."
+    },
+    {
+      "start": 523.4,
+      "end": 527.333,
+      "text": "Anyone who's never played or heard of Spelunky is very confused right now."
+    },
+    {
+      "start": 527.416,
+      "end": 528.466,
+      "text": "What genre is it?"
+    },
+    {
+      "start": 528.533,
+      "end": 531.516,
+      "text": "Is it 2D, 3D, third person?"
+    },
+    {
+      "start": 531.583,
+      "end": 532.433,
+      "text": "First person?"
+    },
+    {
+      "start": 532.433,
+      "end": 534.416,
+      "text": "There are so many basic questions"
+    },
+    {
+      "start": 534.416,
+      "end": 538.25,
+      "text": "the audience needs answers to even begin forming a picture."
+    },
+    {
+      "start": 538.316,
+      "end": 540.183,
+      "text": "I'm going to give a better pitch."
+    },
+    {
+      "start": 540.25,
+      "end": 542.8,
+      "text": "Still not the best pitch, but a much better start."
+    },
+    {
+      "start": 542.866,
+      "end": 546.783,
+      "text": "Spelunky 2 is a side scrolling platformer where you explore a mine"
+    },
+    {
+      "start": 546.85,
+      "end": 547.916,
+      "text": "search for treasure."
+    },
+    {
+      "start": 547.983,
+      "end": 551.2,
+      "text": "The level layouts randomize so it's different every time you play."
+    },
+    {
+      "start": 551.616,
+      "end": 553.45,
+      "text": "There are lots of enemies and traps..."
+    },
+    {
+      "start": 553.5,
+      "end": 556.216,
+      "text": "whose behaviors and quirks you need to learn and master,"
+    },
+    {
+      "start": 556.283,
+      "end": 559.5,
+      "text": "and every single run you start with only..."
+    },
+    {
+      "start": 559.5,
+      "end": 561.625,
+      "text": "four bombs, four ropes, and four hearts."
+    },
+    {
+      "start": 561.933,
+      "end": 564.933,
+      "text": "There are lots of biomes and secrets to uncover."
+    },
+    {
+      "start": 565.066,
+      "end": 566.283,
+      "text": "Much clearer, right?"
+    },
+    {
+      "start": 566.35,
+      "end": 568.35,
+      "text": "Now, of course, a bunch of you are thinking:"
+    },
+    {
+      "start": 568.416,
+      "end": 571.716,
+      "text": "“But Derek, trailers can be so much more than a verbal pitch..."
+    },
+    {
+      "start": 571.783,
+      "end": 574.216,
+      "text": "because they use visuals, audio, and editing.”"
+    },
+    {
+      "start": 574.283,
+      "end": 577.366,
+      "text": "yes, but for most games you still need to present information"
+    },
+    {
+      "start": 577.433,
+      "end": 581.7,
+      "text": "in a logical order for us to understand what the heck we're even seeing."
+    },
+    {
+      "start": 581.766,
+      "end": 586.266,
+      "text": "I can't pitch you on a new food place, that I'm opening a 30 min drive away..."
+    },
+    {
+      "start": 586.333,
+      "end": 588.583,
+      "text": "by first talking about flavors and toppings."
+    },
+    {
+      "start": 588.8,
+      "end": 591.25,
+      "text": "I have to start with what food the place is serving."
+    },
+    {
+      "start": 591.316,
+      "end": 593.266,
+      "text": "even after explaining it's an ice cream shop."
+    },
+    {
+      "start": 593.283,
+      "end": 596.7,
+      "text": "The next words out of my mouth can't just be flavors and toppings."
+    },
+    {
+      "start": 597.033,
+      "end": 600.866,
+      "text": "The next part has to be what makes my ice cream shop unique."
+    },
+    {
+      "start": 601.25,
+      "end": 603.4,
+      "text": "If your pitch works through text alone,"
+    },
+    {
+      "start": 603.466,
+      "end": 608.15,
+      "text": "well-made and edited visuals and sound ENHANCES the presentation."
+    },
+    {
+      "start": 608.216,
+      "end": 611.733,
+      "text": "Starting by just throwing in a bunch of shots can make it harder to realize..."
+    },
+    {
+      "start": 611.8,
+      "end": 614.2,
+      "text": "you're making a trailer, which makes no sense."
+    },
+    {
+      "start": 614.266,
+      "end": 616.566,
+      "text": "Just because you're showing images from the game..."
+    },
+    {
+      "start": 616.566,
+      "end": 618.616,
+      "text": "doesn't mean the message is sinking in."
+    },
+    {
+      "start": 618.783,
+      "end": 621.2,
+      "text": "Here's a great template for your game’s pitch"
+    },
+    {
+      "start": 621.216,
+      "end": 623.65,
+      "text": "by game dev Jonas Tyroller from his video:"
+    },
+    {
+      "start": 623.716,
+      "end": 626.35,
+      "text": "“What Sells on Steam?: You Don’t Need a Hook”"
+    },
+    {
+      "start": 626.416,
+      "end": 627.85,
+      "text": "(which I highly recommend)."
+    },
+    {
+      "start": 627.916,
+      "end": 631.833,
+      "text": "[NAME] is a [GENRE] game about [FANTASY]."
+    },
+    {
+      "start": 632.05,
+      "end": 634.516,
+      "text": "You [VERBS + USP]"
+    },
+    {
+      "start": 634.583,
+      "end": 636.733,
+      "text": "So the [NAME]is of course the name of your game."
+    },
+    {
+      "start": 636.8,
+      "end": 639.533,
+      "text": "[GENRE] is something like: side scrolling platformer,"
+    },
+    {
+      "start": 639.6,
+      "end": 645.383,
+      "text": "and the [FANTASY] is the role you inhabit or the thing that you do in the game."
+    },
+    {
+      "start": 645.45,
+      "end": 650.133,
+      "text": "So for example: Uncharted’s fantasy is being a globetrotting adventurer."
+    },
+    {
+      "start": 650.2,
+      "end": 653.25,
+      "text": "PEAK’s fantasy is climbing a huge mountain with your friends."
+    },
+    {
+      "start": 653.366,
+      "end": 657.366,
+      "text": "PVKK’s is operating a massive planetary defense cannon."
+    },
+    {
+      "start": 659.833,
+      "end": 662.833,
+      "text": "and Unpacking’s is “Unpacking, but fun.”"
+    },
+    {
+      "start": 664.866,
+      "end": 666.833,
+      "text": "[VERBS] are the thing you do in the game,"
+    },
+    {
+      "start": 666.833,
+      "end": 669.9,
+      "text": "and the [USP] is the Unique Selling Point."
+    },
+    {
+      "start": 670.083,
+      "end": 671.233,
+      "text": "using this template."
+    },
+    {
+      "start": 671.25,
+      "end": 673.916,
+      "text": "Here's Jonas's pitch for his game Thronefall."
+    },
+    {
+      "start": 673.916,
+      "end": 678.05,
+      "text": "Thrownfall is a minimalist strategy game about building and defending your kingdom."
+    },
+    {
+      "start": 678.116,
+      "end": 681.816,
+      "text": "You construct buildings during the day and fight along units during the night."
+    },
+    {
+      "start": 681.933,
+      "end": 684.8,
+      "text": "Now that we know to structure trailers like a good verbal pitch—"
+    },
+    {
+      "start": 684.8,
+      "end": 686.45,
+      "text": "at least to start,"
+    },
+    {
+      "start": 686.45,
+      "end": 688.15,
+      "text": "what does this look like in practice?"
+    },
+    {
+      "start": 688.566,
+      "end": 691.566,
+      "text": "How this goes depends on the type of game you're making."
+    },
+    {
+      "start": 691.9,
+      "end": 694,
+      "text": "Let's start with the easiest scenario."
+    },
+    {
+      "start": 694,
+      "end": 695.983,
+      "text": "The truly hooky game."
+    },
+    {
+      "start": 696.05,
+      "end": 698.933,
+      "text": "This is a game which has no comparison..."
+    },
+    {
+      "start": 699,
+      "end": 701.65,
+      "text": "in marketing terms It's a “first to market game.”"
+    },
+    {
+      "start": 701.716,
+      "end": 702.625,
+      "text": "It's singular."
+    },
+    {
+      "start": 702.625,
+      "end": 702.7,
+      "text": "in marketing terms. It's a first to market game. It's singular."
+    },
+    {
+      "start": 702.7,
+      "end": 707.433,
+      "text": "There's little point of reference beyond a camera perspective or control scheme."
+    },
+    {
+      "start": 707.6,
+      "end": 710.2,
+      "text": "Games like: Tiny Glade (which I showed),"
+    },
+    {
+      "start": 710.266,
+      "end": 712.216,
+      "text": "Papers Please or Unpacking."
+    },
+    {
+      "start": 712.283,
+      "end": 715.35,
+      "text": "These games pretty much just have to show how they work."
+    },
+    {
+      "start": 715.416,
+      "end": 718.866,
+      "text": "Their trailers don't even have to get into details like:"
+    },
+    {
+      "start": 718.933,
+      "end": 721.583,
+      "text": "the story and the plot, or the goals of the player."
+    },
+    {
+      "start": 721.916,
+      "end": 725.033,
+      "text": "They just need to show what the thing is."
+    },
+    {
+      "start": 725.183,
+      "end": 729.416,
+      "text": "And the trailers for these games are excellent because they do just that."
+    },
+    {
+      "start": 729.5,
+      "end": 732.983,
+      "text": "The trailer for Papers Place is very much structured, like a verbal pitch."
+    },
+    {
+      "start": 733.05,
+      "end": 737.7,
+      "text": "The first 40s show the basic game loop calling a person into your booth,"
+    },
+    {
+      "start": 737.9,
+      "end": 741.566,
+      "text": "receiving their passport or stamping it and sending them on their way."
+    },
+    {
+      "start": 741.75,
+      "end": 744.366,
+      "text": "40s on just the basics."
+    },
+    {
+      "start": 744.433,
+      "end": 748.066,
+      "text": "The next 50s show the twists and turns on mechanic."
+    },
+    {
+      "start": 748.2,
+      "end": 751.166,
+      "text": "New paperwork to check, new rules and mandates."
+    },
+    {
+      "start": 751.233,
+      "end": 754.45,
+      "text": "Searching for contraband and people throwing pipe bombs."
+    },
+    {
+      "start": 756.633,
+      "end": 758.016,
+      "text": "The last 15 seconds"
+    },
+    {
+      "start": 758.016,
+      "end": 761.65,
+      "text": "is a content montage which shows a huge variety of faces."
+    },
+    {
+      "start": 761.866,
+      "end": 764.833,
+      "text": "If you reverse engineer the trailer for papers, please"
+    },
+    {
+      "start": 764.9,
+      "end": 767.816,
+      "text": "and turn it into a verbal pitch, it sounds like this."
+    },
+    {
+      "start": 767.883,
+      "end": 769.383,
+      "text": "Papers, please, is a game"
+    },
+    {
+      "start": 769.383,
+      "end": 773.55,
+      "text": "where you're an immigration inspector, where you call in immigrants one by one."
+    },
+    {
+      "start": 773.883,
+      "end": 777.3,
+      "text": "You inspect their papers and approve or deny their entry."
+    },
+    {
+      "start": 777.816,
+      "end": 780.816,
+      "text": "The country you work in is the fictitious country of artists."
+    },
+    {
+      "start": 781.35,
+      "end": 784,
+      "text": "Things grow more complicated as some people"
+    },
+    {
+      "start": 784,
+      "end": 786.983,
+      "text": "try to jump the border and attack with explosives."
+    },
+    {
+      "start": 787.05,
+      "end": 790.4,
+      "text": "The number of documents you check will increase, requiring you"
+    },
+    {
+      "start": 790.466,
+      "end": 793.466,
+      "text": "to keep a closer eye on discrepancies."
+    },
+    {
+      "start": 793.533,
+      "end": 796.4,
+      "text": "Some citizens require additional searches for contraband."
+    },
+    {
+      "start": 796.466,
+      "end": 798.75,
+      "text": "There's a wide variety of people whose documents"
+    },
+    {
+      "start": 798.75,
+      "end": 801.466,
+      "text": "you'll have to search and approve or reject."
+    },
+    {
+      "start": 801.466,
+      "end": 804.533,
+      "text": "This does not encompass the entirety of papers, please,"
+    },
+    {
+      "start": 804.6,
+      "end": 808.4,
+      "text": "but it was enough to pull the audience in because the concept was so novel"
+    },
+    {
+      "start": 808.466,
+      "end": 808.966,
+      "text": "at the time."
+    },
+    {
+      "start": 808.966,
+      "end": 811.633,
+      "text": "The trailer for unpacking is similarly straightforward."
+    },
+    {
+      "start": 811.7,
+      "end": 814.933,
+      "text": "Here's how I'd reverse engineer a verbal pitch based on this trailer."
+    },
+    {
+      "start": 815,
+      "end": 818.95,
+      "text": "Unpacking is a pixel art puzzle game where you start in a room with boxes."
+    },
+    {
+      "start": 819.233,
+      "end": 822.5,
+      "text": "You open a box, remove objects, and place them in the room."
+    },
+    {
+      "start": 822.833,
+      "end": 824.466,
+      "text": "You don't know what's going to be in the box,"
+    },
+    {
+      "start": 824.533,
+      "end": 828.8,
+      "text": "but they're revealed one at a time in rooms such as Bathroom, kitchen."
+    },
+    {
+      "start": 828.916,
+      "end": 831.366,
+      "text": "Some places will have multiple rooms to navigate."
+    },
+    {
+      "start": 831.433,
+      "end": 834.316,
+      "text": "Objects like a pot might be in a living room box"
+    },
+    {
+      "start": 834.316,
+      "end": 835.983,
+      "text": "and need to be brought to your kitchen."
+    },
+    {
+      "start": 836.05,
+      "end": 838.3,
+      "text": "It's up to you how to decorate your rooms."
+    },
+    {
+      "start": 838.366,
+      "end": 842.6,
+      "text": "Some objects have light interactivity, like changing the poses on a wooden doll"
+    },
+    {
+      "start": 842.766,
+      "end": 845.583,
+      "text": "and turning on a Gamecube like console."
+    },
+    {
+      "start": 845.65,
+      "end": 848.65,
+      "text": "Each of these rooms is part of one person's life."
+    },
+    {
+      "start": 848.766,
+      "end": 849.483,
+      "text": "Most objects"
+    },
+    {
+      "start": 849.483,
+      "end": 853.35,
+      "text": "have no predetermined place to put them, but everything has to be put somewhere."
+    },
+    {
+      "start": 853.75,
+      "end": 856.35,
+      "text": "You can unlock special stickers with unique combinations"
+    },
+    {
+      "start": 856.35,
+      "end": 858.033,
+      "text": "like putting a toaster in the bathtub."
+    },
+    {
+      "start": 858.033,
+      "end": 858.733,
+      "text": "Add these stickers"
+    },
+    {
+      "start": 858.733,
+      "end": 861.733,
+      "text": "and custom backgrounds if you want to share images of your rooms."
+    },
+    {
+      "start": 861.8,
+      "end": 864.933,
+      "text": "Some objects, like a plush pig, carry across multiple levels."
+    },
+    {
+      "start": 865,
+      "end": 868.916,
+      "text": "When empty boxes disappear with a delightful swoosh sound."
+    },
+    {
+      "start": 869.866,
+      "end": 871.55,
+      "text": "There are many different levels to play."
+    },
+    {
+      "start": 871.616,
+      "end": 873.2,
+      "text": "Looking at this audit of the trailer"
+    },
+    {
+      "start": 873.2,
+      "end": 876.533,
+      "text": "tells me this sequence of ideas was well executed."
+    },
+    {
+      "start": 876.7,
+      "end": 879.85,
+      "text": "Okay, this is great for the games with a unique premise,"
+    },
+    {
+      "start": 879.916,
+      "end": 884.55,
+      "text": "but what about the majority of games which iterate on popular genres and formulas?"
+    },
+    {
+      "start": 884.65,
+      "end": 888.733,
+      "text": "This is a more difficult situation, but you still need to present things"
+    },
+    {
+      "start": 888.95,
+      "end": 890.433,
+      "text": "in a logical order."
+    },
+    {
+      "start": 890.5,
+      "end": 892.016,
+      "text": "when you don't have a captive audience."
+    },
+    {
+      "start": 892.083,
+      "end": 895.916,
+      "text": "Show the genre as soon as possible."
+    },
+    {
+      "start": 896.116,
+      "end": 899.15,
+      "text": "All most gamers need is to see the camera perspective"
+    },
+    {
+      "start": 899.4,
+      "end": 903.383,
+      "text": "and a bit of player controlled gameplay to have a ballpark idea of the genre."
+    },
+    {
+      "start": 903.5,
+      "end": 904.966,
+      "text": "what kind of game is this?"
+    },
+    {
+      "start": 905.033,
+      "end": 906.633,
+      "text": "This? This?"
+    },
+    {
+      "start": 906.7,
+      "end": 908.4,
+      "text": "This or this?"
+    },
+    {
+      "start": 908.466,
+      "end": 912.3,
+      "text": "If the audience plays a lot of games, a single shot of gameplay"
+    },
+    {
+      "start": 912.366,
+      "end": 914.483,
+      "text": "where the player is visible is enough"
+    },
+    {
+      "start": 914.483,
+      "end": 918.516,
+      "text": "to flood their head with preconceptions and staples of the genre."
+    },
+    {
+      "start": 918.65,
+      "end": 921.566,
+      "text": "Familiar camera angles and gameplay styles"
+    },
+    {
+      "start": 921.633,
+      "end": 924.966,
+      "text": "makes us think of each genre's anchors."
+    },
+    {
+      "start": 925.15,
+      "end": 929.783,
+      "text": "If you're not familiar with the term, it was coined by Chris Zukowski of HowtoMarketaGame.com"
+    },
+    {
+      "start": 929.85,
+      "end": 935.716,
+      "text": "Anchors are common gameplay mechanics, conventions, and tropes copied from past games."
+    },
+    {
+      "start": 935.8,
+      "end": 941.366,
+      "text": "Anchors reassure fans your game has the core thing which define the genre."
+    },
+    {
+      "start": 941.733,
+      "end": 946.766,
+      "text": "For example, farming in a life sim, collecting coins in platformers,"
+    },
+    {
+      "start": 947.133,
+      "end": 952.283,
+      "text": "big maps in Metroidvanias, branching choices and upgrades in roguelikes."
+    },
+    {
+      "start": 952.783,
+      "end": 955.35,
+      "text": "Imagine a new Chinese restaurant opened near you."
+    },
+    {
+      "start": 955.416,
+      "end": 958.416,
+      "text": "You'd probably scan their menu to see what it's all about."
+    },
+    {
+      "start": 958.666,
+      "end": 962.566,
+      "text": "If it didn't have anchors like fried rice, lo mein chow fun, and egg rolls,"
+    },
+    {
+      "start": 962.683,
+      "end": 965.3,
+      "text": "You'd likely question if it's a legit Chinese place at all,"
+    },
+    {
+      "start": 965.366,
+      "end": 967.3,
+      "text": "but if it does have those things,"
+    },
+    {
+      "start": 967.483,
+      "end": 970.166,
+      "text": "that's enough reassurance to then look for something unique..."
+    },
+    {
+      "start": 970.233,
+      "end": 973.583,
+      "text": "to justify trying it over your usual favorite Chinese place."
+    },
+    {
+      "start": 973.75,
+      "end": 979.083,
+      "text": "Anchors give us a starting point, which allows us to see what is unique and hooky."
+    },
+    {
+      "start": 979.3,
+      "end": 983.1,
+      "text": "That's why it's essential to start with an in-game camera angle,"
+    },
+    {
+      "start": 983.166,
+      "end": 986.666,
+      "text": "or player-controlled gameplay, which signals those anchors."
+    },
+    {
+      "start": 986.733,
+      "end": 991.4,
+      "text": "In a verbal pitch the first “shot” is the genre or genres."
+    },
+    {
+      "start": 991.7,
+      "end": 994,
+      "text": "after starting with a general defining shot,"
+    },
+    {
+      "start": 994.066,
+      "end": 997.966,
+      "text": "the trailer needs to move onto what the unique or hooky thing is."
+    },
+    {
+      "start": 999.066,
+      "end": 1003.616,
+      "text": "WINSTON: Oh, come on, Mr. Palmer left the car in reverse!"
+    },
+    {
+      "start": 1004.266,
+      "end": 1007.466,
+      "text": "What you don't want to do after defining the genre..."
+    },
+    {
+      "start": 1007.533,
+      "end": 1012.883,
+      "text": "is to spend time showing every little thing your game has in common with other games."
+    },
+    {
+      "start": 1013.266,
+      "end": 1015.833,
+      "text": "This would be like if your pitch for a new Chinese restaurant was..."
+    },
+    {
+      "start": 1015.9,
+      "end": 1019.633,
+      "text": "every dish you already expect to find in any Chinese place."
+    },
+    {
+      "start": 1020.083,
+      "end": 1023.683,
+      "text": "Sure, we all need our staple go to Chinese takeout spot,"
+    },
+    {
+      "start": 1023.916,
+      "end": 1025.8,
+      "text": "but once we have a good one,"
+    },
+    {
+      "start": 1025.866,
+      "end": 1029.283,
+      "text": "we need a distinguishing factor to take a chance on a different place."
+    },
+    {
+      "start": 1029.483,
+      "end": 1033.283,
+      "text": "In contrast to anchors, hooks are what perk up our attention"
+    },
+    {
+      "start": 1033.35,
+      "end": 1036.966,
+      "text": "by showing something unexpected and literally game changing."
+    },
+    {
+      "start": 1037.25,
+      "end": 1041.333,
+      "text": "It changes the game just enough to create a whole new experience."
+    },
+    {
+      "start": 1041.4,
+      "end": 1044.916,
+      "text": "Like ice cream, but made with liquid nitrogen"
+    },
+    {
+      "start": 1044.983,
+      "end": 1051.433,
+      "text": "or in game terms, 3rd person action shooter plus “cut off their limbs” equals Dead Space."
+    },
+    {
+      "start": 1051.633,
+      "end": 1055.066,
+      "text": "Open world plus Dark Souls equals Elden Ring."
+    },
+    {
+      "start": 1055.283,
+      "end": 1059.8,
+      "text": "Tomb Raider plus a wrist grappling hook equals Tomb Raider Catalyst"
+    },
+    {
+      "start": 1059.866,
+      "end": 1064.416,
+      "text": "Realtalk, A lot of games don't actually have a strong hook."
+    },
+    {
+      "start": 1064.833,
+      "end": 1067.866,
+      "text": "They just have something that's a little bit different,"
+    },
+    {
+      "start": 1067.866,
+      "end": 1072.666,
+      "text": "like an upgrade system or customizable powers, or a different art style."
+    },
+    {
+      "start": 1072.733,
+      "end": 1075.033,
+      "text": "Good hooks come in many forms."
+    },
+    {
+      "start": 1075.1,
+      "end": 1076.566,
+      "text": "Here are some of the big ones."
+    },
+    {
+      "start": 1076.633,
+      "end": 1077.55,
+      "text": "First to market."
+    },
+    {
+      "start": 1077.616,
+      "end": 1080.3,
+      "text": "Here you want the reaction to be: “Ooo, that's new!”"
+    },
+    {
+      "start": 1080.366,
+      "end": 1084.2,
+      "text": "This category is arguably the easiest thing for a trailer editor to work on,"
+    },
+    {
+      "start": 1084.266,
+      "end": 1087.483,
+      "text": "because when you're first in the space, there's no one to compare you to."
+    },
+    {
+      "start": 1087.833,
+      "end": 1090.683,
+      "text": "As long as it's interesting or compelling, you're good to go."
+    },
+    {
+      "start": 1090.683,
+      "end": 1092.35,
+      "text": "Some good examples are."
+    },
+    {
+      "start": 1092.416,
+      "end": 1095.866,
+      "text": "Stray, the first big budget game where you play as a cat."
+    },
+    {
+      "start": 1096.2,
+      "end": 1099.166,
+      "text": "Stray became shorthand for any game with a cat in it,"
+    },
+    {
+      "start": 1099.233,
+      "end": 1102.983,
+      "text": "because it was the first to market, and became a market leader in cat games."
+    },
+    {
+      "start": 1103.15,
+      "end": 1104.166,
+      "text": "CAT: Meow."
+    },
+    {
+      "start": 1104.233,
+      "end": 1108.583,
+      "text": "Ghost of Tsushima, first AAA open world game set in feudal Japan."
+    },
+    {
+      "start": 1108.75,
+      "end": 1109.583,
+      "text": "Papers, please."
+    },
+    {
+      "start": 1109.6,
+      "end": 1112.816,
+      "text": "First immigration inspector document checking game."
+    },
+    {
+      "start": 1112.883,
+      "end": 1117.766,
+      "text": "Next, a game can have a hooky world or premise where the reaction is:"
+    },
+    {
+      "start": 1118.066,
+      "end": 1122.3,
+      "text": "“I want to explore that space” or “I want to exist in that space.”"
+    },
+    {
+      "start": 1122.466,
+      "end": 1125.85,
+      "text": "Some good examples are Dredge, cosmic horror fishing game"
+    },
+    {
+      "start": 1125.916,
+      "end": 1128.916,
+      "text": "Journey with its beautiful art and peaceful vibes,"
+    },
+    {
+      "start": 1129.05,
+      "end": 1132.85,
+      "text": "and Half-Life 2 with its oppressive dystopian alien world."
+    },
+    {
+      "start": 1133.133,
+      "end": 1136.016,
+      "text": "A game can also have hooky characters which make people think:"
+    },
+    {
+      "start": 1136.016,
+      "end": 1140.4,
+      "text": "“I want to be that character,” or “I want to interact with those characters.”"
+    },
+    {
+      "start": 1140.5,
+      "end": 1145.3,
+      "text": "Some good examples, I think are Dispatch, Venba, and Little Kitty, Big City."
+    },
+    {
+      "start": 1145.666,
+      "end": 1148.133,
+      "text": "A story can be the hook where you want the reaction to be:"
+    },
+    {
+      "start": 1148.2,
+      "end": 1151,
+      "text": "“I want to see how that story unfolds.”"
+    },
+    {
+      "start": 1151.066,
+      "end": 1155.033,
+      "text": "For example, Firewatch, a sad middle aged man, retreats to being a fire lookout"
+    },
+    {
+      "start": 1155.1,
+      "end": 1156.683,
+      "text": "because his wife has dementia."
+    },
+    {
+      "start": 1156.75,
+      "end": 1157.933,
+      "text": "Sounds so fun! (lol)"
+    },
+    {
+      "start": 1158,
+      "end": 1159.9,
+      "text": "Death Stranding has a hooky story."
+    },
+    {
+      "start": 1159.966,
+      "end": 1162.666,
+      "text": "No clue what's happening, but I'm curious."
+    },
+    {
+      "start": 1162.733,
+      "end": 1166.716,
+      "text": "Clair Obscur Expedition 33 has an incredibly hooky story premise."
+    },
+    {
+      "start": 1166.983,
+      "end": 1170.316,
+      "text": "Everyone in the world is going to die when they turn 33?"
+    },
+    {
+      "start": 1170.566,
+      "end": 1173.066,
+      "text": "Why yes, I do want to see why that is."
+    },
+    {
+      "start": 1173.133,
+      "end": 1178.016,
+      "text": "Challenge can be a hook where the game has something which looks or feels like an interesting problem,"
+    },
+    {
+      "start": 1178.083,
+      "end": 1181.333,
+      "text": "and people react by saying,: “I want to prove myself with that.”"
+    },
+    {
+      "start": 1181.483,
+      "end": 1182.483,
+      "text": "Some examples."
+    },
+    {
+      "start": 1182.55,
+      "end": 1186.566,
+      "text": "Elden Ring and the Souls games, Cairn, Baby Steps."
+    },
+    {
+      "start": 1188.05,
+      "end": 1191.883,
+      "text": "Types of hooky challenges can take so many forms"
+    },
+    {
+      "start": 1191.95,
+      "end": 1194.733,
+      "text": "a game can also have a hooky, mechanic or interaction..."
+    },
+    {
+      "start": 1194.8,
+      "end": 1197.3,
+      "text": "where when people see it and they think: “I want to play with that.”"
+    },
+    {
+      "start": 1197.666,
+      "end": 1201.05,
+      "text": "“I want to tinker with that” or “I want to do that over and over.”"
+    },
+    {
+      "start": 1201.233,
+      "end": 1202.75,
+      "text": "SUPERHOT is a great example."
+    },
+    {
+      "start": 1202.816,
+      "end": 1206.266,
+      "text": "First person shooter where time only moves when you move."
+    },
+    {
+      "start": 1206.55,
+      "end": 1209.283,
+      "text": "This upcoming game Reshine is a good example for people like me..."
+    },
+    {
+      "start": 1209.316,
+      "end": 1213.216,
+      "text": "who spend too much time watching antique toy restoration videos on TikTok."
+    },
+    {
+      "start": 1213.483,
+      "end": 1216.933,
+      "text": "Viewfinder is a good example because just look at this."
+    },
+    {
+      "start": 1217.133,
+      "end": 1218.666,
+      "text": "Heck yeah, I want to do that over and over!"
+    },
+    {
+      "start": 1218.733,
+      "end": 1222.416,
+      "text": "Satisfactory and factory games can fit in here or in the challenge category."
+    },
+    {
+      "start": 1222.7,
+      "end": 1224.433,
+      "text": "This can go so many ways."
+    },
+    {
+      "start": 1224.5,
+      "end": 1227.15,
+      "text": "this list of hooks and the “I want to explore that.”"
+    },
+    {
+      "start": 1227.15,
+      "end": 1230.966,
+      "text": "“I want to do that.” quotes are also from Jonas Tyroller’s video."
+    },
+    {
+      "start": 1231.033,
+      "end": 1231.8,
+      "text": "It's a good video!"
+    },
+    {
+      "start": 1231.8,
+      "end": 1235.433,
+      "text": "Now let's see what a trailer made like a good verbal pitch..."
+    },
+    {
+      "start": 1235.5,
+      "end": 1238.333,
+      "text": "looks like with Super Mario Odyssey."
+    },
+    {
+      "start": 1238.716,
+      "end": 1239.8,
+      "text": "MARIO: Whoo-hoo!"
+    },
+    {
+      "start": 1239.95,
+      "end": 1242.55,
+      "text": "First party Nintendo titles of course have a leg up,"
+    },
+    {
+      "start": 1242.616,
+      "end": 1245.233,
+      "text": "because of their strong brand of quality games."
+    },
+    {
+      "start": 1245.45,
+      "end": 1249.733,
+      "text": "But each new game still has to show what they've retained from previous games..."
+    },
+    {
+      "start": 1249.883,
+      "end": 1250.966,
+      "text": "and what's new."
+    },
+    {
+      "start": 1251.033,
+      "end": 1254.166,
+      "text": "This trailer starts with a cryptic cold open with a T-Rex."
+    },
+    {
+      "start": 1254.516,
+      "end": 1257.7,
+      "text": "You'll notice there's no indicator of what genre the game is,"
+    },
+    {
+      "start": 1257.95,
+      "end": 1260.95,
+      "text": "or even what Nintendo game this belongs to."
+    },
+    {
+      "start": 1261.1,
+      "end": 1263.1,
+      "text": "They could do this because this trailer played..."
+    },
+    {
+      "start": 1263.1,
+      "end": 1265.533,
+      "text": "during an E3 presentation with a captive audience."
+    },
+    {
+      "start": 1265.6,
+      "end": 1268.433,
+      "text": "Though reputable brands like Nintendo can..."
+    },
+    {
+      "start": 1268.5,
+      "end": 1272.216,
+      "text": "pretty much always make trailers as if they have a captive audience."
+    },
+    {
+      "start": 1272.6,
+      "end": 1275.6,
+      "text": "Then we see the T-Rex is wearing a Mario cap with eyes on it."
+    },
+    {
+      "start": 1275.8,
+      "end": 1277.233,
+      "text": "Then Mario jumps out."
+    },
+    {
+      "start": 1277.35,
+      "end": 1278.333,
+      "text": "MARIO: Yeah hoo hoo!"
+    },
+    {
+      "start": 1278.583,
+      "end": 1281.466,
+      "text": "First message is: this is a Mario game."
+    },
+    {
+      "start": 1281.533,
+      "end": 1282.533,
+      "text": "Next question:"
+    },
+    {
+      "start": 1282.6,
+      "end": 1284.066,
+      "text": "But what kind of Mario game?"
+    },
+    {
+      "start": 1284.133,
+      "end": 1288.733,
+      "text": "Is it a side scrolling one or 3D one like Mario 64 or Mario Galaxy?"
+    },
+    {
+      "start": 1288.933,
+      "end": 1292.383,
+      "text": "The next shots show Mario driving in a city,"
+    },
+    {
+      "start": 1292.716,
+      "end": 1294.616,
+      "text": "Mario running across hills,"
+    },
+    {
+      "start": 1294.683,
+      "end": 1298.683,
+      "text": "and then in a familiar camera angle from behind as he runs through a desert."
+    },
+    {
+      "start": 1298.75,
+      "end": 1299.583,
+      "text": "You might be wondering:"
+    },
+    {
+      "start": 1299.65,
+      "end": 1303.8,
+      "text": "“Derek, but isn't this the environment montage you railed against?”"
+    },
+    {
+      "start": 1304,
+      "end": 1305.95,
+      "text": "Yes, but it's Nintendo."
+    },
+    {
+      "start": 1306.016,
+      "end": 1307.916,
+      "text": "And as soon as we knew it was a Mario game..."
+    },
+    {
+      "start": 1307.983,
+      "end": 1312.7,
+      "text": "our heads filled with everything we knew from years of playing Mario games."
+    },
+    {
+      "start": 1312.95,
+      "end": 1316.7,
+      "text": "This is prior knowledge people have for popular Nintendo games,"
+    },
+    {
+      "start": 1316.866,
+      "end": 1321.066,
+      "text": "but won't have for a new indie game from a studio they've never heard of."
+    },
+    {
+      "start": 1321.2,
+      "end": 1325.166,
+      "text": "So now the message is: a new core 3D Mario game."
+    },
+    {
+      "start": 1325.366,
+      "end": 1329.85,
+      "text": "The next section is all about Cappy— the new thing or hook in Mario Odyssey."
+    },
+    {
+      "start": 1330.183,
+      "end": 1331.5,
+      "text": "You can use Cappy to do things"
+    },
+    {
+      "start": 1331.5,
+      "end": 1334.433,
+      "text": "similar to previous games, but in a slightly different way."
+    },
+    {
+      "start": 1334.5,
+      "end": 1336.6,
+      "text": "You can use Cappy to attack enemies"
+    },
+    {
+      "start": 1336.666,
+      "end": 1339.116,
+      "text": "and enhance your jumping and traversal abilities."
+    },
+    {
+      "start": 1339.183,
+      "end": 1341.516,
+      "text": "If this were the only thing to show about Cappy,"
+    },
+    {
+      "start": 1341.583,
+      "end": 1344.083,
+      "text": "this pitch wouldn't be a huge change to the formula."
+    },
+    {
+      "start": 1344.15,
+      "end": 1348.25,
+      "text": "But the next 30 seconds show the real hook of Mario Odyssey."
+    },
+    {
+      "start": 1348.583,
+      "end": 1352.3,
+      "text": "Mario can possess enemies by throwing Cappy onto them."
+    },
+    {
+      "start": 1352.566,
+      "end": 1357.383,
+      "text": "The first depiction of this is in the cutscene of Mario throwing Cappy and possessing a frog."
+    },
+    {
+      "start": 1357.45,
+      "end": 1361.45,
+      "text": "The trailer takes its time, making this concept VERY CLEAR."
+    },
+    {
+      "start": 1361.633,
+      "end": 1365.216,
+      "text": "After the frog cutscene, Mario jumps into many different enemies..."
+    },
+    {
+      "start": 1365.283,
+      "end": 1371.633,
+      "text": "like a Goomba, Koopa, Bullet Bill, rocket, cannon, robot, and a Cheep Cheep."
+    },
+    {
+      "start": 1371.816,
+      "end": 1374.766,
+      "text": "With this section, the verbal pitch has become:"
+    },
+    {
+      "start": 1374.833,
+      "end": 1378.916,
+      "text": "This is a new core 3D Mario game where Mario has a cap he can use to:"
+    },
+    {
+      "start": 1378.983,
+      "end": 1382.483,
+      "text": "traverse, attack, possess, and use the abilities of enemies..."
+    },
+    {
+      "start": 1382.55,
+      "end": 1387.083,
+      "text": "like Goombas, Koopas, Bullet Bills, rockets, cannons, robots, and Cheep Cheeps."
+    },
+    {
+      "start": 1387.233,
+      "end": 1392.2,
+      "text": "After this section, the trailer switches to a montage of: cutscenes, boss battles, and costumes."
+    },
+    {
+      "start": 1392.266,
+      "end": 1395.433,
+      "text": "Soon after, it goes back to show more things Mario can possess,"
+    },
+    {
+      "start": 1395.5,
+      "end": 1400.266,
+      "text": "like Chain Chomps, taxicabs, and Moai heads, other humans and tanks."
+    },
+    {
+      "start": 1400.783,
+      "end": 1404.566,
+      "text": "Then it comes full circle with Mario possessing the T-Rex from the open."
+    },
+    {
+      "start": 1406.216,
+      "end": 1411.05,
+      "text": "This is a great trailer which shows a lot, but is very focused."
+    },
+    {
+      "start": 1411.083,
+      "end": 1415.066,
+      "text": "even with the end montage the only thing I'd add to the verbal pitch is:"
+    },
+    {
+      "start": 1415.1,
+      "end": 1419.4,
+      "text": "Just like other core Mario games, there are boss battles and tons of collectibles."
+    },
+    {
+      "start": 1419.466,
+      "end": 1421.75,
+      "text": "Now, for games which don't have a very strong hook,"
+    },
+    {
+      "start": 1421.816,
+      "end": 1427.283,
+      "text": "I find that including the goal of the game or story makes the pitch much stronger."
+    },
+    {
+      "start": 1427.35,
+      "end": 1432.083,
+      "text": "Another common mistake I see are trailers which focus on what you do in the game..."
+    },
+    {
+      "start": 1432.15,
+      "end": 1434.2,
+      "text": "but not what you're trying to achieve."
+    },
+    {
+      "start": 1434.283,
+      "end": 1438.183,
+      "text": "The goal doesn't have to be big or meaningful, it just has to be there."
+    },
+    {
+      "start": 1438.25,
+      "end": 1441.266,
+      "text": "So we know what the game mechanics are working towards."
+    },
+    {
+      "start": 1441.483,
+      "end": 1446.1,
+      "text": "It could be: save the princess, or make number go big as possible."
+    },
+    {
+      "start": 1446.166,
+      "end": 1450.383,
+      "text": "Without a goal, game mechanics can feel like a solution in search of a problem,"
+    },
+    {
+      "start": 1450.6,
+      "end": 1452.483,
+      "text": "but if you know the problem you're trying to solve,"
+    },
+    {
+      "start": 1452.55,
+      "end": 1455.733,
+      "text": "the mechanics and tools at your disposal take on new meaning."
+    },
+    {
+      "start": 1455.8,
+      "end": 1459.216,
+      "text": "Imagine I showed you a hammer and talked about its features."
+    },
+    {
+      "start": 1459.3,
+      "end": 1461.333,
+      "text": "How would you view that hammer..."
+    },
+    {
+      "start": 1461.4,
+      "end": 1464.533,
+      "text": "and how would your motivation to use that hammer change..."
+    },
+    {
+      "start": 1464.683,
+      "end": 1466.05,
+      "text": "If the goal was:"
+    },
+    {
+      "start": 1466.116,
+      "end": 1467.433,
+      "text": "Build a cozy house."
+    },
+    {
+      "start": 1467.5,
+      "end": 1468.9,
+      "text": "Play a rhythm game."
+    },
+    {
+      "start": 1468.966,
+      "end": 1471.033,
+      "text": "Beat up a bunch of thugs trying to kill you."
+    },
+    {
+      "start": 1477.2,
+      "end": 1480.65,
+      "text": "As an example, let's look at the announce trailer for the game Dosa Divas."
+    },
+    {
+      "start": 1480.916,
+      "end": 1484.066,
+      "text": "I consulted on this trailer and here's the first draft I received"
+    },
+    {
+      "start": 1549.75,
+      "end": 1551.716,
+      "text": "Here where the main problems I saw:"
+    },
+    {
+      "start": 1551.783,
+      "end": 1554.75,
+      "text": "I don't understand the goal of the game or the characters."
+    },
+    {
+      "start": 1554.816,
+      "end": 1558.383,
+      "text": "I don't understand the relationship of the protagonists and antagonist..."
+    },
+    {
+      "start": 1558.45,
+      "end": 1560.433,
+      "text": "enough to be emotionally invested."
+    },
+    {
+      "start": 1560.533,
+      "end": 1564.35,
+      "text": "I don't understand how the gameplay mechanics feed into the story"
+    },
+    {
+      "start": 1564.416,
+      "end": 1565.666,
+      "text": "and the player's goals."
+    },
+    {
+      "start": 1565.733,
+      "end": 1569.5,
+      "text": "I asked Chandana Ekanayake, the creative director at Outer Loop Games..."
+    },
+    {
+      "start": 1569.516,
+      "end": 1573.133,
+      "text": "what is a game loop and how does it connect to the story?"
+    },
+    {
+      "start": 1573.733,
+      "end": 1575.583,
+      "text": "Here's a summary of what he said:"
+    },
+    {
+      "start": 1575.65,
+      "end": 1578.05,
+      "text": "Amani, Samara and Lina are sisters."
+    },
+    {
+      "start": 1578.116,
+      "end": 1582.916,
+      "text": "Amani and Samara had a falling out with Lina, who later created a vast fast food empire."
+    },
+    {
+      "start": 1582.983,
+      "end": 1586.15,
+      "text": "Her food is heavily processed, and not nourishing to the soul..."
+    },
+    {
+      "start": 1586.15,
+      "end": 1588.1,
+      "text": "in the way traditional home cooked food can be."
+    },
+    {
+      "start": 1588.416,
+      "end": 1592.683,
+      "text": "They want you to take down Lina's fast food empire and possibly reconcile with her"
+    },
+    {
+      "start": 1592.7,
+      "end": 1595.7,
+      "text": "To do that, they travel village to village in their food mech."
+    },
+    {
+      "start": 1595.766,
+      "end": 1597.416,
+      "text": "Before Lina's food spread through the world..."
+    },
+    {
+      "start": 1597.483,
+      "end": 1601.833,
+      "text": "Each village in their past had a specialty regional South Asian cuisine."
+    },
+    {
+      "start": 1602.133,
+      "end": 1605.95,
+      "text": "The villagers are now malnourished and weak, so Amani and Samara cook for them."
+    },
+    {
+      "start": 1606.016,
+      "end": 1607.666,
+      "text": "remind them what good food is,"
+    },
+    {
+      "start": 1607.733,
+      "end": 1610.95,
+      "text": "reconnect them with their culture, and restore them to life."
+    },
+    {
+      "start": 1611.283,
+      "end": 1613.533,
+      "text": "Once restored, the villagers are able to..."
+    },
+    {
+      "start": 1613.616,
+      "end": 1618.616,
+      "text": "help Amani and Samara progress in their quest to defeat and reconcile with Lina."
+    },
+    {
+      "start": 1618.8,
+      "end": 1622.133,
+      "text": "Here are the most key solutions I proposed:"
+    },
+    {
+      "start": 1622.233,
+      "end": 1626.783,
+      "text": "Lina and her fast food empire need to be a much clearer antagonist."
+    },
+    {
+      "start": 1627.233,
+      "end": 1632.266,
+      "text": "Their goal of taking down Lina's fast food empire needs to be much more explicit."
+    },
+    {
+      "start": 1632.65,
+      "end": 1636.433,
+      "text": "and clarify how the player restores villagers,"
+    },
+    {
+      "start": 1636.683,
+      "end": 1639.916,
+      "text": "removes Lina's influence, and the villagers help out."
+    },
+    {
+      "start": 1640.083,
+      "end": 1642.35,
+      "text": "Now take a look at the final announce trailer."
+    },
+    {
+      "start": 1643.716,
+      "end": 1646.6,
+      "text": "♪ LinaMeals, LinaMeals! ♪"
+    },
+    {
+      "start": 1646.633,
+      "end": 1649.683,
+      "text": "♪ No time to waste, don’t worry about taste. ♪♪"
+    },
+    {
+      "start": 1714.166,
+      "end": 1715.066,
+      "text": "Big difference, right?"
+    },
+    {
+      "start": 1715.133,
+      "end": 1715.783,
+      "text": "I think so."
+    },
+    {
+      "start": 1715.85,
+      "end": 1718.133,
+      "text": "I mean, of course I think so. I was the consultant."
+    },
+    {
+      "start": 1718.2,
+      "end": 1721.05,
+      "text": "So let's go back to the pitch template from Jonas's video."
+    },
+    {
+      "start": 1721.116,
+      "end": 1725.266,
+      "text": "[NAME] is a [GENRE] game about [FANTASY]"
+    },
+    {
+      "start": 1725.683,
+      "end": 1728.233,
+      "text": "you [VERBS + USP]"
+    },
+    {
+      "start": 1728.3,
+      "end": 1732.35,
+      "text": "This is a good start, but a trailer needs to show more than the basic game loop."
+    },
+    {
+      "start": 1732.583,
+      "end": 1734.266,
+      "text": "It needs some twists and turns"
+    },
+    {
+      "start": 1734.266,
+      "end": 1737.266,
+      "text": "which explore the fantasy, the goal, and the things you do."
+    },
+    {
+      "start": 1737.483,
+      "end": 1740.683,
+      "text": "Here's an expanded version for the purposes of making a trailer."
+    },
+    {
+      "start": 1740.816,
+      "end": 1743.116,
+      "text": "[NAME] is a [GENRE] game about [FANTASY]."
+    },
+    {
+      "start": 1743.183,
+      "end": 1744.7,
+      "text": "You [VERBS + USP]."
+    },
+    {
+      "start": 1744.766,
+      "end": 1749.283,
+      "text": "[COMPLICATIONS] force you to [VERBS] in order to [GOAL]"
+    },
+    {
+      "start": 1749.683,
+      "end": 1751.866,
+      "text": "Using this Dosa Diva's pitch is."
+    },
+    {
+      "start": 1751.933,
+      "end": 1756.966,
+      "text": "Dosa Divas is a turn based RPG game about two sisters piloting a food mech."
+    },
+    {
+      "start": 1757.116,
+      "end": 1759.066,
+      "text": "You cook delicious meals, fight corpos,"
+    },
+    {
+      "start": 1759.125,
+      "end": 1761.15,
+      "text": "build your reputation with local communities,"
+    },
+    {
+      "start": 1761.216,
+      "end": 1762.75,
+      "text": "and reconcile with loved ones."
+    },
+    {
+      "start": 1762.816,
+      "end": 1765.1,
+      "text": "Rocky relationships, friendships, and new enemies..."
+    },
+    {
+      "start": 1765.166,
+      "end": 1767.583,
+      "text": "force you to learn new recipes and get new tools..."
+    },
+    {
+      "start": 1767.65,
+      "end": 1770.7,
+      "text": "in order to take down your sister's fast food empire."
+    },
+    {
+      "start": 1770.766,
+      "end": 1772,
+      "text": "That's pretty much the basics"
+    },
+    {
+      "start": 1772.066,
+      "end": 1776.25,
+      "text": "of how to structure most game trailers, at the very least for a first draft."
+    },
+    {
+      "start": 1776.75,
+      "end": 1779.933,
+      "text": "Once you put footage into a timeline, things can change a lot,"
+    },
+    {
+      "start": 1780,
+      "end": 1782.266,
+      "text": "but the most important thing..."
+    },
+    {
+      "start": 1782.333,
+      "end": 1785.066,
+      "text": "is to put the information in a comprehensible order..."
+    },
+    {
+      "start": 1785.133,
+      "end": 1787.766,
+      "text": "so the trailer is clear as possible."
+    },
+    {
+      "start": 1788.1,
+      "end": 1791.066,
+      "text": "All the stylistic things you think of from trailers like:"
+    },
+    {
+      "start": 1791.133,
+      "end": 1795.616,
+      "text": "Match cuts, motion graphics, cuts to black, and sound effects are for polish."
+    },
+    {
+      "start": 1795.916,
+      "end": 1799.5,
+      "text": "By the way, here's a look at how much time the trailer should dedicate"
+    },
+    {
+      "start": 1799.566,
+      "end": 1803.366,
+      "text": "to establishing the genre by showing some player controlled gameplay."
+    },
+    {
+      "start": 1804.75,
+      "end": 1808.45,
+      "text": "That's it! I said: AS SOON AS POSSIBLE."
+    },
+    {
+      "start": 1808.533,
+      "end": 1811.65,
+      "text": "This next chunk is where you show the hook and what you do in the game,"
+    },
+    {
+      "start": 1811.966,
+      "end": 1815.1,
+      "text": "and here's where you explore twists and turns on the hook."
+    },
+    {
+      "start": 1815.183,
+      "end": 1817.85,
+      "text": "What you do at the end of the trailer is up to you."
+    },
+    {
+      "start": 1817.916,
+      "end": 1821.033,
+      "text": "Once your trailer has a solid foundation showing what the game is..."
+    },
+    {
+      "start": 1821.1,
+      "end": 1825.033,
+      "text": "you can be more loosey goosey with what shots appear and in what order..."
+    },
+    {
+      "start": 1825.1,
+      "end": 1826.333,
+      "text": "at the very end of the trailer."
+    },
+    {
+      "start": 1826.4,
+      "end": 1828.85,
+      "text": "if the audience has a good understanding of the game..."
+    },
+    {
+      "start": 1828.916,
+      "end": 1831.516,
+      "text": "they're equipped to assume how the images fit."
+    },
+    {
+      "start": 1831.666,
+      "end": 1835.766,
+      "text": "The end is also where MAYBE you spend a bit of time showing costumes..."
+    },
+    {
+      "start": 1835.766,
+      "end": 1837.733,
+      "text": "and non gameplay affecting cosmetics."
+    },
+    {
+      "start": 1837.8,
+      "end": 1840.166,
+      "text": "And of course you need the title and call to action."
+    },
+    {
+      "start": 1840.233,
+      "end": 1842.883,
+      "text": "Just whatever you do,"
+    },
+    {
+      "start": 1842.95,
+      "end": 1846,
+      "text": "don't frontload the trailer showing only the anchors—"
+    },
+    {
+      "start": 1846.066,
+      "end": 1848.266,
+      "text": "things your game has in common with other games."
+    },
+    {
+      "start": 1848.35,
+      "end": 1850.216,
+      "text": "Only worry about anchors."
+    },
+    {
+      "start": 1850.283,
+      "end": 1852.116,
+      "text": "If your hypothetical Chinese restaurant"
+    },
+    {
+      "start": 1852.116,
+      "end": 1855.083,
+      "text": "looks like it doesn't have the basic staples of the genre,"
+    },
+    {
+      "start": 1855.15,
+      "end": 1859.333,
+      "text": "and if that's the case, try to pepper in some anchors where it makes sense,"
+    },
+    {
+      "start": 1859.4,
+      "end": 1861.733,
+      "text": "but still focus on the hooks."
+    },
+    {
+      "start": 1861.8,
+      "end": 1863.433,
+      "text": "To help build your video editing timeline..."
+    },
+    {
+      "start": 1863.5,
+      "end": 1866.5,
+      "text": "next, watch my video about starting a game trailer."
+    },
+    {
+      "start": 1866.566,
+      "end": 1867.333,
+      "text": "Good luck!"
+    }
+  ]
+}

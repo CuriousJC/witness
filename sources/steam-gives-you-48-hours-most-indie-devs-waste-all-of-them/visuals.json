@@ -1,0 +1,93 @@
+{
+  "videoId": "TvYvhw5B5xk",
+  "frames": [
+    {
+      "time": 110,
+      "file": "frames/frame-00-01-50.jpg",
+      "observations": [
+        "The screen displays a GameDiscoverCo article describing New & Trending as a flag generally decided shortly after release, country-specific, and shown in chronological release order. The article labels its understanding semi-verified rather than an official Valve specification."
+      ],
+      "alt": "The screen displays a GameDiscoverCo article describing New & Trending as a flag generally decided shortly after release, country-specific, and shown in chronological release order. The article labels its understanding semi-verified rather than an official Valve specification."
+    },
+    {
+      "time": 165,
+      "file": "frames/frame-00-02-45.jpg",
+      "observations": [
+        "The screen displays the heading of the GameDiscoverCo Week 1 sales article and an illustrated game image. The 21.8 multiplier itself is not visible at this selected instant."
+      ],
+      "alt": "The screen displays the heading of the GameDiscoverCo Week 1 sales article and an illustrated game image. The 21.8 multiplier itself is not visible at this selected instant."
+    },
+    {
+      "time": 220,
+      "file": "frames/frame-00-03-40.jpg",
+      "observations": [
+        "The presenter is visible beside a partially appearing two-week cooldown text graphic. This is not a Steamworks settings screen or proof that a particular campaign was suppressed."
+      ],
+      "alt": "The presenter is visible beside a partially appearing two-week cooldown text graphic. This is not a Steamworks settings screen or proof that a particular campaign was suppressed."
+    },
+    {
+      "time": 315,
+      "file": "frames/frame-00-05-15.jpg",
+      "observations": [
+        "A Presskit.gg article lists common mistakes, including manual demo-notification activation and seasonal-sale notification issues. The 10,000-wishlist arithmetic is not visible in this frame."
+      ],
+      "alt": "A Presskit.gg article lists common mistakes, including manual demo-notification activation and seasonal-sale notification issues. The 10,000-wishlist arithmetic is not visible in this frame."
+    },
+    {
+      "time": 355,
+      "file": "frames/frame-00-05-55.jpg",
+      "observations": [
+        "The frame shows the presenter speaking. It contains no Planet Centauri email report or evidence of the reported platform bug."
+      ],
+      "alt": "The frame shows the presenter speaking. It contains no Planet Centauri email report or evidence of the reported platform bug."
+    },
+    {
+      "time": 440,
+      "file": "frames/frame-00-07-20.jpg",
+      "observations": [
+        "The frame contains an illustration of hands typing at a keyboard. It supplies no traffic or concurrent-player measurements."
+      ],
+      "alt": "The frame contains an illustration of hands typing at a keyboard. It supplies no traffic or concurrent-player measurements."
+    },
+    {
+      "time": 510,
+      "file": "frames/frame-00-08-30.jpg",
+      "observations": [
+        "The table is labeled March 2025: top 50 releases by copies sold. The median row shows 3.50 days for all games, 2.50 for no pre-order, and 4.00 for pre-order; the average row is 5.90, 6.30, and 4.40. The table distinguishes populations and medians from averages."
+      ],
+      "alt": "March 2025 top-50 release table: median days to peak concurrent players are 3.5 overall, 2.5 without pre-orders, and 4 with pre-orders."
+    },
+    {
+      "time": 585,
+      "file": "frames/frame-00-09-45.jpg",
+      "observations": [
+        "The displayed older wishlist article says 7,000–12,000 net wishlists makes Popular Upcoming likely though not certain. The quoted estimate is not a guaranteed platform threshold."
+      ],
+      "alt": "The displayed older wishlist article says 7,000–12,000 net wishlists makes Popular Upcoming likely though not certain. The quoted estimate is not a guaranteed platform threshold."
+    },
+    {
+      "time": 665,
+      "file": "frames/frame-00-11-05.jpg",
+      "observations": [
+        "The screen shows a SteamDB sale/event calendar with a 2026 summer-sale countdown. It is a recorded calendar view, not the current calendar at the time of this reading."
+      ],
+      "alt": "The screen shows a SteamDB sale/event calendar with a 2026 summer-sale countdown. It is a recorded calendar view, not the current calendar at the time of this reading."
+    },
+    {
+      "time": 745,
+      "file": "frames/frame-00-12-25.jpg",
+      "observations": [
+        "The checklist graphic names item 2, the traffic coordination brief. It does not display the entire five-item checklist at this instant."
+      ],
+      "alt": "The checklist graphic names item 2, the traffic coordination brief. It does not display the entire five-item checklist at this instant."
+    },
+    {
+      "time": 865,
+      "file": "frames/frame-00-14-25.jpg",
+      "observations": [
+        "The QUDO promotional segment shows its game website with a registration form. No before-and-after Steam launch outcome or independent effectiveness measurement is visible."
+      ],
+      "alt": "The QUDO promotional segment shows its game website with a registration form. No before-and-after Steam launch outcome or independent effectiveness measurement is visible."
+    }
+  ]
+}
